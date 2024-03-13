@@ -1,0 +1,142 @@
+{
+  "root": {
+    "content": {
+      "espotcontent": {
+        "image_with_overlay2_": {
+          "overlayImage": {
+            "_cq:lastRolledout": "{Date}2023-11-20T22:40:40.285Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/24S%5FGE%5FHoliday%5FLaunch%2DDeliverables%5FBlackFriday%5FPromo%5FPLPBannerImage%5FDesktop?",
+            "_mobileImageUrl": "https://images.altrarunning.com/is/image/altra/24S%5FGE%5FHoliday%5FLaunch%2DDeliverables%5FBlackFriday%5FPromo%5FPLPBannerImage%5FMobile?"
+          },
+          "image": {
+            "_cq:lastRolledout": "{Date}2023-11-20T22:40:40.287Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_autoCalcSize": "autosize"
+          },
+          "link": {
+            "_cq:lastRolledout": "{Date}2023-11-20T22:40:40.288Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured"
+          },
+          "overlay": {
+            "content": {
+              "alignment": {
+                "_cq:lastRolledout": "{Date}2023-11-20T22:40:40.327Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_small": "small-text-left"
+              },
+              "_cq:lastRolledout": "{Date}2023-11-20T22:40:40.323Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_color": "#FFFFFF",
+              "_headingLevel": "h1",
+              "_subheadingLevel": "h1"
+            },
+            "position": {
+              "_cq:lastRolledout": "{Date}2023-11-20T22:40:40.328Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured"
+            },
+            "width": {
+              "_cq:lastRolledout": "{Date}2023-11-20T22:40:40.330Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_small": "small-4"
+            },
+            "gradient": {
+              "_cq:lastRolledout": "{Date}2023-11-20T22:40:40.331Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured"
+            },
+            "_cq:lastRolledout": "{Date}2023-11-20T22:40:40.313Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured"
+          },
+          "cta1": {
+            "_cq:lastRolledout": "{Date}2023-11-20T22:40:40.332Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured"
+          },
+          "cta2": {
+            "_cq:lastRolledout": "{Date}2023-11-20T22:40:40.332Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured"
+          },
+          "overlaidimage": {
+            "position": {
+              "_cq:lastRolledout": "{Date}2023-11-20T22:40:40.350Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured"
+            },
+            "width": {
+              "_cq:lastRolledout": "{Date}2023-11-20T22:40:40.352Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_small": "small-4"
+            },
+            "_cq:lastRolledout": "{Date}2023-11-20T22:40:40.345Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured"
+          },
+          "_cq:lastRolledout": "{Date}2023-11-20T22:40:40.270Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2023-11-17T15:15:08.785Z",
+          "_jcr:createdBy": "evan_lynch@vfc.com",
+          "_jcr:lastModified": "{Date}2023-11-20T22:40:40.221Z",
+          "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay2",
+          "_float": "none"
+        },
+        "_cq:lastRolledout": "{Date}2023-11-20T22:40:40.218Z",
+        "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2023-11-20T22:40:40.351Z",
+      "_cq:lastModifiedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicated": "{Date}2023-11-24T09:08:01.207Z",
+      "_cq:lastReplicatedBy": "workflow-process-service",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2023-11-20T22:40:40.352Z",
+      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/espot-integration",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "black_friday_sale",
+      "_jcr:uuid": "af255968-fd64-4d7f-924e-c072836c6bde",
+      "_sling:resourceType": "vfcorp/components/global/page/espot-integration",
+      "_rowFullBleed": "true",
+      "_smallScreenSize": "1",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

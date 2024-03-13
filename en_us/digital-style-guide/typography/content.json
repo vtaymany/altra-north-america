@@ -1,0 +1,75 @@
+{
+  "root": {
+    "content": {
+      "image": {
+        "_cq:lastRolledout": "{Date}2020-11-30T16:09:07.454Z",
+        "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+        "_jcr:lastModified": "{Date}2020-11-30T16:09:07.452Z",
+        "_jcr:lastModifiedBy": "ankur_patel",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_imageRotate": "0"
+      },
+      "content": {
+        "secondarynav_dede": {
+          "_cq:lastRolledout": "{Date}2020-11-30T16:09:07.463Z",
+          "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+          "_jcr:created": "{Date}2017-07-11T13:43:03.061-04:00",
+          "_jcr:createdBy": "becky.horvath@rosetta.com",
+          "_jcr:lastModified": "{Date}2020-11-30T16:09:07.460Z",
+          "_jcr:lastModifiedBy": "becky.horvath@rosetta.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/secondarynav",
+          "_layout": "horizontal",
+          "_rootPath": "/content/vfcorp/altra/north-america/en_us/digital-style-guide"
+        },
+        "customhtml": {
+          "_cq:lastRolledout": "{Date}2020-11-30T16:09:07.466Z",
+          "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+          "_jcr:created": "{Date}2015-01-29T13:57:54.743-05:00",
+          "_jcr:createdBy": "anthony.mclin",
+          "_jcr:lastModified": "{Date}2020-11-30T16:09:07.464Z",
+          "_jcr:lastModifiedBy": "anthony.mclin",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+          "_bottomgarnishclass": "feature-footing",
+          "_customHTML": "\t\t<div class=\"row\">\n\t\t\t<div class=\"large-12 columns\">\n\t\t\t\t<h1>Typography</h1>\n\t\t\t\t<p>This page can be resized to see responsive states. Baseline typography is handled using Foundation. See <a href=\"http://foundation.zurb.com/docs/v/4.3.2/components/type.html\" target=\"_blank\">http://foundation.zurb.com/docs/v/4.3.2/components/type.html</a> for more details.\n\t\t\t\t</p>\n\t\t\t</div>\n\t\t</div>\n\t\t<hr>\n\t\t<div class=\"row\">\n\t\t\t<div class=\"large-12 columns\">\n\t\t\t\t<h2>Headlines</h2>\n\t\t\t\t<p><strong>Note:</strong> Headlines throughout the site should follow SEO and semantic best practices. The subheader class is used for styling variation without affecting SEO hierarchy.</p>\n\t\t\t</div>\n\t\t</div>\n\t\t<div class=\"row\">\n\t\t\t<div class=\"large-6 columns\">\n\t\t\t\t<strong>&lt;h1&gt;</strong><br>\n\t\t\t\t<h1>\n\t\t\t\t\tHeadline 1\n\t\t\t\t</h1>\n\t\t\t\t<strong>&lt;h1 class=\"subheader\"&gt;</strong><br>\n\t\t\t\t<h1 class=\"subheader\">\n\t\t\t\t\tHeadline 1 subheader\n\t\t\t\t</h1>\n\t\t\t\tUsed exclusively for page titles.\n\t\t\t\t<hr>\n\t\t\t\t<strong>&lt;h2&gt;</strong><br>\n\t\t\t\t<h2>\n\t\t\t\t\tHeadline 2\n\t\t\t\t</h2>\n\t\t\t\t<strong>&lt;h1 class=\"subheader\"&gt;</strong><br>\n\t\t\t\t<h2 class=\"subheader\">\n\t\t\t\t\tHeadline 2 subheader\n\t\t\t\t</h2>\n\t\t\t\tUsed exclusively for page-level secondary headings.\n\t\t\t\t<hr>\n\t\t\t\t<strong>&lt;h3&gt;</strong><br>\n\t\t\t\t<h3>\n\t\t\t\t\tHeadline 3\n\t\t\t\t</h3>\n\t\t\t\t<strong>&lt;h3 class=\"subheader\"&gt;</strong><br>\n\t\t\t\t<h3 class=\"subheader\">\n\t\t\t\t\tHeadline 3 subheader\n\t\t\t\t</h3>\n\t\t\t\tUsed for component-level headings.\n\t\t\t</div>\n\t\t\t<div class=\"large-6 columns\">\n\t\t\t\t<strong>&lt;h4&gt;</strong><br>\n\t\t\t\t<h4>\n\t\t\t\t\tHeadline 4\n\t\t\t\t</h4>\n\t\t\t\t<strong>&lt;h4 class=\"subheader\"&gt;</strong><br>\n\t\t\t\t<h4 class=\"subheader\">\n\t\t\t\t\tHeadline 4 subheader\n\t\t\t\t</h4>\n\t\t\t\tUsed for component-level secondary headings.\n\t\t\t\t<hr>\n\t\t\t\t<strong>&lt;h5&gt;</strong><br>\n\t\t\t\t<h5>\n\t\t\t\t\tHeadline 5\n\t\t\t\t</h5>\n\t\t\t\t<strong>&lt;h5 class=\"subheader\"&gt;</strong><br>\n\t\t\t\t<h5 class=\"subheader\">\n\t\t\t\t\tHeadline 5 subheader\n\t\t\t\t</h5>\n\t\t\t\tUsed for item-level headings within components (Article/Product teaser titles)\n\t\t\t\t<hr>\n\t\t\t\t<strong> &lt;h6&gt;</strong><br>\n\t\t\t\t<h6>\n\t\t\t\t\tHeadline 6\n\t\t\t\t</h6>\n\t\t\t\t<strong>&lt;h6 class=\"subheader\"&gt;</strong><br>\n\t\t\t\t<h6 class=\"subheader\">\n\t\t\t\t\tHeadline 6 subheader\n\t\t\t\t</h6>\n\t\t\t\tUsed for item-level secondary headings within components\n\t\t\t</div>\n\t\t</div>\n\t\t<hr>\n\t\t<div class=\"row\">\n\t\t\t<div class=\"large-12 columns\">\n\t\t\t\t<p>\n\t\t\t\t\t<strong>Paragraph text &lt;p&gt;:</strong><br> Phasellus porta,\n\t\t\t\t\trisus nunc ac cras turpis duis rhoncus mus lundium rhoncus sed\n\t\t\t\t\trisus, velit lorem, habitasse placerat tempor a scelerisque, odio\n\t\t\t\t\tin nisi, eros sed tristique? Cum non? Tincidunt? Et ridiculus pid\n\t\t\t\t\tpulvinar parturient proin sed adipiscing non eros vel enim, nisi,\n\t\t\t\t\tadipiscing, phasellus arcu dolor sit mattis, rhoncus in nunc, vel\n\t\t\t\t\tadipiscing, augue! Dolor! Cursus cras urna mauris! Mattis. Ultrices\n\t\t\t\t\tdignissim amet? Ac duis? Et enim placerat urna lacus phasellus, est\n\t\t\t\t\tnisi? Lorem phasellus porta placerat. Mattis nec odio pulvinar in\n\t\t\t\t\tmauris! Diam turpis vut dolor duis, ac. Nisi hac! In, enim lectus\n\t\t\t\t\tphasellus! Platea odio risus dolor elementum rhoncus lorem odio ac,\n\t\t\t\t\tduis, duis augue porta pellentesque porttitor magnis auctor\n\t\t\t\t\tparturient adipiscing odio cras lacus enim nunc.\n\t\t\t\t</p>\n\t\t\t\t<p>\n\t\t\t\t\tLundium magna nascetur tortor odio? Lorem tristique. Odio a? Nec\n\t\t\t\t\tsed? <a href=\"#\">link text</a> <em>Tristique, et tristique\n\t\t\t\t\t\todio, lundium velit porttitor tristique enim et augue enim tortor\n\t\t\t\t\t\tsit elementum aliquam.</em> Diam phasellus, adipiscing lectus integer\n\t\t\t\t\tplacerat, turpis ultricies natoque ridiculus magna natoque, duis\n\t\t\t\t\tpulvinar! Nec natoque dictumst arcu, urna dapibus, hac ultricies\n\t\t\t\t\tadipiscing ac integer nascetur lorem et duis sociis aliquet,\n\t\t\t\t\tinteger! Porta odio lorem et est purus, adipiscing porta enim in\n\t\t\t\t\tsociis pellentesque. Habitasse lacus magna adipiscing duis montes\n\t\t\t\t\todio ultrices cras, lacus aliquet! Dignissim? Porttitor mattis\n\t\t\t\t\ttincidunt in porttitor, elementum placerat placerat vel tristique.\n\t\t\t\t\tPorttitor dictumst nisi, augue adipiscing porttitor. Adipiscing\n\t\t\t\t\tinteger nec tristique! Scelerisque. Vel enim et sed elementum et\n\t\t\t\t\todio? Velit rhoncus! Enim odio sit, ac proin urna.\n\t\t\t\t</p>\n\t\t\t\t<p>\n\t\t\t\t\t<small><strong>Small text:</strong> Applied using the &lt;small&gt; tag.\n\t\t\t\t\tPhasellus porta, risus nunc ac cras\n\t\t\t\t\tturpis duis rhoncus mus lundium rhoncus sed risus, velit lorem,\n\t\t\t\t\thabitasse placerat tempor a scelerisque, odio in nisi, eros sed\n\t\t\t\t\ttristique?</small>\n\t\t\t\t</p>\n\t\t\t\t<p><strong>Bold text: Phasellus porta, risus nunc ac cras</strong></p>\n\t\t\t\t<p><em>Italicised text: Phasellus porta, risus nunc ac cras</em></p>\n\t\t\t\t<p><a href=\"http://example.com\" target=\"_blank\">Hyperlinked text</a></p>\n\t\t\t</div>\n\t\t</div>\n\t\t<div class=\"row\">\n\t\t\t<div class=\"large-12 columns\">\n\t\t\t\t<h4>Lists</h4>\n\t\t\t</div>\n\t\t\t<div class=\"large-6 columns\">\n\t\t\t\t<h5>Unordered (bulleted) list &lt;ul&gt;</h5>\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Phasellus porta, risus nunc ac &lt;li&gt;</li>\n\t\t\t\t\t<li>Porttitor rhoncus a? Pulvinar, rhoncus nisi turpis est scelerisque dignissim dolor eros, nisi rhoncus, a, vel, enim integer! </li>\n\t\t\t\t\t<li>Phasellus porta, risus nunc ac\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>Phasellus porta, risus nunc ac</li>\n\t\t\t\t\t\t\t<li>Phasellus porta, risus nunc ac</li>\n\t\t\t\t\t\t\t<li>Porttitor rhoncus a? Pulvinar, rhoncus nisi turpis est scelerisque dignissim dolor eros, nisi rhoncus, a, vel, enim integer! </li>\n\t\t\t\t\t\t\t<li>Phasellus porta, risus nunc ac</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>Phasellus porta, risus nunc ac</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t\t<div class=\"large-6 columns\">\n\t\t\t\t<h5>Ordered (numbered) list &lt;ol&gt;</h5>\n\t\t\t\t<ol>\n\t\t\t\t\t<li>Phasellus porta, risus nunc ac &lt;li&gt;</li>\n\t\t\t\t\t<li>Porttitor rhoncus a? Pulvinar, rhoncus nisi turpis est scelerisque dignissim dolor eros, nisi rhoncus, a, vel, enim integer! </li>\n\t\t\t\t\t<li>Phasellus porta, risus nunc ac\n\t\t\t\t\t\t<ol>\n\t\t\t\t\t\t\t<li>Phasellus porta, risus nunc ac</li>\n\t\t\t\t\t\t\t<li>Phasellus porta, risus nunc ac</li>\n\t\t\t\t\t\t\t<li>Porttitor rhoncus a? Pulvinar, rhoncus nisi turpis est scelerisque dignissim dolor eros, nisi rhoncus, a, vel, enim integer! </li>\n\t\t\t\t\t\t\t<li>Phasellus porta, risus nunc ac</li>\n\t\t\t\t\t\t</ol>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>Phasellus porta, risus nunc ac</li>\n\t\t\t\t</ol>\n\t\t\t</div>\n\t\t</div>\n\t\t<hr>\n\t\t<div class=\"row\">\n\t\t\t<div class=\"large-12 columns\">\n\t\t\t\t<h4>Horizontal Rules</h4>\n\t\t\t\t<p>Lines designed for breaks between paragraphs of text.</p>\n\t\t\t\t<h5>Default:</h5>\n\t\t\t\t<hr>\n\t\t\t</div>\n\t\t</div>\n\n\t\t<div class=\"row\">\n\t\t\t<div class=\"large-12 columns\">\n\t\t\t\t<h4>Blockquotes</h4>\n\t\t\t\t<blockquote>Longer form text quote with a source citation. Phasellus porta, risus nunc ac cras turpis duis rhoncus mus lundium rhoncus sed risus, velit lorem, habitasse placerat tempor a scelerisque, odio in nisi, eros sed tristique? Cum non? Tincidunt? Et ridiculus pid pulvinar parturient proin sed adipiscing non eros vel enim, nisi, adipiscing, phasellus arcu dolor sit mattis. <cite>Person cited with a &lt;cite&gt; tag at the end of the blockquote</cite>\n\t\t\t\t</blockquote>\n\t\t\t</div>\n\t\t</div>\n\t",
+          "_topgarnishclass": "feature-heading"
+        },
+        "_cq:lastRolledout": "{Date}2020-11-30T16:09:07.457Z",
+        "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2020-11-30T16:09:07.465Z",
+      "_cq:lastModifiedBy": "john.m.williams@rosetta.com",
+      "_cq:lastReplicated": "{Date}2018-10-23T15:42:44.428-04:00",
+      "_cq:lastReplicatedBy": "john.m.williams@rosetta.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2020-11-30T16:09:07.466Z",
+      "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "Typography",
+      "_jcr:uuid": "a7210151-8cf0-48e4-abb6-b99bc55de17f",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "_excludeFromSitemap": "true",
+      "_frequency": "monthly",
+      "_internalNavigation": "none",
+      "_priority": "0.5",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

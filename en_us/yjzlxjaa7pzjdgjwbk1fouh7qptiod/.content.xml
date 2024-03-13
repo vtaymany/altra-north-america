@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2021-01-28T21:46:58.398Z"
+        cq:lastModifiedBy="abbey_charles@vfc.com"
+        cq:lastReplicated="{Date}2021-01-28T21:47:05.123Z"
+        cq:lastReplicatedBy="abbey_charles@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2021-01-28T21:46:58.674Z"
+        cq:lastRolledoutBy="abbey_charles@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/customFile"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="yjzlxjaa7pzjdgjwbk1fouh7qptiod"
+        jcr:uuid="a4fc973c-70e9-4eea-a27d-d5f9e2a4760b"
+        sling:resourceType="vfcorp/components/global/page/customFile"
+        fileContents="yjzlxjaa7pzjdgjwbk1fouh7qptiod"/>
+</jcr:root>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2020-11-04T21:17:54.204Z"
+        cq:lastModifiedBy="abbey_charles@vfc.com"
+        cq:lastReplicated="{Date}2020-11-04T21:18:00.491Z"
+        cq:lastReplicatedBy="abbey_charles@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2020-11-04T21:17:54.206Z"
+        cq:lastRolledoutBy="abbey_charles@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/espot-integration"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="shop_women-bottom"
+        jcr:uuid="04008427-4c32-41fb-b4b4-c03493aac098"
+        sling:resourceType="vfcorp/components/global/page/espot-integration"
+        rowFullBleed="true"
+        smallScreenSize="1">
+        <espotcontent
+            cq:lastRolledout="{Date}2020-11-04T21:17:54.198Z"
+            cq:lastRolledoutBy="abbey_charles@vfc.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <text_copy
+                cq:lastRolledout="{Date}2020-11-04T21:17:54.206Z"
+                cq:lastRolledoutBy="abbey_charles@vfc.com"
+                jcr:created="{Date}2020-11-04T20:08:25.143Z"
+                jcr:createdBy="abbey_charles@vfc.com"
+                jcr:lastModified="{Date}2020-11-04T21:17:54.202Z"
+                jcr:lastModifiedBy="abbey_charles@vfc.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/text"
+                text="&lt;h1>Women's Running Shoes&lt;/h1>&#xd;&#xa;&lt;h2>Women's All Terrain Athletic Shoes&lt;/h2>&#xd;&#xa;&lt;div> &lt;/div>&#xd;&#xa;&lt;p>Run your way with women's running shoes and accessories from Altra. Our performance running shoes are made for all terrains, whether you're heading to the gym, around the neighborhood, or out on your favorite trail. All of our running shoes feature a wide toe box, thanks to your Footshape technology. This means you can spread your toes for a more natural and comfortable stride. This, along with our Balanced Cushioning and gender specific design help encourage a healthy and comfortable form so you can keep going and push your limits. Explore our wide variety of options. You'll find shoes for long distance runs and races, short distance jogs, and cross training shoes.&lt;/p>&#xd;&#xa;&lt;p>Shop &lt;a href=&quot;https://www.altrarunning.com/shop/womens-shoes-trail&quot;>women's trail shoes&lt;/a> for off-road adventures, or pick up a pair of &lt;a href=&quot;https://www.altrarunning.com/shop/womens-shoes-road&quot;>road running shoes&lt;/a> for women and hit the streets for your next run.&lt;/p>&#xd;&#xa;"
+                textIsRich="true"/>
+        </espotcontent>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2021-07-23T20:35:19.106Z"
+        cq:lastModifiedBy="abbey_charles@vfc.com"
+        cq:lastRolledout="{Date}2021-07-23T20:35:19.110Z"
+        cq:lastRolledoutBy="abbey_charles@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/page-col-1"
+        jcr:mixinTypes="[cq:LiveRelationship]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="2021 Launches"
+        sling:resourceType="vfcorp/components/global/page/page-col-1"/>
+    <paradigm-6/>
+    <lone-peak-10-year-anniversary/>
+    <solstice-xt-2/>
+    <provision-6/>
+</jcr:root>

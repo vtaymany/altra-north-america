@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2020-11-06T17:35:36.362Z"
+        cq:lastModifiedBy="abbey_charles@vfc.com"
+        cq:lastReplicated="{Date}2020-11-06T17:35:54.683Z"
+        cq:lastReplicatedBy="abbey_charles@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2020-11-06T17:35:36.364Z"
+        cq:lastRolledoutBy="abbey_charles@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/espot-integration"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="shop_women_shoes_outdoor_adventure-bottom"
+        jcr:uuid="dd4bf54a-dd1d-411c-8182-9dc81435815b"
+        sling:resourceType="vfcorp/components/global/page/espot-integration"
+        pageTitle="shop_women_shoes_outdoor_adventure-bottom"
+        rowFullBleed="true"
+        smallScreenSize="1">
+        <espotcontent
+            cq:lastRolledout="{Date}2020-11-06T17:35:36.354Z"
+            cq:lastRolledoutBy="abbey_charles@vfc.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <text
+                cq:lastRolledout="{Date}2020-11-06T17:35:36.364Z"
+                cq:lastRolledoutBy="abbey_charles@vfc.com"
+                jcr:created="{Date}2020-11-06T17:33:22.094Z"
+                jcr:createdBy="abbey_charles@vfc.com"
+                jcr:lastModified="{Date}2020-11-06T17:35:29.270Z"
+                jcr:lastModifiedBy="abbey_charles@vfc.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/text"
+                text="&lt;h1>Women's Adventure Shoes &amp;amp; Trail Hiking Boots&lt;/h1>&#xd;&#xa;&lt;h2>Women's Outdoor Shoes &amp;amp; Boots for Hiking &amp;amp; Canyoneering&lt;/h2>&#xd;&#xa;&lt;div>&amp;nbsp;&lt;/div>&#xd;&#xa;&lt;p>Explore trailheads, crags, and more with Altra's collection of women's outdoor adventure shoes and boots. Crafted with the same stability and protection as your favorite &lt;a href=&quot;https://www.altrarunning.com/shop/womens-shoes-trail&quot;>women's trail runners&lt;/a>&amp;nbsp;and &lt;a href=&quot;https://www.altrarunning.com/shop/womens-shoes-road&quot;>road running shoes&lt;/a>, there is almost no limit to where you can take our versatile adventure shoes for women. Trail hiking boots like the Lone Peak Mid pack extreme durability and are ready to take on mile after mile of rugged terrain. All of our women's outdoor shoes feature our Balanced Cushioning, a wider Footshape toe box, and our Fit4Her technology, meaning we customize every women's shoe to the unique anatomy of the female foot.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Not finding what you're looking for? Try our &lt;a href=&quot;https://www.altrarunning.com/best-shoes-finder.html&quot;>shoe finder&lt;/a>&amp;nbsp;to match the perfect Altra shoe with your lifestyle.&lt;/p>&#xd;&#xa;"
+                textIsRich="true"/>
+        </espotcontent>
+    </jcr:content>
+</jcr:root>

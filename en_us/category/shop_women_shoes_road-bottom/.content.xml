@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2024-02-07T17:01:30.563Z"
+        cq:lastModifiedBy="evan_lynch@vfc.com"
+        cq:lastReplicated="{Date}2024-02-07T17:12:28.637Z"
+        cq:lastReplicatedBy="evan_lynch@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2024-02-07T17:01:30.568Z"
+        cq:lastRolledoutBy="evan_lynch@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/espot-integration"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="shop_women_shoes_road-bottom"
+        jcr:uuid="95daa32d-a324-4d0b-9d95-10155bb6949b"
+        sling:resourceType="vfcorp/components/global/page/espot-integration"
+        pageTitle="shop_women_shoes_road-bottom"
+        rowFullBleed="true"
+        smallScreenSize="1">
+        <espotcontent
+            cq:lastRolledout="{Date}2024-02-07T17:01:30.555Z"
+            cq:lastRolledoutBy="evan_lynch@vfc.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <text_280807964
+                cq:lastRolledout="{Date}2024-02-07T17:01:30.568Z"
+                cq:lastRolledoutBy="evan_lynch@vfc.com"
+                jcr:created="{Date}2021-03-15T16:54:14.790Z"
+                jcr:createdBy="abbey_charles@vfc.com"
+                jcr:lastModified="{Date}2024-02-07T17:01:30.561Z"
+                jcr:lastModifiedBy="evan_lynch@vfc.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/text"
+                marginBottom="bottom-margin-default"
+                marginTop="top-margin-default"
+                paddingBottom="bottom-pad-default"
+                paddingTop="top-pad-default"
+                text="&lt;h1>Women’s Road Running Shoes&lt;/h1>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;h2>Women’s Road Running Shoes 101&lt;/h2>&#xd;&#xa;&lt;p>Our women’s road running shoe collection has something for all types of runners. It’s the one piece of equipment you can’t skip on quality. Our low-impact shoes are perfect for all levels of runners, whether you are starting out or a regular racer. Altra’s selection of &lt;a href=&quot;https://www.altrarunning.com/shop/womens-shoes&quot;>running shoes for women&lt;/a> are designed for the individual &lt;a href=&quot;https://www.altrarunning.com/who-we-are/footshape.html&quot;>foot shape&lt;/a>, giving your feet the space to rest naturally while considering the biological differences between men’s and women’s feet.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>When buying road running shoes, look for shoes designed specifically for your preferred style of running. Also, consider the surface you usually run on, whether the road is rockier or smoother. Choose women’s road shoe designs for a range of unique fits to keep your feet in a natural position while decreasing overpronation and enhancing stability for better comfort. Altra has a range of women’s road running shoes to suit all distances and running abilities. Whether you’re looking for &lt;a href=&quot;https://www.altrarunning.com/shop/womens-shoes-trail&quot;>women’s trail running shoes&lt;/a>, &lt;a href=&quot;https://www.altrarunning.com/shop/womens-shoes-gym-training&quot;>women’s gym shoes&lt;/a>, or &lt;a href=&quot;https://www.altrarunning.com/shop/womens-shoes-walk&quot;>women’s walking shoes&lt;/a>, Altra has the shoes for you.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;h2>Breathable &amp;amp; Durable Women’s Road Running Shoes&lt;/h2>&#xd;&#xa;&lt;p>Getting the latest running shoes with plenty of cushioning support is imperative for intense outdoor runs. Choose the right shoes for your body size and type, style of running, and surface you run on. Also consider whether you are a heel striker or a forefoot striker. Altra shoes have Balanced Cushioning™ technology that helps runners achieve better alignment and running form while encouraging low-impact landing.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>If you want a road shoe with just the right amount of cushioning, look no further than the &lt;a href=&quot;https://www.altrarunning.com/shop/womens-shoes-road/womens-provision-8-al0a85p5&quot;>Women’s Provision 8 Road Running Shoe&lt;/a>. With mesh uppers that provide a breathable design and medial GuideRail™ technology for extra stability, this style delivers the comfort and style that endurance runners need for long-distance running. The &lt;a href=&quot;https://www.altrarunning.com/shop/womens-shoes-road/womens-vanish-carbon-al0a548f&quot;>Women’s Vanish Carbon Race Shoes&lt;/a> are the ultimate road racing shoe. With Altra EGO™ PRO midsole foam to cushion each stride and a carbon half-plate that naturally flexes your foot to provide added boost and propulsion, these sneakers make a great choice for speedy runners.&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Choose breathable road running shoes for women that keep your feet cool and dry with no uncomfortable pressure points caused by your shoes while running. Our women’s road running shoes are all designed for a natural fit to enhance comfort and performance, including lightweight and comfortable mesh fabric. The &lt;a href=&quot;https://www.altrarunning.com/shop/womens-shoes-road/womens-escalante-racer-alw193b3&quot;>Women’s Escalante Racer Road Racing Shoes&lt;/a> features a static mesh upper for a highly breathable pair of running shoes built for speed. Choose between black, blue, black and pink, or Colorado colors and various sizes with a standard &lt;a href=&quot;https://www.altrarunning.com/who-we-are/footshape.html&quot;>FootShape™ Fit&lt;/a>.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Try our recent addition, the &lt;a href=&quot;https://www.altrarunning.com/shop/new-arrivals/womens-altrafwd-experience-al0a82cj&quot;>Women’s AltraFWD Experience Road Running Shoes&lt;/a> for everyday wear. They feature a lightweight and compression-molded midsole foam, plus an engineered breathable mesh to enjoy an effortless and comfortable run.&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>A durable road running shoe is designed to last while providing support and a comfortable fit for peak running performance. Altra women’s running shoes are all designed with &lt;a href=&quot;https://www.altrarunning.com/who-we-are/the-altra-difference.html&quot;>Natural Fit&lt;/a> to meet the unique fits and differing widths from heel to toe of female runners. Choose the &lt;a href=&quot;https://www.altrarunning.com/shop/womens-shoes-road/womens-solstice-xt-2-al0a547y&quot;>Women’s Solstice XT 2 Gym Shoes&lt;/a> for a lightweight all-around workout and running shoe. It has a firmer caged upper, supporting lateral movements, and an athletic runner outsole, providing durability inside and out. If you are looking for comfort and performance, the &lt;a href=&quot;https://www.altrarunning.com/shop/womens-shoes-road/womens-via-olympus-2-al0a85nb&quot;>Women’s VIA Olympus 2 Road Running Shoes&lt;/a> are ideal. They feature a softer Altra EGO™ MAX midsole foam for a more luxurious cushion with stability and a rocker shape geometry for a snug, secure fit. Altra women’s road running shoes are made to last and go big on comfort so you can go big on miles.&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;h2>Go Further with Our Road Running Shoes for Women&lt;/h2>&#xd;&#xa;&lt;p>If you are a long-distance runner, you’ll usually need shoes with more cushioning and flexibility than shoes for sprints and short distances. The &lt;a href=&quot;https://www.altrarunning.com/shop/womens-shoes-road/womens-provision-8-al0a85p5&quot;>Women’s Provision 8 Road Running Shoe&lt;/a> provides a responsive cushion and Altra EGO™ MAX foam to harmonize the balance between responsiveness and comfort. It is ideal for long-distance runners looking for stability and cushioning. For a speedy sprinter and shorter distances, the &lt;a href=&quot;https://www.altrarunning.com/shop/womens-shoes-road/womens-escalante-racer-alw193b3&quot;>Women’s Escalante Racer Road Racing Shoe&lt;/a> is lightweight and offers Innerflex™ for better flexibility and movement. For more options, use the Altra Running shoe finder to &lt;a href=&quot;https://www.altrarunning.com/best-shoes-finder.html&quot;>find the right shoe&lt;/a> for you.&amp;nbsp;&lt;/p>&#xd;&#xa;"
+                textIsRich="true"/>
+        </espotcontent>
+    </jcr:content>
+</jcr:root>

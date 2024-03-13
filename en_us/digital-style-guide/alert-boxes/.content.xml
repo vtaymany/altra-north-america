@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2020-11-30T16:09:07.781Z"
+        cq:lastModifiedBy="john.m.williams@rosetta.com"
+        cq:lastReplicated="{Date}2018-10-23T15:42:44.428-04:00"
+        cq:lastReplicatedBy="john.m.williams@rosetta.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2020-11-30T16:09:07.782Z"
+        cq:lastRolledoutBy="john.m.williams@rosetta.com"
+        cq:template="/apps/vfcorp/templates/global/page-col-1"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Alert Boxes"
+        jcr:uuid="164059c3-d007-45fa-b74d-7407361cb013"
+        sling:resourceType="vfcorp/components/global/page/page-col-1"
+        excludeFromSitemap="true"
+        frequency="monthly"
+        internalNavigation="none"
+        priority="0.5">
+        <image
+            cq:lastRolledout="{Date}2020-11-30T16:09:07.771Z"
+            cq:lastRolledoutBy="john.m.williams@rosetta.com"
+            jcr:lastModified="{Date}2020-11-30T16:09:07.769Z"
+            jcr:lastModifiedBy="ankur_patel"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+        <content
+            cq:lastRolledout="{Date}2020-11-30T16:09:07.773Z"
+            cq:lastRolledoutBy="john.m.williams@rosetta.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <secondarynav_dc70
+                cq:lastRolledout="{Date}2020-11-30T16:09:07.779Z"
+                cq:lastRolledoutBy="john.m.williams@rosetta.com"
+                jcr:created="{Date}2017-07-11T13:50:28.589-04:00"
+                jcr:createdBy="becky.horvath@rosetta.com"
+                jcr:lastModified="{Date}2020-11-30T16:09:07.777Z"
+                jcr:lastModifiedBy="becky.horvath@rosetta.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/secondarynav"
+                layout="horizontal"
+                rootPath="/content/vfcorp/altra/north-america/en_us/digital-style-guide"/>
+            <customhtml
+                cq:lastRolledout="{Date}2020-11-30T16:09:07.782Z"
+                cq:lastRolledoutBy="john.m.williams@rosetta.com"
+                jcr:created="{Date}2015-02-03T19:36:45.209-05:00"
+                jcr:createdBy="anthony.mclin"
+                jcr:lastModified="{Date}2020-11-30T16:09:07.780Z"
+                jcr:lastModifiedBy="anthony.mclin@rosetta.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/customhtml2"
+                bottomgarnishclass="feature-footing"
+                customHTML="&lt;div class=&quot;row&quot;> &#xa; &lt;div class=&quot;large-12 columns&quot;> &#xa;  &lt;h1>Alert Boxes&lt;/h1> &#xa;  &lt;p>Alert boxes are styled using Foundation. They can be used to display success or error messages, and can be dismissed using a close button. They are often used in conjunction with &lt;a href=&quot;../forms.html&quot;>forms&lt;/a> but can be used independently.&lt;/p> &#xa;  &lt;p>For more information on supported markup for alert boxes, refer to&lt;br> &lt;a href=&quot;http://foundation.zurb.com/sites/docs/v/4.3.2/components/calloutes.html&quot;>http://foundation.zurb.com/sites/docs/v/4.3.2/components/calloutes.html&lt;/a>&lt;/p> &#xa;  &lt;p>&lt;/p>&#xa; &lt;/div> &#xa;&lt;/div> &#xa;&lt;hr> &#xa;&lt;div class=&quot;row&quot;> &#xa; &lt;div class=&quot;large-12 columns&quot;> &#xa;  &lt;h3>Alert Boxes&lt;/h3> &#xa;  &lt;div data-alert=&quot;&quot; class=&quot;callout&quot; data-closeable>&#xa;    This is a standard alert box (div.callout). &#xa;   &lt;a href=&quot;&quot; class=&quot;close&quot; data-close>×&lt;/a> &#xa;  &lt;/div> &#xa;  &lt;div data-alert=&quot;&quot; class=&quot;callout success&quot; data-closeable>&#xa;    This is a success alert box (div.callout.success). &#xa;   &lt;a href=&quot;&quot; class=&quot;close&quot; data-close>×&lt;/a> &#xa;  &lt;/div> &#xa;  &lt;div data-alert=&quot;&quot; class=&quot;callout alert&quot; data-closeable>&#xa;    This is an &quot;alert&quot; alert box (div.callout.alert). &#xa;   &lt;a href=&quot;&quot; class=&quot;close&quot; data-close>×&lt;/a> &#xa;  &lt;/div> &#xa;  &lt;div data-alert=&quot;&quot; class=&quot;callout alert radius&quot; data-closeable>&#xa;    This is an alert with radius corners (div.callout.alert.radius). &#xa;   &lt;a href=&quot;&quot; class=&quot;close&quot; data-close>×&lt;/a> &#xa;  &lt;/div> &#xa;  &lt;div data-alert=&quot;&quot; class=&quot;callout alert round&quot; data-closeable>&#xa;    This is an alert with rounded corners (div.callout.alert.round). &#xa;   &lt;a href=&quot;&quot; class=&quot;close&quot; data-close>×&lt;/a> &#xa;  &lt;/div> &#xa;  &lt;div data-alert=&quot;&quot; class=&quot;callout secondary&quot; data-closeable>&#xa;    This is a secondary alert box (div.callout.secondary). &#xa;   &lt;a href=&quot;&quot; class=&quot;close&quot; data-close>×&lt;/a> &#xa;  &lt;/div> &#xa;  &lt;hr> &#xa; &lt;/div> &#xa;&lt;/div>"
+                topgarnishclass="feature-heading"/>
+        </content>
+    </jcr:content>
+</jcr:root>

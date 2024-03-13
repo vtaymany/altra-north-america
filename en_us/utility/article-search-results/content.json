@@ -1,0 +1,57 @@
+{
+  "root": {
+    "content": {
+      "content": {
+        "searchresults": {
+          "_cq:lastRolledout": "{Date}2018-10-15T15:00:45.273-04:00",
+          "_cq:lastRolledoutBy": "keith.kretz@sapientrazorfish.com",
+          "_jcr:created": "{Date}2014-06-03T15:59:08.530-04:00",
+          "_jcr:createdBy": "casandra.stetz",
+          "_jcr:lastModified": "{Date}2018-10-15T15:00:45.260-04:00",
+          "_jcr:lastModifiedBy": "keith.kretz@sapientrazorfish.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/searchresults",
+          "_articlesText": "New, Info & Events",
+          "_bottomgarnishclass": "feature-footing",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_max": "8",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default",
+          "_searchContentPaths": "[/content/vfcorp/altra/north-america/en_us/blog,/content/vfcorp/altra/north-america/en_us/why-altra,/content/vfcorp/altra/north-america/en_us/altra-story,/content/vfcorp/altra/north-america/en_us/altra-guarantee]",
+          "_searchDisplay": "tabs",
+          "_topgarnishclass": "feature-heading"
+        },
+        "_cq:lastRolledout": "{Date}2018-10-15T15:00:45.252-04:00",
+        "_cq:lastRolledoutBy": "keith.kretz@sapientrazorfish.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2018-10-15T15:00:45.264-04:00",
+      "_cq:lastModifiedBy": "keith.kretz@sapientrazorfish.com",
+      "_cq:lastReplicated": "{Date}2018-10-23T15:42:44.984-04:00",
+      "_cq:lastReplicatedBy": "john.m.williams@rosetta.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2018-10-15T15:00:45.273-04:00",
+      "_cq:lastRolledoutBy": "keith.kretz@sapientrazorfish.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "Article Search Results",
+      "_jcr:uuid": "6892df8d-b8ea-49fa-8a18-bc302e570500",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "__prefix": "jcr"
+    },
+    "no-results": "",
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2023-04-06T21:55:41.265Z"
+        cq:lastModifiedBy="evan_lynch@vfc.com"
+        cq:lastReplicated="{Date}2023-04-06T21:56:15.990Z"
+        cq:lastReplicatedBy="evan_lynch@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2023-04-06T21:55:41.268Z"
+        cq:lastRolledoutBy="evan_lynch@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/espot-integration"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="shop_men_shoes_hiking-bottom"
+        jcr:uuid="decab548-8101-4d1e-9a31-3d8909ad3718"
+        sling:resourceType="vfcorp/components/global/page/espot-integration"
+        rowFullBleed="true"
+        smallScreenSize="1">
+        <espotcontent
+            cq:lastRolledout="{Date}2023-04-06T21:55:41.260Z"
+            cq:lastRolledoutBy="evan_lynch@vfc.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <text_copy_copy
+                cq:lastRolledout="{Date}2023-04-06T21:55:41.268Z"
+                cq:lastRolledoutBy="evan_lynch@vfc.com"
+                jcr:created="{Date}2020-11-04T20:36:53.494Z"
+                jcr:createdBy="abbey_charles@vfc.com"
+                jcr:lastModified="{Date}2023-04-06T21:55:41.264Z"
+                jcr:lastModifiedBy="evan_lynch@vfc.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/text"
+                marginBottom="bottom-margin-default"
+                marginTop="top-margin-default"
+                paddingBottom="bottom-pad-default"
+                paddingTop="top-pad-default"
+                text="&lt;h1>Men’s Hiking Shoes&lt;/h1>&#xd;&#xa;&lt;div>&amp;nbsp;&lt;/div>&#xd;&#xa;&lt;div>Hiking Shoes for Trails, Hikes and Adventure.&lt;/div>&#xd;&#xa;&lt;div>&amp;nbsp;&lt;/div>&#xd;&#xa;&lt;p>Your next hiking adventure starts with your footwear.&lt;/p>&#xd;&#xa;&lt;p>The best shoes for hiking start with Altra. Whether you’re taking a leisurely walk on a dirt path or gearing up for a technical day hike on your favorite trail, hiking shoes are going to be your best footwear for you. Altra combines our signature comfort along with a hiking boot and shoe construction to create the best hiking footwear for you.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Unlike trail running shoes, our hiking footwear is available in a mid or boot construction for added ankle support and foot protection on any terrain. Hiking boots are typically the best hiking footwear for longer hiking trails or more technical terrain whereas hiking shoes are best for lighter terrain found on shorter day hikes.&lt;/p>&#xd;&#xa;&lt;p>Altra offers hiking footwear ranging from hiking shoes to hiking boots, all with a lightweight and durable design created with comfort as the priority. Explore our range of waterproof options for all-day excursions or your next day-hike.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Check out our lineup of hiking shoes and boots that are ready to take on any terrain in a variety of colorways and styles.&amp;nbsp;&amp;nbsp;&lt;/p>&#xd;&#xa;"
+                textIsRich="true"/>
+        </espotcontent>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,57 @@
+{
+  "root": {
+    "content": {
+      "content": {
+        "grid_row_774143250_c": {
+          "_cq:lastRolledout": "{Date}2023-08-08T16:37:47.681Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured"
+        },
+        "customhtml2": {
+          "_cq:lastRolledout": "{Date}2023-08-08T16:37:47.685Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2023-08-08T16:26:27.283Z",
+          "_jcr:createdBy": "evan_lynch@vfc.com",
+          "_jcr:lastModified": "{Date}2023-08-08T16:37:47.683Z",
+          "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+          "_customHTML": "<div id=\"post-purchase-survey\">\r\n</div>",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default"
+        },
+        "_cq:lastRolledout": "{Date}2023-08-08T16:37:47.675Z",
+        "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2023-08-08T16:37:47.684Z",
+      "_cq:lastModifiedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicated": "{Date}2023-08-08T16:42:19.482Z",
+      "_cq:lastReplicatedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2023-08-08T16:37:47.686Z",
+      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "Post check out survey",
+      "_jcr:uuid": "1e2fb2ef-ddcb-4ca6-b6b0-82d327cf397d",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

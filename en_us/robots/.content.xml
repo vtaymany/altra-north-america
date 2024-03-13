@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2023-10-13T22:38:53.197Z"
+        cq:lastModifiedBy="roshan_acharya@vfc.com"
+        cq:lastReplicated="{Date}2023-10-13T22:38:57.307Z"
+        cq:lastReplicatedBy="roshan_acharya@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2023-04-18T15:21:47.931Z"
+        cq:lastRolledoutBy="evan_lynch@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/customFile"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="robots"
+        jcr:uuid="25054049-2fd2-4ca8-b22e-bf688880398e"
+        sling:resourceType="vfcorp/components/global/page/customFile"
+        fileContents="User-agent: *&#xd;&#xa;&#xd;&#xa;Disallow: /digital-style-guide/*&#xd;&#xa;Disallow: /webapp/*&#xd;&#xa;Disallow: *?q&#xd;&#xa;Disallow: *?sType&#xd;&#xa;&#xd;&#xa;#Search Result Pages &#xd;&#xa;Disallow: /utility/article-search-results.html&#xd;&#xa;Disallow: /utility/article-search-results/no-results.html&#xd;&#xa;&#xd;&#xa;Disallow: /search*&#xd;&#xa;&#xd;&#xa;#Login Pages &#xd;&#xa;Disallow: /shop/LogonForm &#xd;&#xa;Disallow: /shop/*/LogonForm* &#xd;&#xa;&#xd;&#xa;#Shop Pages &#xd;&#xa;Disallow: /shop/SingleShipmentOrderSummaryView &#xd;&#xa;Disallow: /shop/CompareProductsDisplay &#xd;&#xa;Disallow: /shop/OrderCalculate &#xd;&#xa;Disallow: /shop/CategoryDisplay* &#xd;&#xa;Disallow: /shop/InterestItemAdd &#xd;&#xa;Disallow: /shop/VFLogoff &#xd;&#xa;Disallow: /shop/VFOrderItemDelete&#xd;&#xa;Disallow: /shop/VFPRReviewFormView &#xd;&#xa;Disallow: /shop/VFPromotionFreeGiftChoicesView&#xd;&#xa;Disallow: *VFSearchDisplay*&#xd;&#xa;Disallow: *SearchDisplay*&#xd;&#xa;Disallow: /shop/VFSearchDisplay&#xd;&#xa;Disallow: /webapp/wcs/stores/servlet/SearchDisplay&#xd;&#xa;Disallow: /shop/SearchDisplay&#xd;&#xa;Disallow: /webapp/wcs/stores/servlet/VFSearchDisplay&#xd;&#xa;&#xd;&#xa;Sitemap: https://www.altrarunning.com/sitemap.xml&#xd;&#xa;">
+        <image
+            cq:lastRolledout="{Date}2023-04-18T15:21:47.931Z"
+            cq:lastRolledoutBy="evan_lynch@vfc.com"
+            jcr:lastModified="{Date}2023-04-18T15:21:47.929Z"
+            jcr:lastModifiedBy="carolina_gomes@vfc.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

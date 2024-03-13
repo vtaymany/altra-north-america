@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2018-10-15T15:00:45.264-04:00"
+        cq:lastModifiedBy="keith.kretz@sapientrazorfish.com"
+        cq:lastReplicated="{Date}2018-10-23T15:42:44.984-04:00"
+        cq:lastReplicatedBy="john.m.williams@rosetta.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2018-10-15T15:00:45.273-04:00"
+        cq:lastRolledoutBy="keith.kretz@sapientrazorfish.com"
+        cq:template="/apps/vfcorp/templates/global/page-col-1"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Article Search Results"
+        jcr:uuid="6892df8d-b8ea-49fa-8a18-bc302e570500"
+        sling:resourceType="vfcorp/components/global/page/page-col-1">
+        <content
+            cq:lastRolledout="{Date}2018-10-15T15:00:45.252-04:00"
+            cq:lastRolledoutBy="keith.kretz@sapientrazorfish.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <searchresults
+                cq:lastRolledout="{Date}2018-10-15T15:00:45.273-04:00"
+                cq:lastRolledoutBy="keith.kretz@sapientrazorfish.com"
+                jcr:created="{Date}2014-06-03T15:59:08.530-04:00"
+                jcr:createdBy="casandra.stetz"
+                jcr:lastModified="{Date}2018-10-15T15:00:45.260-04:00"
+                jcr:lastModifiedBy="keith.kretz@sapientrazorfish.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/searchresults"
+                articlesText="New, Info &amp; Events"
+                bottomgarnishclass="feature-footing"
+                marginBottom="bottom-margin-default"
+                marginTop="top-margin-default"
+                max="8"
+                paddingBottom="bottom-pad-default"
+                paddingTop="top-pad-default"
+                searchContentPaths="[/content/vfcorp/altra/north-america/en_us/blog,/content/vfcorp/altra/north-america/en_us/why-altra,/content/vfcorp/altra/north-america/en_us/altra-story,/content/vfcorp/altra/north-america/en_us/altra-guarantee]"
+                searchDisplay="tabs"
+                topgarnishclass="feature-heading"/>
+        </content>
+    </jcr:content>
+    <no-results/>
+</jcr:root>

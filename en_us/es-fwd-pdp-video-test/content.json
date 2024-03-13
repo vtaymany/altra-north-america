@@ -1,0 +1,144 @@
+{
+  "root": {
+    "content": {
+      "espotcontent": {
+        "grid_row_662566662_c": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "video_with_overlay_w": {
+                  "video": {
+                    "_cq:lastRolledout": "{Date}2023-11-02T19:10:32.790Z",
+                    "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_description": "FWD",
+                    "_name": "FWD",
+                    "_preload": "auto",
+                    "_thumbDesktopImageUrl": "https://images.altrarunning.com/is/image/altra/Altra-FWD-youtube-video-cover-09222023-v1?$SCALE-ORIGINAL$",
+                    "_uploadDate": "2023-09-25",
+                    "_videoFormat": "video/mp4",
+                    "_videoSource": "6-y_R4ER4jI",
+                    "_videoType": "youtube"
+                  },
+                  "overlay": {
+                    "content": {
+                      "alignment": {
+                        "_cq:lastRolledout": "{Date}2023-11-02T19:10:32.825Z",
+                        "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                        "_jcr:primaryType": "nt:unstructured",
+                        "_small": "small-text-left"
+                      },
+                      "_cq:lastRolledout": "{Date}2023-11-02T19:10:32.819Z",
+                      "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2023-11-02T19:10:32.826Z",
+                      "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2023-11-02T19:10:32.828Z",
+                      "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2023-11-02T19:10:32.810Z",
+                    "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2023-11-02T19:10:32.779Z",
+                  "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                  "_jcr:created": "{Date}2023-09-25T21:11:26.380Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2023-11-02T19:10:32.762Z",
+                  "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/video_with_overlay_with_rte",
+                  "_float": "none",
+                  "_textIsRich": "[true,true,true]",
+                  "_toggleSwitchForEditor": "false",
+                  "_toggleSwitchForEditorLarge": "false",
+                  "_toggleSwitchForEditorMedium": "false"
+                },
+                "_cq:lastRolledout": "{Date}2023-11-02T19:10:32.758Z",
+                "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2023-11-02T19:10:32.753Z",
+              "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+              "_jcr:created": "{Date}2023-09-25T21:10:49.696Z",
+              "_jcr:createdBy": "vtaymany@zobristinc.com",
+              "_jcr:lastModified": "{Date}2023-11-02T19:10:32.749Z",
+              "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensCenterColumn": "true",
+              "_largeScreensColumnCount": "10",
+              "_mediumScreensCenterColumn": "true",
+              "_mediumScreensColumnCount": "10",
+              "_smallScreensCenterColumn": "true",
+              "_smallScreensColumnCount": "12"
+            },
+            "_cq:lastRolledout": "{Date}2023-11-02T19:10:32.745Z",
+            "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2023-11-02T19:10:32.740Z",
+          "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+          "_jcr:created": "{Date}2023-09-25T21:10:45.868Z",
+          "_jcr:createdBy": "vtaymany@zobristinc.com",
+          "_jcr:lastModified": "{Date}2023-11-02T19:10:32.737Z",
+          "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row",
+          "_collapseGutters": "true",
+          "_cssClass": "fwd-video-row",
+          "_rowFullBleed": "true"
+        },
+        "_cq:lastRolledout": "{Date}2023-11-02T19:10:32.734Z",
+        "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2023-11-02T19:10:32.827Z",
+      "_cq:lastModifiedBy": "dylan_gibson@vfc.com",
+      "_cq:lastReplicated": "{Date}2023-11-02T19:10:46.827Z",
+      "_cq:lastReplicatedBy": "dylan_gibson@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2023-11-02T19:10:32.829Z",
+      "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/espot-integration",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "ES-FWD-PDP-Video-test",
+      "_jcr:uuid": "8ba83dcc-7105-441f-81ae-df039bdb84f3",
+      "_sling:resourceType": "vfcorp/components/global/page/espot-integration",
+      "_rowFullBleed": "true",
+      "_smallScreenSize": "1",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

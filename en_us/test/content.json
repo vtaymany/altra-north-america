@@ -1,0 +1,68 @@
+{
+  "root": {
+    "content": {
+      "sidebar": {
+        "_cq:lastRolledout": "{Date}2023-08-03T17:08:42.745Z",
+        "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "content": {
+        "_cq:lastRolledout": "{Date}2023-08-03T17:08:42.748Z",
+        "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "bottomfull": {
+        "customhtml2": {
+          "_cq:lastRolledout": "{Date}2023-08-03T17:08:42.758Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2020-10-13T20:30:34.820Z",
+          "_jcr:createdBy": "john.m.williams@rosetta.com",
+          "_jcr:lastModified": "{Date}2023-08-03T17:08:42.754Z",
+          "_jcr:lastModifiedBy": "john.m.williams@rosetta.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+          "_customHTML": "<p>this is content 7</p>",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default"
+        },
+        "_cq:lastRolledout": "{Date}2023-08-03T17:08:42.750Z",
+        "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2023-08-03T17:08:42.755Z",
+      "_cq:lastModifiedBy": "evan_lynch@vfc.com",
+      "_cq:lastRolledout": "{Date}2023-08-03T17:08:42.758Z",
+      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-2-left",
+      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "Test",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-2-left",
+      "__prefix": "jcr"
+    },
+    "Column": "",
+    "Topnav": "",
+    "Footer": "",
+    "static-ui": "",
+    "rollout-test": "",
+    "abbey-sandbox": "",
+    "isolated-square-video-test": "",
+    "evan-sandbox": "",
+    "van-sandbox": "",
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "root": {
+    "content": {
+      "content": {
+        "grid_row": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "image_with_overlay2": {
+                  "overlayImage": {
+                    "_cq:lastRolledout": "{Date}2020-07-30T19:38:07.014Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_altText": "Men's Black Running Shoes",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/D%2DBlack%2DRunning%2DShoes?",
+                    "_mobileImageUrl": "https://images.altrarunning.com/is/image/altra/M%2DBlack%2DRunning%2DShoes?",
+                    "_tabletImageUrl": "https://images.altrarunning.com/is/image/altra/T%2DBlack%2DRunning%2DShoes?"
+                  },
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2020-07-30T19:38:07.154Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "autosize"
+                  },
+                  "link": {
+                    "_cq:lastRolledout": "{Date}2020-07-30T19:38:07.156Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlay": {
+                    "content": {
+                      "alignment": {
+                        "_cq:lastRolledout": "{Date}2020-07-30T19:38:07.459Z",
+                        "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                        "_jcr:primaryType": "nt:unstructured",
+                        "_small": "small-text-center"
+                      },
+                      "_cq:lastRolledout": "{Date}2020-07-30T19:38:07.315Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_color": "#FFFFFF",
+                      "_headingContent": "MEN'S BLACK RUNNING SHOES",
+                      "_headingLevel": "h1",
+                      "_subheadingLevel": "h1"
+                    },
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-07-30T19:38:07.600Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_large": "middle-center",
+                      "_medium": "inherit",
+                      "_small": "middle-center"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-07-30T19:38:07.741Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_large": "large-12",
+                      "_small": "small-6"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-07-30T19:38:07.158Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta1": {
+                    "_cq:lastRolledout": "{Date}2020-07-30T19:38:07.743Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta2": {
+                    "_cq:lastRolledout": "{Date}2020-07-30T19:38:07.745Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlaidimage": {
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-07-30T19:38:07.756Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-07-30T19:38:07.897Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-07-30T19:38:07.747Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2020-07-30T19:38:06.850Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-07-27T20:36:46.797Z",
+                  "_jcr:createdBy": "abbey_charles@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-07-30T19:38:06.708Z",
+                  "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay2",
+                  "_float": "none"
+                },
+                "_cq:lastRolledout": "{Date}2020-07-30T19:38:06.703Z",
+                "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2020-07-30T19:38:06.559Z",
+              "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+              "_jcr:created": "{Date}2020-07-27T20:36:31.458Z",
+              "_jcr:createdBy": "abbey_charles@vfc.com",
+              "_jcr:lastModified": "{Date}2020-07-30T19:38:06.419Z",
+              "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_smallScreensColumnCount": "12"
+            },
+            "_cq:lastRolledout": "{Date}2020-07-30T19:38:06.413Z",
+            "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2020-07-30T19:38:06.267Z",
+          "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+          "_jcr:created": "{Date}2020-07-27T20:36:28.514Z",
+          "_jcr:createdBy": "abbey_charles@vfc.com",
+          "_jcr:lastModified": "{Date}2020-07-30T19:38:06.128Z",
+          "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row",
+          "_rowFullBleed": "true"
+        },
+        "grid_row_877212657": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "productgrid": {
+                  "products": {
+                    "_cq:lastRolledout": "{Date}2020-07-30T19:38:08.973Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_products": "[{\"productId\":\"al0a4vqm:010\"\\,\"imageOverride\":\"\"\\,\"urlOverride\":\"\"\\,\"titleOverride\":\"\"\\,\"urlParameters\":\"\"},{\"productId\":\"al0a4vqm:042\"\\,\"imageOverride\":\"\"\\,\"urlOverride\":\"\"\\,\"titleOverride\":\"\"\\,\"urlParameters\":\"\"},{\"productId\":\"alm193b3:043\"\\,\"imageOverride\":\"\"\\,\"urlOverride\":\"\"\\,\"titleOverride\":\"\"\\,\"urlParameters\":\"\"},{\"productId\":\"al0a4vqt:042\"\\,\"imageOverride\":\"\"\\,\"urlOverride\":\"\"\\,\"titleOverride\":\"\"\\,\"urlParameters\":\"\"},{\"productId\":\"al0a4pea:034\"\\,\"imageOverride\":\"\"\\,\"urlOverride\":\"\"\\,\"titleOverride\":\"\"\\,\"urlParameters\":\"\"},{\"productId\":\"al0a4pea:000\"\\,\"imageOverride\":\"\"\\,\"urlOverride\":\"\"\\,\"titleOverride\":\"\"\\,\"urlParameters\":\"\"},{\"productId\":\"alm1937f:061\"\\,\"imageOverride\":\"\"\\,\"urlOverride\":\"\"\\,\"titleOverride\":\"\"\\,\"urlParameters\":\"\"},{\"productId\":\"alu1812f:000\"\\,\"imageOverride\":\"\"\\,\"urlOverride\":\"\"\\,\"titleOverride\":\"\"\\,\"urlParameters\":\"\"},{\"productId\":\"al0a4pe5:000\"\\,\"imageOverride\":\"\"\\,\"urlOverride\":\"\"\\,\"titleOverride\":\"\"\\,\"urlParameters\":\"\"},{\"productId\":\"al0a4pe9:000\"\\,\"imageOverride\":\"\"\\,\"urlOverride\":\"\"\\,\"titleOverride\":\"\"\\,\"urlParameters\":\"\"},{\"productId\":\"alm1952g:000\"\\,\"imageOverride\":\"\"\\,\"urlOverride\":\"\"\\,\"titleOverride\":\"\"\\,\"urlParameters\":\"\"},{\"productId\":\"alm9521g:99G\"\\,\"imageOverride\":\"\"\\,\"urlOverride\":\"\"\\,\"titleOverride\":\"\"\\,\"urlParameters\":\"\"}]"
+                  },
+                  "_cq:lastRolledout": "{Date}2020-07-30T19:38:08.828Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-07-30T17:58:34.836Z",
+                  "_jcr:createdBy": "abbey_charles@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-07-30T19:38:08.622Z",
+                  "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/wcs/productgrid",
+                  "_categoryProductCount": "16",
+                  "_headline": " ",
+                  "_imagesSizing": "default",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_maxSize": "-1",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default",
+                  "_pageSize": "4",
+                  "_priceDisplay": "offer-only",
+                  "_productAssignmentMode": "manual"
+                },
+                "_cq:lastRolledout": "{Date}2020-07-30T19:38:08.603Z",
+                "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2020-07-30T19:38:08.326Z",
+              "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+              "_jcr:created": "{Date}2020-07-30T17:58:03.209Z",
+              "_jcr:createdBy": "abbey_charles@vfc.com",
+              "_jcr:lastModified": "{Date}2020-07-30T19:38:08.186Z",
+              "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "12",
+              "_smallScreensColumnCount": "11"
+            },
+            "_cq:lastRolledout": "{Date}2020-07-30T19:38:08.180Z",
+            "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2020-07-30T19:38:08.038Z",
+          "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+          "_jcr:created": "{Date}2020-07-30T17:57:58.415Z",
+          "_jcr:createdBy": "abbey_charles@vfc.com",
+          "_jcr:lastModified": "{Date}2020-07-30T19:38:07.899Z",
+          "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row"
+        },
+        "grid_row_239841817": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "customhtml2": {
+                  "_cq:lastRolledout": "{Date}2020-07-30T19:38:09.839Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-07-30T19:37:21.676Z",
+                  "_jcr:createdBy": "abbey_charles@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-07-30T19:37:51.606Z",
+                  "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customCSS": ".space {\r\n    height: 4rem;\r\n}",
+                  "_customHTML": "<div class=\"space\"></div>",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "text": {
+                  "_cq:lastRolledout": "{Date}2020-07-30T19:38:09.696Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-07-30T19:32:03.104Z",
+                  "_jcr:createdBy": "abbey_charles@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-07-30T19:38:09.556Z",
+                  "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/text",
+                  "_text": "<h2>Men's Solid Black Running &amp; Athletic Shoes</h2>\r\n<p>&nbsp;</p>\r\n<p>Altra's collection of black running shoes has the style and shoes you need. Whether you want black on red, black on blue, or just black on black​,&nbsp;we have the styles you want with the same performance you expect from Altra. From black trail shoes, road running shoes, or walking shoes, our&nbsp;FootShape™&nbsp;toebox&nbsp;provides you with room&nbsp;for your feet to spread out naturally, while our Balanced Cushioning&nbsp;platform/midsole&nbsp;encourages a healthy footfall on any terrain. So if you're looking to match up all your running gear or need comfortable shoes that match with anything for your daily walk, Altra has you covered.</p>\r\n",
+                  "_textIsRich": "true"
+                },
+                "_cq:lastRolledout": "{Date}2020-07-30T19:38:09.547Z",
+                "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2020-07-30T19:38:09.404Z",
+              "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+              "_jcr:created": "{Date}2020-07-30T19:31:20.238Z",
+              "_jcr:createdBy": "abbey_charles@vfc.com",
+              "_jcr:lastModified": "{Date}2020-07-30T19:38:09.263Z",
+              "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensCenterColumn": "true",
+              "_largeScreensColumnCount": "9",
+              "_mediumScreensCenterColumn": "true",
+              "_smallScreensCenterColumn": "true",
+              "_smallScreensColumnCount": "11"
+            },
+            "_cq:lastRolledout": "{Date}2020-07-30T19:38:09.257Z",
+            "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2020-07-30T19:38:09.114Z",
+          "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+          "_jcr:created": "{Date}2020-07-30T19:31:14.872Z",
+          "_jcr:createdBy": "abbey_charles@vfc.com",
+          "_jcr:lastModified": "{Date}2020-07-30T19:38:08.974Z",
+          "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row"
+        },
+        "_cq:lastRolledout": "{Date}2020-07-30T19:38:06.117Z",
+        "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2020-07-30T19:38:09.700Z",
+      "_cq:lastModifiedBy": "abbey_charles@vfc.com",
+      "_cq:lastReplicated": "{Date}2020-07-30T21:29:26.257Z",
+      "_cq:lastReplicatedBy": "abbey_charles@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2020-07-30T19:38:09.840Z",
+      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:description": "Shop Altra and look your best with our all black running shoes. Our comfortable and performance focused black running shoes are perfect for any workout.",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "Black Running Shoes for Men | Trail, Road & Gym | Altra Running",
+      "_jcr:uuid": "37afe3c3-971b-4ddd-bf8f-29bd112bf20f",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "_dataLayerErrorCode": "400",
+      "_frequency": "always",
+      "_pageTitle": "Black Running Shoes for Men | Trail, Road & Gym | Altra Running",
+      "_priority": "0.5",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

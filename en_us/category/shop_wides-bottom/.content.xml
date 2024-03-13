@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2024-02-07T17:19:28.395Z"
+        cq:lastModifiedBy="evan_lynch@vfc.com"
+        cq:lastReplicated="{Date}2024-02-07T17:20:01.499Z"
+        cq:lastReplicatedBy="evan_lynch@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2024-02-07T17:19:28.397Z"
+        cq:lastRolledoutBy="evan_lynch@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/espot-integration"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="shop_wides-bottom"
+        jcr:uuid="e69e9cf4-0428-4b39-aa88-93692a3b5747"
+        sling:resourceType="vfcorp/components/global/page/espot-integration"
+        rowFullBleed="true"
+        smallScreenSize="1">
+        <espotcontent
+            cq:lastRolledout="{Date}2024-02-07T17:19:28.390Z"
+            cq:lastRolledoutBy="evan_lynch@vfc.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <text_copy
+                cq:lastRolledout="{Date}2024-02-07T17:19:28.397Z"
+                cq:lastRolledoutBy="evan_lynch@vfc.com"
+                jcr:created="{Date}2024-02-07T17:08:20.205Z"
+                jcr:createdBy="evan_lynch@vfc.com"
+                jcr:lastModified="{Date}2024-02-07T17:19:28.394Z"
+                jcr:lastModifiedBy="evan_lynch@vfc.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/text"
+                marginBottom="bottom-margin-default"
+                marginTop="top-margin-default"
+                paddingBottom="bottom-pad-default"
+                paddingTop="top-pad-default"
+                text="&lt;h1>Wide Shoes for Women&lt;/h1>&#xd;&#xa;&lt;h2>Do You Need Women’s Wide Running Shoes?&lt;br>&#xd;&#xa;&lt;/h2>&#xd;&#xa;&lt;p>Whether you’re running on the track or hiking the trail, every step matters. &lt;a href=&quot;https://www.altrarunning.com/shop/womens-shoes&quot;>Our women’s running shoes&lt;/a> redefine comfort and performance. Say goodbye to discomfort and hello to the perfect fit. Never miss a step with our selection of wide shoes for women.&lt;/p>&#xd;&#xa;&lt;p>Running with wide feet takes more than just a size upgrade. For a women’s running shoe, wide feet need a custom fit to ensure optimal midsole support. Our line of wide running shoes for women offers the ideal heel height for arch support and even weight distribution.&lt;/p>&#xd;&#xa;&lt;p>Altra’s shoe width is tailored to cushion your impact points. &lt;a href=&quot;https://www.altrarunning.com/best-shoes-finder.html&quot;>Find the right shoe&lt;/a> for your journey with our women’s wide running shoes, the secret weapon for running. Our range of wide-toe box shoes for women provides maximum support to keep you comfortable, mile after mile.&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;h2>How to Fit Wide Running Shoes for Women&lt;/h2>&#xd;&#xa;&lt;p>Choosing the perfect running shoe for wide feet is all about finding the right fit. Over time, an improper fit can lead to joint pain and bunions. The ball of your feet (where the toes meet the rest of the foot) should sit at the widest point of the shoe.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;a href=&quot;https://www.altrarunning.com/who-we-are/footshape.html&quot;>Fit your FootShape&lt;/a>™ with our custom fit options to ensure that your wide running shoes are snug but have ample room in the toe box. Explore our best sellers and new arrivals in the athletic shoes section, like the &lt;a href=&quot;https://www.altrarunning.com/shop/womens-shoes/womens-lp-alpine-al0a5482?variationId=254&quot;>Women's Lone Peak Alpine Trail Shoe&lt;/a>. Clear all terrain with the Altra EGO midsole and slip-resistant Duratread outsole.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Altra’s selection of wide shoes for women blends form and function. Shop &lt;a href=&quot;https://www.altrarunning.com/shop/womens-shoes&quot;>all our women’s running shoes&lt;/a> to find the perfect fit for your run. Our slip-on sneakers and extra wide walking shoes offer accessibility without compromising style. Whether you prefer the convenience of slip-ons or a classic lace-up shoe, we have women’s wide-width shoes to suit every style.&lt;/p>&#xd;&#xa;"
+                textIsRich="true"/>
+        </espotcontent>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,29 @@
+{
+  "root": {
+    "content": {
+      "_cq:lastModified": "{Date}2023-08-03T17:10:25.508Z",
+      "_cq:lastModifiedBy": "evan_lynch@vfc.com",
+      "_cq:lastRolledout": "{Date}2023-08-03T17:10:25.511Z",
+      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "Van Sandbox",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "__prefix": "jcr"
+    },
+    "the-new-paradigm-7-test": "",
+    "true-fit-page-test-08012023": "",
+    "brand-experience-test": "",
+    "fwd-experience": "",
+    "via-2-sandbox": "",
+    "holiday-gift-guide": "",
+    "timp-5-test-01": "",
+    "mont-blanc-carbon-test": "",
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

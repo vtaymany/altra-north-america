@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2024-02-07T16:59:06.004Z"
+        cq:lastModifiedBy="evan_lynch@vfc.com"
+        cq:lastReplicated="{Date}2024-02-07T17:12:28.637Z"
+        cq:lastReplicatedBy="evan_lynch@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2024-02-07T16:59:06.007Z"
+        cq:lastRolledoutBy="evan_lynch@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/espot-integration"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="shop_women_shoes-bottom"
+        jcr:uuid="baa5b5ab-aa12-4dc4-91e2-578cedb878a9"
+        sling:resourceType="vfcorp/components/global/page/espot-integration"
+        pageTitle="shop_women_shoes-bottom"
+        rowFullBleed="true"
+        smallScreenSize="1">
+        <espotcontent
+            cq:lastRolledout="{Date}2024-02-07T16:59:05.999Z"
+            cq:lastRolledoutBy="evan_lynch@vfc.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <text
+                cq:lastRolledout="{Date}2024-02-07T16:59:06.007Z"
+                cq:lastRolledoutBy="evan_lynch@vfc.com"
+                jcr:created="{Date}2020-11-04T20:08:25.143Z"
+                jcr:createdBy="abbey_charles@vfc.com"
+                jcr:lastModified="{Date}2024-02-07T16:59:06.003Z"
+                jcr:lastModifiedBy="evan_lynch@vfc.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/text"
+                marginBottom="bottom-margin-default"
+                marginTop="top-margin-default"
+                paddingBottom="bottom-pad-default"
+                paddingTop="top-pad-default"
+                text="&lt;h1>Running Shoes for Women&lt;/h1>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;h2>Women’s Running Shoes for Every Adventure&lt;/h2>&#xd;&#xa;&lt;p>Are you looking for the perfect women’s running shoes for your next adventure? We have a great range of women’s shoes to ensure that you get the correct shoes to enhance your overall performance. Stock up on running sneakers for women with our signature &lt;a href=&quot;https://www.altrarunning.com/who-we-are/footshape.html&quot;>FootShape™&lt;/a> comfort for a natural fit designed specifically for women’s feet. You can’t go wrong with a roomy toe box and zero to low drop, all designed to keep you comfortable while running. Altra Running has all the footwear you need to up your game.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;h2>Durable &amp;amp; Flexible Women’s Shoes&lt;/h2>&#xd;&#xa;&lt;p>Explore the outdoor running trails with the latest women’s running shoes that offer plenty of cushioning support. Altra shoes have Balanced Cushioning™ technology to help runners achieve better alignment and running form, and encourage low impact landing. Choose the &lt;a href=&quot;https://www.altrarunning.com/shop/womens-shoes-trail/womens-olympus-5-al0a7r74&quot;>Women’s Olympus 5 Trail Running Shoes&lt;/a> for underfoot protection and comfort. With a breathable upper mesh and grippy outsole, you can enjoy the run while safely traversing steep descents. If you prioritize running fast, the &lt;a href=&quot;https://www.altrarunning.com/shop/womens-shoes/womens-vanish-tempo-al0a7r7f&quot;>Women’s Vanish Tempo Speed Shoe&lt;/a> makes a great choice. With Altra EGO™ PRO midsole foam to cushion each stride and our rocker shape geometry to propel speedy runners forward.&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>A durable shoe is designed to last while providing support and comfort for peak running performance. Altra women’s running shoes are all designed to meet the unique size and widths of female runners. If you’re a long-distance runner putting in the miles, the &lt;a href=&quot;https://www.altrarunning.com/shop/womens-shoes-trail/womens-lone-peak-7-al0a7r7g&quot;>Women’s Lone Peak 7 Trail Running Shoes&lt;/a> are an ideal choice. They’re designed with an upgraded MaxTrac™ outsole that offers improved grip, traction and durability on all types of terrain. For a multipurpose running shoe suitable for running and excursions on the trails, the &lt;a href=&quot;https://www.altrarunning.com/shop/womens-shoes-road/womens-outroad-al0a7r72&quot;>Women’s Outroad Road to Trail Running Shoe&lt;/a> offers a great choice. They feature the slim FootShape™ fit and Altra EGO™ midsole foam for a snug and comfortable fit, making it ideal for the runner looking to explore the great outdoors.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>A flexible running shoe provides more stability for better footing when running on uneven surfaces. At Altra, we offer Innerflex™, grid-like grooves in the midsole that help to provide flexibility and transfer power from the foot to the ground. For shoes that provide support and flexibility, the &lt;a href=&quot;https://www.altrarunning.com/shop/womens-shoes-gym-training/womens-solstice-xt-2-al0a547y&quot;>Women’s Solstice XT 2 Gym Shoe&lt;/a> has a lightweight design with improved toe protection for intense workouts. Looking for additional comfort? The &lt;a href=&quot;https://www.altrarunning.com/shop/womens-shoes/womens-paradigm-7-al0a82cg&quot;>Women’s Paradigm 7 Road Running Shoes&lt;/a> feature an engineered mesh upper for breathability, ghillie lacing for a secure fit and Innerflex™ for a plush fit.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Our women’s running shoes help you stay active through quality, stability and function. They’re built to keep you comfortable while running. Shop women's running sneakers by size, style, or color all year round.&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;"
+                textIsRich="true"/>
+        </espotcontent>
+    </jcr:content>
+</jcr:root>

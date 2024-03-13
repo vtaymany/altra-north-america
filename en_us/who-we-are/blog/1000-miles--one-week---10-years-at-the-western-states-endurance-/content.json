@@ -1,0 +1,453 @@
+{
+  "root": {
+    "content": {
+      "content": {
+        "customhtml2": {
+          "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.541Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2019-06-12T12:16:02.647-04:00",
+          "_jcr:createdBy": "wade_litsey@vfc.com",
+          "_jcr:lastModified": "{Date}2023-01-25T22:03:42.536Z",
+          "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+          "_customHTML": "<br>\r\n<h1>1000 Miles, One Week - 10 years at the Western States Endurance Run</h1>\r\n<h2>by Altra Elite Athlete Ian Sharman</h2>\r\n<br>\r\n<br>\r\n\r\n<p>I first heard about the Western States Endurance Run (WS100) soon after I started running, living in London, around 2006 when I read Dean Karnazes’ ‘Ultramarathon Man.’ \r\n    The crazy 100+ mile events he described seemed well out of my league and very intimidating, so I really didn’t expect ever to run that far in one go. \r\n    I got into running to travel and see amazing places, which has included the Sahara Desert, the Himalayas, the jungles of Borneo and some fantastic races all over the world. \r\n    There were some really tough events, but nothing longer than 8 1/2 hours in one go.\r\n</p>\r\n\r\n\r\n",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default"
+        },
+        "image_with_overlay2": {
+          "overlayImage": {
+            "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.622Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_altText": "Ian Sharman, photo credit Derrick Lytle",
+            "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/Ian%20Sharman%20WS100?$hero%2Ddesktop$"
+          },
+          "image": {
+            "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.683Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_autoCalcSize": "autosize"
+          },
+          "link": {
+            "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.685Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured"
+          },
+          "overlay": {
+            "content": {
+              "alignment": {
+                "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.736Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_small": "small-text-left"
+              },
+              "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.723Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_color": "#000000",
+              "_headingLevel": "h1",
+              "_subheadingLevel": "h1",
+              "_text": "Photo: Derrick Lytle"
+            },
+            "position": {
+              "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.742Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_large": "below-image",
+              "_medium": "below-image",
+              "_small": "below-image"
+            },
+            "width": {
+              "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.745Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_small": "small-4"
+            },
+            "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.688Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured"
+          },
+          "cta1": {
+            "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.747Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured"
+          },
+          "cta2": {
+            "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.749Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured"
+          },
+          "overlaidimage": {
+            "position": {
+              "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.773Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured"
+            },
+            "width": {
+              "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.777Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_small": "small-4"
+            },
+            "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.752Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured"
+          },
+          "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.551Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2019-06-12T12:21:36.520-04:00",
+          "_jcr:createdBy": "wade_litsey@vfc.com",
+          "_jcr:lastModified": "{Date}2023-01-25T22:03:42.544Z",
+          "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay2",
+          "_float": "none"
+        },
+        "customhtml2_1898103140": {
+          "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.786Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2019-06-12T12:19:11.199-04:00",
+          "_jcr:createdBy": "wade_litsey@vfc.com",
+          "_jcr:lastModified": "{Date}2023-01-25T22:03:42.781Z",
+          "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+          "_customHTML": "<p>However, once I moved to the US in 2009 it seemed that every ultrarunner spoke with such reverence about the 100 mile distance and the question wasn’t IF any of us were running a 100, but which one we had next. \r\n    This is probably biased by the fact I was living in the San Francisco Bay Area, just down the road from WS100, but it still changed my perspective.\r\n</p>\r\n\r\n<p>I entered the lottery for the 2010 WS100 and was luckily picked the first time, not quite knowing what I was getting myself into. \r\n    I decided to run Rocky Raccoon 100 in Texas in February, 5 months prior to WS100 to see what I could learn. \r\n    I was injured in the build-up and could only start running again a week out from the race so was very happy to complete 80 miles and stop before I made the injury flare up too much. \r\n    That meant my first 100-mile finish was planned for my first WS100.\r\n</p>\r\n\r\n",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default"
+        },
+        "image_with_overlay2_1411127349": {
+          "overlayImage": {
+            "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.866Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_altText": "Ian Sharman finishing the 2018 Western States 100",
+            "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/2018%5FPCAmySharman?$hero%2Ddesktop$"
+          },
+          "image": {
+            "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.870Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_autoCalcSize": "autosize"
+          },
+          "link": {
+            "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.872Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured"
+          },
+          "overlay": {
+            "content": {
+              "alignment": {
+                "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.923Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_small": "small-text-left"
+              },
+              "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.910Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_color": "#000000",
+              "_headingLevel": "h1",
+              "_subheadingLevel": "h1",
+              "_text": "Photo: Amy Sharman"
+            },
+            "position": {
+              "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.928Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_large": "below-image",
+              "_medium": "below-image",
+              "_small": "below-image"
+            },
+            "width": {
+              "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.932Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_small": "small-4"
+            },
+            "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.875Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured"
+          },
+          "cta1": {
+            "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.934Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured"
+          },
+          "cta2": {
+            "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.936Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured"
+          },
+          "overlaidimage": {
+            "position": {
+              "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.960Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured"
+            },
+            "width": {
+              "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.964Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_small": "small-4"
+            },
+            "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.939Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured"
+          },
+          "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.797Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2019-06-12T12:21:49.693-04:00",
+          "_jcr:createdBy": "wade_litsey@vfc.com",
+          "_jcr:lastModified": "{Date}2023-01-25T22:03:42.789Z",
+          "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay2",
+          "_float": "none"
+        },
+        "customhtml2_1937022427": {
+          "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.973Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2019-06-12T12:22:00.695-04:00",
+          "_jcr:createdBy": "wade_litsey@vfc.com",
+          "_jcr:lastModified": "{Date}2023-01-25T22:03:42.968Z",
+          "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+          "_customHTML": "<p>Somehow, I finished 8th and that started off an annual ritual of heat training followed by turning up in Squaw Valley in late June, followed by a good enough run (top 10) to auto qualify for the next year. \r\n    2010 I got to witness the classic battle between Kilian Jornet and Anton Krupicka where Geoff Roes ran past both of them to take down Scott Jurek’s record, as shown in the amazing movie, ‘Unbreakable.’ \r\n    2012 I ran with Timmy Olson through the Duncan Canyon aid station before he blitzed ahead to take the record below 15 hours, plus my good friend (and fellow coach at Sharman Ultra), Ellie Greenwood, ran the only women’s time under 17 hours to date.\r\n</p>\r\n\r\n<p>I’ve seen snow courses, super hot years, a cold year and some of the best trail runners in the world nail it as well as blow up or drop out. \r\n    I saw 70-year old Gunhild Swanson finish 6 seconds before the cut-off in a moment that went viral online. \r\n    And now, somehow, it’s my tenth race and I can’t believe the memories I have and the history I’ve seen. \r\n    It gets more exciting each time and I don’t want to stop at 10, hoping I can keep earning my place on that starting line quite a few more times.\r\n</p>\r\n\r\n<p>I’ve had finishes between 4th and 10th, so I’m driven to get faster and really, really want that win. \r\n    The search is for the perfect race and it takes so many things coming together in training and execution that it’s a near impossible task, but that means there’s always room to improve, which keeps the fire burning. \r\n</p>\r\n\r\n",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default"
+        },
+        "image_with_overlay2_854537003": {
+          "overlayImage": {
+            "_cq:lastRolledout": "{Date}2023-01-25T22:03:43.054Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_altText": "Ian Sharman running the Western States 100",
+            "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/Ian%20Sharman%20Running%20Western%20States?$hero%2Dfullbleed%2Dtablet$"
+          },
+          "image": {
+            "_cq:lastRolledout": "{Date}2023-01-25T22:03:43.057Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_autoCalcSize": "autosize"
+          },
+          "link": {
+            "_cq:lastRolledout": "{Date}2023-01-25T22:03:43.059Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured"
+          },
+          "overlay": {
+            "content": {
+              "alignment": {
+                "_cq:lastRolledout": "{Date}2023-01-25T22:03:43.110Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_small": "small-text-left"
+              },
+              "_cq:lastRolledout": "{Date}2023-01-25T22:03:43.097Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_color": "#000000",
+              "_headingLevel": "h1",
+              "_subheadingLevel": "h1",
+              "_text": "Photo: Derrick Lytle"
+            },
+            "position": {
+              "_cq:lastRolledout": "{Date}2023-01-25T22:03:43.118Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_large": "below-image",
+              "_medium": "below-image",
+              "_small": "below-image"
+            },
+            "width": {
+              "_cq:lastRolledout": "{Date}2023-01-25T22:03:43.122Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_small": "small-4"
+            },
+            "_cq:lastRolledout": "{Date}2023-01-25T22:03:43.062Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured"
+          },
+          "cta1": {
+            "_cq:lastRolledout": "{Date}2023-01-25T22:03:43.124Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured"
+          },
+          "cta2": {
+            "_cq:lastRolledout": "{Date}2023-01-25T22:03:43.126Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured"
+          },
+          "overlaidimage": {
+            "position": {
+              "_cq:lastRolledout": "{Date}2023-01-25T22:03:43.149Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured"
+            },
+            "width": {
+              "_cq:lastRolledout": "{Date}2023-01-25T22:03:43.153Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_small": "small-4"
+            },
+            "_cq:lastRolledout": "{Date}2023-01-25T22:03:43.128Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured"
+          },
+          "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.984Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2019-06-12T12:24:01.744-04:00",
+          "_jcr:createdBy": "wade_litsey@vfc.com",
+          "_jcr:lastModified": "{Date}2023-01-25T22:03:42.976Z",
+          "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay2",
+          "_float": "none"
+        },
+        "customhtml2_497739842": {
+          "_cq:lastRolledout": "{Date}2023-01-25T22:03:43.163Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2019-06-12T12:24:11.010-04:00",
+          "_jcr:createdBy": "wade_litsey@vfc.com",
+          "_jcr:lastModified": "{Date}2023-01-25T22:03:43.157Z",
+          "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+          "_customHTML": "<p>This year I hope to earn my 10-year buckle, which has ‘1,000 miles, 10 days’ printed on it except I’ve set myself the extra challenge of being the first to finish 10 races in under a week, averaging under 16h48m. \r\n    Currently I’m a little under that, but things can go wrong very fast when it’s hot and 2019 looks like there’ll be a lot of snow early on to slow things down…then it inevitably gets ridiculously hot and usually above 100 degrees in the canyons in the shade, except there isn’t much shade.\r\n</p>\r\n\r\n<p>Altra have been kind enough to make a video of my 10-year journey and that’ll be out very soon, hopefully with a good ending. \r\n    Hope you enjoy it and find your big target that pushes you to your limits, too.\r\n</p>\r\n<br>\r\n<br>\r\n<iframe src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Faltrarunning%2Fvideos%2F1160546020794041%2F&show_text=0&width=560\" width=\"560\" height=\"315\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\" allowFullScreen=\"true\"></iframe>\r\n<br>\r\n<br>\r\n<br>\r\n<br>",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default"
+        },
+        "_cq:lastRolledout": "{Date}2023-01-25T22:03:42.466Z",
+        "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "bottomfull": {
+        "customhtml2": {
+          "_cq:lastRolledout": "{Date}2023-01-25T22:03:43.196Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2020-04-24T17:03:06.825Z",
+          "_jcr:createdBy": "abbey_charles@vfc.com",
+          "_jcr:lastModified": "{Date}2023-01-25T22:03:43.190Z",
+          "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+          "_customCSS": "#email-header {\r\n    font-size: 2rem;\r\n    font-style: normal;\r\n    font-weight: 900;\r\n    line-height: 1.4;\r\n    margin: 4.5rem auto 1.28571rem;\r\n    text-align: center;\r\n    text-transform: uppercase;\r\n}",
+          "_customHTML": "<p id=\"email-header\">Subscribe for more stories</p>",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default"
+        },
+        "emailsignup": {
+          "_cq:lastRolledout": "{Date}2023-01-25T22:03:43.202Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2020-04-24T17:03:38.157Z",
+          "_jcr:createdBy": "abbey_charles@vfc.com",
+          "_jcr:lastModified": "{Date}2023-01-25T22:03:43.198Z",
+          "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/emailsignup"
+        },
+        "_cq:lastRolledout": "{Date}2023-01-25T22:03:43.167Z",
+        "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2023-01-25T22:03:43.199Z",
+      "_cq:lastModifiedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicated": "{Date}2023-03-23T22:26:02.922Z",
+      "_cq:lastReplicatedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2023-01-25T22:03:43.202Z",
+      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+      "_cq:tags": "[altra:altra-elite-athlete-team,altra:altra-journeys,altra:altra-athletes,altra:places-and-races]",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-2-right-simple",
+      "_jcr:description": "Altra Elite Athlete, Ian Sharman describes his ten years of experience running the Western States Endurance Run. Learn what it feels like to finish this race. ",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "1000 Miles, One Week - 10 years at the Western States Endurance Run",
+      "_jcr:uuid": "faf7ffb0-6833-43f8-992b-ec59662f714f",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-2-right-simple",
+      "_sling:vanityPath": "[/content/vfcorp/altra/north-america/en_us/blog/1000-miles--one-week---10-years-at-the-western-states-endurance-run]",
+      "_articleDate": "2019-06-13",
+      "_dataLayerErrorCode": "400",
+      "_frequency": "always",
+      "_pageTitle": "1000 Miles, One Week - 10 years at the Western States Endurance Run",
+      "_priority": "0.5",
+      "_teaserText": "06-13-2019",
+      "_thumbnailDesktop": "https://images.altrarunning.com/is/image/altra/Ian%20Sharman%20Tile?w=1080&h=1080",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

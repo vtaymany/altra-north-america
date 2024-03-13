@@ -1,0 +1,21 @@
+{
+  "root": {
+    "content": {
+      "_cq:lastRolledout": "{Date}2023-01-25T22:10:36.361Z",
+      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+      "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+      "_jcr:mimeType": "image/jpeg",
+      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+      "_jcr:primaryType": "nt:resource",
+      "__prefix": "jcr"
+    },
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_cq:lastRolledout": "{Date}2023-01-25T22:10:36.346Z",
+    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+    "_jcr:primaryType": "nt:file",
+    "__prefix": "jcr"
+  }
+}

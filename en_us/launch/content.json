@@ -1,0 +1,30 @@
+{
+  "root": {
+    "content": {
+      "_cq:lastModified": "{Date}2021-07-23T20:34:42.238Z",
+      "_cq:lastModifiedBy": "abbey_charles@vfc.com",
+      "_cq:lastRolledout": "{Date}2021-07-23T20:34:42.241Z",
+      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "Launches",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "__prefix": "jcr"
+    },
+    "_x0032_021": "",
+    "_x0032_022": "",
+    "_x0032_023": "",
+    "first-to-know": "",
+    "vanish-family": "",
+    "olympus-family": "",
+    "mont-blanc-family": "",
+    "shoes-for-all": "",
+    "_x0032_024-launches": "",
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

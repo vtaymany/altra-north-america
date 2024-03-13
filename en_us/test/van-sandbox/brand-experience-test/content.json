@@ -1,0 +1,1314 @@
+{
+  "root": {
+    "content": {
+      "content": {
+        "customhtml2": {
+          "_cq:lastRolledout": "{Date}2023-08-24T16:51:13.755Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2023-08-17T21:22:59.188Z",
+          "_jcr:createdBy": "vtaymany@zobristinc.com",
+          "_jcr:lastModified": "{Date}2023-08-24T16:51:13.749Z",
+          "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+          "_customCSS": "/* img.hero,\r\nvideo.hero {\r\n  height: 85vh;\r\n} */\r\na.button.video-link-watch-hero-desktop,\r\na.button.video-link-watch-hero-mobile {\r\n  background-color: transparent;\r\n  border: 1px solid #fff;\r\n  font-size: 1.25em;\r\n}\r\n.video-popup {\r\n  display: none;\r\n  position: fixed;\r\n  top: 0;\r\n  left: 0;\r\n  width: 100%;\r\n  height: 100%;\r\n  background-color: rgba(0, 0, 0, 0.5);\r\n  z-index: 9999;\r\n  text-align: center;\r\n}\r\n.video-player {\r\n  position: relative;\r\n  width: 75%;\r\n  height: 75%;\r\n  margin: auto;\r\n  margin-top: 7.5%;\r\n}\r\n.brand-origin-row-2 {\r\n  margin-top: ;\r\n}\r\nh2.the-altra-difference {\r\n  margin: 8.62rem 0.3rem 0.88rem 0.3rem;\r\n  color: #000;\r\n  text-align: center;\r\n  font-family: 'Neuzeit Grotesk';\r\n  font-size: 50px;\r\n  font-style: normal;\r\n  font-weight: 900;\r\n  line-height: 50px; /* 100% */\r\n  letter-spacing: 7.5px;\r\n  text-transform: uppercase;\r\n}\r\nh3.the-altra-difference {\r\n  text-align: center;\r\n  margin: 1em auto 1em auto;\r\n  text-transform: none;\r\n  font-size: 2em;\r\n  letter-spacing: 0px;\r\n  font-weight: 100;\r\n}\r\np.the-altra-difference {\r\n  margin: 0em 20vw 5em 20vw;\r\n  text-align: center;\r\n  color: var(--greys-black, #000);\r\n  font-feature-settings: 'clig' off, 'liga' off;\r\n  font-family: 'Proxima Nova';\r\n  font-size: 1.5rem;\r\n  font-style: normal;\r\n  font-weight: 400;\r\n  line-height: 2rem;\r\n}\r\np.natural-fit {\r\n  font-size: 1.5em;\r\n  margin-top: 2em;\r\n  text-align: left;\r\n  line-height: 1.75em;\r\n}\r\nh2.natural-fit {\r\n  text-transform: none;\r\n  line-height: 1.25em;\r\n  font-family: 'Neuzeit Grotesk';\r\n  letter-spacing: 0px;\r\n  font-size: 2em;\r\n}\r\n.vertical-align-elements {\r\n  display: flex;\r\n  justify-content: center;\r\n  align-items: center;\r\n}\r\na.button.natural-fit {\r\n  margin-top: 1em;\r\n  font-size: 1.1em;\r\n}\r\n.bggrey {\r\n  background: #f7f7f7;\r\n}\r\n.natural-fit-subhead {\r\n  color: var(--greys-black, #000);\r\n  font-feature-settings: 'clig' off, 'liga' off;\r\n  font-family: 'Proxima Nova';\r\n  font-size: 1.375rem;\r\n  font-style: normal;\r\n  font-weight: 700;\r\n  line-height: 4rem; /* 145.455% */\r\n  margin: 0rem 9rem 0rem 0rem;\r\n}\r\n.natural-fit-subtext {\r\n  color: var(--greys-black, #000);\r\n  font-feature-settings: 'clig' off, 'liga' off;\r\n  font-family: 'Proxima Nova';\r\n  font-size: 1.375rem;\r\n  font-style: normal;\r\n  font-weight: 400;\r\n  line-height: 2rem;\r\n}\r\n.thinner-h2-new-color {\r\n  font-weight: 100;\r\n}\r\n.thinner-h2-new-color {\r\n  font-family: 'Proxima Nova';\r\n}\r\nh2.natural-fit-header {\r\n  text-align: center;\r\n  margin: 3em 0em 3em 0em;\r\n}\r\nh2.natural-fit-subhead {\r\n  text-transform: none;\r\n  letter-spacing: 0px;\r\n  font-size: 1.5em;\r\n  margin-bottom: -0.5em;\r\n}\r\np.natural-fit-subtext {\r\n  margin-right: 25%;\r\n  font-size: 1.5em;\r\n}\r\nh2.half-width-tiles {\r\n  font-family: 'Neuzeit Grotesk';\r\n  text-align: center;\r\n  margin: 1.5em 0em 1em 0em;\r\n  text-transform: none;\r\n}\r\na.button.primary.bestsellers,\r\na.button.primary.shoe-finder {\r\n  font-size: 1.5em;\r\n  padding: 0.75em 3em 0.75em 3em;\r\n}\r\n.brand-experience-customer-service-column-1 {\r\n  margin-left: 12.5%;\r\n}\r\n.brand-experience-customer-service-row {\r\n  margin: 5em auto 5em auto;\r\n}\r\n/* Start Owl Carousel Customization */\r\n.explore-by-activity-carousel-button-container {\r\n  display: flex;\r\n}\r\na.button.explore-by-activity-carousel {\r\n  font-size: 0.75em;\r\n  margin: auto;\r\n}\r\n.explore-by-category-carousel {\r\n  margin-top: 3em;\r\n}\r\nbutton.owl-next,\r\nbutton.owl-prev {\r\n  width: 2.5%;\r\n}\r\n.owl-prev {\r\n  position: absolute;\r\n  top: 35%;\r\n  margin-left: -25px;\r\n  display: block !important;\r\n  border: 0px solid black;\r\n}\r\n.owl-next {\r\n  position: absolute;\r\n  top: 35%;\r\n  right: 0px;\r\n  display: block !important;\r\n  border: 0px solid black;\r\n}\r\n.owl-prev i,\r\n.owl-next i {\r\n  transform: scale(1, 6);\r\n  color: #ccc;\r\n}\r\n.owl-dots {\r\n  margin-top: 1em;\r\n}\r\nh2.explore-by-activity-carousel {\r\n  text-align: center;\r\n  margin-top: 0.5em;\r\n}\r\na.button.explore-by-activity-carousel {\r\n  padding: 1em 3.75em 1em 3.75em;\r\n}\r\nh3.customer-service-section {\r\n  font-weight: 100;\r\n  font-size: 1.25em;\r\n}\r\nh2.explore-by-activity-carousel {\r\n  position: relative;\r\n  color: #fff;\r\n  top: -2em;\r\n}\r\n.owl-dots {\r\n  position: relative;\r\n  top: -2em;\r\n}\r\nbutton.owl-prev,\r\nbutton.owl-next {\r\n  width: 3em;\r\n  height: auto;\r\n  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.25);\r\n}\r\n/* End Owl Carousel Customization */\r\n@media only screen and (max-width: 639px) {\r\n  h2.natural-fit {\r\n    margin-top: 1em;\r\n    font-size: 3em;\r\n    line-height: 1em;\r\n    text-align: center;\r\n  }\r\n  img.hero,\r\n  video.hero {\r\n    height: auto;\r\n  }\r\n  .video-player {\r\n    width: 100%;\r\n    height: 80%;\r\n    margin: 17.5% auto auto auto;\r\n  }\r\n  h2.the-altra-difference {\r\n    line-height: 1em;\r\n    font-size: 3.5em;\r\n    margin-top: 1.5em;\r\n  }\r\n  p.the-altra-difference {\r\n    margin-top: -0.5em;\r\n    font-size: 1.25em;\r\n  }\r\n  .vertical-align-elements {\r\n    display: initial;\r\n    justify-content: initial;\r\n    align-items: initial;\r\n    height: initial;\r\n  }\r\n  .brand-experience-customer-service-column-1 {\r\n    margin-left: initial;\r\n  }\r\n  h2.the-altra-difference {\r\n    font-size: 2.5em;\r\n    line-height: initial;\r\n    letter-spacing: 4px;\r\n  }\r\n  h3.the-altra-difference {\r\n    font-size: 1.5em;\r\n    line-height: 1.25em;\r\n  }\r\n  p.the-altra-difference {\r\n    margin: 0em 10% 0em 10%;\r\n    line-height: 1.25em;\r\n  }\r\n  a.button.primary.bestsellers,\r\n  a.button.primary.shoe-finder {\r\n    font-size: initial;\r\n    padding: 0.75em 3em 0.75em 3em;\r\n  }\r\n  h2.natural-fit-subhead {\r\n    text-align: center;\r\n    margin-right: initial;\r\n  }\r\n  p.natural-fit-subtext {\r\n    text-align: center;\r\n    margin: 0.25em 10% 0em 10%;\r\n    font-size: 1.25em;\r\n    line-height: 1.25em;\r\n  }\r\n  .half-width-tile-row {\r\n    margin-top: 5em;\r\n  }\r\n  p.zero-to-low {\r\n    margin-bottom: 3em;\r\n  }\r\n  .natural-fit-column {\r\n    margin-top: -0.25em;\r\n  }\r\n  h2.half-width-tiles {\r\n    margin: 1em 0em 0.5em 0em;\r\n  }\r\n  a.button.bestsellers,\r\n  a.button.shoe-finder {\r\n    width: 100%;\r\n    margin-bottom: 3em;\r\n  }\r\n  /* Start Owl Carousel Customization */\r\n  .owl-dots {\r\n    margin-top: 1em;\r\n  }\r\n  .owl-dots {\r\n    margin-top: 1em;\r\n  }\r\n  a.button.explore-by-activity-carousel {\r\n    font-size: 0.75em;\r\n    margin: auto;\r\n    padding: 1em 5em 1em 5em;\r\n  }\r\n  h3.customer-service-section {\r\n    margin-bottom: 2em;\r\n  }\r\n  h2.explore-by-activity {\r\n    margin-left: 9vw;\r\n  }\r\n  /* End Owl Carousel Customization */\r\n}\r\n@media screen and (min-width: 640px) and (max-width: 1023px) {\r\n  p.the-altra-difference {\r\n    font-size: 1em;\r\n  }\r\n  h2.natural-fit {\r\n    font-size: 1.75em;\r\n  }\r\n  p.natural-fit {\r\n    font-size: 1em;\r\n  }\r\n}\r\n@media screen and (min-width: 1024px) and (max-width: 1439px) {\r\n  p.the-altra-difference {\r\n    font-size: 1em;\r\n  }\r\n  h2.natural-fit {\r\n    font-size: 3em;\r\n  }\r\n}\r\n@media screen and (min-width: 1440px) and (max-width: 1919px) {\r\n}\r\n\r\n/* Start out-of-the-box Owl Carousel CSS */\r\n.explore-by-category-carousel,\r\n.explore-by-category-carousel .owl-item {\r\n  -webkit-tap-highlight-color: transparent;\r\n  position: relative;\r\n}\r\n.explore-by-category-carousel {\r\n  display: none;\r\n  width: 100%;\r\n  z-index: 1;\r\n}\r\n.explore-by-category-carousel .owl-stage {\r\n  position: relative;\r\n  -ms-touch-action: pan-Y;\r\n  touch-action: manipulation;\r\n  -moz-backface-visibility: hidden;\r\n}\r\n.explore-by-category-carousel .owl-stage:after {\r\n  content: '.';\r\n  display: block;\r\n  clear: both;\r\n  visibility: hidden;\r\n  line-height: 0;\r\n  height: 0;\r\n}\r\n.explore-by-category-carousel .owl-stage-outer {\r\n  position: relative;\r\n  overflow: hidden;\r\n  -webkit-transform: translate3d(0, 0, 0);\r\n}\r\n.explore-by-category-carousel .owl-item,\r\n.explore-by-category-carousel .owl-wrapper {\r\n  -webkit-backface-visibility: hidden;\r\n  -moz-backface-visibility: hidden;\r\n  -ms-backface-visibility: hidden;\r\n  -webkit-transform: translate3d(0, 0, 0);\r\n  -moz-transform: translate3d(0, 0, 0);\r\n  -ms-transform: translate3d(0, 0, 0);\r\n}\r\n.explore-by-category-carousel .owl-item {\r\n  min-height: 1px;\r\n  float: left;\r\n  -webkit-backface-visibility: hidden;\r\n  -webkit-touch-callout: none;\r\n}\r\n.explore-by-category-carousel .owl-item img {\r\n  display: block;\r\n  width: 100%;\r\n}\r\n.explore-by-category-carousel .owl-dots.disabled,\r\n.explore-by-category-carousel .owl-nav.disabled {\r\n  display: none;\r\n}\r\n.no-js .explore-by-category-carousel,\r\n.explore-by-category-carousel.owl-loaded {\r\n  display: block;\r\n}\r\n.explore-by-category-carousel .owl-dot,\r\n.explore-by-category-carousel .owl-nav .owl-next,\r\n.explore-by-category-carousel .owl-nav .owl-prev {\r\n  cursor: pointer;\r\n  -webkit-user-select: none;\r\n  -khtml-user-select: none;\r\n  -moz-user-select: none;\r\n  -ms-user-select: none;\r\n  user-select: none;\r\n}\r\n.explore-by-category-carousel .owl-nav button.owl-next,\r\n.explore-by-category-carousel .owl-nav button.owl-prev,\r\n.explore-by-category-carousel button.owl-dot {\r\n  background: 0 0;\r\n  color: inherit;\r\n  border: none;\r\n  padding: 0 !important;\r\n  font: inherit;\r\n}\r\n.explore-by-category-carousel.owl-loading {\r\n  opacity: 0;\r\n  display: block;\r\n}\r\n.explore-by-category-carousel.owl-hidden {\r\n  opacity: 0;\r\n}\r\n.explore-by-category-carousel.owl-refresh .owl-item {\r\n  visibility: hidden;\r\n}\r\n.explore-by-category-carousel.owl-drag .owl-item {\r\n  -ms-touch-action: pan-y;\r\n  touch-action: pan-y;\r\n  -webkit-user-select: none;\r\n  -moz-user-select: none;\r\n  -ms-user-select: none;\r\n  user-select: none;\r\n}\r\n.explore-by-category-carousel.owl-grab {\r\n  cursor: move;\r\n  cursor: grab;\r\n}\r\n.explore-by-category-carousel.owl-rtl {\r\n  direction: rtl;\r\n}\r\n.explore-by-category-carousel.owl-rtl .owl-item {\r\n  float: right;\r\n}\r\n.explore-by-category-carousel .animated {\r\n  animation-duration: 1s;\r\n  animation-fill-mode: both;\r\n}\r\n.explore-by-category-carousel .owl-animated-in {\r\n  z-index: 0;\r\n}\r\n.explore-by-category-carousel .owl-animated-out {\r\n  z-index: 1;\r\n}\r\n.explore-by-category-carousel .fadeOut {\r\n  animation-name: fadeOut;\r\n}\r\n@keyframes fadeOut {\r\n  0% {\r\n    opacity: 1;\r\n  }\r\n  100% {\r\n    opacity: 0;\r\n  }\r\n}\r\n.owl-height {\r\n  transition: height 0.5s ease-in-out;\r\n}\r\n.explore-by-category-carousel .owl-item .owl-lazy {\r\n  opacity: 0;\r\n  transition: opacity 0.4s ease;\r\n}\r\n.explore-by-category-carousel .owl-item .owl-lazy:not([src]),\r\n.explore-by-category-carousel .owl-item .owl-lazy[src^=''] {\r\n  max-height: 0;\r\n}\r\n.explore-by-category-carousel .owl-item img.owl-lazy {\r\n  transform-style: preserve-3d;\r\n}\r\n.explore-by-category-carousel .owl-video-wrapper {\r\n  position: relative;\r\n  height: 100%;\r\n  background: #000;\r\n}\r\n.explore-by-category-carousel .owl-video-play-icon {\r\n  position: absolute;\r\n  height: 80px;\r\n  width: 80px;\r\n  left: 50%;\r\n  top: 50%;\r\n  margin-left: -40px;\r\n  margin-top: -40px;\r\n  background: url(owl.video.play.png) no-repeat;\r\n  cursor: pointer;\r\n  z-index: 1;\r\n  -webkit-backface-visibility: hidden;\r\n  transition: transform 0.1s ease;\r\n}\r\n.explore-by-category-carousel .owl-video-play-icon:hover {\r\n  -ms-transform: scale(1.3, 1.3);\r\n  transform: scale(1.3, 1.3);\r\n}\r\n.explore-by-category-carousel .owl-video-playing .owl-video-play-icon,\r\n.explore-by-category-carousel .owl-video-playing .owl-video-tn {\r\n  display: none;\r\n}\r\n.explore-by-category-carousel .owl-video-tn {\r\n  opacity: 0;\r\n  height: 100%;\r\n  background-position: center center;\r\n  background-repeat: no-repeat;\r\n  background-size: contain;\r\n  transition: opacity 0.4s ease;\r\n}\r\n.explore-by-category-carousel .owl-video-frame {\r\n  position: relative;\r\n  z-index: 1;\r\n  height: 100%;\r\n  width: 100%;\r\n}\r\n\r\n.explore-by-category-carousel-theme .owl-dots,\r\n.explore-by-category-carousel-theme .owl-nav {\r\n  text-align: center;\r\n  -webkit-tap-highlight-color: transparent;\r\n}\r\n.explore-by-category-carousel-theme .owl-nav [class*='owl-'] {\r\n  color: #fff;\r\n  font-size: 14px;\r\n  margin: 5px;\r\n  padding: 4px 7px;\r\n  background: #d6d6d6;\r\n  display: inline-block;\r\n  cursor: pointer;\r\n  border-radius: 3px;\r\n}\r\n.explore-by-category-carousel-theme .owl-nav [class*='owl-']:hover {\r\n  background: #869791;\r\n  color: #fff;\r\n  text-decoration: none;\r\n}\r\n.explore-by-category-carousel-theme .owl-nav .disabled {\r\n  opacity: 0.5;\r\n  cursor: default;\r\n}\r\n.explore-by-category-carousel-theme .owl-nav.disabled + .owl-dots {\r\n  margin-top: 10px;\r\n}\r\n.explore-by-category-carousel-theme .owl-dots .owl-dot {\r\n  display: inline-block;\r\n  zoom: 1;\r\n}\r\n.explore-by-category-carousel-theme .owl-dots .owl-dot span {\r\n  width: 10px;\r\n  height: 10px;\r\n  margin: 5px 7px;\r\n  background: #d6d6d6;\r\n  display: block;\r\n  -webkit-backface-visibility: visible;\r\n  transition: opacity 0.2s ease;\r\n  border-radius: 30px;\r\n}\r\n.explore-by-category-carousel-theme .owl-dots .owl-dot.active span,\r\n.explore-by-category-carousel-theme .owl-dots .owl-dot:hover span {\r\n  background: #869791;\r\n}\r\n\r\n/* End out-of-the-box Owl Carousel CSS */\r\n",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default"
+        },
+        "grid_row": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "image_with_overlay_w": {
+                  "overlayImage": {
+                    "_cq:lastRolledout": "{Date}2023-08-24T16:51:13.856Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/SOT%5FDesktop%5FHero%5Fv2?",
+                    "_mobileImageUrl": "https://images.altrarunning.com/is/image/altra/SOT%5FDesktop%5FMobile%5Fv4?$hero%2Dfullbleed%2Dmobile$"
+                  },
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2023-08-24T16:51:13.859Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "autosize"
+                  },
+                  "link": {
+                    "_cq:lastRolledout": "{Date}2023-08-24T16:51:13.860Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlay": {
+                    "content": {
+                      "alignment": {
+                        "_cq:lastRolledout": "{Date}2023-08-24T16:51:13.905Z",
+                        "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                        "_jcr:primaryType": "nt:unstructured",
+                        "_small": "small-text-left"
+                      },
+                      "_cq:lastRolledout": "{Date}2023-08-24T16:51:13.899Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2023-08-24T16:51:13.907Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2023-08-24T16:51:13.909Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "gradient": {
+                      "_cq:lastRolledout": "{Date}2023-08-24T16:51:13.911Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "_cq:lastRolledout": "{Date}2023-08-24T16:51:13.888Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlaidimage": {
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2023-08-24T16:51:13.933Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2023-08-24T16:51:13.935Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2023-08-24T16:51:13.926Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2023-08-24T16:51:13.840Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-08-23T16:48:22.916Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2023-08-24T16:51:13.801Z",
+                  "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay_with_rte",
+                  "_float": "none",
+                  "_textIsRich": "[true,true,true]",
+                  "_toggleSwitchForEditor": "false",
+                  "_toggleSwitchForEditorLarge": "false",
+                  "_toggleSwitchForEditorMedium": "false"
+                },
+                "_cq:lastRolledout": "{Date}2023-08-24T16:51:13.796Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2023-08-24T16:51:13.791Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2023-08-17T22:12:32.812Z",
+              "_jcr:createdBy": "vtaymany@zobristinc.com",
+              "_jcr:lastModified": "{Date}2023-08-24T16:51:13.787Z",
+              "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "4",
+              "_mediumScreensColumnCount": "4",
+              "_smallScreensColumnCount": "12"
+            },
+            "grid_column_46881650": {
+              "column-content": {
+                "customhtml2": {
+                  "_cq:lastRolledout": "{Date}2023-08-24T16:51:13.977Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-08-17T22:20:54.556Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2023-08-24T16:51:13.972Z",
+                  "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<div class=\"video_with_overlay_with_rte video_with_overlay parbase section hide-for-small-only\">\r\n  <div class=\"medium-inner-middle large-inner-middle\" style=\"\">\r\n    <div class=\"media\">\r\n      <video\r\n        class=\"native-video hero\"\r\n        poster=\"\"\r\n        autoplay=\"true\"\r\n        loop=\"\"\r\n        muted=\"true\"\r\n        data-player-type=\"native\"\r\n      >\r\n        <source\r\n          src=\"https://images.altrarunning.com/is/content/altra/Marketing Assets/Website/Brand Pages/Brand Campaign 08.23/SOT_VideoPreview_Desktop.mp4\"\r\n          type=\"video/mp4\"\r\n        />\r\n      </video>\r\n      <div class=\"overlay\">\r\n        <div class=\"wrapper\">\r\n          <div class=\"inner medium-inner-middle large-inner-middle\">\r\n            <div class=\"row overlay-content\">\r\n              <div\r\n                class=\"small-text-center small-12 columns small-centered medium-uncentered medium-offset-0 large-uncentered large-offset-0\"\r\n              >\r\n                <div class=\"\">\r\n                  <div class=\"ctabutton parbase section\">\r\n                    <a\r\n                      class=\"button video-link-watch-hero-desktop\"\r\n                      href=\"#\"\r\n                      target=\"\"\r\n                      >Watch Video</a\r\n                    >\r\n                  </div>\r\n                </div>\r\n              </div>\r\n            </div>\r\n          </div>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </div>\r\n</div>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "customhtml2_copy": {
+                  "_cq:lastRolledout": "{Date}2023-08-24T16:51:13.984Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-08-17T22:20:54.556Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2023-08-24T16:51:13.980Z",
+                  "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<div\r\n  class=\"video_with_overlay_with_rte video_with_overlay parbase section show-for-small-only\"\r\n>\r\n  <div class=\"medium-inner-middle large-inner-middle\" style=\"\">\r\n    <div class=\"media\">\r\n      <video\r\n        class=\"native-video hero\"\r\n        poster=\"\"\r\n        autoplay\r\n        loop\r\n        muted\r\n        playsinline\r\n        data-player-type=\"native\"\r\n      >\r\n        <source\r\n          src=\"https://images.altrarunning.com/is/content/altra/Marketing Assets/Website/Brand Pages/Brand Campaign 08.23/SOT_VideoPreview_Mobile.mp4\"\r\n          type=\"video/mp4\"\r\n        />\r\n      </video>\r\n      <div class=\"overlay\">\r\n        <div class=\"wrapper\">\r\n          <div class=\"inner medium-inner-middle large-inner-middle\">\r\n            <div class=\"row overlay-content\">\r\n              <div\r\n                class=\"small-text-center small-12 columns small-centered medium-uncentered medium-offset-0 large-uncentered large-offset-0\"\r\n              >\r\n                <div class=\"\">\r\n                  <div class=\"ctabutton parbase section\">\r\n                    <a\r\n                      class=\"button video-link-watch-hero-mobile\"\r\n                      href=\"#\"\r\n                      target=\"\"\r\n                      >Watch Video</a\r\n                    >\r\n                  </div>\r\n                </div>\r\n              </div>\r\n            </div>\r\n          </div>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </div>\r\n</div>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2023-08-24T16:51:13.963Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2023-08-24T16:51:13.941Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2023-08-17T22:12:43.082Z",
+              "_jcr:createdBy": "vtaymany@zobristinc.com",
+              "_jcr:lastModified": "{Date}2023-08-24T16:51:13.937Z",
+              "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "8",
+              "_mediumScreensColumnCount": "8",
+              "_smallScreensColumnCount": "12"
+            },
+            "_cq:lastRolledout": "{Date}2023-08-24T16:51:13.780Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2023-08-24T16:51:13.761Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2023-08-17T22:12:26.187Z",
+          "_jcr:createdBy": "vtaymany@zobristinc.com",
+          "_jcr:lastModified": "{Date}2023-08-24T16:51:13.757Z",
+          "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row",
+          "_collapseGutters": "true",
+          "_rowFullBleed": "true"
+        },
+        "grid_row_copy": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "customhtml2_96336810_2118962345": {
+                  "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.021Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-07-10T16:51:15.950Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2023-08-24T16:51:14.016Z",
+                  "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<h2 class=\"the-altra-difference\">MADE TO KEEP YOU OUT THERE</h2>\r\n<h3 class=\"the-altra-difference\">\r\n  Natural Fit is the secret sauce in all Altra Shoes.\r\n</h3>\r\n<p class=\"the-altra-difference\">\r\n  With a Roomy Toe Box and Zero to Low Drop, our shoes are built to keep you\r\n  comfortable and keep you running. We're here to help you move the way you were\r\n  designed to.\r\n</p>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.011Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.005Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2023-07-10T21:59:53.588Z",
+              "_jcr:createdBy": "evan_lynch@vfc.com",
+              "_jcr:lastModified": "{Date}2023-08-24T16:51:14.001Z",
+              "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensCenterColumn": "true",
+              "_mediumScreensCenterColumn": "true",
+              "_smallScreensCenterColumn": "true",
+              "_smallScreensColumnCount": "12"
+            },
+            "_cq:lastRolledout": "{Date}2023-08-24T16:51:13.996Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2023-08-24T16:51:13.990Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2023-07-10T21:59:50.779Z",
+          "_jcr:createdBy": "evan_lynch@vfc.com",
+          "_jcr:lastModified": "{Date}2023-08-24T16:51:13.986Z",
+          "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row",
+          "_cssClass": "bggrey",
+          "_rowFullBleed": "true"
+        },
+        "grid_row_copy_copy_c": {
+          "row-content": {
+            "grid_column_copy": {
+              "column-content": {
+                "customhtml2_copy_cop": {
+                  "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.059Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2021-06-24T19:30:31.216Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2023-08-24T16:51:14.054Z",
+                  "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<h2 class=\"explore-by-activity\">Explore Our Lineup</h2>\r\n<div class=\"explore-by-category-carousel explore-by-category-carousel-theme\">\r\n  <div class=\"explore-by-category-carousel-theme-slide\" data-slide-index=\"0\">\r\n    <div class=\"explore-by-activity-carousel-container\">\r\n      <a href=\"/shop/walk-shoes\"\r\n        ><img\r\n          src=\"https://images.altrarunning.com/is/image/altra/Carousel%5FCategory%5FBestsellers%5FDesktop%5F335x370?\"\r\n          alt=\"\"\r\n        />\r\n      </a>\r\n      <h2 class=\"explore-by-activity-carousel\">Bestsellers</h2>\r\n      <div class=\"explore-by-activity-carousel-button-container hide\">\r\n        <a\r\n          href=\"/shop/mens-shoes-walk\"\r\n          class=\"button explore-by-activity-carousel\"\r\n        >\r\n          Shop Men\r\n        </a>\r\n        <a\r\n          href=\"/shop/womens-shoes-walk\"\r\n          class=\"button explore-by-activity-carousel\"\r\n        >\r\n          Shop Women\r\n        </a>\r\n      </div>\r\n    </div>\r\n  </div>\r\n  <div class=\"explore-by-category-carousel-theme-slide\" data-slide-index=\"1\">\r\n    <div class=\"explore-by-activity-carousel-container\">\r\n      <a href=\"/shop/road-shoes\"\r\n        ><img\r\n          src=\"https://images.altrarunning.com/is/image/altra/Homepage%5FCategory%5FRoad%5FDesktop%5F335x370?\"\r\n          alt=\"Image of a woman running on a shady road.\"\r\n        />\r\n      </a>\r\n      <h2 class=\"explore-by-activity-carousel overlay-test\">Road</h2>\r\n      <div class=\"explore-by-activity-carousel-button-container hide\">\r\n        <a\r\n          href=\"/shop/mens-shoes-road\"\r\n          class=\"button tertiary explore-by-activity-carousel\"\r\n        >\r\n          Shop Men\r\n        </a>\r\n        <a\r\n          href=\"/shop/womens-shoes-road\"\r\n          class=\"button tertiary explore-by-activity-carousel\"\r\n        >\r\n          Shop Women\r\n        </a>\r\n      </div>\r\n    </div>\r\n  </div>\r\n  <div class=\"explore-by-category-carousel-theme-slide\" data-slide-index=\"2\">\r\n    <div class=\"explore-by-activity-carousel-container\">\r\n      <a href=\"/shop/trail-shoes\"\r\n        ><img\r\n          src=\"https://images.altrarunning.com/is/image/altra/Homepage%5FCategory%5FTrail%5FDesktop%5F335x370?\"\r\n          alt=\"Image of a man trailrunning with a hydration vest.\"\r\n        />\r\n      </a>\r\n      <h2 class=\"explore-by-activity-carousel\">Trail</h2>\r\n      <div class=\"explore-by-activity-carousel-button-container hide\">\r\n        <a\r\n          href=\"/shop/mens-shoes-trail\"\r\n          class=\"button explore-by-activity-carousel\"\r\n        >\r\n          Shop Men\r\n        </a>\r\n        <a\r\n          href=\"/shop/womens-shoes-trail\"\r\n          class=\"button explore-by-activity-carousel\"\r\n        >\r\n          Shop Women\r\n        </a>\r\n      </div>\r\n    </div>\r\n  </div>\r\n  <div class=\"explore-by-category-carousel-theme-slide\" data-slide-index=\"3\">\r\n    <div class=\"explore-by-activity-carousel-container\">\r\n      <a href=\"/shop/hike-shoes\"\r\n        ><img\r\n          src=\"https://images.altrarunning.com/is/image/altra/Homepage%5FCategory%5FHike%5FDesktop%5F335x370?\"\r\n          alt=\"Image of a person crossing a stream with a backpack.\"\r\n        />\r\n      </a>\r\n      <h2 class=\"explore-by-activity-carousel\">Hike</h2>\r\n      <div class=\"explore-by-activity-carousel-button-container hide\">\r\n        <a\r\n          href=\"/shop/mens-shoes-outdoor-adventure\"\r\n          class=\"button explore-by-activity-carousel\"\r\n        >\r\n          Shop Men\r\n        </a>\r\n        <a\r\n          href=\"/shop/womens-shoes-outdoor-adventure\"\r\n          class=\"button explore-by-activity-carousel\"\r\n        >\r\n          Shop Women\r\n        </a>\r\n      </div>\r\n    </div>\r\n  </div>\r\n  <div class=\"explore-by-category-carousel-theme-slide\" data-slide-index=\"4\">\r\n    <div class=\"explore-by-activity-carousel-container\">\r\n      <a href=\"/shop/gym-shoes\"\r\n        ><img\r\n          src=\"https://images.altrarunning.com/is/image/altra/Homepage%5FCategory%5FGym%5FDesktop%5F335x370?\"\r\n          alt=\"Image of a man sitting down in an outdoor exercise area.\"\r\n        />\r\n      </a>\r\n      <h2 class=\"explore-by-activity-carousel\">Gym</h2>\r\n      <div class=\"explore-by-activity-carousel-button-container hide\">\r\n        <a\r\n          href=\"/shop/mens-shoes-gym-training\"\r\n          class=\"button explore-by-activity-carousel\"\r\n        >\r\n          Shop Men\r\n        </a>\r\n        <a\r\n          href=\"/shop/womens-shoes-gym-training\"\r\n          class=\"button explore-by-activity-carousel\"\r\n        >\r\n          Shop Women\r\n        </a>\r\n      </div>\r\n    </div>\r\n  </div>\r\n  <div class=\"explore-by-category-carousel-theme-slide\" data-slide-index=\"5\">\r\n    <div class=\"explore-by-activity-carousel-container\">\r\n      <a href=\"/shop/walk-shoes\"\r\n        ><img\r\n          src=\"https://images.altrarunning.com/is/image/altra/Homepage%5FCategory%5FWalk%5FDesktop%5F335x370?\"\r\n          alt=\"Image of a woman standing on a train platform with a rolling bag.\"\r\n        />\r\n      </a>\r\n      <h2 class=\"explore-by-activity-carousel\">Walk</h2>\r\n      <div class=\"explore-by-activity-carousel-button-container hide\">\r\n        <a\r\n          href=\"/shop/mens-shoes-walk\"\r\n          class=\"button explore-by-activity-carousel\"\r\n        >\r\n          Shop Men\r\n        </a>\r\n        <a\r\n          href=\"/shop/womens-shoes-walk\"\r\n          class=\"button explore-by-activity-carousel\"\r\n        >\r\n          Shop Women\r\n        </a>\r\n      </div>\r\n    </div>\r\n  </div>\r\n</div>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-3x5",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.047Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.039Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2022-11-10T23:40:40.408Z",
+              "_jcr:createdBy": "evan_lynch@vfc.com",
+              "_jcr:lastModified": "{Date}2023-08-24T16:51:14.035Z",
+              "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "12",
+              "_mediumScreensColumnCount": "12",
+              "_smallScreensColumnCount": "12"
+            },
+            "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.030Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.025Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2022-11-10T23:40:22.638Z",
+          "_jcr:createdBy": "evan_lynch@vfc.com",
+          "_jcr:lastModified": "{Date}2023-08-24T16:51:14.022Z",
+          "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row",
+          "_cssClass": "explore-by-activity-row"
+        },
+        "grid_row_2125279146": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "customhtml2_96336810": {
+                  "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.097Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-07-10T16:51:15.950Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2023-08-24T16:51:14.091Z",
+                  "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_className": "bggrey",
+                  "_customHTML": "<h2 class=\"natural-fit-header\">Altra's Natural Fit</h2>\r\n",
+                  "_marginBottom": "bottom-margin-0x0",
+                  "_marginBottomLg": "bottom-margin-0x0-lg",
+                  "_marginBottomMed": "bottom-margin-0x0-med",
+                  "_marginTop": "top-margin-0x0",
+                  "_marginTopLg": "top-margin-0x0-lg",
+                  "_marginTopMed": "top-margin-0x0-med",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.085Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.079Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2023-08-22T21:20:11.712Z",
+              "_jcr:createdBy": "evan_lynch@vfc.com",
+              "_jcr:lastModified": "{Date}2023-08-24T16:51:14.075Z",
+              "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensCenterColumn": "true",
+              "_mediumScreensCenterColumn": "true",
+              "_smallScreensCenterColumn": "true",
+              "_smallScreensColumnCount": "12"
+            },
+            "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.070Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.065Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2023-08-22T21:20:02.039Z",
+          "_jcr:createdBy": "evan_lynch@vfc.com",
+          "_jcr:lastModified": "{Date}2023-08-24T16:51:14.061Z",
+          "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row",
+          "_collapseGutters": "true",
+          "_cssClass": "bggrey",
+          "_rowFullBleed": "true"
+        },
+        "grid_row_1073722762_": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "image_with_overlay_w": {
+                  "overlayImage": {
+                    "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.199Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/BA9CD4B6%2D507C%2D48CB%2DA01C%2D6AF4278E107Adesktop?",
+                    "_mobileImageUrl": "https://images.altrarunning.com/is/image/altra/DA9C1EA5%2D1AD1%2D4648%2D923A%2DDE0214830473mobile?"
+                  },
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.203Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "autosize"
+                  },
+                  "link": {
+                    "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.204Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlay": {
+                    "content": {
+                      "alignment": {
+                        "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.253Z",
+                        "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                        "_jcr:primaryType": "nt:unstructured",
+                        "_small": "small-text-left"
+                      },
+                      "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.247Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.255Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.258Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "gradient": {
+                      "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.259Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.235Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlaidimage": {
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.282Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.285Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.274Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.181Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-08-23T18:34:53.123Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2023-08-24T16:51:14.143Z",
+                  "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay_with_rte",
+                  "_float": "none",
+                  "_textIsRich": "[true,true,true]",
+                  "_toggleSwitchForEditor": "false",
+                  "_toggleSwitchForEditorLarge": "false",
+                  "_toggleSwitchForEditorMedium": "false"
+                },
+                "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.138Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.132Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2023-06-21T17:43:18.421Z",
+              "_jcr:createdBy": "evan_lynch@vfc.com",
+              "_jcr:lastModified": "{Date}2023-08-24T16:51:14.128Z",
+              "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_cssClass": "bggrey",
+              "_largeScreensColumnCount": "4",
+              "_largeScreensOffset": "1",
+              "_mediumScreensColumnCount": "4",
+              "_mediumScreensOffset": "1",
+              "_smallScreensColumnCount": "12",
+              "_smallScreensOffset": "0"
+            },
+            "grid_column_16663424": {
+              "column-content": {
+                "customhtml2_96336810_523250273": {
+                  "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.308Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-07-10T16:51:15.950Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2023-08-24T16:51:14.303Z",
+                  "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<h2 class=\"natural-fit-subhead\">Roomy Toe Box</h2>\r\n<p class=\"natural-fit-subtext\">\r\n  All of our shoes are made with room for your toes, so they’re free to\r\n  move naturally.\r\n  <br />\r\n  <br />\r\n  - With room for your toes, you get a comfortable running experience.\r\n  <br />\r\n  <br />\r\n  - Allowing your toes to spread gives you confidence in every strike.\r\n  <br />\r\n  <br />\r\n  - Why confine your toes?\r\n</p>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_marginTopLg": "top-margin-4x0-lg",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.298Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.292Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2023-06-21T17:43:21.152Z",
+              "_jcr:createdBy": "evan_lynch@vfc.com",
+              "_jcr:lastModified": "{Date}2023-08-24T16:51:14.287Z",
+              "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_cssClass": "bggrey natural-fit-column",
+              "_largeScreensColumnCount": "6",
+              "_largeScreensPush": "1",
+              "_mediumScreensColumnCount": "6",
+              "_mediumScreensPush": "1",
+              "_smallScreensColumnCount": "12",
+              "_smallScreensPush": "0"
+            },
+            "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.120Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.102Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2023-06-21T17:43:15.202Z",
+          "_jcr:createdBy": "evan_lynch@vfc.com",
+          "_jcr:lastModified": "{Date}2023-08-24T16:51:14.098Z",
+          "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row",
+          "_collapseGutters": "true",
+          "_cssClass": "brand-origin-row-2 bggrey vertical-align-elements",
+          "_rowFullBleed": "true"
+        },
+        "grid_row_1073722762__713252723": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "customhtml2_14370426": {
+                  "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.362Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-07-05T20:35:10.260Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2023-08-24T16:51:14.357Z",
+                  "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "\r\n<div class=\"video_with_overlay_with_rte video_with_overlay parbase section show-for-small-only\">\r\n  <div class=\"medium-inner-middle large-inner-middle\" style=\"\">\r\n    <div class=\"media\">\r\n      <video\r\n        id=\"hero-video\"\r\n        class=\"native-video\"\r\n        poster=\"\"\r\n        autoplay=\"true\"\r\n        loop=\"\"\r\n        muted=\"true\"\r\n        data-player-type=\"native\"\r\n        playsinline\r\n      >\r\n        <source\r\n          src=\"https://images.altrarunning.com/is/content/altra/Marketing Assets/Website/Brand Pages/The Altra Difference/Zero-Drop-Graphic-001-Mobile.mp4\"          \r\n          type=\"video/mp4\"\r\n        />\r\n      </video>\r\n      <div class=\"overlay hide\">\r\n        <div class=\"wrapper\">\r\n          <div class=\"inner medium-inner-middle large-inner-middle\">\r\n            <div class=\"row overlay-content\">\r\n              <div\r\n                class=\"small-text-left small-4 columns medium-left medium-offset-0 large-left large-offset-0\"\r\n              >\r\n                <div class=\"\">\r\n                  <img\r\n                    id=\"hero-video-status-icon\"\r\n                    src=\"https://images.jansport.com/is/image/JanSportBrand/altra-difference-pause-button-07062023?fmt=png-alpha\"\r\n                    ;\r\n                    alt=\"pause button\"\r\n                    ;\r\n                  />\r\n                </div>\r\n              </div>\r\n           </div>\r\n          </div>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </div>\r\n</div>\r\n \r\n<div class=\"video_with_overlay_with_rte video_with_overlay parbase section hide-for-small-only\">\r\n  <div class=\"medium-inner-middle large-inner-middle\" style=\"\">\r\n    <div class=\"media\">\r\n      <video\r\n        id=\"hero-video\"\r\n        class=\"native-video\"\r\n        poster=\"\"\r\n        autoplay=\"true\"\r\n        loop=\"\"\r\n        muted=\"true\"\r\n        data-player-type=\"native\"\r\n        playsinline\r\n      >\r\n        <source\r\n          src=\"https://images.altrarunning.com/is/content/altra/Marketing Assets/Website/Brand Pages/The Altra Difference/TheAltraDifference_Zero-Drop-Graphic-Scroll-Animation-Example.mp4\"\r\n          type=\"video/mp4\"\r\n        />\r\n      </video>\r\n      <div class=\"overlay hide\">\r\n        <div class=\"wrapper\">\r\n          <div class=\"inner medium-inner-middle large-inner-middle\">\r\n            <div class=\"row overlay-content\">\r\n              <div\r\n                class=\"small-text-left small-4 columns medium-left medium-offset-0 large-left large-offset-0\"\r\n              >\r\n                <div class=\"\">\r\n                  <img\r\n                    id=\"hero-video-status-icon\"\r\n                    src=\"https://images.jansport.com/is/image/JanSportBrand/altra-difference-pause-button-07062023?fmt=png-alpha\"\r\n                    ;\r\n                    alt=\"pause button\"\r\n                    ;\r\n                  />\r\n                </div>\r\n              </div>\r\n           </div>\r\n          </div>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </div>\r\n</div>",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.352Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.347Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2023-06-21T17:43:18.421Z",
+              "_jcr:createdBy": "evan_lynch@vfc.com",
+              "_jcr:lastModified": "{Date}2023-08-24T16:51:14.342Z",
+              "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "4",
+              "_largeScreensOffset": "1",
+              "_mediumScreensColumnCount": "4",
+              "_mediumScreensOffset": "1",
+              "_smallScreensColumnCount": "12",
+              "_smallScreensOffset": "0"
+            },
+            "grid_column_16663424": {
+              "column-content": {
+                "customhtml2_96336810_523250273": {
+                  "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.385Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-07-10T16:51:15.950Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2023-08-24T16:51:14.380Z",
+                  "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<h2 class=\"natural-fit-subhead\">Zero To Low Drop</h2>\r\n<p class=\"natural-fit-subtext zero-to-low\">\r\n  Our zero to low drop shoes are built to place your foot in a natural position.\r\n  <br />\r\n  <br />\r\n  - Start with a stable and confident foundation to run on.\r\n  <br />\r\n  <br />\r\n  - Why run in heels?\r\n</p>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.375Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.369Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2023-06-21T17:43:21.152Z",
+              "_jcr:createdBy": "evan_lynch@vfc.com",
+              "_jcr:lastModified": "{Date}2023-08-24T16:51:14.364Z",
+              "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_cssClass": "bggrey natural-fit-column",
+              "_largeScreensColumnCount": "6",
+              "_largeScreensPush": "1",
+              "_mediumScreensColumnCount": "6",
+              "_mediumScreensPush": "1",
+              "_smallScreensColumnCount": "12",
+              "_smallScreensPush": "0"
+            },
+            "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.334Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.314Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2023-06-21T17:43:15.202Z",
+          "_jcr:createdBy": "evan_lynch@vfc.com",
+          "_jcr:lastModified": "{Date}2023-08-24T16:51:14.310Z",
+          "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row",
+          "_collapseGutters": "true",
+          "_cssClass": "bggrey vertical-align-elements",
+          "_rowFullBleed": "true"
+        },
+        "customhtml2_2058181238": {
+          "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.390Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2023-08-22T22:32:06.890Z",
+          "_jcr:createdBy": "evan_lynch@vfc.com",
+          "_jcr:lastModified": "{Date}2023-08-24T16:51:14.387Z",
+          "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+          "_customHTML": "<div class=\"sm-space\"></div>",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default"
+        },
+        "grid_row_1363777717_": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "image": {
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.458Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "autosize",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/SOT%5FBestsellers%5FHomepage%5FHalf%2DWidth%2DTile%5FDesktop%5F594x334?",
+                    "_mobileImageUrl": "https://images.altrarunning.com/is/image/altra/SOT%5FBestsellers%5FHomepage%5FHalf%2DWidth%2DTile%5FTablet%5F318x178?"
+                  },
+                  "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.452Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2022-11-10T20:59:42.584Z",
+                  "_jcr:createdBy": "evan_lynch@vfc.com",
+                  "_jcr:lastModified": "{Date}2023-08-24T16:51:14.449Z",
+                  "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image",
+                  "_float": "none"
+                },
+                "customhtml2": {
+                  "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.465Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2022-11-10T22:52:12.088Z",
+                  "_jcr:createdBy": "evan_lynch@vfc.com",
+                  "_jcr:lastModified": "{Date}2023-08-24T16:51:14.461Z",
+                  "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<div class=\"sm-space\"></div>\r\n<h2 class=\"half-width-tiles\">Bestsellers</h2>\r\n<br />\r\n<div class=\"half-width-button-row text-center\">\r\n  <a href=\"/shop/new-arrivals\" class=\"button primary bestsellers\">Shop Now </a>\r\n</div>\r\n<div class=\"sm-space\"></div>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.442Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.424Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2022-11-10T20:59:03.498Z",
+              "_jcr:createdBy": "evan_lynch@vfc.com",
+              "_jcr:lastModified": "{Date}2023-08-24T16:51:14.421Z",
+              "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "6",
+              "_mediumScreensColumnCount": "6",
+              "_smallScreensColumnCount": "12"
+            },
+            "grid_column_2142904292": {
+              "column-content": {
+                "image": {
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.511Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "autosize",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/SOT%5FShoeFinder%5FHomepage%5FHalf%2DWidth%2DTile%5FDesktop%5F594x334?",
+                    "_mobileImageUrl": "https://images.altrarunning.com/is/image/altra/SOT_ShoeFinder_Homepage_Half-Width-Tile_Tablet_318x178?",
+                    "_tabletImageUrl": "https://images.altrarunning.com/is/image/altra/SOT%5FShoeFinder%5FHomepage%5FHalf%2DWidth%2DTile%5FTablet%5F318x178?$"
+                  },
+                  "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.504Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2022-11-10T20:59:45.784Z",
+                  "_jcr:createdBy": "evan_lynch@vfc.com",
+                  "_jcr:lastModified": "{Date}2023-08-24T16:51:14.500Z",
+                  "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image",
+                  "_float": "none"
+                },
+                "customhtml2_copy": {
+                  "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.518Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2022-11-10T22:52:12.088Z",
+                  "_jcr:createdBy": "evan_lynch@vfc.com",
+                  "_jcr:lastModified": "{Date}2023-08-24T16:51:14.514Z",
+                  "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<div class=\"sm-space\"></div>\r\n<h2 class=\"half-width-tiles\">Shoe finder</h2>\r\n<br />\r\n<div class=\"half-width-button-row text-center\">\r\n  <a href=\"/best-shoes-finder.html\" class=\"button primary shoe-finder\">Get Started</a>\r\n</div>\r\n<div class=\"sm-space\"></div>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.493Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.472Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2022-11-10T20:59:20.818Z",
+              "_jcr:createdBy": "evan_lynch@vfc.com",
+              "_jcr:lastModified": "{Date}2023-08-24T16:51:14.467Z",
+              "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "6",
+              "_mediumScreensColumnCount": "6",
+              "_smallScreensColumnCount": "12"
+            },
+            "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.412Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.395Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2022-11-10T20:59:00.278Z",
+          "_jcr:createdBy": "evan_lynch@vfc.com",
+          "_jcr:lastModified": "{Date}2023-08-24T16:51:14.392Z",
+          "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row",
+          "_cssClass": "half-width-tile-row"
+        },
+        "grid_row_1893690644_": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "image_with_overlay_w": {
+                  "overlayImage": {
+                    "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.640Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/03_Returns_Desktop?wid=120&hei=100"
+                  },
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.642Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "autosize"
+                  },
+                  "link": {
+                    "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.645Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_url": "https://www.altrarunning.com/altra-guarantee.html"
+                  },
+                  "overlay": {
+                    "content": {
+                      "alignment": {
+                        "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.691Z",
+                        "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                        "_jcr:primaryType": "nt:unstructured",
+                        "_small": "small-text-left"
+                      },
+                      "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.685Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.692Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.695Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "gradient": {
+                      "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.696Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.673Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlaidimage": {
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.717Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.720Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.711Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.624Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-05-24T20:17:03.160Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2023-08-24T16:51:14.586Z",
+                  "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay_with_rte",
+                  "_float": "none",
+                  "_margin": "0em 0em 1em 0em",
+                  "_padding": "0% 30% 0% 30%",
+                  "_textIsRich": "[true,true,true]",
+                  "_toggleSwitchForEditor": "false",
+                  "_toggleSwitchForEditorLarge": "false",
+                  "_toggleSwitchForEditorMedium": "false"
+                },
+                "customhtml2": {
+                  "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.727Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-05-24T20:18:15.646Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2023-08-24T16:51:14.723Z",
+                  "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<div class=\"customer-service-section text-center\">\r\n  <a href=\"/altra-guarantee.html\">\r\n    <h3 class=\"customer-service-section\">30-DAY TRIAL RUNS</h3>\r\n  </a>\r\n  <p class=\"hide-for-small-only\">Absolutely free 30-day returns</p>\r\n</div>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.579Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.560Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2023-05-24T20:16:12.614Z",
+              "_jcr:createdBy": "vtaymany@zobristinc.com",
+              "_jcr:lastModified": "{Date}2023-08-24T16:51:14.556Z",
+              "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_cssClass": "brand-experience-customer-service-column-1",
+              "_largeScreensColumnCount": "3",
+              "_mediumScreensColumnCount": "3",
+              "_smallScreensColumnCount": "12"
+            },
+            "grid_column_copy": {
+              "column-content": {
+                "image_with_overlay_w": {
+                  "overlayImage": {
+                    "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.812Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/02_Shipping_Desktop?wid=120&hei=100"
+                  },
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.815Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "autosize"
+                  },
+                  "link": {
+                    "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.818Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_url": "https://www.altrarunning.com/shipping.html"
+                  },
+                  "overlay": {
+                    "content": {
+                      "alignment": {
+                        "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.900Z",
+                        "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                        "_jcr:primaryType": "nt:unstructured",
+                        "_small": "small-text-left"
+                      },
+                      "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.894Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.901Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.904Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "gradient": {
+                      "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.905Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.882Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlaidimage": {
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.927Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.930Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.920Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.796Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-05-24T20:17:03.160Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2023-08-24T16:51:14.758Z",
+                  "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay_with_rte",
+                  "_float": "none",
+                  "_margin": "0em 0em 1em 0em",
+                  "_padding": "0% 30% 0% 30%",
+                  "_textIsRich": "[true,true,true]",
+                  "_toggleSwitchForEditor": "false",
+                  "_toggleSwitchForEditorLarge": "false",
+                  "_toggleSwitchForEditorMedium": "false"
+                },
+                "customhtml2": {
+                  "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.936Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-05-24T20:18:15.646Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2023-08-24T16:51:14.932Z",
+                  "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<div class=\"customer-service-section text-center\">\r\n  <a href=\"/shipping.html\">\r\n    <h3 class=\"customer-service-section\">FREE 3-DAY SHIPPING</h3>\r\n  </a>\r\n  <p class=\"hide-for-small-only\">Get it faster</p>\r\n</div>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.750Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.732Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2023-05-24T20:16:12.614Z",
+              "_jcr:createdBy": "vtaymany@zobristinc.com",
+              "_jcr:lastModified": "{Date}2023-08-24T16:51:14.728Z",
+              "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "3",
+              "_mediumScreensColumnCount": "3",
+              "_smallScreensColumnCount": "12"
+            },
+            "grid_column_copy_cop": {
+              "column-content": {
+                "image_with_overlay_w": {
+                  "overlayImage": {
+                    "_cq:lastRolledout": "{Date}2023-08-24T16:51:15.020Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/01_Customer_Service_Desktop?wid=120&hei=100"
+                  },
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2023-08-24T16:51:15.023Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "autosize"
+                  },
+                  "link": {
+                    "_cq:lastRolledout": "{Date}2023-08-24T16:51:15.026Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_url": "https://www.altrarunning.com/utility/contact-us.html"
+                  },
+                  "overlay": {
+                    "content": {
+                      "alignment": {
+                        "_cq:lastRolledout": "{Date}2023-08-24T16:51:15.077Z",
+                        "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                        "_jcr:primaryType": "nt:unstructured",
+                        "_small": "small-text-left"
+                      },
+                      "_cq:lastRolledout": "{Date}2023-08-24T16:51:15.070Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2023-08-24T16:51:15.078Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2023-08-24T16:51:15.082Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "gradient": {
+                      "_cq:lastRolledout": "{Date}2023-08-24T16:51:15.083Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "_cq:lastRolledout": "{Date}2023-08-24T16:51:15.055Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlaidimage": {
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2023-08-24T16:51:15.105Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2023-08-24T16:51:15.108Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2023-08-24T16:51:15.098Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2023-08-24T16:51:15.005Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-05-24T20:17:03.160Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2023-08-24T16:51:14.967Z",
+                  "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay_with_rte",
+                  "_float": "none",
+                  "_margin": "0em 0em 1em 0em",
+                  "_padding": "0% 30% 0% 30%",
+                  "_textIsRich": "[true,true,true]",
+                  "_toggleSwitchForEditor": "false",
+                  "_toggleSwitchForEditorLarge": "false",
+                  "_toggleSwitchForEditorMedium": "false"
+                },
+                "customhtml2": {
+                  "_cq:lastRolledout": "{Date}2023-08-24T16:51:15.115Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-05-24T20:18:15.646Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2023-08-24T16:51:15.111Z",
+                  "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<div class=\"customer-service-section text-center\">\r\n  <a href=\"/utility/contact-us.html\">\r\n    <h3 class=\"customer-service-section\">CUSTOMER SERVICE</h3>\r\n  </a>\r\n  <p class=\"hide-for-small-only\">We're here to help</p>\r\n</div>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.960Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.942Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2023-05-24T20:16:12.614Z",
+              "_jcr:createdBy": "vtaymany@zobristinc.com",
+              "_jcr:lastModified": "{Date}2023-08-24T16:51:14.938Z",
+              "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "3",
+              "_mediumScreensColumnCount": "3",
+              "_smallScreensColumnCount": "12"
+            },
+            "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.548Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2023-08-24T16:51:14.523Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2023-05-24T20:16:10.021Z",
+          "_jcr:createdBy": "vtaymany@zobristinc.com",
+          "_jcr:lastModified": "{Date}2023-08-24T16:51:14.520Z",
+          "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row",
+          "_cssClass": "brand-experience-customer-service-row"
+        },
+        "customhtml2_16936840": {
+          "_cq:lastRolledout": "{Date}2023-08-24T16:51:15.121Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2023-05-12T21:05:02.124Z",
+          "_jcr:createdBy": "vtaymany@zobristinc.com",
+          "_jcr:lastModified": "{Date}2023-08-24T16:51:15.117Z",
+          "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+          "_customHTML": "<!-- Modal -->\r\n<div id=\"video-popup-watch-hero-desktop\" class=\"video-popup\">\r\n  <iframe\r\n    id=\"video-player-watch-hero-desktop\"\r\n    class=\"video-player\"\r\n    width=\"560\"\r\n    height=\"315\"\r\n    src=\"https://www.youtube.com/embed/Od5ulF0uSb0?enablejsapi=1\"\r\n    frameborder=\"0\"\r\n    allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\"\r\n    allowfullscreen\r\n  ></iframe>\r\n</div>\r\n\r\n<div id=\"video-popup-watch-hero-mobile\" class=\"video-popup\">\r\n  <iframe\r\n    id=\"video-player-watch-hero-mobile\"\r\n    class=\"video-player\"\r\n    width=\"560\"\r\n    height=\"315\"\r\n    src=\"https://www.youtube.com/embed/Od5ulF0uSb0?enablejsapi=1\"\r\n    frameborder=\"0\"\r\n    allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\"\r\n    allowfullscreen\r\n  ></iframe>\r\n</div>\r\n<!-- end hero -->\r\n",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default"
+        },
+        "customhtml2_12053758": {
+          "_cq:lastRolledout": "{Date}2023-08-24T16:51:15.127Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2023-05-12T21:12:01.296Z",
+          "_jcr:createdBy": "vtaymany@zobristinc.com",
+          "_jcr:lastModified": "{Date}2023-08-24T16:51:15.123Z",
+          "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+          "_customJS": "// Hero Modal\r\nrequire(['jquery', 'domReady'], function ($, domReady) {\r\n  domReady(function () {\r\n    // Open video popup on link click\r\n    var videoLink = document.getElementsByClassName(\r\n      'video-link-watch-hero-desktop'\r\n    )[0];\r\n    var videoPopup = document.getElementById('video-popup-watch-hero-desktop');\r\n    var videoPlayer = document.getElementById(\r\n      'video-player-watch-hero-desktop'\r\n    );\r\n\r\n    videoLink.addEventListener('click', function (e) {\r\n      e.preventDefault();\r\n      videoPopup.style.display = 'block';\r\n    });\r\n\r\n    // Close video popup\r\n    videoPopup.addEventListener('click', function (e) {\r\n      if (e.target === videoPopup) {\r\n        videoPopup.style.display = 'none';\r\n        videoPlayer.contentWindow.postMessage(\r\n          '{\"event\":\"command\",\"func\":\"' + 'pauseVideo' + '\",\"args\":\"\"}',\r\n          '*'\r\n        );\r\n      }\r\n    });\r\n  });\r\n});\r\n\r\nrequire(['jquery', 'domReady'], function ($, domReady) {\r\n  domReady(function () {\r\n    // Open video popup on link click\r\n    var videoLink = document.getElementsByClassName(\r\n      'video-link-watch-hero-mobile'\r\n    )[0];\r\n    var videoPopup = document.getElementById('video-popup-watch-hero-mobile');\r\n    var videoPlayer = document.getElementById('video-player-watch-hero-mobile');\r\n\r\n    videoLink.addEventListener('click', function (e) {\r\n      e.preventDefault();\r\n      videoPopup.style.display = 'block';\r\n    });\r\n\r\n    // Close video popup\r\n    videoPopup.addEventListener('click', function (e) {\r\n      if (e.target === videoPopup) {\r\n        videoPopup.style.display = 'none';\r\n        videoPlayer.contentWindow.postMessage(\r\n          '{\"event\":\"command\",\"func\":\"' + 'pauseVideo' + '\",\"args\":\"\"}',\r\n          '*'\r\n        );\r\n      }\r\n    });\r\n  });\r\n});\r\n",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default"
+        },
+        "customhtml2_36182511": {
+          "_cq:lastRolledout": "{Date}2023-08-24T16:51:15.143Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2023-05-17T15:19:04.010Z",
+          "_jcr:createdBy": "vtaymany@zobristinc.com",
+          "_jcr:lastModified": "{Date}2023-08-24T16:51:15.129Z",
+          "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+          "_customJS": "// Carousel \r\nrequire(['jquery', 'domReady'], function ($, domReady) {\r\n  domReady(function () {\r\n    $(document).ready(function () {\r\n      var el = $('.explore-by-category-carousel');\r\n      // var carousel;\r\n      var carouselOptions = {\r\n        margin: 20,\r\n        nav: true,\r\n        dots: true,\r\n        slideBy: 'page',\r\n        responsiveClass: true,\r\n        navText: [\r\n          \"<img src='https://images.altrarunning.com/is/image/altra/altra-left-arrow-v1-05312023?wid=100&hei=100'>\",\r\n          \"<img src='https://images.altrarunning.com/is/image/altra/altra-right-arrow-v1-05312023?wid=100&hei=100'>\",\r\n        ],\r\n        responsive: {\r\n          0: {\r\n            items: 1,\r\n            //rows: 1, //custom option not used by Owl Carousel, but used by the algorithm below\r\n            stagePadding: 35,\r\n          },\r\n          640: {\r\n            items: 3,\r\n            //rows: 1, //custom option not used by Owl Carousel, but used by the algorithm below\r\n            stagePadding: 0,\r\n          },\r\n          1440: {\r\n            items: 4,\r\n            //rows: 1, //custom option not used by Owl Carousel, but used by the algorithm below\r\n            stagePadding: 0,\r\n          },\r\n        },\r\n      };\r\n\r\n      // //Taken from Owl Carousel so we calculate width the same way\r\n      // var viewport = function () {\r\n      //   var width;\r\n      //   if (\r\n      //     carouselOptions.responsiveBaseElement &&\r\n      //     carouselOptions.responsiveBaseElement !== window\r\n      //   ) {\r\n      //     width = $(carouselOptions.responsiveBaseElement).width();\r\n      //   } else if (window.innerWidth) {\r\n      //     width = window.innerWidth;\r\n      //   } else if (\r\n      //     document.documentElement &&\r\n      //     document.documentElement.clientWidth\r\n      //   ) {\r\n      //     width = document.documentElement.clientWidth;\r\n      //   } else {\r\n      //     console.warn('Can not detect viewport width.');\r\n      //   }\r\n      //   return width;\r\n      // };\r\n\r\n      // var severalRows = false;\r\n      // var orderedBreakpoints = [];\r\n      // for (var breakpoint in carouselOptions.responsive) {\r\n      //   if (carouselOptions.responsive[breakpoint].rows > 1) {\r\n      //     severalRows = true;\r\n      //   }\r\n      //   orderedBreakpoints.push(parseInt(breakpoint));\r\n      // }\r\n\r\n      // //Custom logic is active if carousel is set up to have more than one row for some given window width\r\n      // if (severalRows) {\r\n      //   orderedBreakpoints.sort(function (a, b) {\r\n      //     return b - a;\r\n      //   });\r\n      //   var slides = el.find('[data-slide-index]');\r\n      //   var slidesNb = slides.length;\r\n      //   if (slidesNb > 0) {\r\n      //     var rowsNb;\r\n      //     var previousRowsNb = undefined;\r\n      //     var colsNb;\r\n      //     var previousColsNb = undefined;\r\n\r\n      //     //Calculates number of rows and cols based on current window width\r\n      //     var updateRowsColsNb = function () {\r\n      //       var width = viewport();\r\n      //       for (var i = 0; i < orderedBreakpoints.length; i++) {\r\n      //         var breakpoint = orderedBreakpoints[i];\r\n      //         if (width >= breakpoint || i == orderedBreakpoints.length - 1) {\r\n      //           var breakpointSettings =\r\n      //             carouselOptions.responsive['' + breakpoint];\r\n      //           rowsNb = breakpointSettings.rows;\r\n      //           colsNb = breakpointSettings.items;\r\n      //           break;\r\n      //         }\r\n      //       }\r\n      //     };\r\n\r\n      //     var updateCarousel = function () {\r\n      //       updateRowsColsNb();\r\n\r\n      //       //Carousel is recalculated if and only if a change in number of columns/rows is requested\r\n      //       if (rowsNb != previousRowsNb || colsNb != previousColsNb) {\r\n      //         var reInit = false;\r\n      //         if (carousel) {\r\n      //           //Destroy existing carousel if any, and set html markup back to its initial state\r\n      //           carousel.trigger('destroy.owl.carousel');\r\n      //           carousel = undefined;\r\n      //           slides = el.find('[data-slide-index]').detach().appendTo(el);\r\n      //           el.find('.fake-col-wrapper').remove();\r\n      //           reInit = true;\r\n      //         }\r\n\r\n      //         //This is the only real 'smart' part of the algorithm\r\n\r\n      //         //First calculate the number of needed columns for the whole carousel\r\n      //         var perPage = rowsNb * colsNb;\r\n      //         var pageIndex = Math.floor(slidesNb / perPage);\r\n      //         var fakeColsNb =\r\n      //           pageIndex * colsNb +\r\n      //           (slidesNb >= pageIndex * perPage + colsNb\r\n      //             ? colsNb\r\n      //             : slidesNb % colsNb);\r\n\r\n      //         //Then populate with needed html markup\r\n      //         var count = 0;\r\n      //         for (var i = 0; i < fakeColsNb; i++) {\r\n      //           //For each column, create a new wrapper div\r\n      //           var fakeCol = $(\r\n      //             '<div class=\"fake-col-wrapper\"></div>'\r\n      //           ).appendTo(el);\r\n      //           for (var j = 0; j < rowsNb; j++) {\r\n      //             //For each row in said column, calculate which slide should be present\r\n      //             var index =\r\n      //               Math.floor(count / perPage) * perPage +\r\n      //               (i % colsNb) +\r\n      //               j * colsNb;\r\n      //             if (index < slidesNb) {\r\n      //               //If said slide exists, move it under wrapper div\r\n      //               slides\r\n      //                 .filter('[data-slide-index=' + index + ']')\r\n      //                 .detach()\r\n      //                 .appendTo(fakeCol);\r\n      //             }\r\n      //             count++;\r\n      //           }\r\n      //         }\r\n      //         //end of 'smart' part\r\n\r\n      //         previousRowsNb = rowsNb;\r\n      //         previousColsNb = colsNb;\r\n\r\n      //         if (reInit) {\r\n      //           //re-init carousel with new markup\r\n      //           carousel = el.owlCarousel(carouselOptions);\r\n      //         }\r\n      //       }\r\n      //     };\r\n\r\n      //     //Trigger possible update when window size changes\r\n      //     $(window).on('resize', updateCarousel);\r\n\r\n      //     //We need to execute the algorithm once before first init in any case\r\n      //     updateCarousel();\r\n      //   }\r\n      // }\r\n\r\n      //init\r\n      carousel = el.owlCarousel(carouselOptions);\r\n    });\r\n\r\n    /**\r\n     * Owl Carousel v2.3.4\r\n     * Copyright 2013-2018 David Deutsch\r\n     * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE\r\n     */\r\n    !(function (a, b, c, d) {\r\n      function e(b, c) {\r\n        (this.settings = null),\r\n          (this.options = a.extend({}, e.Defaults, c)),\r\n          (this.$element = a(b)),\r\n          (this._handlers = {}),\r\n          (this._plugins = {}),\r\n          (this._supress = {}),\r\n          (this._current = null),\r\n          (this._speed = null),\r\n          (this._coordinates = []),\r\n          (this._breakpoint = null),\r\n          (this._width = null),\r\n          (this._items = []),\r\n          (this._clones = []),\r\n          (this._mergers = []),\r\n          (this._widths = []),\r\n          (this._invalidated = {}),\r\n          (this._pipe = []),\r\n          (this._drag = {\r\n            time: null,\r\n            target: null,\r\n            pointer: null,\r\n            stage: { start: null, current: null },\r\n            direction: null,\r\n          }),\r\n          (this._states = {\r\n            current: {},\r\n            tags: {\r\n              initializing: ['busy'],\r\n              animating: ['busy'],\r\n              dragging: ['interacting'],\r\n            },\r\n          }),\r\n          a.each(\r\n            ['onResize', 'onThrottledResize'],\r\n            a.proxy(function (b, c) {\r\n              this._handlers[c] = a.proxy(this[c], this);\r\n            }, this)\r\n          ),\r\n          a.each(\r\n            e.Plugins,\r\n            a.proxy(function (a, b) {\r\n              this._plugins[a.charAt(0).toLowerCase() + a.slice(1)] = new b(\r\n                this\r\n              );\r\n            }, this)\r\n          ),\r\n          a.each(\r\n            e.Workers,\r\n            a.proxy(function (b, c) {\r\n              this._pipe.push({ filter: c.filter, run: a.proxy(c.run, this) });\r\n            }, this)\r\n          ),\r\n          this.setup(),\r\n          this.initialize();\r\n      }\r\n      (e.Defaults = {\r\n        items: 3,\r\n        loop: !1,\r\n        center: !1,\r\n        rewind: !1,\r\n        checkVisibility: !0,\r\n        mouseDrag: !0,\r\n        touchDrag: !0,\r\n        pullDrag: !0,\r\n        freeDrag: !1,\r\n        margin: 0,\r\n        stagePadding: 0,\r\n        merge: !1,\r\n        mergeFit: !0,\r\n        autoWidth: !1,\r\n        startPosition: 0,\r\n        rtl: !1,\r\n        smartSpeed: 250,\r\n        fluidSpeed: !1,\r\n        dragEndSpeed: !1,\r\n        responsive: {},\r\n        responsiveRefreshRate: 200,\r\n        responsiveBaseElement: b,\r\n        fallbackEasing: 'swing',\r\n        slideTransition: '',\r\n        info: !1,\r\n        nestedItemSelector: !1,\r\n        itemElement: 'div',\r\n        stageElement: 'div',\r\n        refreshClass: 'owl-refresh',\r\n        loadedClass: 'owl-loaded',\r\n        loadingClass: 'owl-loading',\r\n        rtlClass: 'owl-rtl',\r\n        responsiveClass: 'owl-responsive',\r\n        dragClass: 'owl-drag',\r\n        itemClass: 'owl-item',\r\n        stageClass: 'owl-stage',\r\n        stageOuterClass: 'owl-stage-outer',\r\n        grabClass: 'owl-grab',\r\n      }),\r\n        (e.Width = { Default: 'default', Inner: 'inner', Outer: 'outer' }),\r\n        (e.Type = { Event: 'event', State: 'state' }),\r\n        (e.Plugins = {}),\r\n        (e.Workers = [\r\n          {\r\n            filter: ['width', 'settings'],\r\n            run: function () {\r\n              this._width = this.$element.width();\r\n            },\r\n          },\r\n          {\r\n            filter: ['width', 'items', 'settings'],\r\n            run: function (a) {\r\n              a.current =\r\n                this._items && this._items[this.relative(this._current)];\r\n            },\r\n          },\r\n          {\r\n            filter: ['items', 'settings'],\r\n            run: function () {\r\n              this.$stage.children('.cloned').remove();\r\n            },\r\n          },\r\n          {\r\n            filter: ['width', 'items', 'settings'],\r\n            run: function (a) {\r\n              var b = this.settings.margin || '',\r\n                c = !this.settings.autoWidth,\r\n                d = this.settings.rtl,\r\n                e = {\r\n                  width: 'auto',\r\n                  'margin-left': d ? b : '',\r\n                  'margin-right': d ? '' : b,\r\n                };\r\n              !c && this.$stage.children().css(e), (a.css = e);\r\n            },\r\n          },\r\n          {\r\n            filter: ['width', 'items', 'settings'],\r\n            run: function (a) {\r\n              var b =\r\n                  (this.width() / this.settings.items).toFixed(3) -\r\n                  this.settings.margin,\r\n                c = null,\r\n                d = this._items.length,\r\n                e = !this.settings.autoWidth,\r\n                f = [];\r\n              for (a.items = { merge: !1, width: b }; d--; )\r\n                (c = this._mergers[d]),\r\n                  (c =\r\n                    (this.settings.mergeFit &&\r\n                      Math.min(c, this.settings.items)) ||\r\n                    c),\r\n                  (a.items.merge = c > 1 || a.items.merge),\r\n                  (f[d] = e ? b * c : this._items[d].width());\r\n              this._widths = f;\r\n            },\r\n          },\r\n          {\r\n            filter: ['items', 'settings'],\r\n            run: function () {\r\n              var b = [],\r\n                c = this._items,\r\n                d = this.settings,\r\n                e = Math.max(2 * d.items, 4),\r\n                f = 2 * Math.ceil(c.length / 2),\r\n                g = d.loop && c.length ? (d.rewind ? e : Math.max(e, f)) : 0,\r\n                h = '',\r\n                i = '';\r\n              for (g /= 2; g > 0; )\r\n                b.push(this.normalize(b.length / 2, !0)),\r\n                  (h += c[b[b.length - 1]][0].outerHTML),\r\n                  b.push(this.normalize(c.length - 1 - (b.length - 1) / 2, !0)),\r\n                  (i = c[b[b.length - 1]][0].outerHTML + i),\r\n                  (g -= 1);\r\n              (this._clones = b),\r\n                a(h).addClass('cloned').appendTo(this.$stage),\r\n                a(i).addClass('cloned').prependTo(this.$stage);\r\n            },\r\n          },\r\n          {\r\n            filter: ['width', 'items', 'settings'],\r\n            run: function () {\r\n              for (\r\n                var a = this.settings.rtl ? 1 : -1,\r\n                  b = this._clones.length + this._items.length,\r\n                  c = -1,\r\n                  d = 0,\r\n                  e = 0,\r\n                  f = [];\r\n                ++c < b;\r\n\r\n              )\r\n                (d = f[c - 1] || 0),\r\n                  (e = this._widths[this.relative(c)] + this.settings.margin),\r\n                  f.push(d + e * a);\r\n              this._coordinates = f;\r\n            },\r\n          },\r\n          {\r\n            filter: ['width', 'items', 'settings'],\r\n            run: function () {\r\n              var a = this.settings.stagePadding,\r\n                b = this._coordinates,\r\n                c = {\r\n                  width: Math.ceil(Math.abs(b[b.length - 1])) + 2 * a,\r\n                  'padding-left': a || '',\r\n                  'padding-right': a || '',\r\n                };\r\n              this.$stage.css(c);\r\n            },\r\n          },\r\n          {\r\n            filter: ['width', 'items', 'settings'],\r\n            run: function (a) {\r\n              var b = this._coordinates.length,\r\n                c = !this.settings.autoWidth,\r\n                d = this.$stage.children();\r\n              if (c && a.items.merge)\r\n                for (; b--; )\r\n                  (a.css.width = this._widths[this.relative(b)]),\r\n                    d.eq(b).css(a.css);\r\n              else c && ((a.css.width = a.items.width), d.css(a.css));\r\n            },\r\n          },\r\n          {\r\n            filter: ['items'],\r\n            run: function () {\r\n              this._coordinates.length < 1 && this.$stage.removeAttr('style');\r\n            },\r\n          },\r\n          {\r\n            filter: ['width', 'items', 'settings'],\r\n            run: function (a) {\r\n              (a.current = a.current\r\n                ? this.$stage.children().index(a.current)\r\n                : 0),\r\n                (a.current = Math.max(\r\n                  this.minimum(),\r\n                  Math.min(this.maximum(), a.current)\r\n                )),\r\n                this.reset(a.current);\r\n            },\r\n          },\r\n          {\r\n            filter: ['position'],\r\n            run: function () {\r\n              this.animate(this.coordinates(this._current));\r\n            },\r\n          },\r\n          {\r\n            filter: ['width', 'position', 'items', 'settings'],\r\n            run: function () {\r\n              var a,\r\n                b,\r\n                c,\r\n                d,\r\n                e = this.settings.rtl ? 1 : -1,\r\n                f = 2 * this.settings.stagePadding,\r\n                g = this.coordinates(this.current()) + f,\r\n                h = g + this.width() * e,\r\n                i = [];\r\n              for (c = 0, d = this._coordinates.length; c < d; c++)\r\n                (a = this._coordinates[c - 1] || 0),\r\n                  (b = Math.abs(this._coordinates[c]) + f * e),\r\n                  ((this.op(a, '<=', g) && this.op(a, '>', h)) ||\r\n                    (this.op(b, '<', g) && this.op(b, '>', h))) &&\r\n                    i.push(c);\r\n              this.$stage.children('.active').removeClass('active'),\r\n                this.$stage\r\n                  .children(':eq(' + i.join('), :eq(') + ')')\r\n                  .addClass('active'),\r\n                this.$stage.children('.center').removeClass('center'),\r\n                this.settings.center &&\r\n                  this.$stage.children().eq(this.current()).addClass('center');\r\n            },\r\n          },\r\n        ]),\r\n        (e.prototype.initializeStage = function () {\r\n          (this.$stage = this.$element.find('.' + this.settings.stageClass)),\r\n            this.$stage.length ||\r\n              (this.$element.addClass(this.options.loadingClass),\r\n              (this.$stage = a('<' + this.settings.stageElement + '>', {\r\n                class: this.settings.stageClass,\r\n              }).wrap(a('<div/>', { class: this.settings.stageOuterClass }))),\r\n              this.$element.append(this.$stage.parent()));\r\n        }),\r\n        (e.prototype.initializeItems = function () {\r\n          var b = this.$element.find('.owl-item');\r\n          if (b.length)\r\n            return (\r\n              (this._items = b.get().map(function (b) {\r\n                return a(b);\r\n              })),\r\n              (this._mergers = this._items.map(function () {\r\n                return 1;\r\n              })),\r\n              void this.refresh()\r\n            );\r\n          this.replace(this.$element.children().not(this.$stage.parent())),\r\n            this.isVisible() ? this.refresh() : this.invalidate('width'),\r\n            this.$element\r\n              .removeClass(this.options.loadingClass)\r\n              .addClass(this.options.loadedClass);\r\n        }),\r\n        (e.prototype.initialize = function () {\r\n          if (\r\n            (this.enter('initializing'),\r\n            this.trigger('initialize'),\r\n            this.$element.toggleClass(\r\n              this.settings.rtlClass,\r\n              this.settings.rtl\r\n            ),\r\n            this.settings.autoWidth && !this.is('pre-loading'))\r\n          ) {\r\n            var a, b, c;\r\n            (a = this.$element.find('img')),\r\n              (b = this.settings.nestedItemSelector\r\n                ? '.' + this.settings.nestedItemSelector\r\n                : d),\r\n              (c = this.$element.children(b).width()),\r\n              a.length && c <= 0 && this.preloadAutoWidthImages(a);\r\n          }\r\n          this.initializeStage(),\r\n            this.initializeItems(),\r\n            this.registerEventHandlers(),\r\n            this.leave('initializing'),\r\n            this.trigger('initialized');\r\n        }),\r\n        (e.prototype.isVisible = function () {\r\n          return !this.settings.checkVisibility || this.$element.is(':visible');\r\n        }),\r\n        (e.prototype.setup = function () {\r\n          var b = this.viewport(),\r\n            c = this.options.responsive,\r\n            d = -1,\r\n            e = null;\r\n          c\r\n            ? (a.each(c, function (a) {\r\n                a <= b && a > d && (d = Number(a));\r\n              }),\r\n              (e = a.extend({}, this.options, c[d])),\r\n              'function' == typeof e.stagePadding &&\r\n                (e.stagePadding = e.stagePadding()),\r\n              delete e.responsive,\r\n              e.responsiveClass &&\r\n                this.$element.attr(\r\n                  'class',\r\n                  this.$element\r\n                    .attr('class')\r\n                    .replace(\r\n                      new RegExp(\r\n                        '(' + this.options.responsiveClass + '-)\\\\\\\\S+\\\\\\\\s',\r\n                        'g'\r\n                      ),\r\n                      '$1' + d\r\n                    )\r\n                ))\r\n            : (e = a.extend({}, this.options)),\r\n            this.trigger('change', {\r\n              property: { name: 'settings', value: e },\r\n            }),\r\n            (this._breakpoint = d),\r\n            (this.settings = e),\r\n            this.invalidate('settings'),\r\n            this.trigger('changed', {\r\n              property: { name: 'settings', value: this.settings },\r\n            });\r\n        }),\r\n        (e.prototype.optionsLogic = function () {\r\n          this.settings.autoWidth &&\r\n            ((this.settings.stagePadding = !1), (this.settings.merge = !1));\r\n        }),\r\n        (e.prototype.prepare = function (b) {\r\n          var c = this.trigger('prepare', { content: b });\r\n          return (\r\n            c.data ||\r\n              (c.data = a('<' + this.settings.itemElement + '/>')\r\n                .addClass(this.options.itemClass)\r\n                .append(b)),\r\n            this.trigger('prepared', { content: c.data }),\r\n            c.data\r\n          );\r\n        }),\r\n        (e.prototype.update = function () {\r\n          for (\r\n            var b = 0,\r\n              c = this._pipe.length,\r\n              d = a.proxy(function (a) {\r\n                return this[a];\r\n              }, this._invalidated),\r\n              e = {};\r\n            b < c;\r\n\r\n          )\r\n            (this._invalidated.all ||\r\n              a.grep(this._pipe[b].filter, d).length > 0) &&\r\n              this._pipe[b].run(e),\r\n              b++;\r\n          (this._invalidated = {}), !this.is('valid') && this.enter('valid');\r\n        }),\r\n        (e.prototype.width = function (a) {\r\n          switch ((a = a || e.Width.Default)) {\r\n            case e.Width.Inner:\r\n            case e.Width.Outer:\r\n              return this._width;\r\n            default:\r\n              return (\r\n                this._width -\r\n                2 * this.settings.stagePadding +\r\n                this.settings.margin\r\n              );\r\n          }\r\n        }),\r\n        (e.prototype.refresh = function () {\r\n          this.enter('refreshing'),\r\n            this.trigger('refresh'),\r\n            this.setup(),\r\n            this.optionsLogic(),\r\n            this.$element.addClass(this.options.refreshClass),\r\n            this.update(),\r\n            this.$element.removeClass(this.options.refreshClass),\r\n            this.leave('refreshing'),\r\n            this.trigger('refreshed');\r\n        }),\r\n        (e.prototype.onThrottledResize = function () {\r\n          b.clearTimeout(this.resizeTimer),\r\n            (this.resizeTimer = b.setTimeout(\r\n              this._handlers.onResize,\r\n              this.settings.responsiveRefreshRate\r\n            ));\r\n        }),\r\n        (e.prototype.onResize = function () {\r\n          return (\r\n            !!this._items.length &&\r\n            this._width !== this.$element.width() &&\r\n            !!this.isVisible() &&\r\n            (this.enter('resizing'),\r\n            this.trigger('resize').isDefaultPrevented()\r\n              ? (this.leave('resizing'), !1)\r\n              : (this.invalidate('width'),\r\n                this.refresh(),\r\n                this.leave('resizing'),\r\n                void this.trigger('resized')))\r\n          );\r\n        }),\r\n        (e.prototype.registerEventHandlers = function () {\r\n          a.support.transition &&\r\n            this.$stage.on(\r\n              a.support.transition.end + '.owl.core',\r\n              a.proxy(this.onTransitionEnd, this)\r\n            ),\r\n            !1 !== this.settings.responsive &&\r\n              this.on(b, 'resize', this._handlers.onThrottledResize),\r\n            this.settings.mouseDrag &&\r\n              (this.$element.addClass(this.options.dragClass),\r\n              this.$stage.on(\r\n                'mousedown.owl.core',\r\n                a.proxy(this.onDragStart, this)\r\n              ),\r\n              this.$stage.on(\r\n                'dragstart.owl.core selectstart.owl.core',\r\n                function () {\r\n                  return !1;\r\n                }\r\n              )),\r\n            this.settings.touchDrag &&\r\n              (this.$stage.on(\r\n                'touchstart.owl.core',\r\n                a.proxy(this.onDragStart, this)\r\n              ),\r\n              this.$stage.on(\r\n                'touchcancel.owl.core',\r\n                a.proxy(this.onDragEnd, this)\r\n              ));\r\n        }),\r\n        (e.prototype.onDragStart = function (b) {\r\n          var d = null;\r\n          3 !== b.which &&\r\n            (a.support.transform\r\n              ? ((d = this.$stage\r\n                  .css('transform')\r\n                  .replace(/.*\\\\(|\\\\)| /g, '')\r\n                  .split(',')),\r\n                (d = {\r\n                  x: d[16 === d.length ? 12 : 4],\r\n                  y: d[16 === d.length ? 13 : 5],\r\n                }))\r\n              : ((d = this.$stage.position()),\r\n                (d = {\r\n                  x: this.settings.rtl\r\n                    ? d.left +\r\n                      this.$stage.width() -\r\n                      this.width() +\r\n                      this.settings.margin\r\n                    : d.left,\r\n                  y: d.top,\r\n                })),\r\n            this.is('animating') &&\r\n              (a.support.transform ? this.animate(d.x) : this.$stage.stop(),\r\n              this.invalidate('position')),\r\n            this.$element.toggleClass(\r\n              this.options.grabClass,\r\n              'mousedown' === b.type\r\n            ),\r\n            this.speed(0),\r\n            (this._drag.time = new Date().getTime()),\r\n            (this._drag.target = a(b.target)),\r\n            (this._drag.stage.start = d),\r\n            (this._drag.stage.current = d),\r\n            (this._drag.pointer = this.pointer(b)),\r\n            a(c).on(\r\n              'mouseup.owl.core touchend.owl.core',\r\n              a.proxy(this.onDragEnd, this)\r\n            ),\r\n            a(c).one(\r\n              'mousemove.owl.core touchmove.owl.core',\r\n              a.proxy(function (b) {\r\n                var d = this.difference(this._drag.pointer, this.pointer(b));\r\n                a(c).on(\r\n                  'mousemove.owl.core touchmove.owl.core',\r\n                  a.proxy(this.onDragMove, this)\r\n                ),\r\n                  (Math.abs(d.x) < Math.abs(d.y) && this.is('valid')) ||\r\n                    (b.preventDefault(),\r\n                    this.enter('dragging'),\r\n                    this.trigger('drag'));\r\n              }, this)\r\n            ));\r\n        }),\r\n        (e.prototype.onDragMove = function (a) {\r\n          var b = null,\r\n            c = null,\r\n            d = null,\r\n            e = this.difference(this._drag.pointer, this.pointer(a)),\r\n            f = this.difference(this._drag.stage.start, e);\r\n          this.is('dragging') &&\r\n            (a.preventDefault(),\r\n            this.settings.loop\r\n              ? ((b = this.coordinates(this.minimum())),\r\n                (c = this.coordinates(this.maximum() + 1) - b),\r\n                (f.x = ((((f.x - b) % c) + c) % c) + b))\r\n              : ((b = this.settings.rtl\r\n                  ? this.coordinates(this.maximum())\r\n                  : this.coordinates(this.minimum())),\r\n                (c = this.settings.rtl\r\n                  ? this.coordinates(this.minimum())\r\n                  : this.coordinates(this.maximum())),\r\n                (d = this.settings.pullDrag ? (-1 * e.x) / 5 : 0),\r\n                (f.x = Math.max(Math.min(f.x, b + d), c + d))),\r\n            (this._drag.stage.current = f),\r\n            this.animate(f.x));\r\n        }),\r\n        (e.prototype.onDragEnd = function (b) {\r\n          var d = this.difference(this._drag.pointer, this.pointer(b)),\r\n            e = this._drag.stage.current,\r\n            f = (d.x > 0) ^ this.settings.rtl ? 'left' : 'right';\r\n          a(c).off('.owl.core'),\r\n            this.$element.removeClass(this.options.grabClass),\r\n            ((0 !== d.x && this.is('dragging')) || !this.is('valid')) &&\r\n              (this.speed(\r\n                this.settings.dragEndSpeed || this.settings.smartSpeed\r\n              ),\r\n              this.current(\r\n                this.closest(e.x, 0 !== d.x ? f : this._drag.direction)\r\n              ),\r\n              this.invalidate('position'),\r\n              this.update(),\r\n              (this._drag.direction = f),\r\n              (Math.abs(d.x) > 3 ||\r\n                new Date().getTime() - this._drag.time > 300) &&\r\n                this._drag.target.one('click.owl.core', function () {\r\n                  return !1;\r\n                })),\r\n            this.is('dragging') &&\r\n              (this.leave('dragging'), this.trigger('dragged'));\r\n        }),\r\n        (e.prototype.closest = function (b, c) {\r\n          var e = -1,\r\n            f = 30,\r\n            g = this.width(),\r\n            h = this.coordinates();\r\n          return (\r\n            this.settings.freeDrag ||\r\n              a.each(\r\n                h,\r\n                a.proxy(function (a, i) {\r\n                  return (\r\n                    'left' === c && b > i - f && b < i + f\r\n                      ? (e = a)\r\n                      : 'right' === c && b > i - g - f && b < i - g + f\r\n                      ? (e = a + 1)\r\n                      : this.op(b, '<', i) &&\r\n                        this.op(b, '>', h[a + 1] !== d ? h[a + 1] : i - g) &&\r\n                        (e = 'left' === c ? a + 1 : a),\r\n                    -1 === e\r\n                  );\r\n                }, this)\r\n              ),\r\n            this.settings.loop ||\r\n              (this.op(b, '>', h[this.minimum()])\r\n                ? (e = b = this.minimum())\r\n                : this.op(b, '<', h[this.maximum()]) &&\r\n                  (e = b = this.maximum())),\r\n            e\r\n          );\r\n        }),\r\n        (e.prototype.animate = function (b) {\r\n          var c = this.speed() > 0;\r\n          this.is('animating') && this.onTransitionEnd(),\r\n            c && (this.enter('animating'), this.trigger('translate')),\r\n            a.support.transform3d && a.support.transition\r\n              ? this.$stage.css({\r\n                  transform: 'translate3d(' + b + 'px,0px,0px)',\r\n                  transition:\r\n                    this.speed() / 1e3 +\r\n                    's' +\r\n                    (this.settings.slideTransition\r\n                      ? ' ' + this.settings.slideTransition\r\n                      : ''),\r\n                })\r\n              : c\r\n              ? this.$stage.animate(\r\n                  { left: b + 'px' },\r\n                  this.speed(),\r\n                  this.settings.fallbackEasing,\r\n                  a.proxy(this.onTransitionEnd, this)\r\n                )\r\n              : this.$stage.css({ left: b + 'px' });\r\n        }),\r\n        (e.prototype.is = function (a) {\r\n          return this._states.current[a] && this._states.current[a] > 0;\r\n        }),\r\n        (e.prototype.current = function (a) {\r\n          if (a === d) return this._current;\r\n          if (0 === this._items.length) return d;\r\n          if (((a = this.normalize(a)), this._current !== a)) {\r\n            var b = this.trigger('change', {\r\n              property: { name: 'position', value: a },\r\n            });\r\n            b.data !== d && (a = this.normalize(b.data)),\r\n              (this._current = a),\r\n              this.invalidate('position'),\r\n              this.trigger('changed', {\r\n                property: { name: 'position', value: this._current },\r\n              });\r\n          }\r\n          return this._current;\r\n        }),\r\n        (e.prototype.invalidate = function (b) {\r\n          return (\r\n            'string' === a.type(b) &&\r\n              ((this._invalidated[b] = !0),\r\n              this.is('valid') && this.leave('valid')),\r\n            a.map(this._invalidated, function (a, b) {\r\n              return b;\r\n            })\r\n          );\r\n        }),\r\n        (e.prototype.reset = function (a) {\r\n          (a = this.normalize(a)) !== d &&\r\n            ((this._speed = 0),\r\n            (this._current = a),\r\n            this.suppress(['translate', 'translated']),\r\n            this.animate(this.coordinates(a)),\r\n            this.release(['translate', 'translated']));\r\n        }),\r\n        (e.prototype.normalize = function (a, b) {\r\n          var c = this._items.length,\r\n            e = b ? 0 : this._clones.length;\r\n          return (\r\n            !this.isNumeric(a) || c < 1\r\n              ? (a = d)\r\n              : (a < 0 || a >= c + e) &&\r\n                (a = ((((a - e / 2) % c) + c) % c) + e / 2),\r\n            a\r\n          );\r\n        }),\r\n        (e.prototype.relative = function (a) {\r\n          return (a -= this._clones.length / 2), this.normalize(a, !0);\r\n        }),\r\n        (e.prototype.maximum = function (a) {\r\n          var b,\r\n            c,\r\n            d,\r\n            e = this.settings,\r\n            f = this._coordinates.length;\r\n          if (e.loop) f = this._clones.length / 2 + this._items.length - 1;\r\n          else if (e.autoWidth || e.merge) {\r\n            if ((b = this._items.length))\r\n              for (\r\n                c = this._items[--b].width(), d = this.$element.width();\r\n                b-- &&\r\n                !((c += this._items[b].width() + this.settings.margin) > d);\r\n\r\n              );\r\n            f = b + 1;\r\n          } else\r\n            f = e.center\r\n              ? this._items.length - 1\r\n              : this._items.length - e.items;\r\n          return a && (f -= this._clones.length / 2), Math.max(f, 0);\r\n        }),\r\n        (e.prototype.minimum = function (a) {\r\n          return a ? 0 : this._clones.length / 2;\r\n        }),\r\n        (e.prototype.items = function (a) {\r\n          return a === d\r\n            ? this._items.slice()\r\n            : ((a = this.normalize(a, !0)), this._items[a]);\r\n        }),\r\n        (e.prototype.mergers = function (a) {\r\n          return a === d\r\n            ? this._mergers.slice()\r\n            : ((a = this.normalize(a, !0)), this._mergers[a]);\r\n        }),\r\n        (e.prototype.clones = function (b) {\r\n          var c = this._clones.length / 2,\r\n            e = c + this._items.length,\r\n            f = function (a) {\r\n              return a % 2 == 0 ? e + a / 2 : c - (a + 1) / 2;\r\n            };\r\n          return b === d\r\n            ? a.map(this._clones, function (a, b) {\r\n                return f(b);\r\n              })\r\n            : a.map(this._clones, function (a, c) {\r\n                return a === b ? f(c) : null;\r\n              });\r\n        }),\r\n        (e.prototype.speed = function (a) {\r\n          return a !== d && (this._speed = a), this._speed;\r\n        }),\r\n        (e.prototype.coordinates = function (b) {\r\n          var c,\r\n            e = 1,\r\n            f = b - 1;\r\n          return b === d\r\n            ? a.map(\r\n                this._coordinates,\r\n                a.proxy(function (a, b) {\r\n                  return this.coordinates(b);\r\n                }, this)\r\n              )\r\n            : (this.settings.center\r\n                ? (this.settings.rtl && ((e = -1), (f = b + 1)),\r\n                  (c = this._coordinates[b]),\r\n                  (c +=\r\n                    ((this.width() - c + (this._coordinates[f] || 0)) / 2) * e))\r\n                : (c = this._coordinates[f] || 0),\r\n              (c = Math.ceil(c)));\r\n        }),\r\n        (e.prototype.duration = function (a, b, c) {\r\n          return 0 === c\r\n            ? 0\r\n            : Math.min(Math.max(Math.abs(b - a), 1), 6) *\r\n                Math.abs(c || this.settings.smartSpeed);\r\n        }),\r\n        (e.prototype.to = function (a, b) {\r\n          var c = this.current(),\r\n            d = null,\r\n            e = a - this.relative(c),\r\n            f = (e > 0) - (e < 0),\r\n            g = this._items.length,\r\n            h = this.minimum(),\r\n            i = this.maximum();\r\n          this.settings.loop\r\n            ? (!this.settings.rewind &&\r\n                Math.abs(e) > g / 2 &&\r\n                (e += -1 * f * g),\r\n              (a = c + e),\r\n              (d = ((((a - h) % g) + g) % g) + h) !== a &&\r\n                d - e <= i &&\r\n                d - e > 0 &&\r\n                ((c = d - e), (a = d), this.reset(c)))\r\n            : this.settings.rewind\r\n            ? ((i += 1), (a = ((a % i) + i) % i))\r\n            : (a = Math.max(h, Math.min(i, a))),\r\n            this.speed(this.duration(c, a, b)),\r\n            this.current(a),\r\n            this.isVisible() && this.update();\r\n        }),\r\n        (e.prototype.next = function (a) {\r\n          (a = a || !1), this.to(this.relative(this.current()) + 1, a);\r\n        }),\r\n        (e.prototype.prev = function (a) {\r\n          (a = a || !1), this.to(this.relative(this.current()) - 1, a);\r\n        }),\r\n        (e.prototype.onTransitionEnd = function (a) {\r\n          if (\r\n            a !== d &&\r\n            (a.stopPropagation(),\r\n            (a.target || a.srcElement || a.originalTarget) !==\r\n              this.$stage.get(0))\r\n          )\r\n            return !1;\r\n          this.leave('animating'), this.trigger('translated');\r\n        }),\r\n        (e.prototype.viewport = function () {\r\n          var d;\r\n          return (\r\n            this.options.responsiveBaseElement !== b\r\n              ? (d = a(this.options.responsiveBaseElement).width())\r\n              : b.innerWidth\r\n              ? (d = b.innerWidth)\r\n              : c.documentElement && c.documentElement.clientWidth\r\n              ? (d = c.documentElement.clientWidth)\r\n              : console.warn('Can not detect viewport width.'),\r\n            d\r\n          );\r\n        }),\r\n        (e.prototype.replace = function (b) {\r\n          this.$stage.empty(),\r\n            (this._items = []),\r\n            b && (b = b instanceof jQuery ? b : a(b)),\r\n            this.settings.nestedItemSelector &&\r\n              (b = b.find('.' + this.settings.nestedItemSelector)),\r\n            b\r\n              .filter(function () {\r\n                return 1 === this.nodeType;\r\n              })\r\n              .each(\r\n                a.proxy(function (a, b) {\r\n                  (b = this.prepare(b)),\r\n                    this.$stage.append(b),\r\n                    this._items.push(b),\r\n                    this._mergers.push(\r\n                      1 *\r\n                        b\r\n                          .find('[data-merge]')\r\n                          .addBack('[data-merge]')\r\n                          .attr('data-merge') || 1\r\n                    );\r\n                }, this)\r\n              ),\r\n            this.reset(\r\n              this.isNumeric(this.settings.startPosition)\r\n                ? this.settings.startPosition\r\n                : 0\r\n            ),\r\n            this.invalidate('items');\r\n        }),\r\n        (e.prototype.add = function (b, c) {\r\n          var e = this.relative(this._current);\r\n          (c = c === d ? this._items.length : this.normalize(c, !0)),\r\n            (b = b instanceof jQuery ? b : a(b)),\r\n            this.trigger('add', { content: b, position: c }),\r\n            (b = this.prepare(b)),\r\n            0 === this._items.length || c === this._items.length\r\n              ? (0 === this._items.length && this.$stage.append(b),\r\n                0 !== this._items.length && this._items[c - 1].after(b),\r\n                this._items.push(b),\r\n                this._mergers.push(\r\n                  1 *\r\n                    b\r\n                      .find('[data-merge]')\r\n                      .addBack('[data-merge]')\r\n                      .attr('data-merge') || 1\r\n                ))\r\n              : (this._items[c].before(b),\r\n                this._items.splice(c, 0, b),\r\n                this._mergers.splice(\r\n                  c,\r\n                  0,\r\n                  1 *\r\n                    b\r\n                      .find('[data-merge]')\r\n                      .addBack('[data-merge]')\r\n                      .attr('data-merge') || 1\r\n                )),\r\n            this._items[e] && this.reset(this._items[e].index()),\r\n            this.invalidate('items'),\r\n            this.trigger('added', { content: b, position: c });\r\n        }),\r\n        (e.prototype.remove = function (a) {\r\n          (a = this.normalize(a, !0)) !== d &&\r\n            (this.trigger('remove', { content: this._items[a], position: a }),\r\n            this._items[a].remove(),\r\n            this._items.splice(a, 1),\r\n            this._mergers.splice(a, 1),\r\n            this.invalidate('items'),\r\n            this.trigger('removed', { content: null, position: a }));\r\n        }),\r\n        (e.prototype.preloadAutoWidthImages = function (b) {\r\n          b.each(\r\n            a.proxy(function (b, c) {\r\n              this.enter('pre-loading'),\r\n                (c = a(c)),\r\n                a(new Image())\r\n                  .one(\r\n                    'load',\r\n                    a.proxy(function (a) {\r\n                      c.attr('src', a.target.src),\r\n                        c.css('opacity', 1),\r\n                        this.leave('pre-loading'),\r\n                        !this.is('pre-loading') &&\r\n                          !this.is('initializing') &&\r\n                          this.refresh();\r\n                    }, this)\r\n                  )\r\n                  .attr(\r\n                    'src',\r\n                    c.attr('src') ||\r\n                      c.attr('data-src') ||\r\n                      c.attr('data-src-retina')\r\n                  );\r\n            }, this)\r\n          );\r\n        }),\r\n        (e.prototype.destroy = function () {\r\n          this.$element.off('.owl.core'),\r\n            this.$stage.off('.owl.core'),\r\n            a(c).off('.owl.core'),\r\n            !1 !== this.settings.responsive &&\r\n              (b.clearTimeout(this.resizeTimer),\r\n              this.off(b, 'resize', this._handlers.onThrottledResize));\r\n          for (var d in this._plugins) this._plugins[d].destroy();\r\n          this.$stage.children('.cloned').remove(),\r\n            this.$stage.unwrap(),\r\n            this.$stage.children().contents().unwrap(),\r\n            this.$stage.children().unwrap(),\r\n            this.$stage.remove(),\r\n            this.$element\r\n              .removeClass(this.options.refreshClass)\r\n              .removeClass(this.options.loadingClass)\r\n              .removeClass(this.options.loadedClass)\r\n              .removeClass(this.options.rtlClass)\r\n              .removeClass(this.options.dragClass)\r\n              .removeClass(this.options.grabClass)\r\n              .attr(\r\n                'class',\r\n                this.$element\r\n                  .attr('class')\r\n                  .replace(\r\n                    new RegExp(this.options.responsiveClass + '-\\\\\\\\S+\\\\\\\\s', 'g'),\r\n                    ''\r\n                  )\r\n              )\r\n              .removeData('owl.carousel');\r\n        }),\r\n        (e.prototype.op = function (a, b, c) {\r\n          var d = this.settings.rtl;\r\n          switch (b) {\r\n            case '<':\r\n              return d ? a > c : a < c;\r\n            case '>':\r\n              return d ? a < c : a > c;\r\n            case '>=':\r\n              return d ? a <= c : a >= c;\r\n            case '<=':\r\n              return d ? a >= c : a <= c;\r\n          }\r\n        }),\r\n        (e.prototype.on = function (a, b, c, d) {\r\n          a.addEventListener\r\n            ? a.addEventListener(b, c, d)\r\n            : a.attachEvent && a.attachEvent('on' + b, c);\r\n        }),\r\n        (e.prototype.off = function (a, b, c, d) {\r\n          a.removeEventListener\r\n            ? a.removeEventListener(b, c, d)\r\n            : a.detachEvent && a.detachEvent('on' + b, c);\r\n        }),\r\n        (e.prototype.trigger = function (b, c, d, f, g) {\r\n          var h = {\r\n              item: { count: this._items.length, index: this.current() },\r\n            },\r\n            i = a.camelCase(\r\n              a\r\n                .grep(['on', b, d], function (a) {\r\n                  return a;\r\n                })\r\n                .join('-')\r\n                .toLowerCase()\r\n            ),\r\n            j = a.Event(\r\n              [b, 'owl', d || 'carousel'].join('.').toLowerCase(),\r\n              a.extend({ relatedTarget: this }, h, c)\r\n            );\r\n          return (\r\n            this._supress[b] ||\r\n              (a.each(this._plugins, function (a, b) {\r\n                b.onTrigger && b.onTrigger(j);\r\n              }),\r\n              this.register({ type: e.Type.Event, name: b }),\r\n              this.$element.trigger(j),\r\n              this.settings &&\r\n                'function' == typeof this.settings[i] &&\r\n                this.settings[i].call(this, j)),\r\n            j\r\n          );\r\n        }),\r\n        (e.prototype.enter = function (b) {\r\n          a.each(\r\n            [b].concat(this._states.tags[b] || []),\r\n            a.proxy(function (a, b) {\r\n              this._states.current[b] === d && (this._states.current[b] = 0),\r\n                this._states.current[b]++;\r\n            }, this)\r\n          );\r\n        }),\r\n        (e.prototype.leave = function (b) {\r\n          a.each(\r\n            [b].concat(this._states.tags[b] || []),\r\n            a.proxy(function (a, b) {\r\n              this._states.current[b]--;\r\n            }, this)\r\n          );\r\n        }),\r\n        (e.prototype.register = function (b) {\r\n          if (b.type === e.Type.Event) {\r\n            if (\r\n              (a.event.special[b.name] || (a.event.special[b.name] = {}),\r\n              !a.event.special[b.name].owl)\r\n            ) {\r\n              var c = a.event.special[b.name]._default;\r\n              (a.event.special[b.name]._default = function (a) {\r\n                return !c ||\r\n                  !c.apply ||\r\n                  (a.namespace && -1 !== a.namespace.indexOf('owl'))\r\n                  ? a.namespace && a.namespace.indexOf('owl') > -1\r\n                  : c.apply(this, arguments);\r\n              }),\r\n                (a.event.special[b.name].owl = !0);\r\n            }\r\n          } else\r\n            b.type === e.Type.State &&\r\n              (this._states.tags[b.name]\r\n                ? (this._states.tags[b.name] = this._states.tags[b.name].concat(\r\n                    b.tags\r\n                  ))\r\n                : (this._states.tags[b.name] = b.tags),\r\n              (this._states.tags[b.name] = a.grep(\r\n                this._states.tags[b.name],\r\n                a.proxy(function (c, d) {\r\n                  return a.inArray(c, this._states.tags[b.name]) === d;\r\n                }, this)\r\n              )));\r\n        }),\r\n        (e.prototype.suppress = function (b) {\r\n          a.each(\r\n            b,\r\n            a.proxy(function (a, b) {\r\n              this._supress[b] = !0;\r\n            }, this)\r\n          );\r\n        }),\r\n        (e.prototype.release = function (b) {\r\n          a.each(\r\n            b,\r\n            a.proxy(function (a, b) {\r\n              delete this._supress[b];\r\n            }, this)\r\n          );\r\n        }),\r\n        (e.prototype.pointer = function (a) {\r\n          var c = { x: null, y: null };\r\n          return (\r\n            (a = a.originalEvent || a || b.event),\r\n            (a =\r\n              a.touches && a.touches.length\r\n                ? a.touches[0]\r\n                : a.changedTouches && a.changedTouches.length\r\n                ? a.changedTouches[0]\r\n                : a),\r\n            a.pageX\r\n              ? ((c.x = a.pageX), (c.y = a.pageY))\r\n              : ((c.x = a.clientX), (c.y = a.clientY)),\r\n            c\r\n          );\r\n        }),\r\n        (e.prototype.isNumeric = function (a) {\r\n          return !isNaN(parseFloat(a));\r\n        }),\r\n        (e.prototype.difference = function (a, b) {\r\n          return { x: a.x - b.x, y: a.y - b.y };\r\n        }),\r\n        (a.fn.owlCarousel = function (b) {\r\n          var c = Array.prototype.slice.call(arguments, 1);\r\n          return this.each(function () {\r\n            var d = a(this),\r\n              f = d.data('owl.carousel');\r\n            f ||\r\n              ((f = new e(this, 'object' == typeof b && b)),\r\n              d.data('owl.carousel', f),\r\n              a.each(\r\n                [\r\n                  'next',\r\n                  'prev',\r\n                  'to',\r\n                  'destroy',\r\n                  'refresh',\r\n                  'replace',\r\n                  'add',\r\n                  'remove',\r\n                ],\r\n                function (b, c) {\r\n                  f.register({ type: e.Type.Event, name: c }),\r\n                    f.$element.on(\r\n                      c + '.owl.carousel.core',\r\n                      a.proxy(function (a) {\r\n                        a.namespace &&\r\n                          a.relatedTarget !== this &&\r\n                          (this.suppress([c]),\r\n                          f[c].apply(this, [].slice.call(arguments, 1)),\r\n                          this.release([c]));\r\n                      }, f)\r\n                    );\r\n                }\r\n              )),\r\n              'string' == typeof b && '_' !== b.charAt(0) && f[b].apply(f, c);\r\n          });\r\n        }),\r\n        (a.fn.owlCarousel.Constructor = e);\r\n    })(window.Zepto || window.jQuery, window, document),\r\n      (function (a, b, c, d) {\r\n        var e = function (b) {\r\n          (this._core = b),\r\n            (this._interval = null),\r\n            (this._visible = null),\r\n            (this._handlers = {\r\n              'initialized.owl.carousel': a.proxy(function (a) {\r\n                a.namespace && this._core.settings.autoRefresh && this.watch();\r\n              }, this),\r\n            }),\r\n            (this._core.options = a.extend({}, e.Defaults, this._core.options)),\r\n            this._core.$element.on(this._handlers);\r\n        };\r\n        (e.Defaults = { autoRefresh: !0, autoRefreshInterval: 500 }),\r\n          (e.prototype.watch = function () {\r\n            this._interval ||\r\n              ((this._visible = this._core.isVisible()),\r\n              (this._interval = b.setInterval(\r\n                a.proxy(this.refresh, this),\r\n                this._core.settings.autoRefreshInterval\r\n              )));\r\n          }),\r\n          (e.prototype.refresh = function () {\r\n            this._core.isVisible() !== this._visible &&\r\n              ((this._visible = !this._visible),\r\n              this._core.$element.toggleClass('owl-hidden', !this._visible),\r\n              this._visible &&\r\n                this._core.invalidate('width') &&\r\n                this._core.refresh());\r\n          }),\r\n          (e.prototype.destroy = function () {\r\n            var a, c;\r\n            b.clearInterval(this._interval);\r\n            for (a in this._handlers)\r\n              this._core.$element.off(a, this._handlers[a]);\r\n            for (c in Object.getOwnPropertyNames(this))\r\n              'function' != typeof this[c] && (this[c] = null);\r\n          }),\r\n          (a.fn.owlCarousel.Constructor.Plugins.AutoRefresh = e);\r\n      })(window.Zepto || window.jQuery, window, document),\r\n      (function (a, b, c, d) {\r\n        var e = function (b) {\r\n          (this._core = b),\r\n            (this._loaded = []),\r\n            (this._handlers = {\r\n              'initialized.owl.carousel change.owl.carousel resized.owl.carousel':\r\n                a.proxy(function (b) {\r\n                  if (\r\n                    b.namespace &&\r\n                    this._core.settings &&\r\n                    this._core.settings.lazyLoad &&\r\n                    ((b.property && 'position' == b.property.name) ||\r\n                      'initialized' == b.type)\r\n                  ) {\r\n                    var c = this._core.settings,\r\n                      e = (c.center && Math.ceil(c.items / 2)) || c.items,\r\n                      f = (c.center && -1 * e) || 0,\r\n                      g =\r\n                        (b.property && b.property.value !== d\r\n                          ? b.property.value\r\n                          : this._core.current()) + f,\r\n                      h = this._core.clones().length,\r\n                      i = a.proxy(function (a, b) {\r\n                        this.load(b);\r\n                      }, this);\r\n                    for (\r\n                      c.lazyLoadEager > 0 &&\r\n                      ((e += c.lazyLoadEager),\r\n                      c.loop && ((g -= c.lazyLoadEager), e++));\r\n                      f++ < e;\r\n\r\n                    )\r\n                      this.load(h / 2 + this._core.relative(g)),\r\n                        h &&\r\n                          a.each(this._core.clones(this._core.relative(g)), i),\r\n                        g++;\r\n                  }\r\n                }, this),\r\n            }),\r\n            (this._core.options = a.extend({}, e.Defaults, this._core.options)),\r\n            this._core.$element.on(this._handlers);\r\n        };\r\n        (e.Defaults = { lazyLoad: !1, lazyLoadEager: 0 }),\r\n          (e.prototype.load = function (c) {\r\n            var d = this._core.$stage.children().eq(c),\r\n              e = d && d.find('.owl-lazy');\r\n            !e ||\r\n              a.inArray(d.get(0), this._loaded) > -1 ||\r\n              (e.each(\r\n                a.proxy(function (c, d) {\r\n                  var e,\r\n                    f = a(d),\r\n                    g =\r\n                      (b.devicePixelRatio > 1 && f.attr('data-src-retina')) ||\r\n                      f.attr('data-src') ||\r\n                      f.attr('data-srcset');\r\n                  this._core.trigger('load', { element: f, url: g }, 'lazy'),\r\n                    f.is('img')\r\n                      ? f\r\n                          .one(\r\n                            'load.owl.lazy',\r\n                            a.proxy(function () {\r\n                              f.css('opacity', 1),\r\n                                this._core.trigger(\r\n                                  'loaded',\r\n                                  { element: f, url: g },\r\n                                  'lazy'\r\n                                );\r\n                            }, this)\r\n                          )\r\n                          .attr('src', g)\r\n                      : f.is('source')\r\n                      ? f\r\n                          .one(\r\n                            'load.owl.lazy',\r\n                            a.proxy(function () {\r\n                              this._core.trigger(\r\n                                'loaded',\r\n                                { element: f, url: g },\r\n                                'lazy'\r\n                              );\r\n                            }, this)\r\n                          )\r\n                          .attr('srcset', g)\r\n                      : ((e = new Image()),\r\n                        (e.onload = a.proxy(function () {\r\n                          f.css({\r\n                            'background-image': 'url(\"' + g + '\")',\r\n                            opacity: '1',\r\n                          }),\r\n                            this._core.trigger(\r\n                              'loaded',\r\n                              { element: f, url: g },\r\n                              'lazy'\r\n                            );\r\n                        }, this)),\r\n                        (e.src = g));\r\n                }, this)\r\n              ),\r\n              this._loaded.push(d.get(0)));\r\n          }),\r\n          (e.prototype.destroy = function () {\r\n            var a, b;\r\n            for (a in this.handlers)\r\n              this._core.$element.off(a, this.handlers[a]);\r\n            for (b in Object.getOwnPropertyNames(this))\r\n              'function' != typeof this[b] && (this[b] = null);\r\n          }),\r\n          (a.fn.owlCarousel.Constructor.Plugins.Lazy = e);\r\n      })(window.Zepto || window.jQuery, window, document),\r\n      (function (a, b, c, d) {\r\n        var e = function (c) {\r\n          (this._core = c),\r\n            (this._previousHeight = null),\r\n            (this._handlers = {\r\n              'initialized.owl.carousel refreshed.owl.carousel': a.proxy(\r\n                function (a) {\r\n                  a.namespace &&\r\n                    this._core.settings.autoHeight &&\r\n                    this.update();\r\n                },\r\n                this\r\n              ),\r\n              'changed.owl.carousel': a.proxy(function (a) {\r\n                a.namespace &&\r\n                  this._core.settings.autoHeight &&\r\n                  'position' === a.property.name &&\r\n                  this.update();\r\n              }, this),\r\n              'loaded.owl.lazy': a.proxy(function (a) {\r\n                a.namespace &&\r\n                  this._core.settings.autoHeight &&\r\n                  a.element\r\n                    .closest('.' + this._core.settings.itemClass)\r\n                    .index() === this._core.current() &&\r\n                  this.update();\r\n              }, this),\r\n            }),\r\n            (this._core.options = a.extend({}, e.Defaults, this._core.options)),\r\n            this._core.$element.on(this._handlers),\r\n            (this._intervalId = null);\r\n          var d = this;\r\n          a(b).on('load', function () {\r\n            d._core.settings.autoHeight && d.update();\r\n          }),\r\n            a(b).resize(function () {\r\n              d._core.settings.autoHeight &&\r\n                (null != d._intervalId && clearTimeout(d._intervalId),\r\n                (d._intervalId = setTimeout(function () {\r\n                  d.update();\r\n                }, 250)));\r\n            });\r\n        };\r\n        (e.Defaults = { autoHeight: !1, autoHeightClass: 'owl-height' }),\r\n          (e.prototype.update = function () {\r\n            var b = this._core._current,\r\n              c = b + this._core.settings.items,\r\n              d = this._core.settings.lazyLoad,\r\n              e = this._core.$stage.children().toArray().slice(b, c),\r\n              f = [],\r\n              g = 0;\r\n            a.each(e, function (b, c) {\r\n              f.push(a(c).height());\r\n            }),\r\n              (g = Math.max.apply(null, f)),\r\n              g <= 1 && d && this._previousHeight && (g = this._previousHeight),\r\n              (this._previousHeight = g),\r\n              this._core.$stage\r\n                .parent()\r\n                .height(g)\r\n                .addClass(this._core.settings.autoHeightClass);\r\n          }),\r\n          (e.prototype.destroy = function () {\r\n            var a, b;\r\n            for (a in this._handlers)\r\n              this._core.$element.off(a, this._handlers[a]);\r\n            for (b in Object.getOwnPropertyNames(this))\r\n              'function' != typeof this[b] && (this[b] = null);\r\n          }),\r\n          (a.fn.owlCarousel.Constructor.Plugins.AutoHeight = e);\r\n      })(window.Zepto || window.jQuery, window, document),\r\n      (function (a, b, c, d) {\r\n        var e = function (b) {\r\n          (this._core = b),\r\n            (this._videos = {}),\r\n            (this._playing = null),\r\n            (this._handlers = {\r\n              'initialized.owl.carousel': a.proxy(function (a) {\r\n                a.namespace &&\r\n                  this._core.register({\r\n                    type: 'state',\r\n                    name: 'playing',\r\n                    tags: ['interacting'],\r\n                  });\r\n              }, this),\r\n              'resize.owl.carousel': a.proxy(function (a) {\r\n                a.namespace &&\r\n                  this._core.settings.video &&\r\n                  this.isInFullScreen() &&\r\n                  a.preventDefault();\r\n              }, this),\r\n              'refreshed.owl.carousel': a.proxy(function (a) {\r\n                a.namespace &&\r\n                  this._core.is('resizing') &&\r\n                  this._core.$stage.find('.cloned .owl-video-frame').remove();\r\n              }, this),\r\n              'changed.owl.carousel': a.proxy(function (a) {\r\n                a.namespace &&\r\n                  'position' === a.property.name &&\r\n                  this._playing &&\r\n                  this.stop();\r\n              }, this),\r\n              'prepared.owl.carousel': a.proxy(function (b) {\r\n                if (b.namespace) {\r\n                  var c = a(b.content).find('.owl-video');\r\n                  c.length &&\r\n                    (c.css('display', 'none'), this.fetch(c, a(b.content)));\r\n                }\r\n              }, this),\r\n            }),\r\n            (this._core.options = a.extend({}, e.Defaults, this._core.options)),\r\n            this._core.$element.on(this._handlers),\r\n            this._core.$element.on(\r\n              'click.owl.video',\r\n              '.owl-video-play-icon',\r\n              a.proxy(function (a) {\r\n                this.play(a);\r\n              }, this)\r\n            );\r\n        };\r\n        (e.Defaults = { video: !1, videoHeight: !1, videoWidth: !1 }),\r\n          (e.prototype.fetch = function (a, b) {\r\n            var c = (function () {\r\n                return a.attr('data-vimeo-id')\r\n                  ? 'vimeo'\r\n                  : a.attr('data-vzaar-id')\r\n                  ? 'vzaar'\r\n                  : 'youtube';\r\n              })(),\r\n              d =\r\n                a.attr('data-vimeo-id') ||\r\n                a.attr('data-youtube-id') ||\r\n                a.attr('data-vzaar-id'),\r\n              e = a.attr('data-width') || this._core.settings.videoWidth,\r\n              f = a.attr('data-height') || this._core.settings.videoHeight,\r\n              g = a.attr('href');\r\n            if (!g) throw new Error('Missing video URL.');\r\n            if (\r\n              ((d = g.match(\r\n                /(http:|https:|)\\\\/\\\\/(player.|www.|app.)?(vimeo\\\\.com|youtu(be\\\\.com|\\\\.be|be\\\\.googleapis\\\\.com|be\\\\-nocookie\\\\.com)|vzaar\\\\.com)\\\\/(video\\\\/|videos\\\\/|embed\\\\/|channels\\\\/.+\\\\/|groups\\\\/.+\\\\/|watch\\\\?v=|v\\\\/)?([A-Za-z0-9._%-]*)(\\\\&\\\\S+)?/\r\n              )),\r\n              d[3].indexOf('youtu') > -1)\r\n            )\r\n              c = 'youtube';\r\n            else if (d[3].indexOf('vimeo') > -1) c = 'vimeo';\r\n            else {\r\n              if (!(d[3].indexOf('vzaar') > -1))\r\n                throw new Error('Video URL not supported.');\r\n              c = 'vzaar';\r\n            }\r\n            (d = d[6]),\r\n              (this._videos[g] = { type: c, id: d, width: e, height: f }),\r\n              b.attr('data-video', g),\r\n              this.thumbnail(a, this._videos[g]);\r\n          }),\r\n          (e.prototype.thumbnail = function (b, c) {\r\n            var d,\r\n              e,\r\n              f,\r\n              g =\r\n                c.width && c.height\r\n                  ? 'width:' + c.width + 'px;height:' + c.height + 'px;'\r\n                  : '',\r\n              h = b.find('img'),\r\n              i = 'src',\r\n              j = '',\r\n              k = this._core.settings,\r\n              l = function (c) {\r\n                (e = '<div class=\"owl-video-play-icon\"></div>'),\r\n                  (d = k.lazyLoad\r\n                    ? a('<div/>', { class: 'owl-video-tn ' + j, srcType: c })\r\n                    : a('<div/>', {\r\n                        class: 'owl-video-tn',\r\n                        style: 'opacity:1;background-image:url(' + c + ')',\r\n                      })),\r\n                  b.after(d),\r\n                  b.after(e);\r\n              };\r\n            if (\r\n              (b.wrap(a('<div/>', { class: 'owl-video-wrapper', style: g })),\r\n              this._core.settings.lazyLoad &&\r\n                ((i = 'data-src'), (j = 'owl-lazy')),\r\n              h.length)\r\n            )\r\n              return l(h.attr(i)), h.remove(), !1;\r\n            'youtube' === c.type\r\n              ? ((f = '//img.youtube.com/vi/' + c.id + '/hqdefault.jpg'), l(f))\r\n              : 'vimeo' === c.type\r\n              ? a.ajax({\r\n                  type: 'GET',\r\n                  url: '//vimeo.com/api/v2/video/' + c.id + '.json',\r\n                  jsonp: 'callback',\r\n                  dataType: 'jsonp',\r\n                  success: function (a) {\r\n                    (f = a[0].thumbnail_large), l(f);\r\n                  },\r\n                })\r\n              : 'vzaar' === c.type &&\r\n                a.ajax({\r\n                  type: 'GET',\r\n                  url: '//vzaar.com/api/videos/' + c.id + '.json',\r\n                  jsonp: 'callback',\r\n                  dataType: 'jsonp',\r\n                  success: function (a) {\r\n                    (f = a.framegrab_url), l(f);\r\n                  },\r\n                });\r\n          }),\r\n          (e.prototype.stop = function () {\r\n            this._core.trigger('stop', null, 'video'),\r\n              this._playing.find('.owl-video-frame').remove(),\r\n              this._playing.removeClass('owl-video-playing'),\r\n              (this._playing = null),\r\n              this._core.leave('playing'),\r\n              this._core.trigger('stopped', null, 'video');\r\n          }),\r\n          (e.prototype.play = function (b) {\r\n            var c,\r\n              d = a(b.target),\r\n              e = d.closest('.' + this._core.settings.itemClass),\r\n              f = this._videos[e.attr('data-video')],\r\n              g = f.width || '100%',\r\n              h = f.height || this._core.$stage.height();\r\n            this._playing ||\r\n              (this._core.enter('playing'),\r\n              this._core.trigger('play', null, 'video'),\r\n              (e = this._core.items(this._core.relative(e.index()))),\r\n              this._core.reset(e.index()),\r\n              (c = a(\r\n                '<iframe frameborder=\"0\" allowfullscreen mozallowfullscreen webkitAllowFullScreen ></iframe>'\r\n              )),\r\n              c.attr('height', h),\r\n              c.attr('width', g),\r\n              'youtube' === f.type\r\n                ? c.attr(\r\n                    'src',\r\n                    '//www.youtube.com/embed/' +\r\n                      f.id +\r\n                      '?autoplay=1&rel=0&v=' +\r\n                      f.id\r\n                  )\r\n                : 'vimeo' === f.type\r\n                ? c.attr(\r\n                    'src',\r\n                    '//player.vimeo.com/video/' + f.id + '?autoplay=1'\r\n                  )\r\n                : 'vzaar' === f.type &&\r\n                  c.attr(\r\n                    'src',\r\n                    '//view.vzaar.com/' + f.id + '/player?autoplay=true'\r\n                  ),\r\n              a(c)\r\n                .wrap('<div class=\"owl-video-frame\" />')\r\n                .insertAfter(e.find('.owl-video')),\r\n              (this._playing = e.addClass('owl-video-playing')));\r\n          }),\r\n          (e.prototype.isInFullScreen = function () {\r\n            var b =\r\n              c.fullscreenElement ||\r\n              c.mozFullScreenElement ||\r\n              c.webkitFullscreenElement;\r\n            return b && a(b).parent().hasClass('owl-video-frame');\r\n          }),\r\n          (e.prototype.destroy = function () {\r\n            var a, b;\r\n            this._core.$element.off('click.owl.video');\r\n            for (a in this._handlers)\r\n              this._core.$element.off(a, this._handlers[a]);\r\n            for (b in Object.getOwnPropertyNames(this))\r\n              'function' != typeof this[b] && (this[b] = null);\r\n          }),\r\n          (a.fn.owlCarousel.Constructor.Plugins.Video = e);\r\n      })(window.Zepto || window.jQuery, window, document),\r\n      (function (a, b, c, d) {\r\n        var e = function (b) {\r\n          (this.core = b),\r\n            (this.core.options = a.extend({}, e.Defaults, this.core.options)),\r\n            (this.swapping = !0),\r\n            (this.previous = d),\r\n            (this.next = d),\r\n            (this.handlers = {\r\n              'change.owl.carousel': a.proxy(function (a) {\r\n                a.namespace &&\r\n                  'position' == a.property.name &&\r\n                  ((this.previous = this.core.current()),\r\n                  (this.next = a.property.value));\r\n              }, this),\r\n              'drag.owl.carousel dragged.owl.carousel translated.owl.carousel':\r\n                a.proxy(function (a) {\r\n                  a.namespace && (this.swapping = 'translated' == a.type);\r\n                }, this),\r\n              'translate.owl.carousel': a.proxy(function (a) {\r\n                a.namespace &&\r\n                  this.swapping &&\r\n                  (this.core.options.animateOut ||\r\n                    this.core.options.animateIn) &&\r\n                  this.swap();\r\n              }, this),\r\n            }),\r\n            this.core.$element.on(this.handlers);\r\n        };\r\n        (e.Defaults = { animateOut: !1, animateIn: !1 }),\r\n          (e.prototype.swap = function () {\r\n            if (\r\n              1 === this.core.settings.items &&\r\n              a.support.animation &&\r\n              a.support.transition\r\n            ) {\r\n              this.core.speed(0);\r\n              var b,\r\n                c = a.proxy(this.clear, this),\r\n                d = this.core.$stage.children().eq(this.previous),\r\n                e = this.core.$stage.children().eq(this.next),\r\n                f = this.core.settings.animateIn,\r\n                g = this.core.settings.animateOut;\r\n              this.core.current() !== this.previous &&\r\n                (g &&\r\n                  ((b =\r\n                    this.core.coordinates(this.previous) -\r\n                    this.core.coordinates(this.next)),\r\n                  d\r\n                    .one(a.support.animation.end, c)\r\n                    .css({ left: b + 'px' })\r\n                    .addClass('animated owl-animated-out')\r\n                    .addClass(g)),\r\n                f &&\r\n                  e\r\n                    .one(a.support.animation.end, c)\r\n                    .addClass('animated owl-animated-in')\r\n                    .addClass(f));\r\n            }\r\n          }),\r\n          (e.prototype.clear = function (b) {\r\n            a(b.target)\r\n              .css({ left: '' })\r\n              .removeClass('animated owl-animated-out owl-animated-in')\r\n              .removeClass(this.core.settings.animateIn)\r\n              .removeClass(this.core.settings.animateOut),\r\n              this.core.onTransitionEnd();\r\n          }),\r\n          (e.prototype.destroy = function () {\r\n            var a, b;\r\n            for (a in this.handlers)\r\n              this.core.$element.off(a, this.handlers[a]);\r\n            for (b in Object.getOwnPropertyNames(this))\r\n              'function' != typeof this[b] && (this[b] = null);\r\n          }),\r\n          (a.fn.owlCarousel.Constructor.Plugins.Animate = e);\r\n      })(window.Zepto || window.jQuery, window, document),\r\n      (function (a, b, c, d) {\r\n        var e = function (b) {\r\n          (this._core = b),\r\n            (this._call = null),\r\n            (this._time = 0),\r\n            (this._timeout = 0),\r\n            (this._paused = !0),\r\n            (this._handlers = {\r\n              'changed.owl.carousel': a.proxy(function (a) {\r\n                a.namespace && 'settings' === a.property.name\r\n                  ? this._core.settings.autoplay\r\n                    ? this.play()\r\n                    : this.stop()\r\n                  : a.namespace &&\r\n                    'position' === a.property.name &&\r\n                    this._paused &&\r\n                    (this._time = 0);\r\n              }, this),\r\n              'initialized.owl.carousel': a.proxy(function (a) {\r\n                a.namespace && this._core.settings.autoplay && this.play();\r\n              }, this),\r\n              'play.owl.autoplay': a.proxy(function (a, b, c) {\r\n                a.namespace && this.play(b, c);\r\n              }, this),\r\n              'stop.owl.autoplay': a.proxy(function (a) {\r\n                a.namespace && this.stop();\r\n              }, this),\r\n              'mouseover.owl.autoplay': a.proxy(function () {\r\n                this._core.settings.autoplayHoverPause &&\r\n                  this._core.is('rotating') &&\r\n                  this.pause();\r\n              }, this),\r\n              'mouseleave.owl.autoplay': a.proxy(function () {\r\n                this._core.settings.autoplayHoverPause &&\r\n                  this._core.is('rotating') &&\r\n                  this.play();\r\n              }, this),\r\n              'touchstart.owl.core': a.proxy(function () {\r\n                this._core.settings.autoplayHoverPause &&\r\n                  this._core.is('rotating') &&\r\n                  this.pause();\r\n              }, this),\r\n              'touchend.owl.core': a.proxy(function () {\r\n                this._core.settings.autoplayHoverPause && this.play();\r\n              }, this),\r\n            }),\r\n            this._core.$element.on(this._handlers),\r\n            (this._core.options = a.extend({}, e.Defaults, this._core.options));\r\n        };\r\n        (e.Defaults = {\r\n          autoplay: !1,\r\n          autoplayTimeout: 5e3,\r\n          autoplayHoverPause: !1,\r\n          autoplaySpeed: !1,\r\n        }),\r\n          (e.prototype._next = function (d) {\r\n            (this._call = b.setTimeout(\r\n              a.proxy(this._next, this, d),\r\n              this._timeout * (Math.round(this.read() / this._timeout) + 1) -\r\n                this.read()\r\n            )),\r\n              this._core.is('interacting') ||\r\n                c.hidden ||\r\n                this._core.next(d || this._core.settings.autoplaySpeed);\r\n          }),\r\n          (e.prototype.read = function () {\r\n            return new Date().getTime() - this._time;\r\n          }),\r\n          (e.prototype.play = function (c, d) {\r\n            var e;\r\n            this._core.is('rotating') || this._core.enter('rotating'),\r\n              (c = c || this._core.settings.autoplayTimeout),\r\n              (e = Math.min(this._time % (this._timeout || c), c)),\r\n              this._paused\r\n                ? ((this._time = this.read()), (this._paused = !1))\r\n                : b.clearTimeout(this._call),\r\n              (this._time += (this.read() % c) - e),\r\n              (this._timeout = c),\r\n              (this._call = b.setTimeout(a.proxy(this._next, this, d), c - e));\r\n          }),\r\n          (e.prototype.stop = function () {\r\n            this._core.is('rotating') &&\r\n              ((this._time = 0),\r\n              (this._paused = !0),\r\n              b.clearTimeout(this._call),\r\n              this._core.leave('rotating'));\r\n          }),\r\n          (e.prototype.pause = function () {\r\n            this._core.is('rotating') &&\r\n              !this._paused &&\r\n              ((this._time = this.read()),\r\n              (this._paused = !0),\r\n              b.clearTimeout(this._call));\r\n          }),\r\n          (e.prototype.destroy = function () {\r\n            var a, b;\r\n            this.stop();\r\n            for (a in this._handlers)\r\n              this._core.$element.off(a, this._handlers[a]);\r\n            for (b in Object.getOwnPropertyNames(this))\r\n              'function' != typeof this[b] && (this[b] = null);\r\n          }),\r\n          (a.fn.owlCarousel.Constructor.Plugins.autoplay = e);\r\n      })(window.Zepto || window.jQuery, window, document),\r\n      (function (a, b, c, d) {\r\n        'use strict';\r\n        var e = function (b) {\r\n          (this._core = b),\r\n            (this._initialized = !1),\r\n            (this._pages = []),\r\n            (this._controls = {}),\r\n            (this._templates = []),\r\n            (this.$element = this._core.$element),\r\n            (this._overrides = {\r\n              next: this._core.next,\r\n              prev: this._core.prev,\r\n              to: this._core.to,\r\n            }),\r\n            (this._handlers = {\r\n              'prepared.owl.carousel': a.proxy(function (b) {\r\n                b.namespace &&\r\n                  this._core.settings.dotsData &&\r\n                  this._templates.push(\r\n                    '<div class=\"' +\r\n                      this._core.settings.dotClass +\r\n                      '\">' +\r\n                      a(b.content)\r\n                        .find('[data-dot]')\r\n                        .addBack('[data-dot]')\r\n                        .attr('data-dot') +\r\n                      '</div>'\r\n                  );\r\n              }, this),\r\n              'added.owl.carousel': a.proxy(function (a) {\r\n                a.namespace &&\r\n                  this._core.settings.dotsData &&\r\n                  this._templates.splice(a.position, 0, this._templates.pop());\r\n              }, this),\r\n              'remove.owl.carousel': a.proxy(function (a) {\r\n                a.namespace &&\r\n                  this._core.settings.dotsData &&\r\n                  this._templates.splice(a.position, 1);\r\n              }, this),\r\n              'changed.owl.carousel': a.proxy(function (a) {\r\n                a.namespace && 'position' == a.property.name && this.draw();\r\n              }, this),\r\n              'initialized.owl.carousel': a.proxy(function (a) {\r\n                a.namespace &&\r\n                  !this._initialized &&\r\n                  (this._core.trigger('initialize', null, 'navigation'),\r\n                  this.initialize(),\r\n                  this.update(),\r\n                  this.draw(),\r\n                  (this._initialized = !0),\r\n                  this._core.trigger('initialized', null, 'navigation'));\r\n              }, this),\r\n              'refreshed.owl.carousel': a.proxy(function (a) {\r\n                a.namespace &&\r\n                  this._initialized &&\r\n                  (this._core.trigger('refresh', null, 'navigation'),\r\n                  this.update(),\r\n                  this.draw(),\r\n                  this._core.trigger('refreshed', null, 'navigation'));\r\n              }, this),\r\n            }),\r\n            (this._core.options = a.extend({}, e.Defaults, this._core.options)),\r\n            this.$element.on(this._handlers);\r\n        };\r\n        (e.Defaults = {\r\n          nav: !1,\r\n          navText: [\r\n            '<span aria-label=\"Previous\">&#x2039;</span>',\r\n            '<span aria-label=\"Next\">&#x203a;</span>',\r\n          ],\r\n          navSpeed: !1,\r\n          navElement: 'button type=\"button\" role=\"presentation\"',\r\n          navContainer: !1,\r\n          navContainerClass: 'owl-nav',\r\n          navClass: ['owl-prev', 'owl-next'],\r\n          slideBy: 1,\r\n          dotClass: 'owl-dot',\r\n          dotsClass: 'owl-dots',\r\n          dots: !0,\r\n          dotsEach: !1,\r\n          dotsData: !1,\r\n          dotsSpeed: !1,\r\n          dotsContainer: !1,\r\n        }),\r\n          (e.prototype.initialize = function () {\r\n            var b,\r\n              c = this._core.settings;\r\n            (this._controls.$relative = (\r\n              c.navContainer\r\n                ? a(c.navContainer)\r\n                : a('<div>')\r\n                    .addClass(c.navContainerClass)\r\n                    .appendTo(this.$element)\r\n            ).addClass('disabled')),\r\n              (this._controls.$previous = a('<' + c.navElement + '>')\r\n                .addClass(c.navClass[0])\r\n                .html(c.navText[0])\r\n                .prependTo(this._controls.$relative)\r\n                .on(\r\n                  'click',\r\n                  a.proxy(function (a) {\r\n                    this.prev(c.navSpeed);\r\n                  }, this)\r\n                )),\r\n              (this._controls.$next = a('<' + c.navElement + '>')\r\n                .addClass(c.navClass[1])\r\n                .html(c.navText[1])\r\n                .appendTo(this._controls.$relative)\r\n                .on(\r\n                  'click',\r\n                  a.proxy(function (a) {\r\n                    this.next(c.navSpeed);\r\n                  }, this)\r\n                )),\r\n              c.dotsData ||\r\n                (this._templates = [\r\n                  a('<button role=\"button\">')\r\n                    .addClass(c.dotClass)\r\n                    .append(a('<span>'))\r\n                    .prop('outerHTML'),\r\n                ]),\r\n              (this._controls.$absolute = (\r\n                c.dotsContainer\r\n                  ? a(c.dotsContainer)\r\n                  : a('<div>').addClass(c.dotsClass).appendTo(this.$element)\r\n              ).addClass('disabled')),\r\n              this._controls.$absolute.on(\r\n                'click',\r\n                'button',\r\n                a.proxy(function (b) {\r\n                  var d = a(b.target).parent().is(this._controls.$absolute)\r\n                    ? a(b.target).index()\r\n                    : a(b.target).parent().index();\r\n                  b.preventDefault(), this.to(d, c.dotsSpeed);\r\n                }, this)\r\n              );\r\n            for (b in this._overrides) this._core[b] = a.proxy(this[b], this);\r\n          }),\r\n          (e.prototype.destroy = function () {\r\n            var a, b, c, d, e;\r\n            e = this._core.settings;\r\n            for (a in this._handlers) this.$element.off(a, this._handlers[a]);\r\n            for (b in this._controls)\r\n              '$relative' === b && e.navContainer\r\n                ? this._controls[b].html('')\r\n                : this._controls[b].remove();\r\n            for (d in this.overides) this._core[d] = this._overrides[d];\r\n            for (c in Object.getOwnPropertyNames(this))\r\n              'function' != typeof this[c] && (this[c] = null);\r\n          }),\r\n          (e.prototype.update = function () {\r\n            var a,\r\n              b,\r\n              c,\r\n              d = this._core.clones().length / 2,\r\n              e = d + this._core.items().length,\r\n              f = this._core.maximum(!0),\r\n              g = this._core.settings,\r\n              h =\r\n                g.center || g.autoWidth || g.dotsData\r\n                  ? 1\r\n                  : g.dotsEach || g.items;\r\n            if (\r\n              ('page' !== g.slideBy &&\r\n                (g.slideBy = Math.min(g.slideBy, g.items)),\r\n              g.dots || 'page' == g.slideBy)\r\n            )\r\n              for (this._pages = [], a = d, b = 0, c = 0; a < e; a++) {\r\n                if (b >= h || 0 === b) {\r\n                  if (\r\n                    (this._pages.push({\r\n                      start: Math.min(f, a - d),\r\n                      end: a - d + h - 1,\r\n                    }),\r\n                    Math.min(f, a - d) === f)\r\n                  )\r\n                    break;\r\n                  (b = 0), ++c;\r\n                }\r\n                b += this._core.mergers(this._core.relative(a));\r\n              }\r\n          }),\r\n          (e.prototype.draw = function () {\r\n            var b,\r\n              c = this._core.settings,\r\n              d = this._core.items().length <= c.items,\r\n              e = this._core.relative(this._core.current()),\r\n              f = c.loop || c.rewind;\r\n            this._controls.$relative.toggleClass('disabled', !c.nav || d),\r\n              c.nav &&\r\n                (this._controls.$previous.toggleClass(\r\n                  'disabled',\r\n                  !f && e <= this._core.minimum(!0)\r\n                ),\r\n                this._controls.$next.toggleClass(\r\n                  'disabled',\r\n                  !f && e >= this._core.maximum(!0)\r\n                )),\r\n              this._controls.$absolute.toggleClass('disabled', !c.dots || d),\r\n              c.dots &&\r\n                ((b =\r\n                  this._pages.length -\r\n                  this._controls.$absolute.children().length),\r\n                c.dotsData && 0 !== b\r\n                  ? this._controls.$absolute.html(this._templates.join(''))\r\n                  : b > 0\r\n                  ? this._controls.$absolute.append(\r\n                      new Array(b + 1).join(this._templates[0])\r\n                    )\r\n                  : b < 0 &&\r\n                    this._controls.$absolute.children().slice(b).remove(),\r\n                this._controls.$absolute.find('.active').removeClass('active'),\r\n                this._controls.$absolute\r\n                  .children()\r\n                  .eq(a.inArray(this.current(), this._pages))\r\n                  .addClass('active'));\r\n          }),\r\n          (e.prototype.onTrigger = function (b) {\r\n            var c = this._core.settings;\r\n            b.page = {\r\n              index: a.inArray(this.current(), this._pages),\r\n              count: this._pages.length,\r\n              size:\r\n                c &&\r\n                (c.center || c.autoWidth || c.dotsData\r\n                  ? 1\r\n                  : c.dotsEach || c.items),\r\n            };\r\n          }),\r\n          (e.prototype.current = function () {\r\n            var b = this._core.relative(this._core.current());\r\n            return a\r\n              .grep(\r\n                this._pages,\r\n                a.proxy(function (a, c) {\r\n                  return a.start <= b && a.end >= b;\r\n                }, this)\r\n              )\r\n              .pop();\r\n          }),\r\n          (e.prototype.getPosition = function (b) {\r\n            var c,\r\n              d,\r\n              e = this._core.settings;\r\n            return (\r\n              'page' == e.slideBy\r\n                ? ((c = a.inArray(this.current(), this._pages)),\r\n                  (d = this._pages.length),\r\n                  b ? ++c : --c,\r\n                  (c = this._pages[((c % d) + d) % d].start))\r\n                : ((c = this._core.relative(this._core.current())),\r\n                  (d = this._core.items().length),\r\n                  b ? (c += e.slideBy) : (c -= e.slideBy)),\r\n              c\r\n            );\r\n          }),\r\n          (e.prototype.next = function (b) {\r\n            a.proxy(this._overrides.to, this._core)(this.getPosition(!0), b);\r\n          }),\r\n          (e.prototype.prev = function (b) {\r\n            a.proxy(this._overrides.to, this._core)(this.getPosition(!1), b);\r\n          }),\r\n          (e.prototype.to = function (b, c, d) {\r\n            var e;\r\n            !d && this._pages.length\r\n              ? ((e = this._pages.length),\r\n                a.proxy(this._overrides.to, this._core)(\r\n                  this._pages[((b % e) + e) % e].start,\r\n                  c\r\n                ))\r\n              : a.proxy(this._overrides.to, this._core)(b, c);\r\n          }),\r\n          (a.fn.owlCarousel.Constructor.Plugins.Navigation = e);\r\n      })(window.Zepto || window.jQuery, window, document),\r\n      (function (a, b, c, d) {\r\n        'use strict';\r\n        var e = function (c) {\r\n          (this._core = c),\r\n            (this._hashes = {}),\r\n            (this.$element = this._core.$element),\r\n            (this._handlers = {\r\n              'initialized.owl.carousel': a.proxy(function (c) {\r\n                c.namespace &&\r\n                  'URLHash' === this._core.settings.startPosition &&\r\n                  a(b).trigger('hashchange.owl.navigation');\r\n              }, this),\r\n              'prepared.owl.carousel': a.proxy(function (b) {\r\n                if (b.namespace) {\r\n                  var c = a(b.content)\r\n                    .find('[data-hash]')\r\n                    .addBack('[data-hash]')\r\n                    .attr('data-hash');\r\n                  if (!c) return;\r\n                  this._hashes[c] = b.content;\r\n                }\r\n              }, this),\r\n              'changed.owl.carousel': a.proxy(function (c) {\r\n                if (c.namespace && 'position' === c.property.name) {\r\n                  var d = this._core.items(\r\n                      this._core.relative(this._core.current())\r\n                    ),\r\n                    e = a\r\n                      .map(this._hashes, function (a, b) {\r\n                        return a === d ? b : null;\r\n                      })\r\n                      .join();\r\n                  if (!e || b.location.hash.slice(1) === e) return;\r\n                  b.location.hash = e;\r\n                }\r\n              }, this),\r\n            }),\r\n            (this._core.options = a.extend({}, e.Defaults, this._core.options)),\r\n            this.$element.on(this._handlers),\r\n            a(b).on(\r\n              'hashchange.owl.navigation',\r\n              a.proxy(function (a) {\r\n                var c = b.location.hash.substring(1),\r\n                  e = this._core.$stage.children(),\r\n                  f = this._hashes[c] && e.index(this._hashes[c]);\r\n                f !== d &&\r\n                  f !== this._core.current() &&\r\n                  this._core.to(this._core.relative(f), !1, !0);\r\n              }, this)\r\n            );\r\n        };\r\n        (e.Defaults = { URLhashListener: !1 }),\r\n          (e.prototype.destroy = function () {\r\n            var c, d;\r\n            a(b).off('hashchange.owl.navigation');\r\n            for (c in this._handlers)\r\n              this._core.$element.off(c, this._handlers[c]);\r\n            for (d in Object.getOwnPropertyNames(this))\r\n              'function' != typeof this[d] && (this[d] = null);\r\n          }),\r\n          (a.fn.owlCarousel.Constructor.Plugins.Hash = e);\r\n      })(window.Zepto || window.jQuery, window, document),\r\n      (function (a, b, c, d) {\r\n        function e(b, c) {\r\n          var e = !1,\r\n            f = b.charAt(0).toUpperCase() + b.slice(1);\r\n          return (\r\n            a.each((b + ' ' + h.join(f + ' ') + f).split(' '), function (a, b) {\r\n              if (g[b] !== d) return (e = !c || b), !1;\r\n            }),\r\n            e\r\n          );\r\n        }\r\n        function f(a) {\r\n          return e(a, !0);\r\n        }\r\n        var g = a('<support>').get(0).style,\r\n          h = 'Webkit Moz O ms'.split(' '),\r\n          i = {\r\n            transition: {\r\n              end: {\r\n                WebkitTransition: 'webkitTransitionEnd',\r\n                MozTransition: 'transitionend',\r\n                OTransition: 'oTransitionEnd',\r\n                transition: 'transitionend',\r\n              },\r\n            },\r\n            animation: {\r\n              end: {\r\n                WebkitAnimation: 'webkitAnimationEnd',\r\n                MozAnimation: 'animationend',\r\n                OAnimation: 'oAnimationEnd',\r\n                animation: 'animationend',\r\n              },\r\n            },\r\n          },\r\n          j = {\r\n            csstransforms: function () {\r\n              return !!e('transform');\r\n            },\r\n            csstransforms3d: function () {\r\n              return !!e('perspective');\r\n            },\r\n            csstransitions: function () {\r\n              return !!e('transition');\r\n            },\r\n            cssanimations: function () {\r\n              return !!e('animation');\r\n            },\r\n          };\r\n        j.csstransitions() &&\r\n          ((a.support.transition = new String(f('transition'))),\r\n          (a.support.transition.end = i.transition.end[a.support.transition])),\r\n          j.cssanimations() &&\r\n            ((a.support.animation = new String(f('animation'))),\r\n            (a.support.animation.end = i.animation.end[a.support.animation])),\r\n          j.csstransforms() &&\r\n            ((a.support.transform = new String(f('transform'))),\r\n            (a.support.transform3d = j.csstransforms3d()));\r\n      })(window.Zepto || window.jQuery, window, document);\r\n  });\r\n});\r\n",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default"
+        },
+        "_cq:lastRolledout": "{Date}2023-08-24T16:51:13.719Z",
+        "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2023-08-24T16:51:15.130Z",
+      "_cq:lastModifiedBy": "evan_lynch@vfc.com",
+      "_cq:lastRolledout": "{Date}2023-08-24T16:51:15.144Z",
+      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "Brand Experience Test",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

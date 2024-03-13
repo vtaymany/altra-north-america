@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2024-02-06T18:39:27.545Z"
+        cq:lastModifiedBy="evan_lynch@vfc.com"
+        cq:lastReplicated="{Date}2024-02-06T18:50:13.128Z"
+        cq:lastReplicatedBy="evan_lynch@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2024-02-06T18:39:27.549Z"
+        cq:lastRolledoutBy="evan_lynch@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/page-col-1"
+        jcr:description="Need to contact Altra Running? Call us or reach out online if you have a question about your order or want to give us your feedback."
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Contact Us"
+        jcr:uuid="4a2c8f32-761f-40b3-bf51-f77a152066d2"
+        sling:resourceType="vfcorp/components/global/page/page-col-1"
+        dataLayerErrorCode="400"
+        frequency="always"
+        navTitle="If you have a question about your Altra Running order or want to give us your feedback, we are only a click or a call away. Contact Altra online today! "
+        pageTitle="Contact Us | Altra Running"
+        priority="0.5">
+        <content
+            cq:lastRolledout="{Date}2024-02-06T18:39:27.453Z"
+            cq:lastRolledoutBy="evan_lynch@vfc.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <grid_row
+                cq:lastRolledout="{Date}2024-02-06T18:39:27.462Z"
+                cq:lastRolledoutBy="evan_lynch@vfc.com"
+                jcr:created="{Date}2018-09-20T17:13:10.995Z"
+                jcr:createdBy="keith.kretz"
+                jcr:lastModified="{Date}2024-02-06T18:39:27.460Z"
+                jcr:lastModifiedBy="keith.kretz"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/grid_row">
+                <row-content
+                    cq:lastRolledout="{Date}2024-02-06T18:39:27.470Z"
+                    cq:lastRolledoutBy="evan_lynch@vfc.com"
+                    jcr:mixinTypes="[cq:LiveRelationship]"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="vfcorp/components/global/content/grid_row/parsys">
+                    <grid_column
+                        cq:lastRolledout="{Date}2024-02-06T18:39:27.482Z"
+                        cq:lastRolledoutBy="evan_lynch@vfc.com"
+                        jcr:created="{Date}2018-09-20T17:29:22.459Z"
+                        jcr:createdBy="keith.kretz"
+                        jcr:lastModified="{Date}2024-02-06T18:39:27.478Z"
+                        jcr:lastModifiedBy="keith.kretz"
+                        jcr:mixinTypes="[cq:LiveRelationship]"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="vfcorp/components/global/content/grid_column"
+                        largeScreensCenterColumn="true"
+                        largeScreensColumnCount="9"
+                        mediumScreensCenterColumn="true"
+                        mediumScreensColumnCount="9"
+                        smallScreensColumnCount="12">
+                        <column-content
+                            cq:lastRolledout="{Date}2024-02-06T18:39:27.510Z"
+                            cq:lastRolledoutBy="evan_lynch@vfc.com"
+                            jcr:mixinTypes="[cq:LiveRelationship]"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="vfcorp/components/global/content/grid_column/parsys">
+                            <customhtml2_d61f_cop
+                                cq:lastRolledout="{Date}2024-02-06T18:39:27.535Z"
+                                cq:lastRolledoutBy="evan_lynch@vfc.com"
+                                jcr:created="{Date}2016-12-05T17:58:26.530-05:00"
+                                jcr:createdBy="wade_litsey@vfc.com"
+                                jcr:lastModified="{Date}2024-02-06T18:39:27.531Z"
+                                jcr:lastModifiedBy="evan_lynch@vfc.com"
+                                jcr:mixinTypes="[cq:LiveRelationship]"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="vfcorp/components/global/content/customhtml2"
+                                bottomgarnishclass="feature-footing"
+                                customHTML="&lt;div class=&quot;text-center&quot; style=&quot;margin-bottom: 1.5em;&quot;>&#x9;&#xd;&#xa;&#x9;&#xd;&#xa;&lt;/div>"
+                                marginBottom="bottom-margin-default"
+                                marginTop="top-margin-default"
+                                paddingBottom="bottom-pad-default"
+                                paddingTop="top-pad-default"
+                                topgarnishclass="feature-heading"/>
+                            <customhtml2_62113984
+                                cq:lastRolledout="{Date}2024-02-06T18:39:27.542Z"
+                                cq:lastRolledoutBy="evan_lynch@vfc.com"
+                                jcr:created="{Date}2018-09-20T19:55:01.649Z"
+                                jcr:createdBy="jessica.sarkis"
+                                jcr:lastModified="{Date}2024-02-06T18:39:27.538Z"
+                                jcr:lastModifiedBy="evan_lynch@vfc.com"
+                                jcr:mixinTypes="[cq:LiveRelationship]"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="vfcorp/components/global/content/customhtml2"
+                                customCSS=".livechat {&#xd;&#xa;    color:#DD0008; &#xd;&#xa;    text-decoration:underline; &#xd;&#xa;    font-family: Neuzeit Grotesk;&#xd;&#xa;}"
+                                customHTML="&lt;br>&#xd;&#xa;&lt;h1>Contact Us&lt;/h1>&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;h4>How can we help?&lt;/h4>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;p>If you have a question about your order or want to give us your feedback, we are only a click or a call away! Please contact us by email, phone, live chat or contact form.&lt;/p>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;h4>Chat&lt;/h4>&lt;a href=&quot;/customer-service/contact-us.html#&quot; class=&quot;livechat&quot;>&lt;b>Start a Live Chat&lt;/b>&lt;/a>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;h4>Call or Email&lt;/h4>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;h6>Altra United States&lt;/h6>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;PHONE: 1-888-851-9411&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;For Warranty Inquiries : &lt;a href=&quot;mailto:Altra_WarrantyTeam@vfc.com&quot;>Altra_WarrantyTeam@vfc.com&lt;/a>&#xd;&#xa;&lt;br>&lt;br>&#xd;&#xa;All Other Concerns: &lt;a href=&quot;mailto:altra_customerservice@vfc.com&quot;>altra_customerservice@vfc.com&lt;/a>&#xd;&#xa;&lt;br>&lt;br>&#xd;&#xa;CUSTOMER SERVICE HOURS: &#xd;&#xa;&lt;br>&lt;br>&#xd;&#xa;MONDAY - FRIDAY, 8AM – 6PM CST.&#xd;&#xa;&lt;br>&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;h6>Altra Canada&lt;/h6>&#xd;&#xa;&lt;br>&#xd;&#xa;PHONE: 1-833-404-1483&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;EMAIL: &lt;a href=&quot;mailto:Altra_WarrantyTeam@vfc.com&quot;>Altra_WarrantyTeam@vfc.com.&lt;/a>&#xd;&#xa;&lt;br>&lt;br>&#xd;&#xa;CUSTOMER SERVICE HOURS: Monday to Friday 8:30AM-5:00PM EST.&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;/p>&#xd;&#xa;"
+                                marginBottom="bottom-margin-default"
+                                marginTop="top-margin-default"
+                                paddingBottom="bottom-pad-default"
+                                paddingTop="top-pad-default"/>
+                            <customhtml2
+                                cq:lastRolledout="{Date}2024-02-06T18:39:27.549Z"
+                                cq:lastRolledoutBy="evan_lynch@vfc.com"
+                                jcr:created="{Date}2018-09-20T17:40:27.388Z"
+                                jcr:createdBy="keith.kretz"
+                                jcr:lastModified="{Date}2024-02-06T18:39:27.544Z"
+                                jcr:lastModifiedBy="evan_lynch@vfc.com"
+                                jcr:mixinTypes="[cq:LiveRelationship]"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="vfcorp/components/global/content/customhtml2"
+                                customHTML="&lt;div style=&quot;margin-bottom: 1.5em; padding-top: 1em;&quot;> &#xd;&#xa;    &lt;h4>Fill out a Form&lt;/h4>&#xd;&#xa; &lt;p>To help answer any questions you may have about Altra, fill out your Name, Email Address, and question, then hit &quot;Submit.&quot; &lt;/p>&#xd;&#xa;&lt;/div> &#xd;&#xa;&lt;!-- Refer to http://foundation.zurb.com/docs/v/4.3.2/components/forms.html for building custom forms --> &#xd;&#xa;&lt;!-- Use Foundation Abide for form validation http://foundation.zurb.com/docs/v/4.3.2/components/abide.html --> &#xd;&#xa;&lt;!-- START messaging area --> &#xd;&#xa;&lt;section class=&quot;row centered hide&quot;> &#xd;&#xa; &lt;div class=&quot;large-8 large-offset-2 columns&quot;> &#xd;&#xa;  &lt;div data-alert=&quot;&quot; class=&quot;callout&quot; data-closeable> &#xd;&#xa;   &lt;span>Error Message&lt;/span> &#xd;&#xa;   &lt;a href=&quot;#&quot; class=&quot;close&quot; data-close>×&lt;/a> &#xd;&#xa;  &lt;/div> &#xd;&#xa; &lt;/div> &#xd;&#xa;&lt;/section> &#xd;&#xa;&lt;!-- END messaging area --> &#xd;&#xa;&lt;!-- START form area --> &#xd;&#xa;&lt;form data-live-validate=&quot;true&quot; data-validate-on-blur=&quot;true&quot; novalidate class=&quot;contact-us-form custom&quot; name=&quot;#contact-us-form&quot; method=&quot;POST&quot; action=&quot;/webapp/wcs/stores/servlet/VFCContactUsByEmail&quot; data-abide=&quot;&quot;> &#xd;&#xa; &lt;input type=&quot;hidden&quot; name=&quot;storeId&quot; value=&quot;8001&quot; id=&quot;storeId&quot;> &#xd;&#xa; &lt;input type=&quot;hidden&quot; name=&quot;catalogId&quot; value=&quot;19001&quot; id=&quot;catalogId&quot;> &#xd;&#xa; &lt;input type=&quot;hidden&quot; name=&quot;recipient_email&quot; value=&quot;altra_customerservice@vfc.com&quot; id=&quot;recipient_email&quot;> &#xd;&#xa; &lt;!-- START form fields --> &#xd;&#xa; &lt;section id=&quot;contact-form-box&quot; class=&quot;contact-form-box&quot;> &#xd;&#xa;  &lt;div class=&quot;row&quot;> &#xd;&#xa;   &lt;div class=&quot;small-12 medium-6 columns&quot;> &#xd;&#xa;    &lt;label for=&quot;sender_name&quot;>First and Last Name&lt;/label> &#xd;&#xa;    &lt;input tabindex=&quot;1&quot; title=&quot;Sender Name&quot; placeholder=&quot;First and Last Name&quot; name=&quot;sender_name&quot; pattern=&quot;^[A-Za-z]&quot; required maxlength=&quot;60&quot; value=&quot;&quot; type=&quot;text&quot;> &#xd;&#xa;    &lt;small class=&quot;form-error&quot;>First and Last Name are required.&lt;/small>&#xd;&#xa;    &lt;br>&#xd;&#xa;    &lt;br> &#xd;&#xa;   &lt;/div> &#xd;&#xa;   &lt;div class=&quot;small-12 medium-6 columns&quot;> &#xd;&#xa;    &lt;label for=&quot;email&quot;>Email&lt;/label> &#xd;&#xa;    &lt;input tabindex=&quot;2&quot; required title=&quot;Email Address&quot; placeholder=&quot;Email Address&quot; name=&quot;sender_email&quot; type=&quot;email&quot;> &#xd;&#xa;    &lt;small class=&quot;form-error&quot;>Email is required.&lt;/small>&#xd;&#xa;    &lt;br>&#xd;&#xa;    &lt;br> &#xd;&#xa;   &lt;/div> &#xd;&#xa;  &lt;/div> &#xd;&#xa;  &lt;div class=&quot;row&quot;> &#xd;&#xa;   &lt;div class=&quot;small-12 medium-6 columns&quot;> &#xd;&#xa;    &lt;a title=&quot;Phone (optional)&quot;>&lt;/a> &#xd;&#xa;    &lt;label for=&quot;phone-1&quot;>Phone (optional)&lt;/label> &#xd;&#xa;    &lt;input title=&quot;Phone (optional)&quot; tabindex=&quot;3&quot; placeholder=&quot;(___) ___ – ____&quot; name=&quot;phone_number&quot; pattern=&quot;^[0-9]*$&quot; value=&quot;&quot; type=&quot;tel&quot; maxlength=&quot;11&quot;> &#xd;&#xa;    &lt;small class=&quot;form-error&quot;>Please enter a properly formatted telephone number.&lt;/small>&#xd;&#xa;    &lt;br>&#xd;&#xa;    &lt;br> &#xd;&#xa;   &lt;/div> &#xd;&#xa;   &lt;div class=&quot;small-12 medium-6 columns&quot;> &#xd;&#xa;    &lt;label for=&quot;order-num&quot;>Order Number (optional)&lt;/label> &#xd;&#xa;    &lt;input tabindex=&quot;4&quot; title=&quot;Order Number&quot; placeholder=&quot;Order Number&quot; name=&quot;order_number&quot; pattern=&quot;^[0-9]*$&quot; maxlength=&quot;8&quot; value=&quot;&quot; type=&quot;text&quot;> &#xd;&#xa;    &lt;small class=&quot;form-error&quot;>Order Number can only contain numbers.&lt;/small>&#xd;&#xa;    &lt;br>&#xd;&#xa;    &lt;br> &#xd;&#xa;   &lt;/div> &#xd;&#xa;  &lt;/div> &#xd;&#xa;  &lt;div class=&quot;row&quot;> &#xd;&#xa;   &lt;div class=&quot;small-12 medium-6 columns&quot;> &#xd;&#xa;    &lt;label for=&quot;category&quot;>Category&lt;/label> &#xd;&#xa;    &lt;select tabindex=&quot;5&quot; title=&quot;Category&quot; id=&quot;category&quot; name=&quot;category&quot; maxlength=&quot;128&quot; required> &lt;option value=&quot;&quot;>Category (Please select one)&lt;/option> &lt;option value=&quot;Online&quot;>Customer Service&lt;/option> &lt;option value=&quot;Retail&quot;>Warranty&lt;/option> &lt;/select> &#xd;&#xa;    &lt;small class=&quot;form-error&quot;>Category is required.&lt;/small>&#xd;&#xa;    &lt;br>&#xd;&#xa;    &lt;br> &#xd;&#xa;   &lt;/div> &#xd;&#xa;   &lt;div class=&quot;small-12 medium-6 columns&quot;> &#xd;&#xa;    &lt;label for=&quot;subject&quot;>Subject&lt;/label> &#xd;&#xa;    &lt;select tabindex=&quot;6&quot; title=&quot;Subject&quot; id=&quot;subject&quot; name=&quot;subject&quot; maxlength=&quot;128&quot; required> &lt;option value=&quot;&quot;>---------&lt;/option> &lt;/select> &#xd;&#xa;    &lt;small class=&quot;form-error&quot;>Subject is required.&lt;/small>&#xd;&#xa;    &lt;br>&#xd;&#xa;    &lt;br> &#xd;&#xa;   &lt;/div> &#xd;&#xa;  &lt;/div> &#xd;&#xa;  &lt;div class=&quot;row&quot;> &#xd;&#xa;   &lt;div class=&quot;small-12 columns&quot;> &#xd;&#xa;    &lt;label for=&quot;message&quot;>Message&lt;/label> &#xd;&#xa;    &lt;textarea tabindex=&quot;7&quot; title=&quot;Message&quot; placeholder=&quot;Message&quot; name=&quot;message&quot; maxlength=&quot;400&quot; rows=&quot;12&quot; style=&quot;height: auto;&quot; required>&lt;/textarea> &#xd;&#xa;    &lt;small class=&quot;form-error&quot;>Message is required.&lt;/small>&#xd;&#xa;    &lt;br>&#xd;&#xa;    &lt;br> &#xd;&#xa;   &lt;/div> &#xd;&#xa;  &lt;/div> &#xd;&#xa;  &lt;!-- START form buttons --> &#xd;&#xa;  &lt;div class=&quot;row&quot;> &#xd;&#xa;   &lt;div class=&quot;small-12 medium-4 medium-centered column&quot;> &#xd;&#xa;    &lt;button tabindex=&quot;8&quot; id=&quot;addr-button-add&quot; title=&quot;Submit Contact Us Form&quot; type=&quot;submit&quot; class=&quot;button button-text primary expand&quot;>Submit&lt;/button> &#xd;&#xa;   &lt;/div> &#xd;&#xa;  &lt;/div> &#xd;&#xa;  &lt;!-- END form buttons --> &#xd;&#xa; &lt;/section> &#xd;&#xa; &lt;!-- END form fields --> &#xd;&#xa; &lt;!-- START response display area --> &#xd;&#xa; &lt;section class=&quot;row form-results hide&quot;> &#xd;&#xa;  &lt;div class=&quot;large-12 columns&quot;> &#xd;&#xa;   &lt;div class=&quot;callout form-results-inner&quot;>&lt;/div> &#xd;&#xa;  &lt;/div> &#xd;&#xa; &lt;/section> &#xd;&#xa; &lt;!-- END response display area --> &#xd;&#xa;&lt;/form> &#xd;&#xa;&lt;script>&#xd;&#xa;&#x9;// Javascript includes are managed with require.js&#xd;&#xa;&#x9;require([&#xd;&#xa;&#x9;&#x9;'foundation.forms',&#x9;// Foundation custom select styles&#xd;&#xa;&#x9;&#x9;'foundation.abide',&#x9;// Foundation Abide form validation&#xd;&#xa;&#x9;&#x9;&#xd;&#xa;&#x9;&#x9;], function(foundation) {&#xd;&#xa;&#x9;&#x9;&#x9;////////////// Start form-specific javascript&#xd;&#xa;&#xd;&#xa;&#x9;&#x9;&#x9;$(document).foundation();&#xd;&#xa;&#xd;&#xa;&#x9;&#x9;&#x9;var subjects = { &quot;Online&quot;: [&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;  'Order Inquiry',&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;  'Returns',&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;  'My Account Information',&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;  'Place an Order', &#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;  'Promotions',&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;  'Product Inquiry',&#xd;&#xa;                                  ],&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;  &quot;Retail&quot;:[&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;  'New Warranty Inquiry',&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;  'Existing Warranty Inquiry',&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;  'Product Inquiry',&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;  'General Inquiry'&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;  ]&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;};&#xd;&#xa;&#xd;&#xa;&#x9;&#x9;&#x9;// Emails should be populated with the correct values&#xd;&#xa;&#x9;&#x9;&#x9;var emails = { &quot;Online&quot; : &quot;altra_customerservice@vfc.com&quot;, &#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;   &quot;Retail&quot; : &quot;altra_customerservice@vfc.com&quot;&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;  };&#xd;&#xa;&#xd;&#xa;&#x9;&#x9;&#x9;// Changing subject select option depending on user's category choice.&#xd;&#xa;&#x9;&#x9;&#x9;$(&quot;#category&quot;).change(function() {&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;var val = $(this).val();&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;$(&quot;#subject&quot;).html('&lt;option value=&quot;&quot;>Please select a subject&lt;/option>');&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;$(&quot;#recipient_email&quot;).attr('value',emails[val]);&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;subjects[val].forEach(function(value){&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;$(&quot;#subject&quot;).append('&lt;option value=&quot;'+value+'&quot;>'+value+'&lt;/option>')&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;.trigger('change',true);&#x9;&#x9;&#x9;&#x9;&#x9;&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;});&#xd;&#xa;&#xd;&#xa;&#x9;    &#x9;});&#xd;&#xa;&#xd;&#xa;&#x9;&#x9;&#x9;$(&quot;.contact-us-form&quot;).on('submit',function(e) {&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;e.preventDefault();&#xd;&#xa;&#x9;&#x9;&#x9;});&#xd;&#xa;&#x9;&#x9;&#x9;&#xd;&#xa;&#x9;&#x9;&#x9;// Use Foundation Abide's form handling&#xd;&#xa;&#x9;    &#x9;$(document).on('formvalid.zf.abide', '.contact-us-form', function() {&#xd;&#xa;&#x9;    &#x9;&#x9;// AJAX submit the form&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;var postData = $(this).serializeArray(),&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;url = $(this).attr('action');&#xd;&#xa;&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;$.ajax({&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;type: 'POST',&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;data: postData,&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;url: url, &#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;cache: false,&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;success: function(msg){&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;$('.contact-form-box').addClass('hide');&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;$('.form-results').removeClass('hide');&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;$('.form-results-inner').html('Thank you for contacting us').addClass('success');&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;},&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;error: function(msg){&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;$('.form-results').removeClass('hide').addClass('callout');&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;$('.form-results-inner').html('Sorry, something went wrong.  Please try submitting again or give us a call at the number listed above.');&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;}&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;});&#xd;&#xa;&#x9;    &#x9;});&#xd;&#xa;&#xd;&#xa;&#x9;&#x9;&#x9;///////////// End form-specific javascript&#xd;&#xa;&#x9;});&#xd;&#xa;&lt;/script>"
+                                marginBottom="bottom-margin-default"
+                                marginTop="top-margin-default"
+                                paddingBottom="bottom-pad-default"
+                                paddingTop="top-pad-default"/>
+                        </column-content>
+                    </grid_column>
+                </row-content>
+            </grid_row>
+        </content>
+    </jcr:content>
+</jcr:root>

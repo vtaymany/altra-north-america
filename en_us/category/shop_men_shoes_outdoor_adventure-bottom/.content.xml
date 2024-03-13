@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2020-11-04T22:27:36.455Z"
+        cq:lastModifiedBy="abbey_charles@vfc.com"
+        cq:lastReplicated="{Date}2020-11-04T22:31:00.835Z"
+        cq:lastReplicatedBy="abbey_charles@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2020-11-04T22:27:36.459Z"
+        cq:lastRolledoutBy="abbey_charles@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/espot-integration"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="shop_men_shoes_outdoor_adventure-bottom"
+        jcr:uuid="734d9e2f-147d-43bf-87a8-c92c87e1b422"
+        sling:resourceType="vfcorp/components/global/page/espot-integration"
+        pageTitle="shop_men_shoes_outdoor_adventure-bottom"
+        rowFullBleed="true"
+        smallScreenSize="1">
+        <espotcontent
+            cq:lastRolledout="{Date}2020-11-04T22:27:36.442Z"
+            cq:lastRolledoutBy="abbey_charles@vfc.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <text
+                cq:lastRolledout="{Date}2020-11-04T22:27:36.459Z"
+                cq:lastRolledoutBy="abbey_charles@vfc.com"
+                jcr:created="{Date}2020-11-04T22:25:11.172Z"
+                jcr:createdBy="abbey_charles@vfc.com"
+                jcr:lastModified="{Date}2020-11-04T22:27:25.292Z"
+                jcr:lastModifiedBy="abbey_charles@vfc.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/text"
+                text="&lt;h1>Men's Hiking &amp;amp; Outdoor Shoes&lt;/h1>&#xd;&#xa;&lt;h2>Outdoor Adventure Shoes for Men&lt;/h2>&#xd;&#xa;&lt;div>&amp;nbsp;&lt;/div>&#xd;&#xa;&lt;p>Conquer tough terrain with the confidence of Altra performance footwear with Altra's outdoor hiking shoes for men. Our trail hiking shoes were made for difficult, irregular terrain so you could maintain grip and traction whether you're scaling a crag or mountain trail. Our men's trail runners for backpacking are great for any outdoor adventures with ankle support and Balanced Cushioning. You can be sure your hike will be free of annoying rocks causing blisters and hotspots with our &lt;a href=&quot;https://www.altrarunning.com/shop/mens-gear-accessories-trail-gaiters&quot;>trail gaiters&lt;/a>. Discover more great outdoor footwear with our &lt;a href=&quot;https://www.altrarunning.com/best-shoes-finder.html&quot;>product finder&lt;/a>&amp;nbsp;or shop our full selection of &lt;a href=&quot;https://www.altrarunning.com/shop/mens-shoes-trail&quot;>men's trail shoes&lt;/a>.&lt;/p>&#xd;&#xa;"
+                textIsRich="true"/>
+        </espotcontent>
+    </jcr:content>
+</jcr:root>

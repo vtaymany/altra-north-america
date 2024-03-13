@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-07-22T08:06:27.203Z"
+        cq:lastModifiedBy="suvarna.daragad@wipro.com"
+        cq:lastReplicated="{Date}2019-07-22T12:13:09.863Z"
+        cq:lastReplicatedBy="divya.annadurai@wipro.com"
+        cq:lastReplicationAction="Deactivate"
+        cq:lastRolledout="{Date}2019-07-22T08:06:27.256Z"
+        cq:lastRolledoutBy="suvarna.daragad@wipro.com"
+        cq:template="/apps/vfdp/footer/templates/footer"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Footer"
+        jcr:uuid="43d366b5-113d-4d98-a9be-80f84de6311f"
+        sling:resourceType="vfdp/footer/components/page/footerpage">
+        <footer
+            cq:lastRolledout="{Date}2019-07-22T08:06:26.852Z"
+            cq:lastRolledoutBy="suvarna.daragad@wipro.com"
+            jcr:lastModified="{Date}2019-07-22T08:06:26.792Z"
+            jcr:lastModifiedBy="suvarna.daragad@wipro.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="vfdp/footer/components/content/splitcolumnfooter"
+            backToTopPosition="bottom"
+            columnCount="4"
+            displayMode="default"
+            hideInLargeScreen="true"
+            hideInMediumScreen="true"
+            logoPosition="bottom-left"
+            textIsRich="[true,true]">
+            <footer_col1
+                cq:lastRolledout="{Date}2019-07-22T08:06:26.927Z"
+                cq:lastRolledoutBy="suvarna.daragad@wipro.com"
+                jcr:lastModified="{Date}2019-07-22T08:06:26.873Z"
+                jcr:lastModifiedBy="suvarna.daragad@wipro.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfdp/footer/components/content/splitcolumnfooter/footer_col"
+                column="\{&quot;URL&quot;:&quot;/content/vfcorp/altra/north-america/fr_ca/digital-style-guide/forms&quot;,&quot;name&quot;:&quot;MEN&quot;,&quot;newWindow&quot;:false,&quot;noFollow&quot;:false,&quot;overrideLinkTrackingValue&quot;:&quot;&quot;}"
+                columnHeader="SHOP"
+                textIsRich="true"/>
+            <footer_col2
+                cq:lastRolledout="{Date}2019-07-22T08:06:26.982Z"
+                cq:lastRolledoutBy="suvarna.daragad@wipro.com"
+                jcr:lastModified="{Date}2019-07-22T08:06:26.928Z"
+                jcr:lastModifiedBy="suvarna.daragad@wipro.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfdp/footer/components/content/splitcolumnfooter/footer_col"
+                column="\{&quot;URL&quot;:&quot;/content/vfcorp/altra/north-america/fr_ca/digital-style-guide/forms&quot;,&quot;name&quot;:&quot;Our Stroy&quot;,&quot;newWindow&quot;:false,&quot;noFollow&quot;:false,&quot;overrideLinkTrackingValue&quot;:&quot;&quot;}"
+                columnHeader="ABOUT"
+                textIsRich="true"/>
+            <footer_col3
+                cq:lastRolledout="{Date}2019-07-22T08:06:27.036Z"
+                cq:lastRolledoutBy="suvarna.daragad@wipro.com"
+                jcr:lastModified="{Date}2019-07-22T08:06:26.983Z"
+                jcr:lastModifiedBy="suvarna.daragad@wipro.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfdp/footer/components/content/splitcolumnfooter/footer_col"
+                column="\{&quot;URL&quot;:&quot;/content/vfcorp/altra/north-america/fr_ca/digital-style-guide/forms&quot;,&quot;name&quot;:&quot;Customer Support&quot;,&quot;newWindow&quot;:false,&quot;noFollow&quot;:false,&quot;overrideLinkTrackingValue&quot;:&quot;&quot;}"
+                columnHeader="Customer Service"
+                textIsRich="true"/>
+            <footer_col4
+                cq:lastRolledout="{Date}2019-07-22T08:06:27.091Z"
+                cq:lastRolledoutBy="suvarna.daragad@wipro.com"
+                jcr:lastModified="{Date}2019-07-22T08:06:27.037Z"
+                jcr:lastModifiedBy="suvarna.daragad@wipro.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfdp/footer/components/content/splitcolumnfooter/footer_col"
+                column="\{&quot;URL&quot;:&quot;/content/vfcorp/altra/north-america/fr_ca/digital-style-guide/forms&quot;,&quot;name&quot;:&quot;Sign In&quot;,&quot;newWindow&quot;:false,&quot;noFollow&quot;:false,&quot;overrideLinkTrackingValue&quot;:&quot;&quot;}"
+                columnHeader="Account"
+                textIsRich="true"/>
+            <footer_store_locator
+                cq:lastRolledout="{Date}2019-07-22T08:06:27.146Z"
+                cq:lastRolledoutBy="suvarna.daragad@wipro.com"
+                jcr:lastModified="{Date}2019-07-22T08:06:27.092Z"
+                jcr:lastModifiedBy="suvarna.daragad@wipro.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfdp/footer/components/content/splitcolumnfooter/footer_extra/footer_store_locator"
+                buttonCustomLink="/content/vfcorp/altra/north-america/fr_ca/digital-style-guide/alert-boxes"
+                storeButtonTitle="Find a Store"
+                storeDescription="Find Altra Products Near You"
+                storeTitle="FIND A STORE"
+                textIsRich="true"
+                visibilityClass="show-for-large"/>
+            <footer_social_link
+                cq:lastRolledout="{Date}2019-07-22T08:06:27.200Z"
+                cq:lastRolledoutBy="suvarna.daragad@wipro.com"
+                jcr:lastModified="{Date}2019-07-22T08:06:27.147Z"
+                jcr:lastModifiedBy="suvarna.daragad@wipro.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfdp/footer/components/content/splitcolumnfooter/footer_extra/footer_social_link"
+                socialMedia="\{&quot;URL&quot;:&quot;www.facebook.com&quot;,&quot;name&quot;:&quot;facebook&quot;}"
+                socialMediaTitle="Facebook"/>
+            <footer_email_signup
+                cq:lastRolledout="{Date}2019-07-22T08:06:27.256Z"
+                cq:lastRolledoutBy="suvarna.daragad@wipro.com"
+                jcr:lastModified="{Date}2019-07-22T08:06:27.202Z"
+                jcr:lastModifiedBy="suvarna.daragad@wipro.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfdp/footer/components/content/splitcolumnfooter/footer_extra/footer_email_signup"
+                alreadySubscribedMessage="Thank You For Signing Up!"
+                subscribeDescription="Get monthly news about new products, training tips and more"
+                subscribeTitle="JOIN OUR MAILING LIST"
+                visibilityClass="show-for-large"/>
+        </footer>
+    </jcr:content>
+</jcr:root>

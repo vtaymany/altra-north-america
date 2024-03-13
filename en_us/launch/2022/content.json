@@ -1,0 +1,41 @@
+{
+  "root": {
+    "content": {
+      "_cq:lastModified": "{Date}2021-09-13T20:03:55.376Z",
+      "_cq:lastModifiedBy": "abbey_charles@vfc.com",
+      "_cq:lastRolledout": "{Date}2021-09-13T20:03:55.380Z",
+      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "2022 Launches",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "__prefix": "jcr"
+    },
+    "lone-peak-6": "",
+    "altra-x-reigning-champ-olympus-4": "",
+    "mont-blanc": "",
+    "rivera-2": "",
+    "timp-4": "",
+    "vanish-carbon": "",
+    "vanish-tempo": "",
+    "escalante-3": "",
+    "escalante-3-fierce": "",
+    "torin-6": "",
+    "outroad": "",
+    "olympus-5": "",
+    "olympus-5-hike-low-gtx": "",
+    "olympus-5-hike-mid-gtx": "",
+    "mont-blanc-boa": "",
+    "apparel": "",
+    "provision-7": "",
+    "Via-Olympus": "",
+    "via-olympus-shoe": "",
+    "lone-peak-7": "",
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

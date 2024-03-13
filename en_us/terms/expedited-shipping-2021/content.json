@@ -1,0 +1,98 @@
+{
+  "root": {
+    "content": {
+      "content": {
+        "grid_row": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "text": {
+                  "_cq:lastRolledout": "{Date}2022-09-15T15:53:34.638Z",
+                  "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                  "_jcr:created": "{Date}2021-12-13T16:54:39.833Z",
+                  "_jcr:createdBy": "dylan_gibson@vfc.com",
+                  "_jcr:lastModified": "{Date}2022-09-15T15:53:34.629Z",
+                  "_jcr:lastModifiedBy": "dylan_gibson@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/text",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default",
+                  "_text": "<h1 style=\"text-align: center;\">ALTRA EXPEDITED SHIPPING 2021 - TERMS AND CONDITIONS</h1>\r\n<div>&nbsp;</div>\r\n<div><p class=\"MsoNormal\" style=\"text-align: justify;\"><i><b><span style=\"font-size: 14.0pt;\">Offer valid in the U.S. from December 15, 2021 at 3:00 am <span>ET to December 20, 2021 at&nbsp;</span></span></b><span class=\"MsoCommentReference\"><span style=\"font-size: 8.0pt;\"></span></span><b><span style=\"font-size: 14.0pt;\">3:00 am ET.</span></b></i></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><i><b><span style=\"font-size: 14.0pt;\">&nbsp;</span></b></i></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\">**Expedited shipping means shipping within 2 – 3 days which is a<b><i><u> projected</u></i></b> delivery date and <b>NOT</b> guaranteed by Altra, due to COVID-19 and increased volume of carriers.<span>&nbsp; </span>If shipping to another as a gift, note that Altra makes no representation or warranty that delivery will arrive on or before Christmas Day.<span>&nbsp; </span>Offer valid only for shipping to residential street address, NOT in-store pickup. Excludes delivery to post office boxes and military APO/FPO addresses. Subject to the standard expedited shipping policies at <a>www.altrarunning.com</a>,<span>&nbsp;</span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-size: 14.0pt;\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span>Offer is</span> not transferable and not to be re-published. <span>&nbsp;</span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\">&nbsp;</p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\">Customer must select 2-Day shipping at time of check-out.<span>&nbsp; </span>A special promo code is not required for this offer.</p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><b>&nbsp;</b></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span class=\"normaltextrun\">This offer cannot be redeemed for cash/credit and cannot be used for previous purchases or product returns/exchanges.</span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span class=\"normaltextrun\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span>Any attempt to defraud Altra as to eligibility or participation in offer will result in consumer/employee being charged for expedited shipping ($16.95 USD)</span><span class=\"MsoCommentReference\"><span> </span></span><span>and other sanctions. VF Corp. employees may also be subject to disciplinary sanctions as per the Company employee handbook.<span>&nbsp;</span></span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\">&nbsp;</p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\">Altra is not responsible for any technological failures, malfunctions or errors in conjunction with offer, including the failure of expedited shipping to be selected at check-out. <span class=\"normaltextrun\">No variance from these terms and conditions allowed except as required by law.&nbsp;&nbsp;Void where prohibited, taxed or restricted. Offer subject to change at any time without notice<i>.</i></span><span class=\"eop\"><i>&nbsp;</i></span></p>\r\n</div>\r\n",
+                  "_textIsRich": "true"
+                },
+                "_cq:lastRolledout": "{Date}2022-09-15T15:53:34.620Z",
+                "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2022-09-15T15:53:34.610Z",
+              "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+              "_jcr:created": "{Date}2021-12-13T16:53:35.564Z",
+              "_jcr:createdBy": "dylan_gibson@vfc.com",
+              "_jcr:lastModified": "{Date}2022-09-15T15:53:34.602Z",
+              "_jcr:lastModifiedBy": "dylan_gibson@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensCenterColumn": "true",
+              "_largeScreensColumnCount": "9",
+              "_mediumScreensCenterColumn": "true",
+              "_smallScreensCenterColumn": "true",
+              "_smallScreensColumnCount": "11"
+            },
+            "_cq:lastRolledout": "{Date}2022-09-15T15:53:34.594Z",
+            "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2022-09-15T15:53:34.586Z",
+          "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+          "_jcr:created": "{Date}2021-12-13T16:53:32.726Z",
+          "_jcr:createdBy": "dylan_gibson@vfc.com",
+          "_jcr:lastModified": "{Date}2022-09-15T15:53:34.581Z",
+          "_jcr:lastModifiedBy": "dylan_gibson@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row"
+        },
+        "_cq:lastRolledout": "{Date}2022-09-15T15:53:34.575Z",
+        "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2022-09-15T15:53:34.632Z",
+      "_cq:lastModifiedBy": "dylan_gibson@vfc.com",
+      "_cq:lastReplicated": "{Date}2022-09-15T15:54:37.739Z",
+      "_cq:lastReplicatedBy": "dylan_gibson@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2022-09-15T15:53:34.639Z",
+      "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:description": "Learn more about Altra Running expedited shipping policies. Expedited shipping is within 2 to 3 days which is a projected delivery date and NOT a guarantee. ",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "Expedited Shipping 2021",
+      "_jcr:uuid": "6d4fc2de-e16a-4608-a0cb-77a689cb1e75",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "_dataLayerErrorCode": "400",
+      "_frequency": "always",
+      "_pageTitle": "Expedited Shipping 2021 - Terms and Conditions",
+      "_priority": "0.5",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

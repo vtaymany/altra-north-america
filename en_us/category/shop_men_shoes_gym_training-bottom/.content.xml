@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2020-11-06T17:31:40.436Z"
+        cq:lastModifiedBy="abbey_charles@vfc.com"
+        cq:lastReplicated="{Date}2020-11-06T17:31:52.845Z"
+        cq:lastReplicatedBy="abbey_charles@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2020-11-06T17:31:40.438Z"
+        cq:lastRolledoutBy="abbey_charles@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/espot-integration"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="shop_men_shoes_gym_training-bottom"
+        jcr:uuid="c2cc7115-994f-4b46-8581-bff5fd4648a6"
+        sling:resourceType="vfcorp/components/global/page/espot-integration"
+        pageTitle="shop_men_shoes_gym_training-bottom"
+        rowFullBleed="true"
+        smallScreenSize="1">
+        <espotcontent
+            cq:lastRolledout="{Date}2020-11-06T17:31:40.428Z"
+            cq:lastRolledoutBy="abbey_charles@vfc.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <text
+                cq:lastRolledout="{Date}2020-11-06T17:31:40.438Z"
+                cq:lastRolledoutBy="abbey_charles@vfc.com"
+                jcr:created="{Date}2020-11-06T17:26:56.451Z"
+                jcr:createdBy="abbey_charles@vfc.com"
+                jcr:lastModified="{Date}2020-11-06T17:31:31.846Z"
+                jcr:lastModifiedBy="abbey_charles@vfc.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/text"
+                text="&lt;h1>Men's Gym Shoes&lt;/h1>&#xd;&#xa;&lt;h2>Men's Workout &amp;amp; Cross Training Shoes&lt;/h2>&#xd;&#xa;&lt;div>&amp;nbsp;&lt;/div>&#xd;&#xa;&lt;p>Whether you're weightlifting, running the treadmill, or getting in some cross training to mix up your workouts, Altra's gym shoes for men can help you get the most out of your workout. Made with Altra's Footshape toe box and Balanced Cushioning, our workout shoes allow your toes to spread out naturally to improve stability, while our cushioning system encourages proper form and footfall.&amp;nbsp; Our men's cross training shoes are perfect for any alternative workout you're looking to do for your off days, with construction designed for lifting and lateral movement. Once you've found your new gym shoes you can check out &lt;a href=&quot;https://www.altrarunning.com/shop/mens-shoes-trail&quot;>men's trail shoes&lt;/a>&amp;nbsp;and &lt;a href=&quot;https://www.altrarunning.com/shop/mens-shoes-road&quot;>road shoes&lt;/a>, or narrow down your options with our &lt;a href=&quot;https://www.altrarunning.com/best-shoes-finder.html&quot;>shoe finder&lt;/a>.&lt;/p>&#xd;&#xa;&lt;div>&amp;nbsp;&lt;/div>&#xd;&#xa;"
+                textIsRich="true"/>
+        </espotcontent>
+    </jcr:content>
+</jcr:root>

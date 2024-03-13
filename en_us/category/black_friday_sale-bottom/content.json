@@ -1,0 +1,54 @@
+{
+  "root": {
+    "content": {
+      "espotcontent": {
+        "text": {
+          "_cq:lastRolledout": "{Date}2023-11-20T22:42:21.448Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2023-11-20T22:41:57.125Z",
+          "_jcr:createdBy": "evan_lynch@vfc.com",
+          "_jcr:lastModified": "{Date}2023-11-20T22:42:21.445Z",
+          "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/text",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default",
+          "_text": "<p>*Offer valid for 30%-50% off select Altra shoe styles and 30% off apparel (excluding all hats, stoneguards, and gaiters) through December 3, 2023 on AltraRunning.com in the U.S. only, while supplies last. This offer cannot be combined with other coupons, discounts, or promotions. This offer is not eligible for price adjustments on purchases made prior to November 24, 2023 12:01am or after December 3, 2023 11:59 pm. Altra Running reserves the right to cancel orders arising from pricing, promotions, or other errors. Void where prohibited.</p>\r\n",
+          "_textIsRich": "true"
+        },
+        "_cq:lastRolledout": "{Date}2023-11-20T22:42:21.441Z",
+        "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2023-11-20T22:42:21.446Z",
+      "_cq:lastModifiedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicated": "{Date}2023-11-24T09:08:01.636Z",
+      "_cq:lastReplicatedBy": "workflow-process-service",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2023-11-20T22:42:21.448Z",
+      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/espot-integration",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "black_friday_sale-bottom",
+      "_jcr:uuid": "9309a2b4-16ae-4ad1-ba37-7818009bddcb",
+      "_sling:resourceType": "vfcorp/components/global/page/espot-integration",
+      "_rowFullBleed": "true",
+      "_smallScreenSize": "1",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

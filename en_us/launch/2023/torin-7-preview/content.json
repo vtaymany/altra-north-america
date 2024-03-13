@@ -1,0 +1,117 @@
+{
+  "root": {
+    "content": {
+      "content": {
+        "grid_row": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "image": {
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2023-04-24T16:33:06.495Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "autosize",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/23F%5FTorin7%5FSignuptoKnow%5FLandingPage%5FDesktop%5F2880x1080px?",
+                    "_mobileImageUrl": "https://images.altrarunning.com/is/image/altra/23F%5FTorin7%5FSignuptoKnow%5FLandingPage%5FMobile%5F640x824px?"
+                  },
+                  "_cq:lastRolledout": "{Date}2023-04-24T16:33:06.488Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-04-18T17:28:05.824Z",
+                  "_jcr:createdBy": "evan_lynch@vfc.com",
+                  "_jcr:lastModified": "{Date}2023-04-24T16:33:06.485Z",
+                  "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image",
+                  "_float": "none"
+                },
+                "customhtml2": {
+                  "_cq:lastRolledout": "{Date}2023-04-24T16:33:06.501Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-03-02T17:55:05.701Z",
+                  "_jcr:createdBy": "evan_lynch@vfc.com",
+                  "_jcr:lastModified": "{Date}2023-04-24T16:33:06.497Z",
+                  "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customCSS": "#bc-torin7 {\r\n    \r\n}",
+                  "_customHTML": "<div id=\"bc-torin7\"></div>",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2023-04-24T16:33:06.479Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured"
+              },
+              "_cq:lastRolledout": "{Date}2023-04-24T16:33:06.475Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2023-04-18T17:34:06.424Z",
+              "_jcr:createdBy": "evan_lynch@vfc.com",
+              "_jcr:lastModified": "{Date}2023-04-24T16:33:06.470Z",
+              "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensCenterColumn": "true",
+              "_largeScreensColumnCount": "11",
+              "_mediumScreensCenterColumn": "true",
+              "_mediumScreensColumnCount": "11",
+              "_smallScreensCenterColumn": "true",
+              "_smallScreensColumnCount": "11"
+            },
+            "_cq:lastRolledout": "{Date}2023-04-24T16:33:06.466Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2023-04-24T16:33:06.461Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2023-04-18T17:34:01.912Z",
+          "_jcr:createdBy": "evan_lynch@vfc.com",
+          "_jcr:lastModified": "{Date}2023-04-24T16:33:06.458Z",
+          "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row",
+          "_collapseGutters": "true",
+          "_rowFullBleed": "true"
+        },
+        "_cq:lastRolledout": "{Date}2023-04-24T16:33:06.455Z",
+        "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2023-04-24T16:33:06.498Z",
+      "_cq:lastModifiedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicated": "{Date}2023-04-24T16:36:14.039Z",
+      "_cq:lastReplicatedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2023-04-24T16:33:06.501Z",
+      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "Torin 7 Preview",
+      "_jcr:uuid": "a9a36379-9e06-477f-9705-f18996028dcb",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "_pageTitle": "Torin 7 Preview",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

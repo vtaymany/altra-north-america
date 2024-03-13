@@ -1,0 +1,72 @@
+{
+  "root": {
+    "content": {
+      "espotcontent": {
+        "customhtml2_copy_cop_1552013098": {
+          "_cq:lastRolledout": "{Date}2022-11-02T16:27:16.513Z",
+          "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+          "_jcr:created": "{Date}2022-06-09T15:53:59.263Z",
+          "_jcr:createdBy": "Kylie_Vanderheiden@vfc.com",
+          "_jcr:lastModified": "{Date}2022-11-02T16:27:16.506Z",
+          "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+          "_backgroundcolor": "#f7f7f7",
+          "_customCSS": ".3d-product-viewer-container {\r\n    height: 750px;\r\n    display: block;\r\n}\r\n\r\n.__arc-thumbnail-container {\r\n    background-color: #f7f7f7 !important;\r\n}\r\n\r\n.__arc-canvas {\r\n    box-shadow: 0 0px 0px 0px !important;\r\n    border-bottom: 1px solid #000000;\r\n}\r\n\r\n.__arc-watermark {\r\n        display: none;\r\n}\r\n\r\n\r\n",
+          "_customHTML": "\r\n    \r\n<script src=\"https://cdn.arcsineimaging.com/scripts/2.4.0/sdk.bundle.js\"></script>\r\n<div arcsine-viewer=\"via-olympusv0_0471d2167898\" style=\"margin: 0 auto; background-color: #f7f7f7; width: 80%; height: 520px\" initial-viewpoint=\"0\" navigation=\"thumbnails\" initial-animation=\"none\" navigation-order=\"[1,2,3,5,13,11]\" expandable=\"true\" show-viewpoint-targets=\"never\"></div>\r\n",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default"
+        },
+        "customhtml2_copy_cop": {
+          "_cq:lastRolledout": "{Date}2022-11-02T16:27:16.523Z",
+          "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+          "_jcr:created": "{Date}2021-11-05T18:51:41.821Z",
+          "_jcr:createdBy": "abbey_charles@vfc.com",
+          "_jcr:lastModified": "{Date}2022-11-02T16:27:16.517Z",
+          "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+          "_customCSS": ".space {\r\n    height: 4rem;\r\n}",
+          "_customHTML": "<div class=\"space\"></div>",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default"
+        },
+        "_cq:lastRolledout": "{Date}2022-11-02T16:27:16.496Z",
+        "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2022-11-02T16:27:16.520Z",
+      "_cq:lastModifiedBy": "dylan_gibson@vfc.com",
+      "_cq:lastReplicated": "{Date}2022-11-02T16:27:45.480Z",
+      "_cq:lastReplicatedBy": "dylan_gibson@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2022-11-02T16:27:16.524Z",
+      "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/espot-integration",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "ES Via Olympus PDP",
+      "_jcr:uuid": "b5f45024-1756-4dfd-9d63-d6153c0a92bb",
+      "_sling:resourceType": "vfcorp/components/global/page/espot-integration",
+      "_rowFullBleed": "true",
+      "_smallScreenSize": "1",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

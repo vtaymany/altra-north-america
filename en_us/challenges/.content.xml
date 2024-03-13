@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2021-07-21T01:00:36.591Z"
+        cq:lastModifiedBy="abbey_charles@vfc.com"
+        cq:lastRolledout="{Date}2021-07-21T01:00:36.594Z"
+        cq:lastRolledoutBy="abbey_charles@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/page-col-1"
+        jcr:mixinTypes="[cq:LiveRelationship]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Challenges"
+        sling:resourceType="vfcorp/components/global/page/page-col-1"/>
+    <strava-10-10-10/>
+    <for-the-love-of-running/>
+    <spring-speed-challenge-2022/>
+    <strava-elevation-challenge/>
+    <strava-max-comfort-meet-road/>
+</jcr:root>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2022-07-14T20:32:00.511Z"
+        cq:lastModifiedBy="dylan_gibson@vfc.com"
+        cq:lastReplicated="{Date}2022-07-14T20:32:57.419Z"
+        cq:lastReplicatedBy="dylan_gibson@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2022-07-14T20:32:00.897Z"
+        cq:lastRolledoutBy="dylan_gibson@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/page-col-1"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Altra's Sustainability Efforts"
+        jcr:uuid="ab948339-1818-4a76-b370-dc8464349179"
+        sling:resourceType="vfcorp/components/global/page/page-col-1"
+        sling:vanityPath="[/content/vfcorp/altra/north-america/en_us/who-we-are/sustainability]"
+        dataLayerErrorCode="400"
+        frequency="always"
+        priority="0.5"/>
+</jcr:root>

@@ -1,0 +1,154 @@
+{
+  "root": {
+    "content": {
+      "espotcontent": {
+        "image_with_overlay2_": {
+          "overlayImage": {
+            "_cq:lastRolledout": "{Date}2023-02-15T18:34:07.290Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/23S%5FEnergyBlastPack%5FCategoryBanner%5FDesktop?",
+            "_mobileImageUrl": "https://images.altrarunning.com/is/image/altra/23S%5FEnergyBlastPack%5FCategoryBanner%5FMobile?"
+          },
+          "image": {
+            "_cq:lastRolledout": "{Date}2023-02-15T18:34:07.294Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_autoCalcSize": "autosize"
+          },
+          "link": {
+            "_cq:lastRolledout": "{Date}2023-02-15T18:34:07.296Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured"
+          },
+          "overlay": {
+            "content": {
+              "alignment": {
+                "_cq:lastRolledout": "{Date}2023-02-15T18:34:07.333Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_large": "large-text-left",
+                "_medium": "medium-text-left",
+                "_small": "small-text-center"
+              },
+              "_cq:lastRolledout": "{Date}2023-02-15T18:34:07.322Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_color": "#FFFFFF",
+              "_headingContent": "Look Fast<br> Feel Fast <br> Be Fast",
+              "_headingLevel": "h1",
+              "_subheadingLevel": "h1"
+            },
+            "position": {
+              "_cq:lastRolledout": "{Date}2023-02-15T18:34:07.343Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_large": "middle-left",
+              "_largeHorizontalOffset": "0",
+              "_largeVerticalOffset": "0",
+              "_medium": "middle-left",
+              "_mediumHorizontalOffset": "0",
+              "_mediumVerticalOffset": "0",
+              "_small": "bottom-center",
+              "_smallVerticalOffset": "1"
+            },
+            "width": {
+              "_cq:lastRolledout": "{Date}2023-02-15T18:34:07.348Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_large": "large-12",
+              "_small": "small-12"
+            },
+            "gradient": {
+              "_cq:lastRolledout": "{Date}2023-02-15T18:34:07.350Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured"
+            },
+            "_cq:lastRolledout": "{Date}2023-02-15T18:34:07.299Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured"
+          },
+          "cta1": {
+            "_cq:lastRolledout": "{Date}2023-02-15T18:34:07.352Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured"
+          },
+          "cta2": {
+            "_cq:lastRolledout": "{Date}2023-02-15T18:34:07.354Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured"
+          },
+          "overlaidimage": {
+            "position": {
+              "_cq:lastRolledout": "{Date}2023-02-15T18:34:07.367Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured"
+            },
+            "width": {
+              "_cq:lastRolledout": "{Date}2023-02-15T18:34:07.371Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_small": "small-4"
+            },
+            "_cq:lastRolledout": "{Date}2023-02-15T18:34:07.356Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured"
+          },
+          "_cq:lastRolledout": "{Date}2023-02-15T18:34:07.256Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2023-02-10T20:31:29.454Z",
+          "_jcr:createdBy": "evan_lynch@vfc.com",
+          "_jcr:lastModified": "{Date}2023-02-15T18:34:07.251Z",
+          "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay2",
+          "_float": "none"
+        },
+        "_cq:lastRolledout": "{Date}2023-02-15T18:34:07.244Z",
+        "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2023-02-15T18:34:07.369Z",
+      "_cq:lastModifiedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicated": "{Date}2023-02-15T18:46:46.161Z",
+      "_cq:lastReplicatedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2023-02-15T18:34:07.372Z",
+      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/espot-integration",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "energy_blast_pack",
+      "_jcr:uuid": "ca73aee3-7585-4fe4-87e2-9366bac8ca5a",
+      "_sling:resourceType": "vfcorp/components/global/page/espot-integration",
+      "_rowFullBleed": "true",
+      "_smallScreenSize": "1",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

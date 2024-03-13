@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2020-11-06T17:47:53.675Z"
+        cq:lastModifiedBy="abbey_charles@vfc.com"
+        cq:lastReplicated="{Date}2020-11-06T17:49:55.752Z"
+        cq:lastReplicatedBy="abbey_charles@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2020-11-06T17:47:53.677Z"
+        cq:lastRolledoutBy="abbey_charles@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/espot-integration"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="shop_men_shoes_walk-bottom"
+        jcr:uuid="ea7df6fa-6d2e-43d8-ba75-2ba6aca3f3e9"
+        sling:resourceType="vfcorp/components/global/page/espot-integration"
+        rowFullBleed="true"
+        smallScreenSize="1">
+        <espotcontent
+            cq:lastRolledout="{Date}2020-11-06T17:47:53.670Z"
+            cq:lastRolledoutBy="abbey_charles@vfc.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <text
+                cq:lastRolledout="{Date}2020-11-06T17:47:53.677Z"
+                cq:lastRolledoutBy="abbey_charles@vfc.com"
+                jcr:created="{Date}2020-11-06T17:46:08.870Z"
+                jcr:createdBy="abbey_charles@vfc.com"
+                jcr:lastModified="{Date}2020-11-06T17:47:53.674Z"
+                jcr:lastModifiedBy="abbey_charles@vfc.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/text"
+                text="&lt;h1>Men's Walking Shoes&lt;/h1>&#xd;&#xa;&lt;h2>Comfortable Men's Walking Shoes&lt;/h2>&#xd;&#xa;&lt;div>&amp;nbsp;&lt;/div>&#xd;&#xa;&lt;p>shoes like comfortable slip on sneakers and stylish chukka boots, these everyday shoes are perfect for the office or trips around town. Our men's lifestyle shoes are crafted with premium materials like genuine leather, comfortable memory foam, and tough rubber outers.&amp;nbsp; Get the same Balanced Cushioning you love about your &lt;a href=&quot;https://www.altrarunning.com/shop/mens-shoes-trail&quot;>trail running shoes&lt;/a>, but with a sophisticated, stylish and professional look.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Not finding what you're looking for? Try our &lt;a href=&quot;https://www.altrarunning.com/best-shoes-finder.html&quot;>shoe finder&lt;/a>&amp;nbsp;to match the perfect Altra shoe with your lifestyle.&lt;/p>&#xd;&#xa;"
+                textIsRich="true"/>
+        </espotcontent>
+    </jcr:content>
+</jcr:root>

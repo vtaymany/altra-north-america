@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2022-05-13T19:44:57.202Z"
+        cq:lastModifiedBy="dylan_gibson@vfc.com"
+        cq:lastRolledout="{Date}2022-05-13T19:44:57.206Z"
+        cq:lastRolledoutBy="dylan_gibson@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/espot-integration"
+        jcr:mixinTypes="[cq:LiveRelationship]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="ES Shipping and Returns"
+        sling:resourceType="vfcorp/components/global/page/espot-integration"
+        rowFullBleed="true"
+        smallScreenSize="1">
+        <espotcontent
+            cq:lastRolledout="{Date}2022-05-13T19:44:57.194Z"
+            cq:lastRolledoutBy="dylan_gibson@vfc.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <customhtml2
+                cq:lastRolledout="{Date}2022-05-13T19:44:57.206Z"
+                cq:lastRolledoutBy="dylan_gibson@vfc.com"
+                jcr:created="{Date}2022-05-13T19:38:29.021Z"
+                jcr:createdBy="dylan_gibson@vfc.com"
+                jcr:lastModified="{Date}2022-05-13T19:44:57.201Z"
+                jcr:lastModifiedBy="dylan_gibson@vfc.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/customhtml2"
+                customHTML="&lt;p>Free 3 Day Shipping &amp; Free Returns&lt;/p>&#xd;&#xa;&lt;p>\u000bOffer valid online at altrarunning.com with selection of the &quot;3 Day&quot; shipping option.  Actual delivery times may vary.  Not valid at any retail store. See Details&lt;/p>&#xd;&#xa;&lt;p>If for any reason, you are not satisfied with your altrarunning.com purchase within the first 30 days, please return your items for a full refund. See Details&lt;/p>"
+                marginBottom="bottom-margin-default"
+                marginTop="top-margin-default"
+                paddingBottom="bottom-pad-default"
+                paddingTop="top-pad-default"/>
+        </espotcontent>
+    </jcr:content>
+</jcr:root>

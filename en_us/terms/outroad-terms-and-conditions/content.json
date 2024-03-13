@@ -1,0 +1,100 @@
+{
+  "root": {
+    "content": {
+      "content": {
+        "grid_row": {
+          "row-content": {
+            "grid_column_copy_cop": {
+              "column-content": {
+                "text": {
+                  "_cq:lastRolledout": "{Date}2022-06-22T16:25:52.676Z",
+                  "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                  "_jcr:created": "{Date}2020-09-18T20:28:22.736Z",
+                  "_jcr:createdBy": "abbey_charles@vfc.com",
+                  "_jcr:lastModified": "{Date}2022-06-22T16:25:52.668Z",
+                  "_jcr:lastModifiedBy": "dylan_gibson@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/text",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default",
+                  "_text": "<h1 style=\"text-align: center;\">OUTROAD TERMS &amp; CONDITIONS</h1>\r\n<h1 style=\"text-align: center;\">&nbsp;</h1>\r\n<p><i>Offer valid in U.S. only for purchasers of Altra Running’s Outroad shoes who received product notification e-mail directly from Altra Running regarding lacing. Promo Code is good only for intended recipient of same; Promo Code is not transferable and not to be republished. &nbsp;</i><br>\r\n</p>\r\n<p><i>&nbsp; <br>\r\n Promo Code redeemable for one (1) pair of regularly priced Altra Running shoes (EXCLUDING Vanish Carbon) at <a href=\"https://www.altrarunning.com\">www.altrarunning.com</a>. Promo Code value is up to $150.&nbsp; To redeem, enter Promo Code at checkout and click “Apply A Promo Code.”<br>\r\n <br>\r\n Promo Code expires 9/30/2022 at 11:59:59 p.m. ET and is valid for one-time use only. Limit of (1) Promo Code redemption per eligible person regardless of quantity of Outroad shoes purchased. Return of purchased Outroad shoes for refund or exchange of purchased Outroad shoes for another Altra Running product voids Promo Code. Not valid at any 3rd party retailer of Altra Running products. Offer is pre-tax and excludes expedited shipping charges.&nbsp; Offer cannot be combined with other Promo Codes, coupons, offers or discounts (including employee discounts). Altra Running may verify eligibility prior to redemption of Promo Code; this and all other decisions of Altra Running are final and binding. Any misrepresentation by consumer regarding making Outroad shoes purchase or any other act of fraud voids Promo Code, will require payment in full for purchase, and may result in imposition of legal sanctions. All purchases are subject to terms and conditions of <a href=\"https://www.altrarunning.com\">www.altrarunning.com</a>. We are not responsible if the Promo Code is lost, stolen, destroyed or used without your permission or for technological failure/error/malfunction of any kind. Use (or non-use) of Promo Code will not affect receipt of Altra Running’s replacement Outroad shoes because of lacing. Remaining balance of purchase (if any) must be paid using another form of payment; if entire value of Promo Code is not used, any remaining value will be forfeited and no change will be provided. Promo Code is NOT a gift card.&nbsp; Offer cannot be redeemed for cash or applied as payment to any account. No price adjustment allowed on previous purchases, product returns/exchanges or purchases made without use of the Promo Code. No variance from these terms and conditions allowed except as required by law.&nbsp; Void where prohibited, taxed or restricted. Offer subject to change at any time without notice. <br>\r\n   <br>\r\n <br>\r\n <br>\r\n <br>\r\n </i><span class=\"eop\"><i><span style=\"font-size: 14.0pt;\"></span></i></span><i><span style=\"font-size: 14.0pt; font-family: &quot;Segoe UI&quot; , sans-serif;\"></span></i></p>\r\n",
+                  "_textIsRich": "true"
+                },
+                "_cq:lastRolledout": "{Date}2022-06-22T16:25:52.659Z",
+                "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2022-06-22T16:25:52.651Z",
+              "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+              "_jcr:created": "{Date}2020-09-18T20:27:24.616Z",
+              "_jcr:createdBy": "abbey_charles@vfc.com",
+              "_jcr:lastModified": "{Date}2022-06-22T16:25:52.643Z",
+              "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensCenterColumn": "true",
+              "_largeScreensColumnCount": "9",
+              "_mediumScreensCenterColumn": "true",
+              "_smallScreensCenterColumn": "true",
+              "_smallScreensColumnCount": "11"
+            },
+            "_cq:lastRolledout": "{Date}2022-06-22T16:25:52.636Z",
+            "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2022-06-22T16:25:52.628Z",
+          "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+          "_jcr:created": "{Date}2022-06-22T16:20:53.195Z",
+          "_jcr:createdBy": "dylan_gibson@vfc.com",
+          "_jcr:lastModified": "{Date}2022-06-22T16:25:52.623Z",
+          "_jcr:lastModifiedBy": "dylan_gibson@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row",
+          "_collapseGutters": "true",
+          "_rowFullBleed": "true"
+        },
+        "_cq:lastRolledout": "{Date}2022-06-22T16:25:52.616Z",
+        "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2022-06-22T16:25:52.671Z",
+      "_cq:lastModifiedBy": "dylan_gibson@vfc.com",
+      "_cq:lastReplicated": "{Date}2022-06-22T16:26:41.711Z",
+      "_cq:lastReplicatedBy": "dylan_gibson@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2022-06-22T16:25:52.677Z",
+      "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "Outroad Terms and Conditions",
+      "_jcr:uuid": "7df9633c-39f4-40fb-9f0d-4db179ef976b",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "_dataLayerErrorCode": "400",
+      "_frequency": "always",
+      "_noFollow": "true",
+      "_noIndex": "true",
+      "_priority": "0.5",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "root": {
+    "content": {
+      "content": {
+        "fullwidthcontainer": {
+          "full-width-content": {
+            "grid_row": {
+              "row-content": {
+                "grid_column": {
+                  "column-content": {
+                    "customhtml2": {
+                      "_cq:lastRolledout": "{Date}2023-12-29T17:55:18.720Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:created": "{Date}2018-09-14T19:05:45.445Z",
+                      "_jcr:createdBy": "keith.kretz",
+                      "_jcr:lastModified": "{Date}2023-12-29T17:55:18.716Z",
+                      "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                      "_customHTML": "<br><br>\r\n<a href=\"/\">Home</a> // Altra 30 Day Guarantee\r\n<br><br><br><br>\r\n<h1>Altra 30-Day Trial Runs Are Guaranteed</h1>\r\n\r\n<br><br>\r\n<p>At AltraRunning.com, we want to ensure you have not only the best running experience, but also the best online purchasing experience. That's why 30-Day Trial Runs Are Guaranteed. If you are not completely satisfied with your new product within the first 30 days after purchase, please return your items for a full refund. We include a free shipping return label with each order. Please note and keep your tracking number on the return label for your records until your credit has been processed.\r\n\r\nSee our <a href=\"/return-policy.html\">returns page</a> for full return instructions. </p>\r\n<p>A couple of rules, though. We may first validate trial claims by requiring proof of purchase & related info. We can reject claims if there’s suspected fraud or abuse.</p>\r\n<p>*Available only to US based customers. Not transferable. </p>",
+                      "_marginBottom": "bottom-margin-default",
+                      "_marginTop": "top-margin-default",
+                      "_paddingBottom": "bottom-pad-default",
+                      "_paddingTop": "top-pad-default"
+                    },
+                    "_cq:lastRolledout": "{Date}2023-12-29T17:55:18.711Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+                  },
+                  "_cq:lastRolledout": "{Date}2023-12-29T17:55:18.706Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2018-09-14T19:05:06.877Z",
+                  "_jcr:createdBy": "keith.kretz",
+                  "_jcr:lastModified": "{Date}2023-12-29T17:55:18.701Z",
+                  "_jcr:lastModifiedBy": "keith.kretz",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+                  "_largeScreensCenterColumn": "true",
+                  "_largeScreensColumnCount": "10",
+                  "_largeScreensOffset": "2",
+                  "_mediumScreensCenterColumn": "true",
+                  "_mediumScreensColumnCount": "10",
+                  "_mediumScreensOffset": "2",
+                  "_smallScreensCenterColumn": "true",
+                  "_smallScreensColumnCount": "10",
+                  "_smallScreensOffset": "2"
+                },
+                "_cq:lastRolledout": "{Date}2023-12-29T17:55:18.696Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2023-12-29T17:55:18.691Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2018-09-14T18:56:37.745Z",
+              "_jcr:createdBy": "keith.kretz",
+              "_jcr:lastModified": "{Date}2023-12-29T17:55:18.688Z",
+              "_jcr:lastModifiedBy": "keith.kretz",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_row"
+            },
+            "_cq:lastRolledout": "{Date}2023-12-29T17:55:18.685Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/fullwidthcontainer/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2023-12-29T17:55:18.681Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2018-09-14T18:23:17.767Z",
+          "_jcr:createdBy": "keith.kretz",
+          "_jcr:lastModified": "{Date}2023-12-29T17:55:18.678Z",
+          "_jcr:lastModifiedBy": "keith.kretz",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/fullwidthcontainer"
+        },
+        "_cq:lastRolledout": "{Date}2023-12-29T17:55:18.675Z",
+        "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2023-12-29T17:55:18.717Z",
+      "_cq:lastModifiedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicated": "{Date}2023-12-29T17:57:57.851Z",
+      "_cq:lastReplicatedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2023-12-29T17:55:18.720Z",
+      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:description": "Altra Running wants to make sure you have the best online purchasing experience. That’s why we promise a 30-day satisfaction guarantee on all our products. ",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "altra-guarantee",
+      "_jcr:uuid": "6e2aa76b-a209-4481-abb4-aba0ab2a21c6",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "_dataLayerErrorCode": "400",
+      "_frequency": "always",
+      "_pageTitle": "Altra Guarantee | Altra Running Footwear",
+      "_priority": "0.5",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

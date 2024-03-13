@@ -1,0 +1,26 @@
+{
+  "root": {
+    "content": {
+      "_cq:lastModified": "{Date}2021-07-21T01:00:36.591Z",
+      "_cq:lastModifiedBy": "abbey_charles@vfc.com",
+      "_cq:lastRolledout": "{Date}2021-07-21T01:00:36.594Z",
+      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "Challenges",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "__prefix": "jcr"
+    },
+    "strava-10-10-10": "",
+    "for-the-love-of-running": "",
+    "spring-speed-challenge-2022": "",
+    "strava-elevation-challenge": "",
+    "strava-max-comfort-meet-road": "",
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

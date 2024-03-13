@@ -1,0 +1,43 @@
+{
+  "root": {
+    "content": {
+      "_cq:lastModified": "{Date}2022-09-15T15:50:56.319Z",
+      "_cq:lastModifiedBy": "dylan_gibson@vfc.com",
+      "_cq:lastReplicated": "{Date}2022-09-15T15:51:17.531Z",
+      "_cq:lastReplicatedBy": "dylan_gibson@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2022-09-15T15:50:56.697Z",
+      "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:description": "Altra Running Customer Service is always here for you. Check your order status, learn more about shipping and returns, or review the Altra product warranty. ",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "Customer Service",
+      "_jcr:uuid": "c3ff6a1f-e8d9-4faf-a1e7-570a0e847cb7",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "_dataLayerErrorCode": "400",
+      "_frequency": "always",
+      "_noFollow": "true",
+      "_noIndex": "true",
+      "_priority": "0.5",
+      "__prefix": "jcr"
+    },
+    "mens-size-chart": "",
+    "womens-size-chart": "",
+    "youth-size-chart": "",
+    "apparel-size-chart": "",
+    "mens-tops-outerwear": "",
+    "mens-bottoms": "",
+    "mens-accessories": "",
+    "womens-tops-outerwear": "",
+    "womens-bottoms": "",
+    "womens-accessories": "",
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2024-02-05T22:29:51.693Z"
+        cq:lastModifiedBy="evan_lynch@vfc.com"
+        cq:lastReplicated="{Date}2024-02-05T22:30:39.245Z"
+        cq:lastReplicatedBy="evan_lynch@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2024-02-05T22:29:51.695Z"
+        cq:lastRolledoutBy="evan_lynch@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/espot-integration"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="gifts_for_the_comfort_lovers-bottom"
+        jcr:uuid="f231807d-2a15-44d9-9081-8b22d731c5be"
+        sling:resourceType="vfcorp/components/global/page/espot-integration"
+        rowFullBleed="true"
+        smallScreenSize="1">
+        <espotcontent
+            cq:lastRolledout="{Date}2024-02-05T22:29:51.687Z"
+            cq:lastRolledoutBy="evan_lynch@vfc.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <text_copy_copy_copy_
+                cq:lastRolledout="{Date}2024-02-05T22:29:51.695Z"
+                cq:lastRolledoutBy="evan_lynch@vfc.com"
+                jcr:created="{Date}2023-11-20T22:41:57.125Z"
+                jcr:createdBy="evan_lynch@vfc.com"
+                jcr:lastModified="{Date}2024-02-05T22:29:51.691Z"
+                jcr:lastModifiedBy="evan_lynch@vfc.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/text"
+                marginBottom="bottom-margin-default"
+                marginTop="top-margin-default"
+                paddingBottom="bottom-pad-default"
+                paddingTop="top-pad-default"
+                text="&lt;h2>Cozy Gifts for Everyone&lt;/h2>&#xd;&#xa;&lt;p>Celebrate the joy of warmth and relaxation with our curated selection of the best cozy gift ideas. Whether you're shopping for a loved one or treating yourself, Altra has the ideal blend of comfort and fashion to make every winter moment memorable. Our holiday gift guides have something for everyone.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;h2>Cozy Gifts for Sore Feet&lt;/h2>&#xd;&#xa;&lt;p>Step into ultimate comfort with our premium shoes designed for both men and women. From the smooth trails to city streets, our footwear collection ensures the coziest fit and superior support for all your adventures.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>The Olympus 2 combines comfort and performance. Available in &lt;a href=&quot;https://www.altrarunning.com/shop/mens-via-olympus-2-al0a85na&quot;>men's&lt;/a> and &lt;a href=&quot;https://www.altrarunning.com/shop/gifts-for-the-comfort-lovers/womens-via-olympus-2-al0a85nb&quot;>women's&lt;/a> sizes, this shoe features a softer midsole foam, plush footbed, molded heel collar, and natural fit that will keep you comfortable and cozy all year round. Not only are these cozy gifts great for everyday use, they’re also the perfect form of self-care.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>The AltraFWD Experience, available in &lt;a href=&quot;https://www.altrarunning.com/shop/gifts-for-the-comfort-lovers/womens-altrafwd-experience-al0a82cj&quot;>women's&lt;/a> and &lt;a href=&quot;https://www.altrarunning.com/shop/gifts-for-the-comfort-lovers/mens-altrafwd-experience-al0a82c8&quot;>men's&lt;/a> sizes, is another comfortable option. Experience an effortlessly smooth run with a low drop, complementing rocker shape and lightweight foam for a sleek and efficient feel. This shoe is truly the ultimate gift of comfort.&lt;/p>&#xd;&#xa;&lt;h2>Cozy Gifts for Warmth&lt;/h2>&#xd;&#xa;&lt;p>Help the people on your gift list embrace the cold with our selection of cozy gift ideas that are carefully crafted for comfort lovers everywhere. Our collection features:&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Hoodies for All-Day Comfort&lt;/p>&#xd;&#xa;&lt;p>Snuggle up in style with the Everyday Hoodies for &lt;a href=&quot;https://www.altrarunning.com/shop/gifts-for-the-gym-goers/mens-everyday-hoodie-al0a816k&quot;>men&lt;/a> and &lt;a href=&quot;https://www.altrarunning.com/shop/gifts-for-the-gym-goers/womens-everyday-hoodie-al0a816l&quot;>women&lt;/a> that effortlessly blend warmth and sporty fashion. These premium hoodies are Ideal for a casual day out of exploring or a cozy night in, our hoodies are the ultimate gifts of comfort.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Merino Wool Half Zips for Men and Women&lt;/p>&#xd;&#xa;&lt;p>Experience the luxurious feel of merino wool with our half zips. These are ideal pieces for layering or standalone wear and offer the gift of warmth without sacrificing breathability. Elevate your loved ones' comfort game with these half zips in multiple colors and sizes for &lt;a href=&quot;https://www.altrarunning.com/shop/gifts-for-the-comfort-lovers/womens-core-merino-wool-1-2-zip-al0a85qz&quot;>women&lt;/a> and &lt;a href=&quot;https://www.altrarunning.com/shop/gifts-for-the-comfort-lovers/mens-core-merino-wool-1-2-zip-al0a85qy&quot;>men&lt;/a>.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Women's Joggers for Active Relaxation&lt;/p>&#xd;&#xa;&lt;p>Whether you're hitting the gym or enjoying a lazy day at home, our &lt;a href=&quot;https://www.altrarunning.com/shop/gifts-for-the-comfort-lovers/womens-everyday-jogger-al0a816z&quot;>Women's Everyday Jogger &lt;/a>seamlessly blends style and comfort. Designed for active individuals who also prioritize comfort, these joggers are the classic go-to for any casual occasion.&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Men's Trail Wind Pant for Outdoor Adventures&lt;/p>&#xd;&#xa;&lt;p>Conquer the trails with confidence in our &lt;a href=&quot;https://www.altrarunning.com/shop/gifts-for-the-comfort-lovers/mens-trail-wind-pant-al0a85r6&quot;>Men's Trail Wind Pants&lt;/a>. Engineered for outdoor enthusiasts, these pants provide the ideal balance of protection and flexibility for any active lifestyle and make a perfect comfort gift.&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Run Beanie for Head-to-Toe Comfort&lt;/p>&#xd;&#xa;&lt;p>Complete your cozy ensemble with our comfy and versatile &lt;a href=&quot;https://www.altrarunning.com/shop/gifts-for-the-comfort-lovers/merino-run-beanie-al0a548p&quot;>Merino Run Beanie&lt;/a>. Whether they’re hitting the pavement or strolling through the park, help your loved ones stay warm and stylish with this essential, no matter where their adventures go.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;h2>The Perfect Cozy Gift for Everyone&lt;/h2>&#xd;&#xa;&lt;p>Altra's cozy collection makes the perfect gifts for comfort lovers. With all our styles available in a wide range of sizes and colors, this collection has something for everyone on your gift list. Gift them the joy of comfort and style, allowing them to savor the premium quality offered by Altra.&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;"
+                textIsRich="true"/>
+        </espotcontent>
+    </jcr:content>
+</jcr:root>

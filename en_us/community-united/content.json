@@ -1,0 +1,2669 @@
+{
+  "root": {
+    "content": {
+      "content": {
+        "customhtml2": {
+          "_cq:lastRolledout": "{Date}2020-05-26T22:25:33.253Z",
+          "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+          "_jcr:created": "{Date}2020-03-20T20:07:43.889Z",
+          "_jcr:createdBy": "wade_litsey@vfc.com",
+          "_jcr:lastModified": "{Date}2020-05-26T22:25:33.121Z",
+          "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+          "_customHTML": "<br>\r\n<br>\r\n<br>\r\n<br>\r\n",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default"
+        },
+        "grid_row": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "customhtml2": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:33.939Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-24T00:06:24.125Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:33.801Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customCSS": "h2.title {\r\n  text-align: center;\r\n}",
+                  "_customHTML": "<h2 class=\"title\">ALTRA COMMUNITY NEWS & UPDATES | COVID-19</h2>",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "customhtml2_copy": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:34.090Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-20T20:07:43.889Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:33.942Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<br>\r\n<br>\r\n\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2020-05-26T22:25:33.791Z",
+                "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2020-05-26T22:25:33.658Z",
+              "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+              "_jcr:created": "{Date}2020-03-20T20:10:50.680Z",
+              "_jcr:createdBy": "wade_litsey@vfc.com",
+              "_jcr:lastModified": "{Date}2020-05-26T22:25:33.524Z",
+              "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensCenterColumn": "true",
+              "_largeScreensColumnCount": "6",
+              "_mediumScreensCenterColumn": "true",
+              "_mediumScreensColumnCount": "6",
+              "_smallScreensCenterColumn": "true",
+              "_smallScreensColumnCount": "11"
+            },
+            "_cq:lastRolledout": "{Date}2020-05-26T22:25:33.519Z",
+            "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2020-05-26T22:25:33.385Z",
+          "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+          "_jcr:created": "{Date}2020-03-20T20:10:44.632Z",
+          "_jcr:createdBy": "wade_litsey@vfc.com",
+          "_jcr:lastModified": "{Date}2020-05-26T22:25:33.254Z",
+          "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row"
+        },
+        "grid_row_1978276312": {
+          "row-content": {
+            "grid_column_1051848286": {
+              "column-content": {
+                "image_with_overlay2": {
+                  "overlayImage": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:34.998Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_altText": "work on your running weaknesses ",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/work%2Don%2Dyour%2Dweakness"
+                  },
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:35.229Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "preset"
+                  },
+                  "link": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:35.361Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_url": "/content/vfcorp/altra/north-america/en_us/community-united/working-on-weaknesses"
+                  },
+                  "overlay": {
+                    "content": {
+                      "alignment": {
+                        "_cq:lastRolledout": "{Date}2020-05-26T22:25:35.652Z",
+                        "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                        "_jcr:primaryType": "nt:unstructured",
+                        "_small": "small-text-left"
+                      },
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:35.506Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_color": "#FFFFFF",
+                      "_headingLevel": "h1",
+                      "_subheadingLevel": "h1"
+                    },
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:35.654Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:35.805Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:35.364Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta1": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:35.807Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta2": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:35.809Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlaidimage": {
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:35.819Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:35.953Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:35.811Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:34.843Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-04-27T15:13:42.332Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:34.710Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay2",
+                  "_float": "none"
+                },
+                "text_copy_copy_copy_": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:36.126Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-23T23:42:23.300Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:35.955Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/text",
+                  "_text": "<p><b> WORKING ON&nbsp;WEAKNESSES</b></p>\r\n<p>04-27-2020</p>\r\n",
+                  "_textIsRich": "true"
+                },
+                "customhtml2_copy_cop": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:36.306Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-20T20:07:43.889Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:36.129Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<br>\r\n<br>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2020-05-26T22:25:34.698Z",
+                "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2020-05-26T22:25:34.563Z",
+              "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+              "_jcr:created": "{Date}2020-03-23T23:28:30.183Z",
+              "_jcr:createdBy": "wade_litsey@vfc.com",
+              "_jcr:lastModified": "{Date}2020-05-26T22:25:34.430Z",
+              "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "3",
+              "_mediumScreensColumnCount": "3",
+              "_smallScreensColumnCount": "12"
+            },
+            "grid_column_1835642126": {
+              "column-content": {
+                "image_with_overlay2": {
+                  "overlayImage": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:37.001Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_altText": "Alysia Montaño Facebook Live ",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/Alysia%2DMonta%C3%B1o%2DBlog%2DThumb"
+                  },
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:37.136Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "preset"
+                  },
+                  "link": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:37.274Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_url": "/content/vfcorp/altra/north-america/en_us/community-united/running-with-kids"
+                  },
+                  "overlay": {
+                    "content": {
+                      "alignment": {
+                        "_cq:lastRolledout": "{Date}2020-05-26T22:25:37.567Z",
+                        "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                        "_jcr:primaryType": "nt:unstructured",
+                        "_small": "small-text-left"
+                      },
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:37.426Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_color": "#FFFFFF",
+                      "_headingLevel": "h1",
+                      "_subheadingLevel": "h1"
+                    },
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:37.569Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:37.704Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:37.276Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta1": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:37.706Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta2": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:37.708Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlaidimage": {
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:37.719Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:37.967Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:37.710Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:36.840Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-04-21T01:18:29.823Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:36.702Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay2",
+                  "_float": "none"
+                },
+                "text_copy_copy": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:38.195Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-23T23:42:23.300Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:37.971Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/text",
+                  "_text": "<p><b>ALYSIA&nbsp;MONTAÑO: RUNNING WITH KIDS<br>\r\n</b></p>\r\n<p>04-21-2020</p>\r\n",
+                  "_textIsRich": "true"
+                },
+                "customhtml2_copy_cop": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:38.426Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-20T20:07:43.889Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:38.201Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<br>\r\n<br>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2020-05-26T22:25:36.689Z",
+                "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2020-05-26T22:25:36.501Z",
+              "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+              "_jcr:created": "{Date}2020-03-25T16:45:57.554Z",
+              "_jcr:createdBy": "wade_litsey@vfc.com",
+              "_jcr:lastModified": "{Date}2020-05-26T22:25:36.309Z",
+              "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "3",
+              "_mediumScreensColumnCount": "3",
+              "_smallScreensColumnCount": "12"
+            },
+            "grid_column_1897682884": {
+              "column-content": {
+                "image_with_overlay2": {
+                  "overlayImage": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:39.390Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_altText": "Running Elvis",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/running%2Delvis%2Dian%2Dsharman?h=1080&w=1080"
+                  },
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:39.613Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "preset"
+                  },
+                  "link": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:39.805Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_url": "/content/vfcorp/altra/north-america/en_us/community-united/costume-running"
+                  },
+                  "overlay": {
+                    "content": {
+                      "alignment": {
+                        "_cq:lastRolledout": "{Date}2020-05-26T22:25:40.101Z",
+                        "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                        "_jcr:primaryType": "nt:unstructured",
+                        "_small": "small-text-left"
+                      },
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:39.958Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_color": "#FFFFFF",
+                      "_headingLevel": "h1",
+                      "_subheadingLevel": "h1"
+                    },
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:40.103Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:40.241Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:39.808Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta1": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:40.243Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta2": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:40.244Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlaidimage": {
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:40.256Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:40.392Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:40.247Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:39.127Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-04-17T00:05:47.606Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:38.902Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay2",
+                  "_float": "none"
+                },
+                "text_copy": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:40.611Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-23T23:42:23.300Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:40.394Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/text",
+                  "_text": "<p><b>IAN SHARMAN: COSTUME RUNNING</b></p>\r\n<p>04-17-2020</p>\r\n",
+                  "_textIsRich": "true"
+                },
+                "customhtml2_copy_cop": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:40.761Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-20T20:07:43.889Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:40.614Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<br>\r\n<br>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2020-05-26T22:25:38.882Z",
+                "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2020-05-26T22:25:38.654Z",
+              "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+              "_jcr:created": "{Date}2020-03-26T23:29:30.045Z",
+              "_jcr:createdBy": "wade_litsey@vfc.com",
+              "_jcr:lastModified": "{Date}2020-05-26T22:25:38.430Z",
+              "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "3",
+              "_mediumScreensColumnCount": "3",
+              "_smallScreensColumnCount": "12"
+            },
+            "grid_column": {
+              "column-content": {
+                "image_with_overlay2": {
+                  "overlayImage": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:41.202Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_altText": "Rebecca Rusch",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/Rebecca%20Crop"
+                  },
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:41.333Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "preset"
+                  },
+                  "link": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:41.465Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_url": "/content/vfcorp/altra/north-america/en_us/community-united/rusch-to-alaska-film-qa"
+                  },
+                  "overlay": {
+                    "content": {
+                      "alignment": {
+                        "_cq:lastRolledout": "{Date}2020-05-26T22:25:41.770Z",
+                        "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                        "_jcr:primaryType": "nt:unstructured",
+                        "_small": "small-text-left"
+                      },
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:41.626Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_color": "#FFFFFF",
+                      "_headingLevel": "h1",
+                      "_subheadingLevel": "h1"
+                    },
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:41.772Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:41.902Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:41.467Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta1": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:41.903Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta2": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:41.905Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlaidimage": {
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:41.916Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:42.046Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:41.907Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:41.049Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-04-11T02:03:46.112Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:40.917Z",
+                  "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay2",
+                  "_float": "none"
+                },
+                "text_copy_copy_copy_": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:42.180Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-23T23:42:23.300Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:42.048Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/text",
+                  "_text": "<p><b>RUSCH TO ALASKA FILM Q&amp;A<br>\r\n</b></p>\r\n<p>04-11-2020</p>\r\n",
+                  "_textIsRich": "true"
+                },
+                "customhtml2_copy_cop": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:42.315Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-20T20:07:43.889Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:42.183Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<br>\r\n<br>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2020-05-26T22:25:40.906Z",
+                "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured"
+              },
+              "_cq:lastRolledout": "{Date}2020-05-26T22:25:40.901Z",
+              "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+              "_jcr:created": "{Date}2020-04-27T19:57:14.898Z",
+              "_jcr:createdBy": "wade_litsey@vfc.com",
+              "_jcr:lastModified": "{Date}2020-05-26T22:25:40.764Z",
+              "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "3",
+              "_mediumScreensColumnCount": "3",
+              "_smallScreensColumnCount": "12"
+            },
+            "_cq:lastRolledout": "{Date}2020-05-26T22:25:34.417Z",
+            "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2020-05-26T22:25:34.256Z",
+          "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+          "_jcr:created": "{Date}2020-03-23T22:58:54.552Z",
+          "_jcr:createdBy": "wade_litsey@vfc.com",
+          "_jcr:lastModified": "{Date}2020-05-26T22:25:34.092Z",
+          "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row"
+        },
+        "grid_row_1804191952": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "image_with_overlay2": {
+                  "overlayImage": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:43.192Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_altText": "VF and Altra Match Donations",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/vf%2Daltra%2Dgiving%2Dback"
+                  },
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:43.323Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "preset"
+                  },
+                  "link": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:43.454Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_target": "_blank",
+                    "_url": "https://www.globalgiving.org/altragivesback/"
+                  },
+                  "overlay": {
+                    "content": {
+                      "alignment": {
+                        "_cq:lastRolledout": "{Date}2020-05-26T22:25:43.734Z",
+                        "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                        "_jcr:primaryType": "nt:unstructured",
+                        "_small": "small-text-left"
+                      },
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:43.598Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_color": "#FFFFFF",
+                      "_headingLevel": "h1",
+                      "_subheadingLevel": "h1"
+                    },
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:43.736Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:43.877Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:43.456Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta1": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:43.879Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta2": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:43.881Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlaidimage": {
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:43.891Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:44.023Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:43.883Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:43.038Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-04-03T23:42:52.017Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:42.906Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay2",
+                  "_float": "none"
+                },
+                "text_copy_copy_copy_": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:44.159Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-23T23:42:23.300Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:44.026Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/text",
+                  "_text": "<p><b>SUPPORTING COVID-19 RELIEF EFFORTS<br>\r\n</b></p>\r\n<p>04-03-2020</p>\r\n",
+                  "_textIsRich": "true"
+                },
+                "customhtml2_copy_cop": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:44.301Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-20T20:07:43.889Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:44.163Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<br>\r\n<br>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2020-05-26T22:25:42.895Z",
+                "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2020-05-26T22:25:42.751Z",
+              "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+              "_jcr:created": "{Date}2020-04-21T01:21:49.594Z",
+              "_jcr:createdBy": "wade_litsey@vfc.com",
+              "_jcr:lastModified": "{Date}2020-05-26T22:25:42.619Z",
+              "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "3",
+              "_mediumScreensColumnCount": "3",
+              "_smallScreensColumnCount": "12"
+            },
+            "grid_column_130953942": {
+              "column-content": {
+                "image_with_overlay2_": {
+                  "overlayImage": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:44.880Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_altText": "Hayden Hawks discusses what to do when your race is cancelled",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/altra%2Delite%2Dathlete%2Dhayden%2Dhawks"
+                  },
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:45.011Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "preset"
+                  },
+                  "link": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:45.142Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_url": "/content/vfcorp/altra/north-america/en_us/community-united/race-cancellations-adjusting-training"
+                  },
+                  "overlay": {
+                    "content": {
+                      "alignment": {
+                        "_cq:lastRolledout": "{Date}2020-05-26T22:25:45.481Z",
+                        "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                        "_jcr:primaryType": "nt:unstructured",
+                        "_small": "small-text-left"
+                      },
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:45.287Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_color": "#FFFFFF",
+                      "_headingLevel": "h1",
+                      "_subheadingLevel": "h1"
+                    },
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:45.482Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:45.613Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:45.144Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta1": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:45.615Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta2": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:45.617Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlaidimage": {
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:45.627Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:45.758Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:45.619Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:44.715Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-04-01T15:19:30.528Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:44.583Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay2",
+                  "_float": "none"
+                },
+                "text_copy_copy_copy_": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:45.891Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-23T23:42:23.300Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:45.760Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/text",
+                  "_text": "<p><b>HAYDEN HAWKS: CANCELED RACES</b></p>\r\n<p>04-02-2020</p>\r\n",
+                  "_textIsRich": "true"
+                },
+                "customhtml2_copy_cop": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:46.026Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-20T20:07:43.889Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:45.895Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<br>\r\n<br>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2020-05-26T22:25:44.572Z",
+                "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2020-05-26T22:25:44.437Z",
+              "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+              "_jcr:created": "{Date}2020-04-21T01:21:54.962Z",
+              "_jcr:createdBy": "wade_litsey@vfc.com",
+              "_jcr:lastModified": "{Date}2020-05-26T22:25:44.303Z",
+              "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "3",
+              "_mediumScreensColumnCount": "3",
+              "_smallScreensColumnCount": "12"
+            },
+            "grid_column_1954030823": {
+              "column-content": {
+                "image_with_overlay2_": {
+                  "overlayImage": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:46.606Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_altText": "Altra Film Fest Running Films",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/film%2Dfest%2Dblog%2Dthumb"
+                  },
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:46.737Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "preset"
+                  },
+                  "link": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:46.871Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_url": "/content/vfcorp/altra/north-america/en_us/community-united/altra-film-fest-watch-party"
+                  },
+                  "overlay": {
+                    "content": {
+                      "alignment": {
+                        "_cq:lastRolledout": "{Date}2020-05-26T22:25:47.151Z",
+                        "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                        "_jcr:primaryType": "nt:unstructured",
+                        "_small": "small-text-left"
+                      },
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:47.016Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_color": "#FFFFFF",
+                      "_headingLevel": "h1",
+                      "_subheadingLevel": "h1"
+                    },
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:47.152Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:47.284Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:46.873Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta1": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:47.285Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta2": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:47.287Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlaidimage": {
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:47.298Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:47.432Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:47.289Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:46.436Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-04-02T13:24:32.054Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:46.304Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay2",
+                  "_float": "none"
+                },
+                "text_copy_copy_copy_": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:47.586Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-23T23:42:23.300Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:47.434Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/text",
+                  "_text": "<p><b>RUNNING FILMS</b><br>\r\n</p>\r\n<p>04-02-2020</p>\r\n",
+                  "_textIsRich": "true"
+                },
+                "customhtml2_copy_cop": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:47.735Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-20T20:07:43.889Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:47.592Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<br>\r\n<br>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2020-05-26T22:25:46.293Z",
+                "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2020-05-26T22:25:46.159Z",
+              "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+              "_jcr:created": "{Date}2020-04-21T01:21:59.648Z",
+              "_jcr:createdBy": "wade_litsey@vfc.com",
+              "_jcr:lastModified": "{Date}2020-05-26T22:25:46.028Z",
+              "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "3",
+              "_mediumScreensColumnCount": "3",
+              "_smallScreensColumnCount": "12"
+            },
+            "grid_column_421950152": {
+              "column-content": {
+                "image_with_overlay2_": {
+                  "overlayImage": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:48.316Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_altText": "Corinna Coffin shares at home workouts",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/corinna%2Dcoffin%2Dblog"
+                  },
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:48.447Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "autosize"
+                  },
+                  "link": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:48.578Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_url": "/content/vfcorp/altra/north-america/en_us/community-united/bodyweight-workouts"
+                  },
+                  "overlay": {
+                    "content": {
+                      "alignment": {
+                        "_cq:lastRolledout": "{Date}2020-05-26T22:25:48.857Z",
+                        "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                        "_jcr:primaryType": "nt:unstructured",
+                        "_small": "small-text-left"
+                      },
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:48.722Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_color": "#FFFFFF",
+                      "_headingLevel": "h1",
+                      "_subheadingLevel": "h1"
+                    },
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:48.858Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:48.998Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:48.580Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta1": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:49.000Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta2": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:49.002Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlaidimage": {
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:49.012Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:49.143Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:49.004Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:48.158Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-31T19:09:37.736Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:48.026Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay2",
+                  "_float": "none"
+                },
+                "text_copy_copy_copy_": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:49.276Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-23T23:42:23.300Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:49.145Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/text",
+                  "_text": "<p><b>CORINNA COFFIN: AT HOME WORKOUTS<br>\r\n</b></p>\r\n<p>04-01-2020</p>\r\n",
+                  "_textIsRich": "true"
+                },
+                "customhtml2_copy_cop": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:49.413Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-20T20:07:43.889Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:49.280Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<br>\r\n<br>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2020-05-26T22:25:48.012Z",
+                "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2020-05-26T22:25:47.869Z",
+              "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+              "_jcr:created": "{Date}2020-04-21T01:22:04.405Z",
+              "_jcr:createdBy": "wade_litsey@vfc.com",
+              "_jcr:lastModified": "{Date}2020-05-26T22:25:47.737Z",
+              "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "3",
+              "_mediumScreensColumnCount": "3",
+              "_smallScreensColumnCount": "12"
+            },
+            "grid_column_649636686": {
+              "column-content": {
+                "image_with_overlay2_": {
+                  "overlayImage": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:49.985Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_altText": "Tyler McCandless on getting outside with family",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/Tyler%2DMcCandless%2DThumb"
+                  },
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:50.114Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "preset"
+                  },
+                  "link": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:50.331Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_url": "/content/vfcorp/altra/north-america/en_us/community-united/getting-outside-with-family"
+                  },
+                  "overlay": {
+                    "content": {
+                      "alignment": {
+                        "_cq:lastRolledout": "{Date}2020-05-26T22:25:50.611Z",
+                        "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                        "_jcr:primaryType": "nt:unstructured",
+                        "_small": "small-text-left"
+                      },
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:50.476Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_color": "#FFFFFF",
+                      "_headingLevel": "h1",
+                      "_subheadingLevel": "h1"
+                    },
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:50.613Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:50.745Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:50.333Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta1": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:50.746Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta2": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:50.748Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlaidimage": {
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:50.759Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:50.890Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:50.750Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:49.823Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-31T02:38:01.650Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:49.691Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay2",
+                  "_float": "none"
+                },
+                "text_copy_copy_copy_": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:51.035Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-23T23:42:23.300Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:50.892Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/text",
+                  "_text": "<p><b>TYLER MCCANDLESS: OUTSIDE WITH FAMILY<br>\r\n</b></p>\r\n<p>03-31-2020</p>\r\n",
+                  "_textIsRich": "true"
+                },
+                "customhtml2_copy_cop": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:51.171Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-20T20:07:43.889Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:51.039Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<br>\r\n<br>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2020-05-26T22:25:49.680Z",
+                "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2020-05-26T22:25:49.546Z",
+              "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+              "_jcr:created": "{Date}2020-04-21T01:24:31.790Z",
+              "_jcr:createdBy": "wade_litsey@vfc.com",
+              "_jcr:lastModified": "{Date}2020-05-26T22:25:49.415Z",
+              "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "3",
+              "_mediumScreensColumnCount": "3",
+              "_smallScreensColumnCount": "12"
+            },
+            "grid_column_1102395701": {
+              "column-content": {
+                "image_with_overlay2_": {
+                  "overlayImage": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:51.737Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_altText": "working out with your kids",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/Kara%2DThumb"
+                  },
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:51.868Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "preset"
+                  },
+                  "link": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:52.009Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_url": "/content/vfcorp/altra/north-america/en_us/community-united/working-out-with-your-kids"
+                  },
+                  "overlay": {
+                    "content": {
+                      "alignment": {
+                        "_cq:lastRolledout": "{Date}2020-05-26T22:25:52.294Z",
+                        "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                        "_jcr:primaryType": "nt:unstructured",
+                        "_small": "small-text-left"
+                      },
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:52.157Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_color": "#FFFFFF",
+                      "_headingLevel": "h1",
+                      "_subheadingLevel": "h1"
+                    },
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:52.296Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:52.428Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:52.011Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta1": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:52.429Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta2": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:52.431Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlaidimage": {
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:52.442Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:52.574Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:52.433Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:51.584Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-30T14:48:12.038Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:51.452Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay2",
+                  "_float": "none"
+                },
+                "text_copy_copy_copy_": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:52.709Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-23T23:42:23.300Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:52.576Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/text",
+                  "_text": "<p><b>KARA GOUCHER: WORKING&nbsp;OUT&nbsp;WITH KIDS</b></p>\r\n<p>03-30-2020</p>\r\n",
+                  "_textIsRich": "true"
+                },
+                "customhtml2_copy_cop": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:52.845Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-20T20:07:43.889Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:52.712Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<br>\r\n<br>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2020-05-26T22:25:51.440Z",
+                "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2020-05-26T22:25:51.306Z",
+              "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+              "_jcr:created": "{Date}2020-04-21T01:24:48.191Z",
+              "_jcr:createdBy": "wade_litsey@vfc.com",
+              "_jcr:lastModified": "{Date}2020-05-26T22:25:51.174Z",
+              "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "3",
+              "_mediumScreensColumnCount": "3",
+              "_smallScreensColumnCount": "12"
+            },
+            "grid_column_1805507120": {
+              "column-content": {
+                "image_with_overlay2_": {
+                  "overlayImage": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:53.421Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_altText": "Epidemiology Researcher",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/epidemiology%2Dresearcher%2Dadvice"
+                  },
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:53.554Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "preset"
+                  },
+                  "link": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:53.686Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_url": "/content/vfcorp/altra/north-america/en_us/community-united/epidemiologist-advice-covid-19"
+                  },
+                  "overlay": {
+                    "content": {
+                      "alignment": {
+                        "_cq:lastRolledout": "{Date}2020-05-26T22:25:53.969Z",
+                        "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                        "_jcr:primaryType": "nt:unstructured",
+                        "_small": "small-text-left"
+                      },
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:53.834Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_color": "#FFFFFF",
+                      "_headingLevel": "h1",
+                      "_subheadingLevel": "h1"
+                    },
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:53.971Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:54.113Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:53.688Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta1": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:54.115Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta2": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:54.116Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlaidimage": {
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:54.127Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:54.261Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:54.118Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:53.268Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-28T21:43:56.599Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:53.135Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay2",
+                  "_float": "none"
+                },
+                "text_copy_copy_copy": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:54.396Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-23T23:42:23.300Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:54.263Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/text",
+                  "_text": "<p><b>ADVICE FROM RESEARCHER DURING COVID-19</b></p>\r\n<p>03-29-2020</p>\r\n",
+                  "_textIsRich": "true"
+                },
+                "customhtml2_copy_cop": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:54.531Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-20T20:07:43.889Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:54.399Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<br>\r\n<br>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2020-05-26T22:25:53.124Z",
+                "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2020-05-26T22:25:52.980Z",
+              "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+              "_jcr:created": "{Date}2020-04-21T01:24:53.355Z",
+              "_jcr:createdBy": "wade_litsey@vfc.com",
+              "_jcr:lastModified": "{Date}2020-05-26T22:25:52.847Z",
+              "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "3",
+              "_mediumScreensColumnCount": "3",
+              "_smallScreensColumnCount": "12"
+            },
+            "grid_column_772329814": {
+              "column-content": {
+                "image_with_overlay2_": {
+                  "overlayImage": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:55.214Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_altText": "Mental Health Guide for Coronavirus",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/covid%2D19%2Dblog%2Dtile"
+                  },
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:55.346Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "preset"
+                  },
+                  "link": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:55.476Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_url": "/content/vfcorp/altra/north-america/en_us/community-united/covid-19-mental-health-guide"
+                  },
+                  "overlay": {
+                    "content": {
+                      "alignment": {
+                        "_cq:lastRolledout": "{Date}2020-05-26T22:25:55.753Z",
+                        "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                        "_jcr:primaryType": "nt:unstructured",
+                        "_small": "small-text-left"
+                      },
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:55.620Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_color": "#FFFFFF",
+                      "_headingLevel": "h1",
+                      "_subheadingLevel": "h1"
+                    },
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:55.755Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:55.938Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:55.478Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta1": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:55.941Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta2": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:55.944Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlaidimage": {
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:55.961Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:56.098Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:55.948Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:54.941Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-27T00:52:45.188Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:54.810Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay2",
+                  "_float": "none"
+                },
+                "text_copy_copy": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:56.241Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-23T23:42:23.300Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:56.102Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/text",
+                  "_text": "<p><b>MENTAL HEALTH GUIDE&nbsp; FOR COVID-19 &nbsp;</b></p>\r\n<p>03-28-2020</p>\r\n",
+                  "_textIsRich": "true"
+                },
+                "customhtml2_copy_cop": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:56.379Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-20T20:07:43.889Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:56.244Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<br>\r\n<br>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2020-05-26T22:25:54.798Z",
+                "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2020-05-26T22:25:54.665Z",
+              "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+              "_jcr:created": "{Date}2020-04-21T01:24:58.148Z",
+              "_jcr:createdBy": "wade_litsey@vfc.com",
+              "_jcr:lastModified": "{Date}2020-05-26T22:25:54.533Z",
+              "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "3",
+              "_mediumScreensColumnCount": "3",
+              "_smallScreensColumnCount": "12"
+            },
+            "grid_column_221059439": {
+              "column-content": {
+                "image_with_overlay2_": {
+                  "overlayImage": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:56.942Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_altText": "Amelia Boone discusses positive mindsets",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/amelia%2Dboone%2Dthumb"
+                  },
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:57.077Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "preset"
+                  },
+                  "link": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:57.239Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_url": "/content/vfcorp/altra/north-america/en_us/community-united/amelia-boone-positive-mindset"
+                  },
+                  "overlay": {
+                    "content": {
+                      "alignment": {
+                        "_cq:lastRolledout": "{Date}2020-05-26T22:25:57.550Z",
+                        "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                        "_jcr:primaryType": "nt:unstructured",
+                        "_small": "small-text-left"
+                      },
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:57.417Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_color": "#FFFFFF",
+                      "_headingLevel": "h1",
+                      "_subheadingLevel": "h1"
+                    },
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:57.552Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:57.682Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:57.243Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta1": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:57.684Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta2": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:57.686Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlaidimage": {
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:57.696Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:57.826Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:57.688Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:56.789Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-26T23:37:06.954Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:56.658Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay2",
+                  "_float": "none"
+                },
+                "text_copy_copy_copy_": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:57.959Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-23T23:42:23.300Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:57.828Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/text",
+                  "_text": "<p><b>AMELIA BOONE: STAYING POSITIVE</b></p>\r\n<p>03-27-2020</p>\r\n",
+                  "_textIsRich": "true"
+                },
+                "customhtml2_copy_cop": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:58.094Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-20T20:07:43.889Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:57.963Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<br>\r\n<br>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2020-05-26T22:25:56.647Z",
+                "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2020-05-26T22:25:56.513Z",
+              "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+              "_jcr:created": "{Date}2020-04-21T01:27:10.641Z",
+              "_jcr:createdBy": "wade_litsey@vfc.com",
+              "_jcr:lastModified": "{Date}2020-05-26T22:25:56.382Z",
+              "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "3",
+              "_mediumScreensColumnCount": "3",
+              "_smallScreensColumnCount": "12"
+            },
+            "grid_column_1201068619": {
+              "column-content": {
+                "image_with_overlay2_": {
+                  "overlayImage": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:58.664Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_altText": "Jeff Browning Facebook Live",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/jeff%2Dbrowning%2Dblog%2Dtile%2D2"
+                  },
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:58.794Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "preset"
+                  },
+                  "link": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:58.924Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_url": "/content/vfcorp/altra/north-america/en_us/community-united/jeff-browning-home-workouts"
+                  },
+                  "overlay": {
+                    "content": {
+                      "alignment": {
+                        "_cq:lastRolledout": "{Date}2020-05-26T22:25:59.204Z",
+                        "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                        "_jcr:primaryType": "nt:unstructured",
+                        "_small": "small-text-left"
+                      },
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:59.067Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_color": "#FFFFFF",
+                      "_headingLevel": "h1",
+                      "_subheadingLevel": "h1"
+                    },
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:59.206Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:59.344Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:58.926Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta1": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:59.346Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta2": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:59.348Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlaidimage": {
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:59.359Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:25:59.490Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:25:59.349Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:58.512Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-25T16:46:28.280Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:58.381Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay2",
+                  "_float": "none"
+                },
+                "text_copy_copy_copy": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:59.629Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-23T23:42:23.300Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:59.492Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/text",
+                  "_text": "<p><b>JEFF BROWNING: HOME WORKOUTS</b></p>\r\n<p>03-26-2020</p>\r\n",
+                  "_textIsRich": "true"
+                },
+                "customhtml2_copy_cop": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:25:59.765Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-20T20:07:43.889Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:25:59.633Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<br>\r\n<br>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2020-05-26T22:25:58.370Z",
+                "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2020-05-26T22:25:58.237Z",
+              "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+              "_jcr:created": "{Date}2020-04-21T01:27:16.105Z",
+              "_jcr:createdBy": "wade_litsey@vfc.com",
+              "_jcr:lastModified": "{Date}2020-05-26T22:25:58.097Z",
+              "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "3",
+              "_mediumScreensColumnCount": "3",
+              "_smallScreensColumnCount": "12"
+            },
+            "grid_column_1765407502": {
+              "column-content": {
+                "image_with_overlay2_": {
+                  "overlayImage": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:26:00.340Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_altText": "Andy Potts Mindset",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/andy%2Dpotts%2Dmindset%2Dfacebook"
+                  },
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:26:00.554Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "preset"
+                  },
+                  "link": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:26:00.686Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_url": "/content/vfcorp/altra/north-america/en_us/community-united/andy-potts-mindset"
+                  },
+                  "overlay": {
+                    "content": {
+                      "alignment": {
+                        "_cq:lastRolledout": "{Date}2020-05-26T22:26:00.969Z",
+                        "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                        "_jcr:primaryType": "nt:unstructured",
+                        "_small": "small-text-left"
+                      },
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:26:00.832Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_color": "#FFFFFF",
+                      "_headingLevel": "h1",
+                      "_subheadingLevel": "h1"
+                    },
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:26:00.971Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:26:01.103Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:26:00.688Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta1": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:26:01.105Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta2": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:26:01.106Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlaidimage": {
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:26:01.117Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:26:01.248Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:26:01.108Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:26:00.177Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-24T22:58:33.454Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:26:00.044Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay2",
+                  "_float": "none"
+                },
+                "text_copy_copy": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:26:01.383Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-23T23:42:23.300Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:26:01.251Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/text",
+                  "_text": "<p><b>ANDY POTTS: MINDSET</b></p>\r\n<p>03-25-2020</p>\r\n",
+                  "_textIsRich": "true"
+                },
+                "customhtml2_copy_cop": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:26:01.520Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-20T20:07:43.889Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:26:01.386Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<br>\r\n<br>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2020-05-26T22:26:00.033Z",
+                "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2020-05-26T22:25:59.899Z",
+              "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+              "_jcr:created": "{Date}2020-04-21T01:27:21.247Z",
+              "_jcr:createdBy": "wade_litsey@vfc.com",
+              "_jcr:lastModified": "{Date}2020-05-26T22:25:59.767Z",
+              "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "3",
+              "_mediumScreensColumnCount": "3",
+              "_smallScreensColumnCount": "12"
+            },
+            "grid_column_414510382": {
+              "column-content": {
+                "image_with_overlay2_": {
+                  "overlayImage": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:26:01.959Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_altText": "Tina Muir Podcast",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/tina%2Dmuir%2Dpodcast%2Dblog"
+                  },
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:26:02.102Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "preset"
+                  },
+                  "link": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:26:02.234Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_url": "/content/vfcorp/altra/north-america/en_us/community-united/tina-muir-podcast"
+                  },
+                  "overlay": {
+                    "content": {
+                      "alignment": {
+                        "_cq:lastRolledout": "{Date}2020-05-26T22:26:02.514Z",
+                        "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                        "_jcr:primaryType": "nt:unstructured",
+                        "_small": "small-text-left"
+                      },
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:26:02.379Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_color": "#FFFFFF",
+                      "_headingLevel": "h1",
+                      "_subheadingLevel": "h1"
+                    },
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:26:02.516Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:26:02.647Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:26:02.236Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta1": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:26:02.649Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta2": {
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:26:02.650Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlaidimage": {
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:26:02.661Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2020-05-26T22:26:02.798Z",
+                      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2020-05-26T22:26:02.652Z",
+                    "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:26:01.805Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-24T23:06:17.453Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:26:01.671Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay2",
+                  "_float": "none"
+                },
+                "text_copy": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:26:02.933Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-23T23:42:23.300Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:26:02.801Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/text",
+                  "_text": "<p><b>TINA MUIR: RUNNING FOR REAL PODCAST</b></p>\r\n<p>03-24-2020</p>\r\n",
+                  "_textIsRich": "true"
+                },
+                "customhtml2_copy_cop": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:26:03.070Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-20T20:07:43.889Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:26:02.937Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<br>\r\n<br>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2020-05-26T22:26:01.660Z",
+                "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured"
+              },
+              "_cq:lastRolledout": "{Date}2020-05-26T22:26:01.655Z",
+              "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+              "_jcr:created": "{Date}2020-04-22T23:11:59.413Z",
+              "_jcr:createdBy": "wade_litsey@vfc.com",
+              "_jcr:lastModified": "{Date}2020-05-26T22:26:01.522Z",
+              "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "3",
+              "_mediumScreensColumnCount": "3",
+              "_smallScreensColumnCount": "12"
+            },
+            "_cq:lastRolledout": "{Date}2020-05-26T22:25:42.585Z",
+            "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2020-05-26T22:25:42.449Z",
+          "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+          "_jcr:created": "{Date}2020-04-17T00:23:04.677Z",
+          "_jcr:createdBy": "wade_litsey@vfc.com",
+          "_jcr:lastModified": "{Date}2020-05-26T22:25:42.317Z",
+          "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row"
+        },
+        "grid_row_1885842170": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "text_copy_copy": {
+                  "_cq:lastRolledout": "{Date}2020-05-26T22:26:03.616Z",
+                  "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                  "_jcr:created": "{Date}2020-03-20T20:11:18.280Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2020-05-26T22:26:03.484Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/text",
+                  "_text": "<h3 style=\"text-align: center;\">LETTER FROM THE ALTRA PRESIDENT</h3>\r\n<p>&nbsp;</p>\r\n<p><b>TO OUR ALTRA FAMILY,</b></p>\r\n<p>&nbsp;</p>\r\n<p>We know that these are stressful and uncertain times due to the rapidly evolving Coronavirus (COVID-19) outbreak. Our hearts go out to those who are personally affected and the healthcare workers on the front lines everyday helping and taking care of people.&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>We take comfort in the fact of knowing that we are all in this together, navigating the unknown day by day. You are all a part of the Altra Family and your health and well-being are our top priority. Facing this challenge together makes us even more committed to our community and to each other.</p>\r\n<p>&nbsp;</p>\r\n<p>In an effort to&nbsp;do our part to slow the spread of the virus and protect our internal team and community,&nbsp;our employees&nbsp;will be working from home or remotely in accordance with the guidelines of&nbsp;government and&nbsp;health authorities.&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>We encourage each other to practice social distancing and get outside (if you can according to your local restrictions) and move every day. And, if you are going to shop, think about your local retailers. These uncertain times can lead to economic distress for many of the small, local companies. We encourage you to think of them in your shopping needs.</p>\r\n<p>&nbsp;</p>\r\n<p>Even though we may not be close in real life, we are still here for you every day. Connect with us on social media @altrarunning&nbsp;or email us&nbsp;at&nbsp;altra_customerservice@vfc.com.&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>We&nbsp;still&nbsp;want to hear from you, and&nbsp;altrarunning.com remains up and running with product, news and content from our Altra Family.</p>\r\n<p>&nbsp;&nbsp;</p>\r\n<p>We appreciate all of you,</p>\r\n<p>&nbsp;</p>\r\n<p><b>TODD&nbsp;DALHAUSSER</b></p>\r\n<p>ALTRA PRESIDENT AND THE GLOBAL ALTRA TEAM</p>\r\n",
+                  "_textIsRich": "true"
+                },
+                "_cq:lastRolledout": "{Date}2020-05-26T22:26:03.479Z",
+                "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured"
+              },
+              "_cq:lastRolledout": "{Date}2020-05-26T22:26:03.475Z",
+              "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+              "_jcr:created": "{Date}2020-04-21T01:10:56.143Z",
+              "_jcr:createdBy": "wade_litsey@vfc.com",
+              "_jcr:lastModified": "{Date}2020-05-26T22:26:03.342Z",
+              "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensCenterColumn": "true",
+              "_largeScreensColumnCount": "6",
+              "_mediumScreensCenterColumn": "true",
+              "_mediumScreensColumnCount": "6",
+              "_smallScreensCenterColumn": "true",
+              "_smallScreensColumnCount": "11"
+            },
+            "_cq:lastRolledout": "{Date}2020-05-26T22:26:03.336Z",
+            "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2020-05-26T22:26:03.202Z",
+          "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+          "_jcr:created": "{Date}2020-04-21T01:10:36.411Z",
+          "_jcr:createdBy": "wade_litsey@vfc.com",
+          "_jcr:lastModified": "{Date}2020-05-26T22:26:03.071Z",
+          "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row"
+        },
+        "customhtml2_copy_cop_489556905": {
+          "_cq:lastRolledout": "{Date}2020-05-26T22:26:03.750Z",
+          "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+          "_jcr:created": "{Date}2020-03-20T20:07:43.889Z",
+          "_jcr:createdBy": "wade_litsey@vfc.com",
+          "_jcr:lastModified": "{Date}2020-05-26T22:26:03.619Z",
+          "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+          "_customHTML": "<br>\r\n<br>\r\n<br>\r\n<br>\r\n",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default"
+        },
+        "customhtml2_copy_cop_790777093": {
+          "_cq:lastRolledout": "{Date}2020-05-26T22:26:03.885Z",
+          "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+          "_jcr:created": "{Date}2020-03-20T20:07:43.889Z",
+          "_jcr:createdBy": "wade_litsey@vfc.com",
+          "_jcr:lastModified": "{Date}2020-05-26T22:26:03.753Z",
+          "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+          "_customHTML": "<br>\r\n<br>\r\n<br>\r\n<br>\r\n",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default"
+        },
+        "_cq:lastRolledout": "{Date}2020-05-26T22:25:33.101Z",
+        "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2020-05-26T22:26:03.755Z",
+      "_cq:lastModifiedBy": "abbey_charles@vfc.com",
+      "_cq:lastReplicated": "{Date}2020-05-26T22:39:44.736Z",
+      "_cq:lastReplicatedBy": "abbey_charles@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2020-05-26T22:26:03.885Z",
+      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:description": "Find out more about Altra's response to the novel coronavirus epidemic, including a statement from Altra President Todd Dalhausser and information on how Altra is giving back to the community during this difficult time.\r\n",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "Community United",
+      "_jcr:uuid": "84459766-0a95-42c7-95b8-8a0db0cdee2d",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "_dataLayerErrorCode": "400",
+      "_frequency": "always",
+      "_pageTitle": "Running Community United | Altra Running",
+      "_priority": "0.5",
+      "__prefix": "jcr"
+    },
+    "test": "",
+    "tina-muir-podcast": "",
+    "andy-potts-mindset": "",
+    "jeff-browning-home-workouts": "",
+    "amelia-boone-positive-mindset": "",
+    "covid-19-mental-health-guide": "",
+    "epidemiologist-advice-covid-19": "",
+    "working-out-with-your-kids": "",
+    "getting-outside-with-family": "",
+    "bodyweight-workouts": "",
+    "race-cancellations-adjusting-training": "",
+    "altra-film-fest-watch-party": "",
+    "rusch-to-alaska-film-qa": "",
+    "costume-running": "",
+    "running-with-kids": "",
+    "running-body-weight-workout": "",
+    "working-on-weaknesses": "",
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

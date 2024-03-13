@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2022-11-10T20:05:32.025Z"
+        cq:lastModifiedBy="evan_lynch@vfc.com"
+        cq:lastRolledout="{Date}2022-11-10T20:05:32.030Z"
+        cq:lastRolledoutBy="evan_lynch@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/page-col-1"
+        jcr:mixinTypes="[cq:LiveRelationship]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Evan Sandbox"
+        sling:resourceType="vfcorp/components/global/page/page-col-1"/>
+    <homepage/>
+    <taxonomy-2024/>
+</jcr:root>

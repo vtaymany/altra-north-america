@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2018-10-29T11:42:38.346-04:00"
+        cq:lastModifiedBy="alex_koffler@vfc.com"
+        cq:lastReplicated="{Date}2018-10-29T11:44:28.211-04:00"
+        cq:lastReplicatedBy="alex_koffler@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2018-10-29T11:42:38.351-04:00"
+        cq:lastRolledoutBy="alex_koffler@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/customFile"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="mpulse-crossdomain"
+        jcr:uuid="d067ba33-6865-4e7a-a4c3-5b5739b22c04"
+        sling:resourceType="vfcorp/components/global/page/customFile"
+        fileContents="&lt;!DOCTYPE html>&#xd;&#xa;&lt;html>&#xd;&#xa;&#x9;&lt;head>&#xd;&#xa;&#x9;&#x9;&lt;script>&#xd;&#xa;&#x9;&#x9;(function(){if (window.BOOMR &amp;&amp; window.BOOMR.version) { return; }&#xd;&#xa;&#x9;&#x9;var dom,doc,where,iframe = document.createElement(&quot;iframe&quot;),win = window;&#xd;&#xa;&#xd;&#xa;&#x9;&#x9;function boomerangSaveLoadTime(e) {&#xd;&#xa;&#x9;&#x9;&#x9;win.BOOMR_onload=(e &amp;&amp; e.timeStamp) || new Date().getTime();&#xd;&#xa;&#x9;&#x9;}&#xd;&#xa;&#x9;&#x9;if (win.addEventListener) {&#xd;&#xa;&#x9;&#x9;&#x9;win.addEventListener(&quot;load&quot;, boomerangSaveLoadTime, false);&#xd;&#xa;&#x9;&#x9;} else if (win.attachEvent) {&#xd;&#xa;&#x9;&#x9;&#x9;win.attachEvent(&quot;onload&quot;, boomerangSaveLoadTime);&#xd;&#xa;&#x9;&#x9;}&#xd;&#xa;&#xd;&#xa;&#x9;&#x9;iframe.src = &quot;javascript:void(0)&quot;;&#xd;&#xa;&#x9;&#x9;iframe.title = &quot;&quot;; iframe.role = &quot;presentation&quot;;&#xd;&#xa;&#x9;&#x9;(iframe.frameElement || iframe).style.cssText = &quot;width:0;height:0;border:0;display:none;&quot;;&#xd;&#xa;&#x9;&#x9;where = document.getElementsByTagName(&quot;script&quot;)[0];&#xd;&#xa;&#x9;&#x9;where.parentNode.insertBefore(iframe, where);&#xd;&#xa;&#xd;&#xa;&#x9;&#x9;try {&#xd;&#xa;&#x9;&#x9;&#x9;doc = iframe.contentWindow.document;&#xd;&#xa;&#x9;&#x9;} catch(e) {&#xd;&#xa;&#x9;&#x9;&#x9;dom = document.domain;&#xd;&#xa;&#x9;&#x9;&#x9;iframe.src=&quot;javascript:var d=document.open();d.domain='&quot;+dom+&quot;';void(0);&quot;;&#xd;&#xa;&#x9;&#x9;&#x9;doc = iframe.contentWindow.document;&#xd;&#xa;&#x9;&#x9;}&#xd;&#xa;&#x9;&#x9;doc.open()._l = function() {&#xd;&#xa;&#x9;&#x9;&#x9;var js = this.createElement(&quot;script&quot;);&#xd;&#xa;&#x9;&#x9;&#x9;if (dom) { this.domain = dom; }&#xd;&#xa;&#x9;&#x9;&#x9;js.id = &quot;boomr-if-as&quot;;&#xd;&#xa;&#x9;&#x9;&#x9;js.src = &quot;//c.go-mpulse.net/boomerang/&quot; +&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&quot;W2KUT-2RWZD-VKZLQ-YKXYM-FY25P&quot;;&#xd;&#xa;&#x9;&#x9;&#x9;BOOMR_lstart=new Date().getTime();&#xd;&#xa;&#x9;&#x9;&#x9;this.body.appendChild(js);&#xd;&#xa;&#x9;&#x9;};&#xd;&#xa;&#x9;&#x9;doc.write('&lt;body onload=&quot;document._l();&quot;>');&#xd;&#xa;&#x9;&#x9;doc.close();&#xd;&#xa;&#x9;&#x9;})();&#xd;&#xa;&#x9;&#x9;&lt;/script>&#xd;&#xa;&#x9;&lt;/head>&#xd;&#xa;&#x9;&lt;body>&#xd;&#xa;&#x9;&#x9;&lt;script type=&quot;text/javascript&quot;>&#xd;&#xa;&#x9;&#x9;BOOMR_config = {&#xd;&#xa;&#x9;&#x9;&#x9;autorun: false,&#xd;&#xa;&#x9;&#x9;&#x9;CrossDomain: {&#xd;&#xa;&#x9;&#x9;&#x9;&#x9;sending: true&#xd;&#xa;&#x9;&#x9;&#x9;}&#xd;&#xa;&#x9;&#x9;};&#xd;&#xa;&#x9;&#x9;&lt;/script>&#xd;&#xa;&#x9;&lt;/body>&#xd;&#xa;&lt;/html>"
+        hideInNav="true"/>
+</jcr:root>

@@ -1,0 +1,54 @@
+{
+  "root": {
+    "content": {
+      "espotcontent": {
+        "text_copy": {
+          "_cq:lastRolledout": "{Date}2021-02-18T17:05:53.896Z",
+          "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+          "_jcr:created": "{Date}2020-11-04T20:36:53.494Z",
+          "_jcr:createdBy": "abbey_charles@vfc.com",
+          "_jcr:lastModified": "{Date}2021-02-18T17:05:53.891Z",
+          "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/text",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default",
+          "_text": "<h1>Men's Running Shoes &amp; Gaiters</h1>\r\n<h2>Men's Low-Impact Running &amp; Jogging Shoes</h2>\r\n<p>&nbsp;</p>\r\n<p>Altra's performance running shoes and athletic shoes for men provide comfort and stability over any distance so you can run your way, whether you're getting ready for a 5K or a 50K. Our long distance running shoes, like all our men's running shoes, feature a Footshape toebox that lets your toes spread out for optimal balance in your stride. Our Balanced Cushioning provides consistent cushion across your foot to encourage healthy footfall.&nbsp;</p>\r\n<p>Our collection of running and jogging shoes include rugged <a href=\"https://www.altrarunning.com/shop/mens-shoes-trail\">men's trail running shoes</a>&nbsp;as well as <a href=\"https://www.altrarunning.com/shop/mens-shoes-road\">road running shoes</a>&nbsp;and <a href=\"https://www.altrarunning.com/shop/mens-shoes-gym-training\">gym shoes</a>. Whether you get moving on the in the wild, along city streets, or the gym, Altra has a style for you.</p>\r\n",
+          "_textIsRich": "true"
+        },
+        "_cq:lastRolledout": "{Date}2021-02-18T17:05:53.885Z",
+        "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2021-02-18T17:05:53.893Z",
+      "_cq:lastModifiedBy": "abbey_charles@vfc.com",
+      "_cq:lastReplicated": "{Date}2021-02-18T17:06:33.269Z",
+      "_cq:lastReplicatedBy": "abbey_charles@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2021-02-18T17:05:53.896Z",
+      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/espot-integration",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "shop_men-bottom",
+      "_jcr:uuid": "febc70a0-b2ac-498e-8c78-1aa1b56ac068",
+      "_sling:resourceType": "vfcorp/components/global/page/espot-integration",
+      "_rowFullBleed": "true",
+      "_smallScreenSize": "1",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

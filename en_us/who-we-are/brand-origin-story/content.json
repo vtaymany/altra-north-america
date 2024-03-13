@@ -1,0 +1,964 @@
+{
+  "root": {
+    "content": {
+      "content": {
+        "customhtml2": {
+          "_cq:lastRolledout": "{Date}2024-02-15T21:21:04.870Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2023-07-10T16:50:29.908Z",
+          "_jcr:createdBy": "vtaymany@zobristinc.com",
+          "_jcr:lastModified": "{Date}2024-02-15T21:21:04.866Z",
+          "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+          "_customCSS": "/* Start fade animation */\r\n.to-fade-in {\r\n  opacity: 0;\r\n  &.fade-in {\r\n    animation: fade-in 2s forwards;\r\n  }\r\n}\r\n\r\n@keyframes fade-in {\r\n  0% {\r\n    opacity: 0;\r\n  }\r\n  100% {\r\n    opacity: 1;\r\n  }\r\n}\r\n/* End fade animation */\r\nh1.hero,\r\nh2.hero {\r\n  text-transform: none;\r\n  margin-top: 2.5em;\r\n  line-height: 1.25em;\r\n  font-family: 'Neuzeit Grotesk';\r\n  letter-spacing: 0px;\r\n  font-size: 4em;\r\n}\r\np.hero.style-2 {\r\n  font-size: 2em;\r\n  line-height: 1.25em;\r\n  margin-top: 1.5em;\r\n}\r\np.hero {\r\n  font-size: 1.5em;\r\n  margin-top: 2em;\r\n}\r\nh3.altra-difference,\r\np.altra-difference {\r\n  text-transform: none;\r\n  font-size: 1.5em;\r\n}\r\nimg.hero {\r\n  width: 50%;\r\n  margin: 1vw 5vw 0vw 0vw;\r\n}\r\n.brand-origin-row-2,\r\n.brand-origin-row-3,\r\n.brand-origin-row-4,\r\n.brand-origin-row-5,\r\n.brand-origin-row-6 {\r\n  margin: 8em 0em 8em 0em;\r\n}\r\n.brand-origin-row-7 {\r\n  margin: 8em auto 8em auto;\r\n}\r\na.button.the-altra-difference {\r\n  margin-top: 1em;\r\n}\r\np.altra-difference {\r\n  margin-right: 35%;\r\n  margin-top: 2em;\r\n}\r\nh3.altra-difference {\r\n  margin-top: 25%;\r\n  line-height: 1.5em;\r\n}\r\nimg.brand-origin-footer {\r\n  width: 25%;\r\n  margin: 1vw 23vw 0vw 0vw;\r\n}\r\na.button.find-your-fit {\r\n  margin-top: 5em;\r\n}\r\n.brand-origin-row-7 {\r\n  text-align: center;\r\n}\r\n@media only screen and (max-width: 639px) {\r\n  h1.hero,\r\n  h2.hero {\r\n    margin-top: 1em;\r\n    font-size: 3em;\r\n    line-height: 1em;\r\n  }\r\n  .hero-content-mobile {\r\n    padding: 0em 2em 0em 2em;\r\n  }\r\n  p.hero.style-2,\r\n  p.hero,\r\n  h3.altra-difference,\r\n  p.altra-difference {\r\n    font-size: 1.25em;\r\n  }\r\n  p.hero {\r\n    margin-top: -0.5em;\r\n  }\r\n  img.hero {\r\n    width: 75%;\r\n    margin: -2vw 5vw 0vw 0vw;\r\n  }\r\n  .brand-origin-row-2,\r\n  .brand-origin-row-3,\r\n  .brand-origin-row-4,\r\n  .brand-origin-row-5,\r\n  .brand-origin-row-6,\r\n  .brand-origin-row-7 {\r\n    margin: 5em 0em 5em 0em;\r\n  }\r\n  a.button.the-altra-difference,\r\n  a.button.find-your-fit {\r\n    font-size: 1.5em;\r\n  }\r\n  p.altra-difference {\r\n    margin-right: 0%;\r\n    margin-top: 2em;\r\n    line-height: 1.25em;\r\n    margin-bottom: 3em;\r\n  }\r\n  h3.altra-difference {\r\n    margin-top: 0%;\r\n  }\r\n  .brand-origin-row-7 {\r\n    text-align: left;\r\n  }\r\n  img.brand-origin-footer {\r\n    width: 50%;\r\n    margin: 5vw 5vw 0vw 0vw;\r\n  }\r\n  .vertical-align-elements {\r\n    display: inital;\r\n    align-items: inital;\r\n  }\r\n}\r\n@media screen and (min-width: 640px) and (max-width: 1023px) {\r\n  h1.hero,\r\n  h2.hero {\r\n    font-size: 1.75em;\r\n  }\r\n  p.hero.style-2 {\r\n    font-size: 0.9em;\r\n  }\r\n  p.hero,\r\n  h3.altra-difference,\r\n  p.altra-difference {\r\n    font-size: 0.7em;\r\n  }\r\n  .vertical-align-elements {\r\n    display: flex;\r\n    align-items: center;\r\n}\r\n}\r\n@media screen and (min-width: 1024px) and (max-width: 1439px) {\r\n  h1.hero,\r\n  h2.hero {\r\n    font-size: 3em;\r\n  }\r\n  p.hero.style-2 {\r\n    font-size: 1.5em;\r\n  }\r\n  p.hero,\r\n  h3.altra-difference,\r\n  p.altra-difference {\r\n    font-size: 1em;\r\n  }\r\n  .vertical-align-elements {\r\n    display: flex;\r\n    align-items: center;\r\n}\r\n}\r\n@media screen and (min-width: 1440px) and (max-width: 1919px) {\r\n}\r\n",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default"
+        },
+        "grid_row": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "image": {
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2024-02-15T21:21:04.920Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "autosize",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/altra%2Dorigin%2Dstory%2Dcomponent%2D1%2D07102023%2Dv1?$SCALE-ORIGINAL$"
+                  },
+                  "_cq:lastRolledout": "{Date}2024-02-15T21:21:04.914Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-07-06T16:26:19.637Z",
+                  "_jcr:createdBy": "evan_lynch@vfc.com",
+                  "_jcr:lastModified": "{Date}2024-02-15T21:21:04.911Z",
+                  "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image",
+                  "_float": "none"
+                },
+                "_cq:lastRolledout": "{Date}2024-02-15T21:21:04.907Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2024-02-15T21:21:04.902Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2023-07-06T16:07:17.479Z",
+              "_jcr:createdBy": "evan_lynch@vfc.com",
+              "_jcr:lastModified": "{Date}2024-02-15T21:21:04.898Z",
+              "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "6",
+              "_mediumScreensColumnCount": "6",
+              "_smallScreensColumnCount": "12"
+            },
+            "grid_column_1280321891": {
+              "column-content": {
+                "customhtml2_96336810": {
+                  "_cq:lastRolledout": "{Date}2024-02-15T21:21:04.940Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-07-10T16:51:15.950Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2024-02-15T21:21:04.936Z",
+                  "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<h1 class=\"hero\">The beginning of Altra was simple.</h1>\r\n<p class=\"hero style-2\">\r\n  A couple of passionate runners and a shoe they knew they needed... <br>which\r\n  didn't exist...<br />\r\n</p>\r\n<p class=\"hero\">\r\n  A shoe that went against the status quo. <br> Spoiler: They didn't really\r\n  care.\r\n</p>\r\n<p class=\"hero\">\r\n  They didn't mean to start a company, but when no one else would make the\r\n  shoe they needed...\r\n</p>\r\n<div class=\"text-right\">\r\n  <img\r\n    src=\"https://images.altrarunning.com/is/image/altra/Altra%5FOurStory%5FTheyBuiltItThemselves%5FDesktop?\"\r\n    alt=\"They built it themselves.\"\r\n    class=\"hero\"\r\n  />\r\n</div>\r\n<div class=\"text-right hide for large only\">\r\n  <img\r\n    src=\"https://images.altrarunning.com/is/image/altra/Altra%5FOurStory%5FTheyBuiltItThemselves%5FMobile?\"\r\n    alt=\"They built it themselves.\"\r\n    class=\"hero\"\r\n  />\r\n</div>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2024-02-15T21:21:04.931Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2024-02-15T21:21:04.926Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2023-07-06T16:07:23.601Z",
+              "_jcr:createdBy": "evan_lynch@vfc.com",
+              "_jcr:lastModified": "{Date}2024-02-15T21:21:04.922Z",
+              "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "4",
+              "_largeScreensPush": "1",
+              "_mediumScreensColumnCount": "4",
+              "_mediumScreensPush": "1",
+              "_smallScreensColumnCount": "12",
+              "_smallScreensPush": "0"
+            },
+            "_cq:lastRolledout": "{Date}2024-02-15T21:21:04.892Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2024-02-15T21:21:04.875Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2023-07-06T16:07:14.213Z",
+          "_jcr:createdBy": "evan_lynch@vfc.com",
+          "_jcr:lastModified": "{Date}2024-02-15T21:21:04.871Z",
+          "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row",
+          "_collapseGutters": "true",
+          "_cssClass": "hide-for-small-only fade-elem-1 to-fade-in fade-in",
+          "_rowFullBleed": "true"
+        },
+        "grid_row_copy": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "customhtml2_96336810": {
+                  "_cq:lastRolledout": "{Date}2024-02-15T21:21:04.997Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-07-10T16:51:15.950Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2024-02-15T21:21:04.990Z",
+                  "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<div class=\"hero-content-mobile\">\r\n  <h1 class=\"hero\">The beginning of<br />Altra was simple.</h1>\r\n  <p class=\"hero style-2\">\r\n    A couple of passionate runners and<br />a shoe they knew they needed...<br />which\r\n    didn't exist...<br />\r\n  </p>\r\n  <p class=\"hero\">\r\n    A shoe that went against the status quo.<br />Spoiler: They didn't really\r\n    care.\r\n  </p>\r\n</div>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2024-02-15T21:21:04.985Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2024-02-15T21:21:04.980Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2023-07-10T17:22:02.266Z",
+              "_jcr:createdBy": "vtaymany@zobristinc.com",
+              "_jcr:lastModified": "{Date}2024-02-15T21:21:04.977Z",
+              "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_smallScreensColumnCount": "12"
+            },
+            "grid_column_copy": {
+              "column-content": {
+                "image": {
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.020Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "autosize",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/altra-origin-story-component-1-mobile-07102023-v1?$hero-fullbleed-mobile$"
+                  },
+                  "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.014Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-07-06T16:26:19.637Z",
+                  "_jcr:createdBy": "evan_lynch@vfc.com",
+                  "_jcr:lastModified": "{Date}2024-02-15T21:21:05.011Z",
+                  "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image",
+                  "_float": "none",
+                  "_margin": "5em 0em 5em 0em"
+                },
+                "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.007Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.002Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2023-07-06T16:07:17.479Z",
+              "_jcr:createdBy": "evan_lynch@vfc.com",
+              "_jcr:lastModified": "{Date}2024-02-15T21:21:04.998Z",
+              "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_smallScreensColumnCount": "12"
+            },
+            "grid_column_313320255": {
+              "column-content": {
+                "customhtml2_96336810": {
+                  "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.039Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-07-10T16:51:15.950Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2024-02-15T21:21:05.035Z",
+                  "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<div class=\"hero-content-mobile\">\r\n  <p class=\"hero\">\r\n    They didn't mean to start a company, but when no one else would make the\r\n    shoe they needed...\r\n  </p>\r\n  <div class=\"text-right\">\r\n    <img\r\n      src=\"https://images.altrarunning.com/is/image/altra/altra-origin-story-they-built-it-mobile-07102023-v1?$espot$\"\r\n      alt=\"They built it themselves.\"\r\n      class=\"hero\"\r\n    />\r\n  </div>\r\n</div>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.030Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.025Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2023-07-10T17:23:36.459Z",
+              "_jcr:createdBy": "vtaymany@zobristinc.com",
+              "_jcr:lastModified": "{Date}2024-02-15T21:21:05.022Z",
+              "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_smallScreensColumnCount": "12"
+            },
+            "_cq:lastRolledout": "{Date}2024-02-15T21:21:04.969Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2024-02-15T21:21:04.945Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2023-07-06T16:07:14.213Z",
+          "_jcr:createdBy": "evan_lynch@vfc.com",
+          "_jcr:lastModified": "{Date}2024-02-15T21:21:04.942Z",
+          "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row",
+          "_collapseGutters": "true",
+          "_cssClass": "show-for-small-only fade-elem-2 to-fade-in fade-in",
+          "_rowFullBleed": "true"
+        },
+        "grid_row_290904479": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "image_with_overlay2": {
+                  "overlayImage": {
+                    "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.136Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/Altra%5FOurStory%5FRoadRunner%5Fbgd%5FDesktop?",
+                    "_mobileImageUrl": "https://images.altrarunning.com/is/image/altra/Altra%5FOurStory%5FRoadlRunner%5Fbgd%5FMobile?"
+                  },
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.139Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "autosize"
+                  },
+                  "link": {
+                    "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.140Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlay": {
+                    "content": {
+                      "alignment": {
+                        "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.189Z",
+                        "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                        "_jcr:primaryType": "nt:unstructured",
+                        "_small": "small-text-left"
+                      },
+                      "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.183Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_color": "#FFFFFF",
+                      "_headingLevel": "h1",
+                      "_subheadingLevel": "h1"
+                    },
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.192Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_large": "middle-center",
+                      "_largeHorizontalOffset": "-6.5"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.196Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_large": "large-6",
+                      "_small": "small-4"
+                    },
+                    "gradient": {
+                      "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.197Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.168Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta1": {
+                    "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.198Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta2": {
+                    "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.199Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlaidimage": {
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.221Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.224Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.214Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.115Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-07-06T16:47:04.993Z",
+                  "_jcr:createdBy": "evan_lynch@vfc.com",
+                  "_jcr:lastModified": "{Date}2024-02-15T21:21:05.065Z",
+                  "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay2",
+                  "_float": "none"
+                },
+                "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.061Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.056Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2023-07-06T16:46:45.529Z",
+              "_jcr:createdBy": "evan_lynch@vfc.com",
+              "_jcr:lastModified": "{Date}2024-02-15T21:21:05.053Z",
+              "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_smallScreensColumnCount": "12"
+            },
+            "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.049Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.044Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2023-07-06T16:46:42.480Z",
+          "_jcr:createdBy": "evan_lynch@vfc.com",
+          "_jcr:lastModified": "{Date}2024-02-15T21:21:05.041Z",
+          "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row",
+          "_collapseGutters": "true",
+          "_cssClass": "brand-origin-row-2 fade-elem-3 to-fade-in vertical-align-elements",
+          "_rowFullBleed": "true"
+        },
+        "grid_row_1967536852": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "image": {
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.275Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "autosize",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/Altra%5FOurStory%5FRoomyToeBox%5FDesktop?$SCALE-ORIGINAL$",
+                    "_mobileImageUrl": "https://images.altrarunning.com/is/image/altra/Altra%5FOurStory%5FRoomyToeBox%5FDesktop?$SCALE-ORIGINAL$"
+                  },
+                  "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.269Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-07-06T16:59:40.329Z",
+                  "_jcr:createdBy": "evan_lynch@vfc.com",
+                  "_jcr:lastModified": "{Date}2024-02-15T21:21:05.265Z",
+                  "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image",
+                  "_float": "none"
+                },
+                "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.261Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.256Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2023-07-06T16:56:52.709Z",
+              "_jcr:createdBy": "evan_lynch@vfc.com",
+              "_jcr:lastModified": "{Date}2024-02-15T21:21:05.253Z",
+              "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_cssClass": "hide-for-small-only",
+              "_smallScreensColumnCount": "6"
+            },
+            "grid_column_12803218": {
+              "column-content": {
+                "customhtml2_96336810": {
+                  "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.296Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-07-10T16:51:15.950Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2024-02-15T21:21:05.292Z",
+                  "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<h2 class=\"hero\">\r\n  Shoes made to<br />actually fit feet with room for your toes.\r\n</h2>\r\n<p class=\"hero style-2\">\r\n  What sounds so simple went against everything the running industry\r\n  stood for.\r\n</p>\r\n<img\r\n  src=\"https://images.altrarunning.com/is/image/altra/Altra%5FOurStory%5FFootShape%5FMobile?$SCALE-ORIGINAL$\"\r\n  alt=\"Altra-shoe-fitment\"\r\n  class=\"show-for-small-only\"\r\n/>\r\n<div class=\"ctabutton parbase section\">\r\n  <a\r\n    class=\"button the-altra-difference hide-for-small-only\"\r\n    href=\"/who-we-are/the-altra-difference.html\"\r\n    target=\"\"\r\n    >Altra's Natural Fit</a\r\n  >\r\n</div>\r\n<div class=\"ctabutton parbase section\">\r\n  <a\r\n    class=\"button the-altra-difference expand show-for-small-only\"\r\n    href=\"/who-we-are/the-altra-difference.html\"\r\n    target=\"\"\r\n    >Altra's Natural Fit</a\r\n  >\r\n</div>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.287Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.282Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2023-07-06T16:07:23.601Z",
+              "_jcr:createdBy": "evan_lynch@vfc.com",
+              "_jcr:lastModified": "{Date}2024-02-15T21:21:05.277Z",
+              "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "4",
+              "_largeScreensPush": "1",
+              "_mediumScreensColumnCount": "4",
+              "_mediumScreensPush": "1",
+              "_smallScreensColumnCount": "10",
+              "_smallScreensPush": "1"
+            },
+            "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.247Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.229Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2023-07-06T16:56:49.580Z",
+          "_jcr:createdBy": "evan_lynch@vfc.com",
+          "_jcr:lastModified": "{Date}2024-02-15T21:21:05.226Z",
+          "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row",
+          "_collapseGutters": "true",
+          "_cssClass": "brand-origin-row-3  fade-elem-4 to-fade-in",
+          "_rowFullBleed": "true"
+        },
+        "grid_row_1967536852_": {
+          "row-content": {
+            "grid_column_642982327": {
+              "column-content": {
+                "customhtml2": {
+                  "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.345Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-07-10T20:46:34.427Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2024-02-15T21:21:05.341Z",
+                  "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<h2 class=\"hero\">Helping runners to keep running.</h2>\r\n<p class=\"hero style-2\">\r\n  Altra was founded on the belief that running was for relieving stress, not\r\n  putting more stress on your body. That runners deserved a shoe that could help\r\n  them run healthier, run further, run faster, and run for a lifetime.\r\n</p>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.336Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.330Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2023-07-06T16:56:55.527Z",
+              "_jcr:createdBy": "evan_lynch@vfc.com",
+              "_jcr:lastModified": "{Date}2024-02-15T21:21:05.326Z",
+              "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_cssClass": "vert-align",
+              "_largeScreensColumnCount": "4",
+              "_largeScreensOffset": "1",
+              "_mediumScreensColumnCount": "4",
+              "_mediumScreensOffset": "1",
+              "_smallScreensColumnCount": "10",
+              "_smallScreensOffset": "1"
+            },
+            "grid_column": {
+              "column-content": {
+                "image": {
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.370Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "autosize",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/Altra%5FOurStory%5FHelpRunners%5FDesktop?$SCALE-ORIGINAL$",
+                    "_mobileImageUrl": "https://images.altrarunning.com/is/image/altra/Altra%5FStory%5FRunners%5FKeep%5FRunning%5FMobile?$SCALE-ORIGINAL$"
+                  },
+                  "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.364Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-07-06T16:59:40.329Z",
+                  "_jcr:createdBy": "evan_lynch@vfc.com",
+                  "_jcr:lastModified": "{Date}2024-02-15T21:21:05.360Z",
+                  "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image",
+                  "_float": "none"
+                },
+                "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.356Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.351Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2023-07-06T16:56:52.709Z",
+              "_jcr:createdBy": "evan_lynch@vfc.com",
+              "_jcr:lastModified": "{Date}2024-02-15T21:21:05.347Z",
+              "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "6",
+              "_largeScreensPush": "1",
+              "_mediumScreensColumnCount": "6",
+              "_mediumScreensPush": "1",
+              "_smallScreensColumnCount": "12",
+              "_smallScreensPush": "0"
+            },
+            "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.319Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.301Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2023-07-06T16:56:49.580Z",
+          "_jcr:createdBy": "evan_lynch@vfc.com",
+          "_jcr:lastModified": "{Date}2024-02-15T21:21:05.298Z",
+          "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row",
+          "_collapseGutters": "true",
+          "_cssClass": "brand-origin-row-4  fade-elem-5 to-fade-in vertical-align-elements",
+          "_rowFullBleed": "true"
+        },
+        "grid_row_1164307436": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "image_with_overlay_w": {
+                  "overlayImage": {
+                    "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.451Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/Altra%5FOurStory%5FTrailRunner%5Fbgd%5FDesktop?$",
+                    "_mobileImageUrl": "https://images.altrarunning.com/is/image/altra/Altra%5FOurStory%5FTrailRunner%5Fbgd%5FMobile?"
+                  },
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.454Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "autosize"
+                  },
+                  "link": {
+                    "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.455Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlay": {
+                    "content": {
+                      "alignment": {
+                        "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.511Z",
+                        "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                        "_jcr:primaryType": "nt:unstructured",
+                        "_small": "small-text-left"
+                      },
+                      "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.501Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.513Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.515Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "gradient": {
+                      "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.517Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.484Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlaidimage": {
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.539Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.542Z",
+                      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.532Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.435Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-07-10T20:55:05.285Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2024-02-15T21:21:05.396Z",
+                  "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay_with_rte",
+                  "_float": "none",
+                  "_textIsRich": "[true,true,true]",
+                  "_toggleSwitchForEditor": "false",
+                  "_toggleSwitchForEditorLarge": "false",
+                  "_toggleSwitchForEditorMedium": "false"
+                },
+                "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.392Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.387Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2023-07-06T18:04:24.518Z",
+              "_jcr:createdBy": "evan_lynch@vfc.com",
+              "_jcr:lastModified": "{Date}2024-02-15T21:21:05.383Z",
+              "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_smallScreensColumnCount": "12"
+            },
+            "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.380Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.375Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2023-07-06T18:04:19.967Z",
+          "_jcr:createdBy": "evan_lynch@vfc.com",
+          "_jcr:lastModified": "{Date}2024-02-15T21:21:05.372Z",
+          "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row",
+          "_collapseGutters": "true",
+          "_cssClass": "brand-origin-row-5  fade-elem-6 to-fade-in",
+          "_rowFullBleed": "true"
+        },
+        "grid_row_1967536852__854871254": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "image_copy": {
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.593Z",
+                    "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "autosize",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/Altra%5FOurStory%5FToughest%5FConditions?$SCALE-ORIGINAL$",
+                    "_mobileImageUrl": "https://images.altrarunning.com/is/image/altra/Altra%5FStory%5FToughest%5FConditions%5FMobile?$SCALE-ORIGINAL$"
+                  },
+                  "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.587Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-07-06T16:59:40.329Z",
+                  "_jcr:createdBy": "evan_lynch@vfc.com",
+                  "_jcr:lastModified": "{Date}2024-02-15T21:21:05.584Z",
+                  "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image",
+                  "_float": "none"
+                },
+                "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.580Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.575Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2023-07-06T16:56:52.709Z",
+              "_jcr:createdBy": "evan_lynch@vfc.com",
+              "_jcr:lastModified": "{Date}2024-02-15T21:21:05.570Z",
+              "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_cssClass": "hide-for-small-only",
+              "_largeScreensColumnCount": "6",
+              "_mediumScreensColumnCount": "6",
+              "_smallScreensColumnCount": "12"
+            },
+            "grid_column_64298232": {
+              "column-content": {
+                "customhtml2": {
+                  "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.615Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-07-10T20:46:34.427Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2024-02-15T21:21:05.611Z",
+                  "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<h2 class=\"hero\">\r\n  These shoes are what became Altra.\r\n</h2>\r\n<p class=\"hero style-2\">\r\n  From humble beginnings in the back of a running store, they were tested and\r\n  refined in running's toughest conditions.\r\n</p>\r\n<p class=\"hero style-2\">\r\n  Now, Altra can be seen at every level across the globe.\r\n</p>\r\n<img\r\n  src=\"https://images.altrarunning.com/is/image/altra/Altra%5FStory%5FToughest%5FConditions%5FMobile?$SCALE-ORIGINAL$\"\r\n  alt=\"These shoes are what became Altra.\"\r\n  class=\"show-for-small-only\"\r\n/>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.606Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.601Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2023-07-06T16:56:55.527Z",
+              "_jcr:createdBy": "evan_lynch@vfc.com",
+              "_jcr:lastModified": "{Date}2024-02-15T21:21:05.596Z",
+              "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_cssClass": ".vert-align",
+              "_largeScreensColumnCount": "4",
+              "_largeScreensOffset": "1",
+              "_mediumScreensColumnCount": "4",
+              "_mediumScreensOffset": "1",
+              "_smallScreensColumnCount": "10",
+              "_smallScreensOffset": "1"
+            },
+            "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.564Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.547Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2023-07-06T16:56:49.580Z",
+          "_jcr:createdBy": "evan_lynch@vfc.com",
+          "_jcr:lastModified": "{Date}2024-02-15T21:21:05.543Z",
+          "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row",
+          "_collapseGutters": "true",
+          "_cssClass": "brand-origin-row-6  fade-elem-7 to-fade-in vertical-align-elements",
+          "_rowFullBleed": "true"
+        },
+        "grid_row_1173522636": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "image_copy": {
+                  "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.657Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured"
+                },
+                "customhtml2": {
+                  "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.664Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-07-10T22:02:25.154Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2024-02-15T21:21:05.659Z",
+                  "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<h2 class=\"hero\">To us, running has never just been running.</h2>\r\n<p class=\"hero style-2\">\r\n  It's an escape, a challenge, a community... it's a slingshot for the rest\r\n  of your life. <br> Runners didn't need another running shoe.<br />What they needed\r\n  was so much bigger.\r\n</p>\r\n<div class=\"text-right\">\r\n  <img\r\n    src=\"https://images.altrarunning.com/is/image/altra/Altra%5FOurStory%5FSoWeBuiltIt?$SCALE-ORIGINAL$\"\r\n    alt=\"So we built it.\"\r\n    class=\"brand-origin-footer\"\r\n  />\r\n</div>\r\n<div class=\"ctabutton parbase section\">\r\n  <a class=\"button find-your-fit hide-for-small-only\" href=\"/best-shoes-finder.html\" target=\"\"\r\n    >Find your perfect pair</a\r\n  >\r\n</div>\r\n<div class=\"ctabutton parbase section\">\r\n  <a class=\"button find-your-fit show-for-small-only expand\" href=\"/best-shoes-finder.html\" target=\"\"\r\n    >Find your perfect pair</a\r\n  >\r\n</div>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.651Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.632Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2023-07-10T15:07:28.400Z",
+              "_jcr:createdBy": "evan_lynch@vfc.com",
+              "_jcr:lastModified": "{Date}2024-02-15T21:21:05.628Z",
+              "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensCenterColumn": "true",
+              "_largeScreensColumnCount": "12",
+              "_mediumScreensCenterColumn": "true",
+              "_smallScreensCenterColumn": "true",
+              "_smallScreensColumnCount": "11"
+            },
+            "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.624Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.619Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2023-07-10T15:07:24.766Z",
+          "_jcr:createdBy": "evan_lynch@vfc.com",
+          "_jcr:lastModified": "{Date}2024-02-15T21:21:05.616Z",
+          "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row",
+          "_cssClass": "brand-origin-row-7  fade-elem-8 to-fade-i"
+        },
+        "customhtml2_1935589496": {
+          "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.670Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2023-07-11T22:24:46.644Z",
+          "_jcr:createdBy": "vtaymany@zobristinc.com",
+          "_jcr:lastModified": "{Date}2024-02-15T21:21:05.666Z",
+          "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+          "_customJS": "//Start fade animation\r\nrequire(['jquery', 'domReady'], function ($, domReady) {\r\n  domReady(function () {\r\n    function checkElementLocation() {\r\n      var $window = $(window);\r\n      var bottom_of_window = $window.scrollTop() + $window.height();\r\n\r\n      $('.fade-elem-1').each(function (i) {\r\n        var $that = $(this);\r\n        var bottom_of_object = $that.position().top + $that.outerHeight() - 500;\r\n\r\n        //if element is in viewport, add the animate class\r\n        if (bottom_of_window > bottom_of_object) {\r\n          $(this).addClass('fade-in');\r\n        }\r\n      });\r\n    }\r\n    // if in viewport, show the animation\r\n    checkElementLocation();\r\n\r\n    $(window).on('scroll', function () {\r\n      checkElementLocation();\r\n    });\r\n  });\r\n});\r\n//End fade animation\r\n//Start fade animation\r\nrequire(['jquery', 'domReady'], function ($, domReady) {\r\n  domReady(function () {\r\n    function checkElementLocation() {\r\n      var $window = $(window);\r\n      var bottom_of_window = $window.scrollTop() + $window.height();\r\n\r\n      $('.fade-elem-2').each(function (i) {\r\n        var $that = $(this);\r\n        var bottom_of_object = $that.position().top + $that.outerHeight() - 500;\r\n\r\n        //if element is in viewport, add the animate class\r\n        if (bottom_of_window > bottom_of_object) {\r\n          $(this).addClass('fade-in');\r\n        }\r\n      });\r\n    }\r\n    // if in viewport, show the animation\r\n    checkElementLocation();\r\n\r\n    $(window).on('scroll', function () {\r\n      checkElementLocation();\r\n    });\r\n  });\r\n});\r\n//End fade animation\r\n//Start fade animation\r\nrequire(['jquery', 'domReady'], function ($, domReady) {\r\n  domReady(function () {\r\n    function checkElementLocation() {\r\n      var $window = $(window);\r\n      var bottom_of_window = $window.scrollTop() + $window.height();\r\n\r\n      $('.fade-elem-3').each(function (i) {\r\n        var $that = $(this);\r\n        var bottom_of_object = $that.position().top + $that.outerHeight() - 500;\r\n\r\n        //if element is in viewport, add the animate class\r\n        if (bottom_of_window > bottom_of_object) {\r\n          $(this).addClass('fade-in');\r\n        }\r\n      });\r\n    }\r\n    // if in viewport, show the animation\r\n    checkElementLocation();\r\n\r\n    $(window).on('scroll', function () {\r\n      checkElementLocation();\r\n    });\r\n  });\r\n});\r\n//End fade animation\r\n//Start fade animation\r\nrequire(['jquery', 'domReady'], function ($, domReady) {\r\n  domReady(function () {\r\n    function checkElementLocation() {\r\n      var $window = $(window);\r\n      var bottom_of_window = $window.scrollTop() + $window.height();\r\n\r\n      $('.fade-elem-4').each(function (i) {\r\n        var $that = $(this);\r\n        var bottom_of_object = $that.position().top + $that.outerHeight() - 500;\r\n\r\n        //if element is in viewport, add the animate class\r\n        if (bottom_of_window > bottom_of_object) {\r\n          $(this).addClass('fade-in');\r\n        }\r\n      });\r\n    }\r\n    // if in viewport, show the animation\r\n    checkElementLocation();\r\n\r\n    $(window).on('scroll', function () {\r\n      checkElementLocation();\r\n    });\r\n  });\r\n});\r\n//End fade animation\r\n//Start fade animation\r\nrequire(['jquery', 'domReady'], function ($, domReady) {\r\n  domReady(function () {\r\n    function checkElementLocation() {\r\n      var $window = $(window);\r\n      var bottom_of_window = $window.scrollTop() + $window.height();\r\n\r\n      $('.fade-elem-5').each(function (i) {\r\n        var $that = $(this);\r\n        var bottom_of_object = $that.position().top + $that.outerHeight() - 500;\r\n\r\n        //if element is in viewport, add the animate class\r\n        if (bottom_of_window > bottom_of_object) {\r\n          $(this).addClass('fade-in');\r\n        }\r\n      });\r\n    }\r\n    // if in viewport, show the animation\r\n    checkElementLocation();\r\n\r\n    $(window).on('scroll', function () {\r\n      checkElementLocation();\r\n    });\r\n  });\r\n});\r\n//End fade animation\r\n//Start fade animation\r\nrequire(['jquery', 'domReady'], function ($, domReady) {\r\n  domReady(function () {\r\n    function checkElementLocation() {\r\n      var $window = $(window);\r\n      var bottom_of_window = $window.scrollTop() + $window.height();\r\n\r\n      $('.fade-elem-6').each(function (i) {\r\n        var $that = $(this);\r\n        var bottom_of_object = $that.position().top + $that.outerHeight() - 500;\r\n\r\n        //if element is in viewport, add the animate class\r\n        if (bottom_of_window > bottom_of_object) {\r\n          $(this).addClass('fade-in');\r\n        }\r\n      });\r\n    }\r\n    // if in viewport, show the animation\r\n    checkElementLocation();\r\n\r\n    $(window).on('scroll', function () {\r\n      checkElementLocation();\r\n    });\r\n  });\r\n});\r\n//End fade animation\r\n//Start fade animation\r\nrequire(['jquery', 'domReady'], function ($, domReady) {\r\n  domReady(function () {\r\n    function checkElementLocation() {\r\n      var $window = $(window);\r\n      var bottom_of_window = $window.scrollTop() + $window.height();\r\n\r\n      $('.fade-elem-7').each(function (i) {\r\n        var $that = $(this);\r\n        var bottom_of_object = $that.position().top + $that.outerHeight() - 500;\r\n\r\n        //if element is in viewport, add the animate class\r\n        if (bottom_of_window > bottom_of_object) {\r\n          $(this).addClass('fade-in');\r\n        }\r\n      });\r\n    }\r\n    // if in viewport, show the animation\r\n    checkElementLocation();\r\n\r\n    $(window).on('scroll', function () {\r\n      checkElementLocation();\r\n    });\r\n  });\r\n});\r\n//End fade animation\r\n//Start fade animation\r\nrequire(['jquery', 'domReady'], function ($, domReady) {\r\n  domReady(function () {\r\n    function checkElementLocation() {\r\n      var $window = $(window);\r\n      var bottom_of_window = $window.scrollTop() + $window.height();\r\n\r\n      $('.fade-elem-8').each(function (i) {\r\n        var $that = $(this);\r\n        var bottom_of_object = $that.position().top + $that.outerHeight() - 500;\r\n\r\n        //if element is in viewport, add the animate class\r\n        if (bottom_of_window > bottom_of_object) {\r\n          $(this).addClass('fade-in');\r\n        }\r\n      });\r\n    }\r\n    // if in viewport, show the animation\r\n    checkElementLocation();\r\n\r\n    $(window).on('scroll', function () {\r\n      checkElementLocation();\r\n    });\r\n  });\r\n});\r\n//End fade animation\r\n",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default"
+        },
+        "_cq:lastRolledout": "{Date}2024-02-15T21:21:04.843Z",
+        "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2024-02-15T21:21:05.667Z",
+      "_cq:lastModifiedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicated": "{Date}2024-02-15T21:22:00.999Z",
+      "_cq:lastReplicatedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2024-02-15T21:21:05.670Z",
+      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "Brand Origin Story",
+      "_jcr:uuid": "5fbb2f82-2edd-4a62-8474-b6ab324a6976",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "_dataLayerErrorCode": "400",
+      "_frequency": "always",
+      "_pageTitle": "Altra | Origin Story",
+      "_priority": "0.5",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

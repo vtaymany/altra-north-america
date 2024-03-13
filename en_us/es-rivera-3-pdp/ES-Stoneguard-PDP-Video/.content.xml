@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2023-08-10T14:51:47.552Z"
+        cq:lastModifiedBy="dylan_gibson@vfc.com"
+        cq:lastReplicated="{Date}2023-08-10T14:51:54.307Z"
+        cq:lastReplicatedBy="dylan_gibson@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2023-08-10T14:51:47.554Z"
+        cq:lastRolledoutBy="dylan_gibson@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/espot-integration"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="ES-Stoneguard-PDP-Video"
+        jcr:uuid="ecc7d0e0-6b85-4270-bf72-a3a9a20717e9"
+        sling:resourceType="vfcorp/components/global/page/espot-integration"
+        rowFullBleed="true"
+        smallScreenSize="1">
+        <espotcontent
+            cq:lastRolledout="{Date}2023-08-10T14:51:47.527Z"
+            cq:lastRolledoutBy="dylan_gibson@vfc.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <customhtml2_copy_cop
+                cq:lastRolledout="{Date}2023-08-10T14:51:47.554Z"
+                cq:lastRolledoutBy="dylan_gibson@vfc.com"
+                jcr:created="{Date}2021-11-05T18:51:41.821Z"
+                jcr:createdBy="abbey_charles@vfc.com"
+                jcr:lastModified="{Date}2021-11-05T18:52:07.398Z"
+                jcr:lastModifiedBy="abbey_charles@vfc.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/customhtml2"
+                customCSS=".space {&#xd;&#xa;    height: 4rem;&#xd;&#xa;}"
+                customHTML="&lt;div class=&quot;space&quot;>&lt;/div>"
+                marginBottom="bottom-margin-default"
+                marginTop="top-margin-default"
+                paddingBottom="bottom-pad-default"
+                paddingTop="top-pad-default"/>
+            <video
+                cq:lastRolledout="{Date}2023-08-10T14:51:47.537Z"
+                cq:lastRolledoutBy="dylan_gibson@vfc.com"
+                jcr:created="{Date}2023-08-10T14:45:14.334Z"
+                jcr:createdBy="dylan_gibson@vfc.com"
+                jcr:lastModified="{Date}2023-08-10T14:51:47.534Z"
+                jcr:lastModifiedBy="dylan_gibson@vfc.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/video"
+                float="none">
+                <video
+                    cq:lastRolledout="{Date}2023-08-10T14:51:47.544Z"
+                    cq:lastRolledoutBy="dylan_gibson@vfc.com"
+                    jcr:mixinTypes="[cq:LiveRelationship]"
+                    jcr:primaryType="nt:unstructured"
+                    description="Stonguard How-to"
+                    name="Stonguard How-to"
+                    uploadDate="2023-08-10"
+                    videoFormat="video/mp4"
+                    videoSource="altra/AL0A85N9000-VIDEO"
+                    videoType="scene7"/>
+            </video>
+            <customhtml2_copy_cop_1935671421
+                cq:lastRolledout="{Date}2023-08-10T14:51:47.550Z"
+                cq:lastRolledoutBy="dylan_gibson@vfc.com"
+                jcr:created="{Date}2021-11-05T18:51:41.821Z"
+                jcr:createdBy="abbey_charles@vfc.com"
+                jcr:lastModified="{Date}2023-08-10T14:51:47.546Z"
+                jcr:lastModifiedBy="abbey_charles@vfc.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/customhtml2"
+                customCSS=".space {&#xd;&#xa;    height: 4rem;&#xd;&#xa;}"
+                customHTML="&lt;div class=&quot;space&quot;>&lt;/div>"
+                marginBottom="bottom-margin-default"
+                marginTop="top-margin-default"
+                paddingBottom="bottom-pad-default"
+                paddingTop="top-pad-default"/>
+        </espotcontent>
+    </jcr:content>
+</jcr:root>

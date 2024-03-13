@@ -1,0 +1,55 @@
+{
+  "root": {
+    "content": {
+      "espotcontent": {
+        "text_199200374": {
+          "_cq:lastRolledout": "{Date}2021-03-15T16:57:21.391Z",
+          "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+          "_jcr:created": "{Date}2021-03-15T16:56:07.290Z",
+          "_jcr:createdBy": "abbey_charles@vfc.com",
+          "_jcr:lastModified": "{Date}2021-03-15T16:57:10.499Z",
+          "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/text",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default",
+          "_text": "<h3>Women's Gym &amp; Cross Training Shoes</h3>\r\n<p>Discover the perfect shoe for your gym workouts with women's training shoes from Altra Running. Our cross training styles were designed with stability and support in mind, making them for perfect for combining multiple workouts like running, weight training, elliptical machines, and any other kind of workout. With our Footshape construction, our women's cross trainers are designed specifically for the female foot with a higher instep, narrower heel, and more. So, no matter your gym routine our training shoes will provide you the stability and comfort you need.</p>\r\n<p>Not finding what you are looking for? Be sure to shop our full selection of <a href=\"https://www.altrarunning.com/shop/womens-shoes\">women's shoes</a>.</p>\r\n",
+          "_textIsRich": "true"
+        },
+        "_cq:lastRolledout": "{Date}2021-03-15T16:57:21.381Z",
+        "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2021-03-15T16:57:21.389Z",
+      "_cq:lastModifiedBy": "abbey_charles@vfc.com",
+      "_cq:lastReplicated": "{Date}2021-03-15T16:59:30.126Z",
+      "_cq:lastReplicatedBy": "abbey_charles@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2021-03-15T16:57:21.391Z",
+      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/espot-integration",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "shop_women_shoes_gym_training-bottom",
+      "_jcr:uuid": "d59ce343-8124-4bd7-8901-17551fac6cbb",
+      "_sling:resourceType": "vfcorp/components/global/page/espot-integration",
+      "_pageTitle": "shop_women_shoes_gym_training-bottom",
+      "_rowFullBleed": "true",
+      "_smallScreenSize": "1",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

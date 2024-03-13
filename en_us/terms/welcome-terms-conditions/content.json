@@ -1,0 +1,97 @@
+{
+  "root": {
+    "content": {
+      "content": {
+        "grid_row": {
+          "row-content": {
+            "grid_column_copy": {
+              "column-content": {
+                "text": {
+                  "_cq:lastRolledout": "{Date}2023-10-26T16:12:28.537Z",
+                  "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                  "_jcr:created": "{Date}2020-09-18T20:28:22.736Z",
+                  "_jcr:createdBy": "abbey_charles@vfc.com",
+                  "_jcr:lastModified": "{Date}2023-10-26T16:12:28.527Z",
+                  "_jcr:lastModifiedBy": "dylan_gibson@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/text",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default",
+                  "_text": "<h1 style=\"text-align: center;\">Welcome Discount Terms &amp; Conditions</h1>\r\n<p><br>\r\n*10% discount Code valid on full-price item(s) on&nbsp;<a href=\"http://altrarunning.com/\">altrarunning.com</a>. Valid for US residents only, 18 years or older who initially register for Altra’s email list. Review Altra’s Privacy Policy at <a href=\"https://www.altrarunning.com/privacy-policy.html\">https://www.altrarunning.com/privacy-policy.html</a> for details on how your personal information is shared and used by Altra. You may opt-out of email list at any time and retain Code. Limit (1) Code per person regardless of number of email addresses provided; any attempt to defraud Altra voids offer and will result in full price of purchase being immediately due. Code expires thirty (30) days after issuance. (Time kept by Altra.) Code valid for one-time use only. 10% price reduction is pre-tax and excludes expedited shipping charges. Code cannot be combined with other coupons, offers or discounts. Not transferable. We reserve the right to verify identity before honoring Code. Not responsible if Code is lost, stolen, destroyed or used without permission or for technological failure/error/malfunction of any kind. Remaining balance of purchase must be paid using another form of payment. Code not redeemable for cash and cannot be applied as payment of any account. No price adjustment allowed on previous purchases, product returns/exchanges&nbsp;or purchases made without use of Code. No variance from these terms and conditions allowed except as required by law.&nbsp;We reserve the right to end or extend this promotion at any time without notice. Void where prohibited.</p>\r\n<p><b>For Colorado Customers – Notice of Bona Fide Loyalty Disclosure</b></p>\r\n<p><b>Categories of Personal Information or Sensitive Data Collected:&nbsp; email address</b></p>\r\n<p><b>Categories of Third Parties that will receive Personal Information:</b>&nbsp; We do not share your information with third parties who knowingly collect and sell the personal information of consumers to other third parties for money. When we share information in this way, it is for marketing and advertising purposes or analytics purposes. For example, we allow third parties, who are not our contractors, service providers or affiliates, such as Facebook®, and Google® and other advertising networks, to place technologies (such as cookies) on our websites that collect personal information for purposes of personalizing advertising to users of our websites and other potential customers. We may also share your personal information with third parties to: facilitate our merger or acquisition activities; facilitate internal audits, dispute resolution or investigations; detect and address actual or potential fraud; or to comply with various legal obligations or other rules to which we are subject.</p>\r\n<p><b>Bona Fide Loyalty Program Partners and Bona Fide Loyalty Program Benefits provided by each: </b>&nbsp;N/A</p>\r\n<p><b>For California Customers – Notice of Financial Incentive</b></p>\r\n<p><b><br>\r\nMaterial terms: </b>The categories of personal information collected to participate in this offer are: email address<b><br>\r\n Opt-in: </b>You can choose to sign-up for an account by completing the fields on our website.&nbsp;<b><br>\r\n Opt-out: </b>You can opt-out of this offer by using the unsubscribe process in an email sent to you by Altra.&nbsp;<b><br>\r\n We administer the program in accordance with the California Consumer Privacy Act (CCPA).&nbsp;<br>\r\n ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>The value of the consumer’s data collected in connection with the program that forms the basis for offering this program is $21.15<b><br>\r\n ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>To estimate the value of the consumer’s data, we measured the expenses related to this offer and the cost of acquiring the emails over the last 12 months and divided this number by the average of active subscribers over the last 12 months.&nbsp;</p>\r\n<p><br>\r\nFor more information about data collection, please view the Altra Privacy Statement, available here&nbsp;<a href=\"https://www.altrarunning.com/privacy-policy.html\">https://www.altrarunning.com/privacy-policy.html</a>.</p>\r\n<p>&nbsp;</p>\r\n",
+                  "_textIsRich": "true"
+                },
+                "_cq:lastRolledout": "{Date}2023-10-26T16:12:28.519Z",
+                "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2023-10-26T16:12:28.510Z",
+              "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+              "_jcr:created": "{Date}2020-09-18T20:27:24.616Z",
+              "_jcr:createdBy": "abbey_charles@vfc.com",
+              "_jcr:lastModified": "{Date}2023-10-26T16:12:28.501Z",
+              "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensCenterColumn": "true",
+              "_largeScreensColumnCount": "9",
+              "_mediumScreensCenterColumn": "true",
+              "_smallScreensCenterColumn": "true",
+              "_smallScreensColumnCount": "11"
+            },
+            "_cq:lastRolledout": "{Date}2023-10-26T16:12:28.494Z",
+            "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2023-10-26T16:12:28.486Z",
+          "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+          "_jcr:created": "{Date}2020-09-30T20:09:42.079Z",
+          "_jcr:createdBy": "abbey_charles@vfc.com",
+          "_jcr:lastModified": "{Date}2023-10-26T16:12:28.481Z",
+          "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row"
+        },
+        "_cq:lastRolledout": "{Date}2023-10-26T16:12:28.476Z",
+        "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2023-10-26T16:12:28.530Z",
+      "_cq:lastModifiedBy": "dylan_gibson@vfc.com",
+      "_cq:lastReplicated": "{Date}2023-10-26T16:14:27.922Z",
+      "_cq:lastReplicatedBy": "dylan_gibson@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2023-10-26T16:12:28.537Z",
+      "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:description": "Welcome to Altra Running! Review these Welcome Discount Terms and Conditions, then take advantage of 10% off your first purchase through Altrarunning.com.",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "Welcome Discount Terms and Conditions",
+      "_jcr:uuid": "1340f405-9f28-4135-843f-2b5f54a36347",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "_dataLayerErrorCode": "400",
+      "_frequency": "always",
+      "_priority": "0.5",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

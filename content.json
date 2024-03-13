@@ -1,0 +1,16 @@
+{
+  "root": {
+    "content": {
+      "__prefix": "jcr"
+    },
+    "en_us": "",
+    "en_ca": "",
+    "fr_ca": "",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:rep": "internal",
+    "_jcr:mixinTypes": "[rep:AccessControllable]",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

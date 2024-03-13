@@ -1,0 +1,75 @@
+{
+  "root": {
+    "content": {
+      "image": {
+        "_cq:lastRolledout": "{Date}2020-11-30T16:09:07.771Z",
+        "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+        "_jcr:lastModified": "{Date}2020-11-30T16:09:07.769Z",
+        "_jcr:lastModifiedBy": "ankur_patel",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_imageRotate": "0"
+      },
+      "content": {
+        "secondarynav_dc70": {
+          "_cq:lastRolledout": "{Date}2020-11-30T16:09:07.779Z",
+          "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+          "_jcr:created": "{Date}2017-07-11T13:50:28.589-04:00",
+          "_jcr:createdBy": "becky.horvath@rosetta.com",
+          "_jcr:lastModified": "{Date}2020-11-30T16:09:07.777Z",
+          "_jcr:lastModifiedBy": "becky.horvath@rosetta.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/secondarynav",
+          "_layout": "horizontal",
+          "_rootPath": "/content/vfcorp/altra/north-america/en_us/digital-style-guide"
+        },
+        "customhtml": {
+          "_cq:lastRolledout": "{Date}2020-11-30T16:09:07.782Z",
+          "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+          "_jcr:created": "{Date}2015-02-03T19:36:45.209-05:00",
+          "_jcr:createdBy": "anthony.mclin",
+          "_jcr:lastModified": "{Date}2020-11-30T16:09:07.780Z",
+          "_jcr:lastModifiedBy": "anthony.mclin@rosetta.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+          "_bottomgarnishclass": "feature-footing",
+          "_customHTML": "<div class=\"row\"> \n <div class=\"large-12 columns\"> \n  <h1>Alert Boxes</h1> \n  <p>Alert boxes are styled using Foundation. They can be used to display success or error messages, and can be dismissed using a close button. They are often used in conjunction with <a href=\"../forms.html\">forms</a> but can be used independently.</p> \n  <p>For more information on supported markup for alert boxes, refer to<br> <a href=\"http://foundation.zurb.com/sites/docs/v/4.3.2/components/calloutes.html\">http://foundation.zurb.com/sites/docs/v/4.3.2/components/calloutes.html</a></p> \n  <p></p>\n </div> \n</div> \n<hr> \n<div class=\"row\"> \n <div class=\"large-12 columns\"> \n  <h3>Alert Boxes</h3> \n  <div data-alert=\"\" class=\"callout\" data-closeable>\n    This is a standard alert box (div.callout). \n   <a href=\"\" class=\"close\" data-close>×</a> \n  </div> \n  <div data-alert=\"\" class=\"callout success\" data-closeable>\n    This is a success alert box (div.callout.success). \n   <a href=\"\" class=\"close\" data-close>×</a> \n  </div> \n  <div data-alert=\"\" class=\"callout alert\" data-closeable>\n    This is an \"alert\" alert box (div.callout.alert). \n   <a href=\"\" class=\"close\" data-close>×</a> \n  </div> \n  <div data-alert=\"\" class=\"callout alert radius\" data-closeable>\n    This is an alert with radius corners (div.callout.alert.radius). \n   <a href=\"\" class=\"close\" data-close>×</a> \n  </div> \n  <div data-alert=\"\" class=\"callout alert round\" data-closeable>\n    This is an alert with rounded corners (div.callout.alert.round). \n   <a href=\"\" class=\"close\" data-close>×</a> \n  </div> \n  <div data-alert=\"\" class=\"callout secondary\" data-closeable>\n    This is a secondary alert box (div.callout.secondary). \n   <a href=\"\" class=\"close\" data-close>×</a> \n  </div> \n  <hr> \n </div> \n</div>",
+          "_topgarnishclass": "feature-heading"
+        },
+        "_cq:lastRolledout": "{Date}2020-11-30T16:09:07.773Z",
+        "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2020-11-30T16:09:07.781Z",
+      "_cq:lastModifiedBy": "john.m.williams@rosetta.com",
+      "_cq:lastReplicated": "{Date}2018-10-23T15:42:44.428-04:00",
+      "_cq:lastReplicatedBy": "john.m.williams@rosetta.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2020-11-30T16:09:07.782Z",
+      "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "Alert Boxes",
+      "_jcr:uuid": "164059c3-d007-45fa-b74d-7407361cb013",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "_excludeFromSitemap": "true",
+      "_frequency": "monthly",
+      "_internalNavigation": "none",
+      "_priority": "0.5",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

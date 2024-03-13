@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2024-02-05T22:08:03.817Z"
+        cq:lastModifiedBy="evan_lynch@vfc.com"
+        cq:lastReplicated="{Date}2024-02-05T22:30:39.245Z"
+        cq:lastReplicatedBy="evan_lynch@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2024-02-05T22:08:03.820Z"
+        cq:lastRolledoutBy="evan_lynch@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/espot-integration"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="gifts_for_the_road_runners-bottom"
+        jcr:uuid="8a8c3e47-8f02-49a2-ac08-e0b22f346a9e"
+        sling:resourceType="vfcorp/components/global/page/espot-integration"
+        rowFullBleed="true"
+        smallScreenSize="1">
+        <espotcontent
+            cq:lastRolledout="{Date}2024-02-05T22:08:03.812Z"
+            cq:lastRolledoutBy="evan_lynch@vfc.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <text_copy
+                cq:lastRolledout="{Date}2024-02-05T22:08:03.820Z"
+                cq:lastRolledoutBy="evan_lynch@vfc.com"
+                jcr:created="{Date}2023-11-20T22:41:57.125Z"
+                jcr:createdBy="evan_lynch@vfc.com"
+                jcr:lastModified="{Date}2024-02-05T22:08:03.816Z"
+                jcr:lastModifiedBy="evan_lynch@vfc.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/text"
+                marginBottom="bottom-margin-default"
+                marginTop="top-margin-default"
+                paddingBottom="bottom-pad-default"
+                paddingTop="top-pad-default"
+                text="&lt;h2>Gifts for Road Runners&lt;/h2>&#xd;&#xa;&lt;p>Altra Running is where passion meets performance. Our road runner gift guide is designed to elevate every stride, making each run memorable. Whether you're shopping for a seasoned marathoner or a casual jogger, Altra has the ideal gift to enhance their running experience. Explore our diverse collection of running shoe styles catering to both men and women, along with apparel that is sure to delight every runner. We offer something special for every athlete on your gift list.&lt;/p>&#xd;&#xa;&lt;h2>&amp;nbsp;&lt;/h2>&#xd;&#xa;&lt;h2>Road Runner Gifts with Cutting Edge Features&amp;nbsp;&lt;/h2>&#xd;&#xa;&lt;p>At Altra, we understand that each runner has an extremely unique set of needs. Our collection of road runner gifts have been designed with those preferences in mind. From cutting-edge road running shoes to essential apparel for both on and off the road, we've got the best gift ideas for road runners.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Learn more about why Altra Running is the best gift for road runners to conquer the pavement and reach their personal bests:&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;p>Altra Road Runner Shoes: Engineered for optimal performance and comfort, our shoes utilize advanced technology through a blend of cushioning, support, and responsiveness. Whether you’re out on a quick morning jog or a long-distance race, Altra's road runner shoes are designed so that runners can effortlessly maintain a steady pace.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;p>FOOTPOD™ Technology: This outsole technology encourages natural movement underfoot. The Torin 7, available in &lt;a href=&quot;https://www.altrarunning.com/shop/men/mens-torin-7-al0a82c4&quot;>men's&lt;/a> and &lt;a href=&quot;https://www.altrarunning.com/shop/gifts-for-the-road-runners/womens-torin-7-al0a82cz&quot;>women's&lt;/a> sizes, features this unique feature and much more.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;p>APMA Certified: The American Podiatric Medical Association (APMA) Seal of Acceptance is awarded to any products that promote good foot health. The Paradigm 7 for &lt;a href=&quot;https://www.altrarunning.com/shop/mens-shoes/mens-paradigm-7-al0a82c5&quot;>men&lt;/a> and &lt;a href=&quot;https://www.altrarunning.com/shop/women/womens-paradigm-7-al0a82cg&quot;>women&lt;/a> is one example of Altra shoes that have been awarded with this honor.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;p>FootShape™: Footwear options such as the Escalante Racer for both &lt;a href=&quot;https://www.altrarunning.com/shop/men/mens-escalante-racer-alm193b3&quot;>men&lt;/a> and &lt;a href=&quot;https://www.altrarunning.com/shop/gifts-for-the-road-runners/womens-escalante-racer-alw193b3&quot;>women&lt;/a> showcase our distinctive FootShape™ comfort technology. This design allows your feet to rest more naturally by providing additional space while addressing the biological differences between men's and women's feet.&lt;/p>&#xd;&#xa;&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;p>Altra EGO™ MAX: Our Altra EGO™ Max midsole foam gives you all the light and luxurious performance you need, along with a little extra bounce and added durability. Built for optimal performance and comfort and available in &lt;a href=&quot;https://www.altrarunning.com/shop/mens-via-olympus-2-al0a85na&quot;>men's&lt;/a> and &lt;a href=&quot;https://www.altrarunning.com/shop/gifts-for-the-road-runners/womens-via-olympus-2-al0a85nb&quot;>women's&lt;/a> sizes, the VIA Olympus 2 is the prime example of this technology.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;h2>&amp;nbsp;&lt;/h2>&#xd;&#xa;&lt;h2>Apparel Gifts for Road Runners&lt;/h2>&#xd;&#xa;&lt;p>Our collection goes beyond shoes to include essential gear for road runners. Explore moisture-wicking apparel that will keep runners dry and comfortable even on the most strenuous long-distance runs. For the runners who enjoy venturing out on night runs, our reflective logo and details are designed for enhanced visibility during your workout, keeping you safe no matter where your runs take you. Available in sizes for all, our holiday gift guide options are endless.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;h2>&amp;nbsp;&lt;/h2>&#xd;&#xa;&lt;h2>Why Altra?&lt;/h2>&#xd;&#xa;&lt;p>When shopping for the perfect gifts for road runners, Altra Running has got you covered. Explore our collection and give the gift of unparalleled performance to the road runner in your life. From exceptional road runner shoes to gear that goes the extra mile, Altra is here to make every run an extraordinary experience.&amp;nbsp;&lt;/p>&#xd;&#xa;"
+                textIsRich="true"/>
+        </espotcontent>
+    </jcr:content>
+</jcr:root>

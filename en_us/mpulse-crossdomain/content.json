@@ -1,0 +1,29 @@
+{
+  "root": {
+    "content": {
+      "_cq:lastModified": "{Date}2018-10-29T11:42:38.346-04:00",
+      "_cq:lastModifiedBy": "alex_koffler@vfc.com",
+      "_cq:lastReplicated": "{Date}2018-10-29T11:44:28.211-04:00",
+      "_cq:lastReplicatedBy": "alex_koffler@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2018-10-29T11:42:38.351-04:00",
+      "_cq:lastRolledoutBy": "alex_koffler@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/customFile",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "mpulse-crossdomain",
+      "_jcr:uuid": "d067ba33-6865-4e7a-a4c3-5b5739b22c04",
+      "_sling:resourceType": "vfcorp/components/global/page/customFile",
+      "_fileContents": "<!DOCTYPE html>\r\n<html>\r\n\t<head>\r\n\t\t<script>\r\n\t\t(function(){if (window.BOOMR && window.BOOMR.version) { return; }\r\n\t\tvar dom,doc,where,iframe = document.createElement(\"iframe\"),win = window;\r\n\r\n\t\tfunction boomerangSaveLoadTime(e) {\r\n\t\t\twin.BOOMR_onload=(e && e.timeStamp) || new Date().getTime();\r\n\t\t}\r\n\t\tif (win.addEventListener) {\r\n\t\t\twin.addEventListener(\"load\", boomerangSaveLoadTime, false);\r\n\t\t} else if (win.attachEvent) {\r\n\t\t\twin.attachEvent(\"onload\", boomerangSaveLoadTime);\r\n\t\t}\r\n\r\n\t\tiframe.src = \"javascript:void(0)\";\r\n\t\tiframe.title = \"\"; iframe.role = \"presentation\";\r\n\t\t(iframe.frameElement || iframe).style.cssText = \"width:0;height:0;border:0;display:none;\";\r\n\t\twhere = document.getElementsByTagName(\"script\")[0];\r\n\t\twhere.parentNode.insertBefore(iframe, where);\r\n\r\n\t\ttry {\r\n\t\t\tdoc = iframe.contentWindow.document;\r\n\t\t} catch(e) {\r\n\t\t\tdom = document.domain;\r\n\t\t\tiframe.src=\"javascript:var d=document.open();d.domain='\"+dom+\"';void(0);\";\r\n\t\t\tdoc = iframe.contentWindow.document;\r\n\t\t}\r\n\t\tdoc.open()._l = function() {\r\n\t\t\tvar js = this.createElement(\"script\");\r\n\t\t\tif (dom) { this.domain = dom; }\r\n\t\t\tjs.id = \"boomr-if-as\";\r\n\t\t\tjs.src = \"//c.go-mpulse.net/boomerang/\" +\r\n\t\t\t\t\t\t\t\"W2KUT-2RWZD-VKZLQ-YKXYM-FY25P\";\r\n\t\t\tBOOMR_lstart=new Date().getTime();\r\n\t\t\tthis.body.appendChild(js);\r\n\t\t};\r\n\t\tdoc.write('<body onload=\"document._l();\">');\r\n\t\tdoc.close();\r\n\t\t})();\r\n\t\t</script>\r\n\t</head>\r\n\t<body>\r\n\t\t<script type=\"text/javascript\">\r\n\t\tBOOMR_config = {\r\n\t\t\tautorun: false,\r\n\t\t\tCrossDomain: {\r\n\t\t\t\tsending: true\r\n\t\t\t}\r\n\t\t};\r\n\t\t</script>\r\n\t</body>\r\n</html>",
+      "_hideInNav": "true",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

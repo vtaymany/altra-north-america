@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2021-03-15T16:59:15.783Z"
+        cq:lastModifiedBy="abbey_charles@vfc.com"
+        cq:lastReplicated="{Date}2021-03-15T16:59:30.126Z"
+        cq:lastReplicatedBy="abbey_charles@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2021-03-15T16:59:15.786Z"
+        cq:lastRolledoutBy="abbey_charles@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/espot-integration"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="shop_women_shoes_trail-bottom"
+        jcr:uuid="b8ccaff4-a955-4407-9724-2d5be44a69df"
+        sling:resourceType="vfcorp/components/global/page/espot-integration"
+        pageTitle="shop_women_shoes_trail-bottom"
+        rowFullBleed="true"
+        smallScreenSize="1">
+        <espotcontent
+            cq:lastRolledout="{Date}2021-03-15T16:59:15.776Z"
+            cq:lastRolledoutBy="abbey_charles@vfc.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <text_413718125
+                cq:lastRolledout="{Date}2021-03-15T16:59:15.786Z"
+                cq:lastRolledoutBy="abbey_charles@vfc.com"
+                jcr:created="{Date}2021-03-15T16:51:25.565Z"
+                jcr:createdBy="abbey_charles@vfc.com"
+                jcr:lastModified="{Date}2021-03-15T16:59:15.782Z"
+                jcr:lastModifiedBy="abbey_charles@vfc.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/text"
+                marginBottom="bottom-margin-default"
+                marginTop="top-margin-default"
+                paddingBottom="bottom-pad-default"
+                paddingTop="top-pad-default"
+                text="&lt;h3>Women's All Terrain Trail Shoes &amp;amp; Cross Country Shoes&lt;/h3>&#xd;&#xa;&lt;p>Be ready for any weather and any road with trail shoes for women from Altra. Our all terrain shoes are designed to be rugged and reliable for any kind of weather. With a waterproof upper and outsole with lugs designed to grip any kind of road our trail shoes will have you ready for anything, be it rain, snow, or mud. Additionally, you'll find lightweight cross country shoes that are designed to provide grip for your race while remaining comfortable. With our Footshape construction, our women's shoes are designed specifically for the female foot with a narrower heel, higher instep, and more. So, whether it's your next XC race, and weekend jog on a trail, or a mountainside endurance run, our trail running shoes are here for you.&lt;/p>&#xd;&#xa;&lt;p>Not finding what you are looking for? Be sure to shop our full selection of &lt;a href=&quot;https://www.altrarunning.com/shop/womens-shoes&quot;>women's shoes&lt;/a>.&lt;/p>&#xd;&#xa;"
+                textIsRich="true"/>
+        </espotcontent>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,265 @@
+{
+  "root": {
+    "content": {
+      "content": {
+        "grid_row": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "image_with_overlay2": {
+                  "overlayImage": {
+                    "_cq:lastRolledout": "{Date}2022-09-15T15:43:01.695Z",
+                    "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_altText": "Elizabeth C running on a trail near her home in Southern California",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/Groundbreakers%5FElizabethC%5FBanner%5F2880x1080?",
+                    "_mobileImageUrl": "https://images.altrarunning.com/is/image/altra/Groundbreakers%5FElizabethC%5FBanner%5F640x710?",
+                    "_tabletImageUrl": "https://images.altrarunning.com/is/image/altra/Groundbreakers%5FElizabethC%5FBanner%5F1540x1080?"
+                  },
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2022-09-15T15:43:01.700Z",
+                    "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "autosize"
+                  },
+                  "link": {
+                    "_cq:lastRolledout": "{Date}2022-09-15T15:43:01.702Z",
+                    "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlay": {
+                    "content": {
+                      "alignment": {
+                        "_cq:lastRolledout": "{Date}2022-09-15T15:43:01.740Z",
+                        "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                        "_jcr:primaryType": "nt:unstructured",
+                        "_medium": "medium-text-right",
+                        "_small": "small-text-left"
+                      },
+                      "_cq:lastRolledout": "{Date}2022-09-15T15:43:01.729Z",
+                      "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_addSubHeaderToSubHeading": "true",
+                      "_color": "#000000",
+                      "_headingLevel": "h1",
+                      "_subheadingLevel": "h2"
+                    },
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2022-09-15T15:43:01.748Z",
+                      "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_large": "inherit",
+                      "_medium": "middle-right",
+                      "_mediumHorizontalOffset": "-3",
+                      "_small": "top-left",
+                      "_smallHorizontalOffset": "3.5"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2022-09-15T15:43:01.752Z",
+                      "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-8"
+                    },
+                    "gradient": {
+                      "_cq:lastRolledout": "{Date}2022-09-15T15:43:01.755Z",
+                      "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "_cq:lastRolledout": "{Date}2022-09-15T15:43:01.705Z",
+                    "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta1": {
+                    "_cq:lastRolledout": "{Date}2022-09-15T15:43:01.757Z",
+                    "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta2": {
+                    "_cq:lastRolledout": "{Date}2022-09-15T15:43:01.759Z",
+                    "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlaidimage": {
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2022-09-15T15:43:01.772Z",
+                      "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2022-09-15T15:43:01.777Z",
+                      "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2022-09-15T15:43:01.761Z",
+                    "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2022-09-15T15:43:01.660Z",
+                  "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                  "_jcr:created": "{Date}2021-02-09T21:50:22.704Z",
+                  "_jcr:createdBy": "abbey_charles@vfc.com",
+                  "_jcr:lastModified": "{Date}2022-09-15T15:43:01.654Z",
+                  "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay2",
+                  "_float": "none"
+                },
+                "_cq:lastRolledout": "{Date}2022-09-15T15:43:01.647Z",
+                "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2022-09-15T15:43:01.639Z",
+              "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+              "_jcr:created": "{Date}2021-02-09T21:50:10.853Z",
+              "_jcr:createdBy": "abbey_charles@vfc.com",
+              "_jcr:lastModified": "{Date}2022-09-15T15:43:01.633Z",
+              "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_smallScreensColumnCount": "12"
+            },
+            "grid_column_1972083498": {
+              "column-content": {
+                "customhtml2_copy": {
+                  "_cq:lastRolledout": "{Date}2022-09-15T15:43:01.816Z",
+                  "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                  "_jcr:created": "{Date}2020-08-27T19:50:55.483Z",
+                  "_jcr:createdBy": "abbey_charles@vfc.com",
+                  "_jcr:lastModified": "{Date}2022-09-15T15:43:01.809Z",
+                  "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customCSS": ".space {\r\n    height: 4rem;\r\n}",
+                  "_customHTML": "<div class=\"space\"></div>",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "articleteasergrid": {
+                  "interactiveFilter": {
+                    "_cq:lastRolledout": "{Date}2022-09-15T15:43:01.842Z",
+                    "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2022-09-15T15:43:01.836Z",
+                  "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                  "_jcr:created": "{Date}2021-02-09T22:00:04.332Z",
+                  "_jcr:createdBy": "abbey_charles@vfc.com",
+                  "_jcr:lastModified": "{Date}2022-09-15T15:43:01.824Z",
+                  "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/articleteasergrid",
+                  "_additionalPrerenderedItems": "0",
+                  "_enableTagAware": "false",
+                  "_hideReadMore": "true",
+                  "_hideTags": "true",
+                  "_initSize": "6",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_maxSize": "-1",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default",
+                  "_pageSize": "4",
+                  "_preFilter": "altra:groundbreakers",
+                  "_searchContentPaths": "/content/vfcorp/altra/north-america/en_us/blog",
+                  "_showSearchBar": "false",
+                  "_showSortBy": "false"
+                },
+                "_cq:lastRolledout": "{Date}2022-09-15T15:43:01.796Z",
+                "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2022-09-15T15:43:01.788Z",
+              "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+              "_jcr:created": "{Date}2021-02-09T21:58:44.424Z",
+              "_jcr:createdBy": "abbey_charles@vfc.com",
+              "_jcr:lastModified": "{Date}2022-09-15T15:43:01.780Z",
+              "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensCenterColumn": "true",
+              "_largeScreensColumnCount": "9",
+              "_mediumScreensCenterColumn": "true",
+              "_smallScreensCenterColumn": "true",
+              "_smallScreensColumnCount": "11"
+            },
+            "_cq:lastRolledout": "{Date}2022-09-15T15:43:01.624Z",
+            "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2022-09-15T15:43:01.616Z",
+          "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+          "_jcr:created": "{Date}2021-02-09T21:49:54.288Z",
+          "_jcr:createdBy": "abbey_charles@vfc.com",
+          "_jcr:lastModified": "{Date}2022-09-15T15:43:01.610Z",
+          "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row",
+          "_collapseGutters": "true",
+          "_rowFullBleed": "true"
+        },
+        "_cq:lastRolledout": "{Date}2022-09-15T15:43:01.604Z",
+        "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2022-09-15T15:43:01.829Z",
+      "_cq:lastModifiedBy": "dylan_gibson@vfc.com",
+      "_cq:lastReplicated": "{Date}2022-09-15T15:43:22.309Z",
+      "_cq:lastReplicatedBy": "dylan_gibson@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2022-09-15T15:43:01.843Z",
+      "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:description": "Altra Elite Athletes have always been groundbreakers. Find out more about how some of our groundbreaking athletes are celebrating Black History Month this year. ",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "Groundbreakers",
+      "_jcr:uuid": "792afb72-725e-44d2-9fd1-4beb2dda1de7",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "_sling:vanityPath": "[/content/vfcorp/altra/north-america/en_us/groundbreakers]",
+      "_dataLayerErrorCode": "400",
+      "_frequency": "always",
+      "_priority": "0.5",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

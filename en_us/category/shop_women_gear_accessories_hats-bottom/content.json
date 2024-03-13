@@ -1,0 +1,54 @@
+{
+  "root": {
+    "content": {
+      "espotcontent": {
+        "customhtml2": {
+          "_cq:lastRolledout": "{Date}2022-10-12T21:52:51.741Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2019-12-04T21:24:56.151Z",
+          "_jcr:createdBy": "wade_litsey@vfc.com",
+          "_jcr:lastModified": "{Date}2022-10-12T21:52:51.734Z",
+          "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+          "_customHTML": "<h3>Women's Running Hats</h3>\r\n<br>\r\n<p>Find versatile women's hats at Altra. Our peak hat features the iconic Lone Peak and is perfect for a rugged run in the mountains or for wearing out after your run. Choose from a number of color options and find the  run hat that suits your needs. Be sure to also check out our <a href=\"/shop/womens-shoes-trail\" target=\"_blank\">trail shoes</a> and <a href=\"/shop/womens-shoes-road\" target=\"_blank\">road shoes</a>.</p>\r\n<br>\r\n<br>\r\n<br>",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default"
+        },
+        "_cq:lastRolledout": "{Date}2022-10-12T21:52:51.726Z",
+        "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2022-10-12T21:52:51.736Z",
+      "_cq:lastModifiedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicated": "{Date}2022-10-12T21:53:35.543Z",
+      "_cq:lastReplicatedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2022-10-12T21:52:51.741Z",
+      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/espot-integration",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "shop_women_gear_accessories_hats-bottom",
+      "_jcr:uuid": "8aecf3d7-1385-4401-8b78-08fc30faf482",
+      "_sling:resourceType": "vfcorp/components/global/page/espot-integration",
+      "_pageTitle": "shop_women_gear_accessories_hats-bottom",
+      "_rowFullBleed": "true",
+      "_smallScreenSize": "1",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

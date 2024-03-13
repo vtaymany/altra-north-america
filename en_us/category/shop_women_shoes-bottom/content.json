@@ -1,0 +1,55 @@
+{
+  "root": {
+    "content": {
+      "espotcontent": {
+        "text": {
+          "_cq:lastRolledout": "{Date}2024-02-07T16:59:06.007Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2020-11-04T20:08:25.143Z",
+          "_jcr:createdBy": "abbey_charles@vfc.com",
+          "_jcr:lastModified": "{Date}2024-02-07T16:59:06.003Z",
+          "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/text",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default",
+          "_text": "<h1>Running Shoes for Women</h1>\r\n<p>&nbsp;</p>\r\n<h2>Women’s Running Shoes for Every Adventure</h2>\r\n<p>Are you looking for the perfect women’s running shoes for your next adventure? We have a great range of women’s shoes to ensure that you get the correct shoes to enhance your overall performance. Stock up on running sneakers for women with our signature <a href=\"https://www.altrarunning.com/who-we-are/footshape.html\">FootShape™</a> comfort for a natural fit designed specifically for women’s feet. You can’t go wrong with a roomy toe box and zero to low drop, all designed to keep you comfortable while running. Altra Running has all the footwear you need to up your game.&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<h2>Durable &amp; Flexible Women’s Shoes</h2>\r\n<p>Explore the outdoor running trails with the latest women’s running shoes that offer plenty of cushioning support. Altra shoes have Balanced Cushioning™ technology to help runners achieve better alignment and running form, and encourage low impact landing. Choose the <a href=\"https://www.altrarunning.com/shop/womens-shoes-trail/womens-olympus-5-al0a7r74\">Women’s Olympus 5 Trail Running Shoes</a> for underfoot protection and comfort. With a breathable upper mesh and grippy outsole, you can enjoy the run while safely traversing steep descents. If you prioritize running fast, the <a href=\"https://www.altrarunning.com/shop/womens-shoes/womens-vanish-tempo-al0a7r7f\">Women’s Vanish Tempo Speed Shoe</a> makes a great choice. With Altra EGO™ PRO midsole foam to cushion each stride and our rocker shape geometry to propel speedy runners forward.</p>\r\n<p>&nbsp;</p>\r\n<p>A durable shoe is designed to last while providing support and comfort for peak running performance. Altra women’s running shoes are all designed to meet the unique size and widths of female runners. If you’re a long-distance runner putting in the miles, the <a href=\"https://www.altrarunning.com/shop/womens-shoes-trail/womens-lone-peak-7-al0a7r7g\">Women’s Lone Peak 7 Trail Running Shoes</a> are an ideal choice. They’re designed with an upgraded MaxTrac™ outsole that offers improved grip, traction and durability on all types of terrain. For a multipurpose running shoe suitable for running and excursions on the trails, the <a href=\"https://www.altrarunning.com/shop/womens-shoes-road/womens-outroad-al0a7r72\">Women’s Outroad Road to Trail Running Shoe</a> offers a great choice. They feature the slim FootShape™ fit and Altra EGO™ midsole foam for a snug and comfortable fit, making it ideal for the runner looking to explore the great outdoors.&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>A flexible running shoe provides more stability for better footing when running on uneven surfaces. At Altra, we offer Innerflex™, grid-like grooves in the midsole that help to provide flexibility and transfer power from the foot to the ground. For shoes that provide support and flexibility, the <a href=\"https://www.altrarunning.com/shop/womens-shoes-gym-training/womens-solstice-xt-2-al0a547y\">Women’s Solstice XT 2 Gym Shoe</a> has a lightweight design with improved toe protection for intense workouts. Looking for additional comfort? The <a href=\"https://www.altrarunning.com/shop/womens-shoes/womens-paradigm-7-al0a82cg\">Women’s Paradigm 7 Road Running Shoes</a> feature an engineered mesh upper for breathability, ghillie lacing for a secure fit and Innerflex™ for a plush fit.&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>Our women’s running shoes help you stay active through quality, stability and function. They’re built to keep you comfortable while running. Shop women's running sneakers by size, style, or color all year round.</p>\r\n<p>&nbsp;</p>\r\n",
+          "_textIsRich": "true"
+        },
+        "_cq:lastRolledout": "{Date}2024-02-07T16:59:05.999Z",
+        "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2024-02-07T16:59:06.004Z",
+      "_cq:lastModifiedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicated": "{Date}2024-02-07T17:12:28.637Z",
+      "_cq:lastReplicatedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2024-02-07T16:59:06.007Z",
+      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/espot-integration",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "shop_women_shoes-bottom",
+      "_jcr:uuid": "baa5b5ab-aa12-4dc4-91e2-578cedb878a9",
+      "_sling:resourceType": "vfcorp/components/global/page/espot-integration",
+      "_pageTitle": "shop_women_shoes-bottom",
+      "_rowFullBleed": "true",
+      "_smallScreenSize": "1",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

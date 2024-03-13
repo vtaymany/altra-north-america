@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2024-02-07T16:55:33.546Z"
+        cq:lastModifiedBy="evan_lynch@vfc.com"
+        cq:lastReplicated="{Date}2024-02-07T17:12:28.637Z"
+        cq:lastReplicatedBy="evan_lynch@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2024-02-07T16:55:33.550Z"
+        cq:lastRolledoutBy="evan_lynch@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/espot-integration"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="shop_men_shoes_road-bottom"
+        jcr:uuid="759cd5c3-807f-4b2e-ad98-4c38802c19cd"
+        sling:resourceType="vfcorp/components/global/page/espot-integration"
+        pageTitle="shop_men_shoes_road-bottom"
+        rowFullBleed="true"
+        smallScreenSize="1">
+        <espotcontent
+            cq:lastRolledout="{Date}2024-02-07T16:55:33.541Z"
+            cq:lastRolledoutBy="evan_lynch@vfc.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <text
+                cq:lastRolledout="{Date}2024-02-07T16:55:33.549Z"
+                cq:lastRolledoutBy="evan_lynch@vfc.com"
+                jcr:created="{Date}2020-11-04T21:30:03.979Z"
+                jcr:createdBy="abbey_charles@vfc.com"
+                jcr:lastModified="{Date}2024-02-07T16:55:33.545Z"
+                jcr:lastModifiedBy="evan_lynch@vfc.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/text"
+                marginBottom="bottom-margin-default"
+                marginTop="top-margin-default"
+                paddingBottom="bottom-pad-default"
+                paddingTop="top-pad-default"
+                text="&lt;h1>Men’s Road Running Shoes&lt;/h1>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;h2>Get to Know Our Road Running Shoes for Men&lt;/h2>&#xd;&#xa;&lt;p>Altra’s selection of road running shoes for men has something for everyone. It’s the one piece of equipment you can’t skimp on quality. Our low-impact shoes are perfect for all levels of runners, whether you are starting out or a keen racer. Altra’s men’s road running shoes are designed with a &lt;a href=&quot;https://www.altrarunning.com/who-we-are/the-altra-difference.html&quot;>Natural Fit&lt;/a> for individual foot shapes with a roomy toe box that allows your toes to spread in comfort. Choose our men’s road shoe designs for a range of unique fits to keep your feet in a natural position while enhancing stability for better comfort. Altra has a range of men’s road running shoes to suit all distances and running abilities.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;h2>Comfortable Men’s Road Running Shoes&lt;/h2>&#xd;&#xa;&lt;p>Altra Running shoes feature the Balanced Cushioning™ platform, allowing runners to achieve better alignment and form. The comfort-first design places your heel and forefoot at the same distance from the ground to encourage a low-impact form. If you prioritize this level of comfort, consider the &lt;a href=&quot;https://www.altrarunning.com/shop/mens-shoes-road/mens-escalante-3-al0a7r6m&quot;>Men’s Escalante 3 Road Running Shoe&lt;/a> for extra cushioning and support. These best sellers have been designed with Altra EGO™ MAX foam for extra bounce and mesh uppers for comfort and breathability. If you’re looking for a men’s road shoe with just the right amount of cushioning, discover the &lt;a href=&quot;https://www.altrarunning.com/shop/mens-shoes-road/mens-provision-8-al0a85pa&quot;>Men’s Provision 8 Road Running Shoe&lt;/a>. With mesh uppers that provide breathability and medial GuideRail™ technology for extra stability, this style delivers the ultimate comfort and endurance for runners.&lt;/p>&#xd;&#xa;&lt;h2>Breathable Men’s Road Running Shoes&amp;nbsp;&lt;/h2>&#xd;&#xa;&lt;p>Choose breathable road running shoes for men to keep your feet cool and dry without discomfort while running. Our men’s road running shoes are all designed with a &lt;a href=&quot;https://www.altrarunning.com/who-we-are/the-altra-difference.html&quot;>Natural Fit&lt;/a> and lightweight mesh fabric for comfort and performance. The &lt;a href=&quot;https://www.altrarunning.com/shop/mens-shoes-road/mens-escalante-racer-alm193b3&quot;>Men’s Escalante Racer Road Racing Shoe&lt;/a> features a static mesh upper for a highly breathable pair of running shoes built for speed. Choose between black, dark gray, blue, and Colorado colors and various sizes with a standard Foot Shape™ Fit. The &lt;a href=&quot;https://www.altrarunning.com/shop/mens-shoes-road/mens-altrafwd-experience-al0a82c8&quot;>Men’s AltraFWD Experience Road Running Shoe&lt;/a> offers a low 4mm drop to encourage a natural foot position. It features a lightweight and responsive compression molded midsole foam, and an engineered breathable mesh upper so that you can enjoy an effortless run.&lt;/p>&#xd;&#xa;&lt;h2>Long Lasting Men’s Road Running Shoes&lt;/h2>&#xd;&#xa;&lt;p>A durable road running shoe is designed to provide support and a comfortable fit for peak running performance. Our running shoes are designed with &lt;a href=&quot;https://www.altrarunning.com/who-we-are/footshape.html&quot;>FootShape™&lt;/a> to secure the unique size and widths of men’s feet. Choose the &lt;a href=&quot;https://www.altrarunning.com/shop/mens-shoes-road/mens-paradigm-7-al0a82c5&quot;>Men’s Paradigm 7 Road Running Shoes&lt;/a> for a secure fit, featuring GuideRail™ technology with medial support, a molded heel collar with soft detailing, and premium lining materials for a soft step-in-feel. If you’re looking for comfort and performance, the &lt;a href=&quot;https://www.altrarunning.com/shop/mens-shoes-road/mens-via-olympus-2-al0a85na&quot;>Men’s VIA Olympus 2 Road Running Shoes&lt;/a> are ideal. They feature a softer Altra EGO™ MAX midsole foam for extra stability and a refined molded heel collar for a snug, secure fit. Altra men’s road running shoes are designed to last so you can run as fast and far.&lt;/p>&#xd;&#xa;"
+                textIsRich="true"/>
+        </espotcontent>
+    </jcr:content>
+</jcr:root>

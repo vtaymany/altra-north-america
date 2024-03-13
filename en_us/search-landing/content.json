@@ -1,0 +1,29 @@
+{
+  "root": {
+    "content": {
+      "_cq:lastModified": "{Date}2020-07-27T20:35:32.330Z",
+      "_cq:lastModifiedBy": "abbey_charles@vfc.com",
+      "_cq:lastRolledout": "{Date}2020-07-27T20:35:32.334Z",
+      "_cq:lastRolledoutBy": "abbey_charles@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "Search Landing",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "__prefix": "jcr"
+    },
+    "mens-black-running-shoes": "",
+    "womens-black-running-shoes": "",
+    "mens-red-running-shoes": "",
+    "womens-red-running-shoes": "",
+    "mens-green-running-shoes": "",
+    "womens-green-running-shoes": "",
+    "mens-white-running-shoes": "",
+    "womens-white-running-shoes": "",
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

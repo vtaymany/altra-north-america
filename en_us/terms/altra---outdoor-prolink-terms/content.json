@@ -1,0 +1,109 @@
+{
+  "root": {
+    "content": {
+      "content": {
+        "customhtml2": {
+          "_cq:lastRolledout": "{Date}2024-01-18T19:06:27.114Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2023-07-24T23:39:30.506Z",
+          "_jcr:createdBy": "evan_lynch@vfc.com",
+          "_jcr:lastModified": "{Date}2024-01-18T19:06:27.110Z",
+          "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+          "_customHTML": "<div class=\"space\"></div>",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default"
+        },
+        "grid_row": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "text": {
+                  "_cq:lastRolledout": "{Date}2024-01-18T19:06:27.145Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-07-24T23:32:33.088Z",
+                  "_jcr:createdBy": "evan_lynch@vfc.com",
+                  "_jcr:lastModified": "{Date}2024-01-18T19:06:27.140Z",
+                  "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/text",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default",
+                  "_text": "<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>Must be a current Outdoor Prolink Member (“Member”) and a legal resident of the U.S., 16 or older. Promo code redeemable for 40% off your purchase at&nbsp;www.altrarunning.com.&nbsp; To redeem, enter the promo code at checkout and click “Apply A Promo Code.”</p>\r\n<p>The Promo code is valid until 1/28/24 at 11:59 p.m. MST and is valid for one-time use only. Not valid at any 3rd&nbsp;party retail store or website selling Altra products.&nbsp; 40% price reduction is pre-tax and <b>excludes shipping charges</b>. This offer cannot be combined with other Altra or Outdoor Prolink discounts, offers, coupons, or promotions.</p>\r\n<p>Promo code is good only for Member him/herself. Altra reserves the right to verify identity of Member with Outdoor Prolink before honoring promo code; Member agrees to fully cooperate with Altra to verify his/her identity. &nbsp;All decisions of Altra are final and binding in all respects.&nbsp;All purchases are subject to the terms and conditions of sale of&nbsp;www.altrarunning.com.&nbsp;Altra is not responsible if the promo code is lost, stolen, destroyed or used without your permission&nbsp;or for technological failure/error/malfunction of any kind. The remaining balance&nbsp;of merchandise purchases&nbsp;must be paid using another form of payment. This offer cannot be redeemed for cash or applied as payment to any account.&nbsp;Promo code (and/or email containing same) is not transferable and not to be republished; such conduct constitutes consumer fraud.&nbsp;Altra reserves the right to reject promo code, require payment of purchase in full and perhaps pursue legal sanctions in the event of consumer fraud of any kind; such measures are in addition to any actions that may be taken by Outdoor Prolink, including termination of program membership.&nbsp;No price adjustment allowed on previous purchases, product returns/exchanges or purchases made without use of promo code. No variance from these terms and conditions allowed except as required by law.&nbsp;&nbsp;Void where prohibited, taxed or restricted. Offer subject to change at any time without notice.&nbsp;</p>\r\n<p><i>&nbsp;</i></p>\r\n<p>Sponsor: Altra a division of VF Outdoor, LLC, Denver, CO 80202</p>\r\n",
+                  "_textIsRich": "true"
+                },
+                "_cq:lastRolledout": "{Date}2024-01-18T19:06:27.135Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2024-01-18T19:06:27.130Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2023-07-24T23:32:06.889Z",
+              "_jcr:createdBy": "evan_lynch@vfc.com",
+              "_jcr:lastModified": "{Date}2024-01-18T19:06:27.126Z",
+              "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensCenterColumn": "true",
+              "_mediumScreensCenterColumn": "true",
+              "_smallScreensCenterColumn": "true",
+              "_smallScreensColumnCount": "10"
+            },
+            "_cq:lastRolledout": "{Date}2024-01-18T19:06:27.122Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2024-01-18T19:06:27.118Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2023-07-24T23:32:03.713Z",
+          "_jcr:createdBy": "evan_lynch@vfc.com",
+          "_jcr:lastModified": "{Date}2024-01-18T19:06:27.115Z",
+          "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row"
+        },
+        "_cq:lastRolledout": "{Date}2024-01-18T19:06:27.104Z",
+        "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2024-01-18T19:06:27.141Z",
+      "_cq:lastModifiedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicated": "{Date}2024-01-18T19:07:15.726Z",
+      "_cq:lastReplicatedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2024-01-18T19:06:27.145Z",
+      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "Altra - Outdoor Prolink Terms",
+      "_jcr:uuid": "fd464d26-ee34-4e33-a3ef-4b3112a8be31",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "_pageTitle": "Altra - Outdoor Prolink Terms",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

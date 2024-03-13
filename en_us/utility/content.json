@@ -1,0 +1,49 @@
+{
+  "root": {
+    "content": {
+      "image": {
+        "_cq:lastRolledout": "{Date}2023-02-17T19:59:57.831Z",
+        "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+        "_jcr:lastModified": "{Date}2023-02-17T19:59:57.827Z",
+        "_jcr:lastModifiedBy": "ankur.patel",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_imageRotate": "0"
+      },
+      "_cq:lastModified": "{Date}2023-02-17T19:59:57.828Z",
+      "_cq:lastModifiedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicated": "{Date}2023-07-27T15:29:21.886Z",
+      "_cq:lastReplicatedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2023-02-17T19:59:57.832Z",
+      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/basepage",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:lockable,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "Utility",
+      "_jcr:uuid": "a1975e5d-93fe-48eb-8c44-0c3dd84f8563",
+      "_sling:resourceType": "vfcorp/components/global/page/contentpage",
+      "_frequency": "monthly",
+      "_hideInNav": "true",
+      "_internalNavigation": "none",
+      "_priority": "0.5",
+      "__prefix": "jcr"
+    },
+    "article-search-results": "",
+    "footer": "",
+    "top-nav": "",
+    "store-locator": "",
+    "contact-us": "",
+    "international-distributors": "",
+    "altra-running-accessibility-statement": "",
+    "shop-altra-store": "",
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

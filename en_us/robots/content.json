@@ -1,0 +1,38 @@
+{
+  "root": {
+    "content": {
+      "image": {
+        "_cq:lastRolledout": "{Date}2023-04-18T15:21:47.931Z",
+        "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+        "_jcr:lastModified": "{Date}2023-04-18T15:21:47.929Z",
+        "_jcr:lastModifiedBy": "carolina_gomes@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_imageRotate": "0"
+      },
+      "_cq:lastModified": "{Date}2023-10-13T22:38:53.197Z",
+      "_cq:lastModifiedBy": "roshan_acharya@vfc.com",
+      "_cq:lastReplicated": "{Date}2023-10-13T22:38:57.307Z",
+      "_cq:lastReplicatedBy": "roshan_acharya@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2023-04-18T15:21:47.931Z",
+      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/customFile",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "robots",
+      "_jcr:uuid": "25054049-2fd2-4ca8-b22e-bf688880398e",
+      "_sling:resourceType": "vfcorp/components/global/page/customFile",
+      "_fileContents": "User-agent: *\r\n\r\nDisallow: /digital-style-guide/*\r\nDisallow: /webapp/*\r\nDisallow: *?q\r\nDisallow: *?sType\r\n\r\n#Search Result Pages \r\nDisallow: /utility/article-search-results.html\r\nDisallow: /utility/article-search-results/no-results.html\r\n\r\nDisallow: /search*\r\n\r\n#Login Pages \r\nDisallow: /shop/LogonForm \r\nDisallow: /shop/*/LogonForm* \r\n\r\n#Shop Pages \r\nDisallow: /shop/SingleShipmentOrderSummaryView \r\nDisallow: /shop/CompareProductsDisplay \r\nDisallow: /shop/OrderCalculate \r\nDisallow: /shop/CategoryDisplay* \r\nDisallow: /shop/InterestItemAdd \r\nDisallow: /shop/VFLogoff \r\nDisallow: /shop/VFOrderItemDelete\r\nDisallow: /shop/VFPRReviewFormView \r\nDisallow: /shop/VFPromotionFreeGiftChoicesView\r\nDisallow: *VFSearchDisplay*\r\nDisallow: *SearchDisplay*\r\nDisallow: /shop/VFSearchDisplay\r\nDisallow: /webapp/wcs/stores/servlet/SearchDisplay\r\nDisallow: /shop/SearchDisplay\r\nDisallow: /webapp/wcs/stores/servlet/VFSearchDisplay\r\n\r\nSitemap: https://www.altrarunning.com/sitemap.xml\r\n",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

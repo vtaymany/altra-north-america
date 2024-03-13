@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-12-04T21:07:03.674Z"
+        cq:lastModifiedBy="wade_litsey@vfc.com"
+        cq:lastReplicated="{Date}2019-12-04T21:27:40.984Z"
+        cq:lastReplicatedBy="wade_litsey@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2019-12-04T21:07:03.718Z"
+        cq:lastRolledoutBy="wade_litsey@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/espot-integration"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="shop_men_gear_accessories_trail_gaiters-bottom"
+        jcr:uuid="d581ad36-3d5d-4c66-830a-e37e8bffc380"
+        sling:resourceType="vfcorp/components/global/page/espot-integration"
+        pageTitle="shop_men_gear_accessories_trail_gaiters-bottom"
+        rowFullBleed="true"
+        smallScreenSize="1">
+        <espotcontent
+            cq:lastRolledout="{Date}2019-12-04T21:07:03.667Z"
+            cq:lastRolledoutBy="wade_litsey@vfc.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <customhtml2
+                cq:lastRolledout="{Date}2019-12-04T21:07:03.718Z"
+                cq:lastRolledoutBy="wade_litsey@vfc.com"
+                jcr:created="{Date}2019-12-04T21:06:06.627Z"
+                jcr:createdBy="wade_litsey@vfc.com"
+                jcr:lastModified="{Date}2019-12-04T21:07:03.672Z"
+                jcr:lastModifiedBy="wade_litsey@vfc.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/customhtml2"
+                customHTML="&lt;h3>Men's Trail Gaiters &amp; Accessories&lt;/h3>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;p>Be ready for anything nature might throw at you with men's running gaiters from Altra. Our gaiters are designed to keep out mud, sand, snow, or whatever else you're running through so you can keep up your momentum in any environment. Keep out pesky rocks, leaves, and other trail debris that can lead to blisters and hot spots. Trail accessories like these can make or break a run, and while our trail gaiters will work with any trail shoe, be sure to check out Altra's selection to find your perfect &lt;a href=&quot;/shop/mens-shoes-trail&quot; target=&quot;_blank&quot;>trail shoe&lt;/a>!&lt;/p>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;"
+                marginBottom="bottom-margin-default"
+                marginTop="top-margin-default"
+                paddingBottom="bottom-pad-default"
+                paddingTop="top-pad-default"/>
+        </espotcontent>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-12-04T20:51:27.449Z"
+        cq:lastModifiedBy="wade_litsey@vfc.com"
+        cq:lastReplicated="{Date}2019-12-04T21:27:40.984Z"
+        cq:lastReplicatedBy="wade_litsey@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2019-12-04T20:51:27.488Z"
+        cq:lastRolledoutBy="wade_litsey@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/espot-integration"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="shop_men_gear_accessories-bottom"
+        jcr:uuid="f5502bd0-e059-4036-9724-d153bd2a7c2b"
+        sling:resourceType="vfcorp/components/global/page/espot-integration"
+        pageTitle="shop_men_gear_accessories-bottom"
+        rowFullBleed="true"
+        smallScreenSize="1">
+        <espotcontent
+            cq:lastRolledout="{Date}2019-12-04T20:51:27.443Z"
+            cq:lastRolledoutBy="wade_litsey@vfc.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <customhtml2
+                cq:lastRolledout="{Date}2019-12-04T20:51:27.488Z"
+                cq:lastRolledoutBy="wade_litsey@vfc.com"
+                jcr:created="{Date}2019-12-04T20:48:16.768Z"
+                jcr:createdBy="wade_litsey@vfc.com"
+                jcr:lastModified="{Date}2019-12-04T20:51:27.448Z"
+                jcr:lastModifiedBy="wade_litsey@vfc.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/customhtml2"
+                customHTML="&lt;h3>Men's Running Gear &amp; Accessories&lt;/h3>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;p>Find the accessories that will help you elevate your workout with men's athletic gear from Altra. Our men's running gear helps to enhance your trail runs from our trail gaiters to more casual options like trucker hats. And be sure to stock up on everything you need for your workouts with essentials like our &lt;a href=&quot;/shop/mens-shoes-gym-training&quot; target=&quot;_blank&quot;>men's gym shoes&lt;/a> as well as more casual options like our &lt;a href=&quot;/shop/mens-shoes-lifestyle&quot; target=&quot;_blank&quot;>lifestyle shoes&lt;/a>.&lt;/p>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;"
+                marginBottom="bottom-margin-default"
+                marginTop="top-margin-default"
+                paddingBottom="bottom-pad-default"
+                paddingTop="top-pad-default"/>
+        </espotcontent>
+    </jcr:content>
+</jcr:root>

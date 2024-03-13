@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2023-04-06T19:13:50.181Z"
+        cq:lastModifiedBy="evan_lynch@vfc.com"
+        cq:lastReplicated="{Date}2023-04-06T19:15:07.796Z"
+        cq:lastReplicatedBy="evan_lynch@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2023-04-06T19:13:50.183Z"
+        cq:lastRolledoutBy="evan_lynch@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/espot-integration"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="shop_men_shoes_trail-bottom"
+        jcr:uuid="ed4053b7-b944-4214-917e-7c7ba031af72"
+        sling:resourceType="vfcorp/components/global/page/espot-integration"
+        pageTitle="shop_men_shoes_trail-bottom"
+        rowFullBleed="true"
+        smallScreenSize="1">
+        <espotcontent
+            cq:lastRolledout="{Date}2023-04-06T19:13:50.175Z"
+            cq:lastRolledoutBy="evan_lynch@vfc.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <text
+                cq:lastRolledout="{Date}2023-04-06T19:13:50.183Z"
+                cq:lastRolledoutBy="evan_lynch@vfc.com"
+                jcr:created="{Date}2020-11-04T20:44:52.250Z"
+                jcr:createdBy="abbey_charles@vfc.com"
+                jcr:lastModified="{Date}2023-04-06T19:13:50.179Z"
+                jcr:lastModifiedBy="evan_lynch@vfc.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/text"
+                marginBottom="bottom-margin-default"
+                marginTop="top-margin-default"
+                paddingBottom="bottom-pad-default"
+                paddingTop="top-pad-default"
+                text="&lt;h1>Men's Trail Running Shoes&lt;/h1>&#xd;&#xa;&lt;h2>Men's Off-Road Trail Shoes &amp;amp; Trail Runners&lt;/h2>&#xd;&#xa;&lt;p>Go off-road with Altra's performance trail running shoes for men.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Trail running shoes are the perfect addition to your next outdoor adventure whether you’re gearing up for your next trail running excursion or using your trail runners for your next day hike. Our trail runners’ outsoles are lugged in strategic positions to provide traction on toe-off and have been specially designed to feel resilient underfoot in uneven terrain.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>In addition, our trail running shoes feature a hook and loop tab so you can attach your &lt;a href=&quot;https://www.altrarunning.com/shop/mens-gear-accessories-trail-gaiters&quot;>trail gaiter&lt;/a> and keep mud, dirt, and rocks out of your shoes for a comfortable run.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Explore our signature trail running shoes for men including the classic Lone Peak, which has been improved for added flexibility and comfort. The Men's Timp 2 is the always-ready trail running shoe, featuring a trimmed down design while maintaining everything that made it a fan favorite.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Altra's men's trail running shoes are available in stylish colors including vibrant red, cool blue, and classic all-black. &amp;nbsp;&lt;/p>&#xd;&#xa;"
+                textIsRich="true"/>
+        </espotcontent>
+    </jcr:content>
+</jcr:root>

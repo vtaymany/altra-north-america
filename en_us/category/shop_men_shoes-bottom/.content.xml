@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2024-02-07T16:51:14.979Z"
+        cq:lastModifiedBy="evan_lynch@vfc.com"
+        cq:lastReplicated="{Date}2024-02-07T17:12:28.637Z"
+        cq:lastReplicatedBy="evan_lynch@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2024-02-07T16:51:14.982Z"
+        cq:lastRolledoutBy="evan_lynch@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/espot-integration"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="shop_men_shoes-bottom"
+        jcr:uuid="1fab989a-beb3-4421-bb6c-8a08028732a9"
+        sling:resourceType="vfcorp/components/global/page/espot-integration"
+        pageTitle="shop_men_shoes-bottom"
+        rowFullBleed="true"
+        smallScreenSize="1">
+        <espotcontent
+            cq:lastRolledout="{Date}2024-02-07T16:51:14.972Z"
+            cq:lastRolledoutBy="evan_lynch@vfc.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <text_copy_copy_copy_
+                cq:lastRolledout="{Date}2024-02-07T16:51:14.982Z"
+                cq:lastRolledoutBy="evan_lynch@vfc.com"
+                jcr:created="{Date}2023-11-20T22:41:57.125Z"
+                jcr:createdBy="evan_lynch@vfc.com"
+                jcr:lastModified="{Date}2024-02-06T20:05:19.696Z"
+                jcr:lastModifiedBy="evan_lynch@vfc.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/text"
+                marginBottom="bottom-margin-default"
+                marginTop="top-margin-default"
+                paddingBottom="bottom-pad-default"
+                paddingTop="top-pad-default"
+                text="&lt;h1>Running Shoes for Men&lt;/h1>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;h2>Running Shoes for Every Adventure&lt;/h2>&#xd;&#xa;&lt;p>Are you looking for the perfect men's running shoes for your next running adventure? Get all your men's running sneakers from our latest products. We have a great range of men’s shoes for different activities to ensure that you get the right shoes to enhance your overall performance and comfort. Stock up on your favorite running sneakers for men with our signature &lt;a href=&quot;https://www.altrarunning.com/who-we-are/footshape.html&quot;>FootShape™&lt;/a> for a natural fit, a roomy toe box, and zero to low drop to keep you comfortable while running. Altra Running has everything you need for intensive workouts all year round.&lt;/p>&#xd;&#xa;&lt;h2>Durable &amp;amp; Flexible Men’s Shoes with Flexibility&lt;/h2>&#xd;&#xa;&lt;p>Choose the &lt;a href=&quot;https://www.altrarunning.com/shop/mens-shoes/mens-torin-7-al0a82c4&quot;>Men's Torin 7 Road Running Shoes&lt;/a> for our Balanced Cushioning™ platform that supports runners to achieve better alignment and form. These best sellers have been designed with peak comfort and performance in mind, with Altra EGO™ MAX foam for extra bounce and mesh uppers for comfort and breathability.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Go on a new adventure with the &lt;a href=&quot;https://www.altrarunning.com/shop/mens-shoes/mens-lone-peak-7-al0a7r6h&quot;>Men's Lone Peak 7 Trail Running Shoes&lt;/a>. It’s the ideal shoe for putting in the miles and is designed with an upgraded MaxTrac™ outsole that offers improved grip, traction and durability on all types of terrain. If you are looking for a multipurpose running shoe, look no further than the &lt;a href=&quot;https://www.altrarunning.com/shop/mens-shoes/mens-superior-6-al0a82cb&quot;>Men's Superior 6 Trail Running Shoe&lt;/a>. They’re lightweight but sturdy, and equipped with the MaxTrac™ outsole for durability and &lt;a href=&quot;https://www.altrarunning.com/who-we-are/footshape.html&quot;>FootShape™&lt;/a> for extra comfort.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Enjoy a relaxing nature jog with the &lt;a href=&quot;https://www.altrarunning.com/shop/mens-shoes/mens-olympus-5-al0a7r6p&quot;>Men's Olympus 5 Trail Running Shoe&lt;/a>—a plush shoe that can tackle all terrain with grip and flexibility. The midsoles offer Innerflex™ grid-like grooves for better flexibility, underfoot protection, and comfort. For athletic shoes at the gym, discover the &lt;a href=&quot;https://www.altrarunning.com/shop/mens-shoes/mens-solstice-xt-2-al0a546v&quot;>Men's Solstice XT 2 Gym Shoe&lt;/a> with improved toe protection, comfort and flexibility for your cross-training workouts.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Altra’s running shoes for men are renowned for quality, stability and functionality. Shop men's running shoes by size, style, or color.&lt;/p>&#xd;&#xa;&lt;h2>Discover More Than Men’s Shoes&lt;/h2>&#xd;&#xa;&lt;p>Whether heading out to the trails or the gym, Altra has the perfect &lt;a href=&quot;https://www.altrarunning.com/shop/mens-apparel-bottoms&quot;>men's bottoms&lt;/a> for any weather condition. If you are looking for tops, browse our selection of &lt;a href=&quot;https://www.altrarunning.com/shop/mens-apparel-tops&quot;>men's shirts&lt;/a> that can be worn casually or during workouts. During cooler days, our &lt;a href=&quot;https://www.altrarunning.com/shop/mens-apparel-jackets&quot;>men's jackets&lt;/a> help block out the cold while you’re out on a run.&amp;nbsp;&lt;/p>&#xd;&#xa;"
+                textIsRich="true"/>
+        </espotcontent>
+    </jcr:content>
+</jcr:root>

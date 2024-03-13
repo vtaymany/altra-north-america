@@ -1,0 +1,95 @@
+{
+  "root": {
+    "content": {
+      "content": {
+        "grid_row_copy": {
+          "row-content": {
+            "grid_column_copy_cop": {
+              "column-content": {
+                "text": {
+                  "_cq:lastRolledout": "{Date}2023-03-22T16:23:02.799Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2020-09-18T20:28:22.736Z",
+                  "_jcr:createdBy": "abbey_charles@vfc.com",
+                  "_jcr:lastModified": "{Date}2023-03-22T16:23:02.794Z",
+                  "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/text",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default",
+                  "_text": "<h1 style=\"text-align: center;\">&nbsp;</h1>\r\n<h1 style=\"text-align: center;\">&nbsp;</h1>\r\n<h1 style=\"text-align: center;\"><span style=\"color: red;\">ALTRA Spring Gift Terms &amp; Conditions<br>\r\n</span></h1>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><b><u><span style=\"font-family: Arial , sans-serif;\">TERMS</span></u></b></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><b><u><span style=\"font-family: Arial , sans-serif;\"><span style=\"text-decoration: none;\">&nbsp;</span></span></u></b></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><b><u><span style=\"font-family: Arial , sans-serif;\">Offer:</span></u></b></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><b><u><span style=\"font-family: Arial , sans-serif;\"><span style=\"text-decoration: none;\">&nbsp;</span></span></u></b></p>\r\n<ol style=\"margin-top: 0.0in;\" type=\"1\" start=\"1\">\r\n<li class=\"MsoNormal\" style=\"text-align: justify;\"><b><i><span style=\"font-family: Arial , sans-serif;\">Purchase </span></i><span style=\"font-family: Arial , sans-serif;\">$175 or more of products at <a>www.altrarunning.com</a> between Thursday, March 23, 2023 at 12:00:01 a.m. ET and Monday, March 27, 2023 at 11:59:59 p.m. ET.</span></b><span style=\"font-family: Arial , sans-serif;\"></span></li>\r\n</ol>\r\n<p class=\"MsoNormal\" style=\"margin-left: 0.5in; text-align: justify;\"><span style=\"font-family: Arial , sans-serif;\"><span>&nbsp;</span></span></p>\r\n<ol style=\"margin-top: 0.0in;\" type=\"1\" start=\"2\">\r\n<li class=\"MsoNormal\" style=\"text-align: justify;\"><b><i><span style=\"font-family: Arial , sans-serif;\">Receive </span></i><span style=\"font-family: Arial , sans-serif;\">a Logo'd Trucker Hat as our Gift,<u> </u></span><u><span style=\"font-family: Arial , sans-serif;\">while supplies last</span></u></b><span style=\"font-family: Arial , sans-serif;\">.<span></span></span></li>\r\n</ol>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-family: Arial , sans-serif;\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><b><u><span style=\"font-family: Arial , sans-serif;\">Important Restrictions</span></u><span style=\"font-family: Arial , sans-serif;\">:</span></b></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\">&nbsp;</p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><b><span style=\"font-family: Arial , sans-serif;\">A. Validity.</span></b></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\">&nbsp;</p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><b><span style=\"font-family: Arial , sans-serif;\">Valid in the United States only.<span>&nbsp; </span>Void where taxed, restricted or prohibited by law.</span></b></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><b><span style=\"font-family: Arial , sans-serif;\">&nbsp;</span></b></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><b><span style=\"font-family: Arial , sans-serif;\">Must be a legal U.S. resident, 18 years of age (or age of majority in his/her/their state of residence, whichever is greater) or older.</span></b></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><b><span style=\"font-family: Arial , sans-serif;\">&nbsp;</span></b></p>\r\n<p class=\"MsoNormal\"><b><span style=\"font-family: Arial , sans-serif;\">VF Corporation (including Altra Running) employees are not eligible for Offer.</span></b></p>\r\n<p class=\"MsoNormal\"><b><span style=\"font-family: Arial , sans-serif;\">&nbsp;</span></b></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-family: Arial , sans-serif;\">Opportunity to participate in Offer is not transferable. Offer is not to be re-published.</span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-family: Arial , sans-serif;\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><b><span style=\"font-family: Arial , sans-serif;\">B. Participation.</span></b></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><b><span style=\"font-family: Arial , sans-serif;\">&nbsp;</span></b></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-family: Arial , sans-serif;\">By participating in this Offer, you agree to fully comply with these Terms and to the decisions of Altra Running which are final and binding in all respects.</span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-family: Arial , sans-serif;\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-family: Arial , sans-serif;\">Offer is only valid at <a>www.altrarunning.com</a>. <span>&nbsp;</span>Not valid at third party retailers of Altra Running products.</span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-family: Arial , sans-serif;\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-family: Arial , sans-serif;\">Calculation of $175 excludes taxes and charges for next business day or 2-3 business day shipping options. Past purchases, product exchanges and returns (including 30-Day Trial Runs Are Guaranteed Promise refunds) do not count toward calculation of $175.</span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-family: Arial , sans-serif;\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-family: Arial , sans-serif;\">Offer is not valid with any other Altra Running coupon, discount, promotion or offer.</span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-family: Arial , sans-serif;\"><span>&nbsp;&nbsp;</span></span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-family: Arial , sans-serif;\">Limit of one (1) Gift per qualifying transaction, provided supplies last. Altra Running will not have liability under any legal theory once the supply of Gifts has been exhausted.</span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-family: Arial , sans-serif;\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-family: Arial , sans-serif;\">Altra Running reserves the right to withhold Gift and perhaps pursue legal sanctions in the event of consumer fraud of any kind. <span>&nbsp;</span></span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-family: Arial , sans-serif;\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><b><span style=\"font-family: Arial , sans-serif;\">C. Redemption.</span></b></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-family: Arial , sans-serif;\">Gift will automatically be included along with purchased Altra Running products. Consumer will select color of hat from (2) available options, while supplies last. No promo code is required. No fee will be charged in conjunction with inclusion of Gift along with purchased items.</span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-family: Arial , sans-serif;\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-family: Arial , sans-serif;\">Gift must be accepted AS IS and cannot be substituted or returned by consumer for cash/credit or exchanged for another item.<span>&nbsp; </span>No substitution for Gift is available.</span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-family: Arial , sans-serif;\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-family: Arial , sans-serif;\">Gift may differ from images of same in advertising materials, with Altra Running disclaiming any and all liability in conjunction therewith.</span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-family: Arial , sans-serif;\"><span>&nbsp;</span></span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-family: Arial , sans-serif;\">D. <b>Limitations of Liability.</b></span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\">&nbsp;</p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-family: Arial , sans-serif;\">Altra Running assumes no responsibility for any computer, telephone, cable, network, electronic, programming, hardware or software malfunctions, failures or errors of any kind resulting in omission of Hat from qualifying Altra Running product purchase.</span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-family: Arial , sans-serif;\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-family: Arial , sans-serif;\">Once Gift has been provided to purchaser, it becomes the sole responsibility of purchaser and will not be replaced if lost or stolen. If Hat is damaged in shipment, Altra Running’s liability is limited to replacement with another Hat provided supplies last.</span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-family: Arial , sans-serif;\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-family: Arial , sans-serif;\">If circumstances beyond the control of Altra Running (that is, a <i>force majeure </i>event, such as a pandemic/epidemic, strike, civil unrest, natural cataclysm, materials shortage, equipment failure/malfunction/error or tampering/unauthorized intervention) interferes with or prevents altogether its implementation of the Offer as originally intended (as determined by Altra Running in its sole discretion), Altra Running may in its sole discretion, modify, suspend or terminate the Offer. In any such event, notice to such effect will be posted on <a>www.altrarunning.com</a>.</span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\">&nbsp;</p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><b><u><span style=\"font-family: Arial , sans-serif;\">By participating in Offer, consumer releases, discharges, indemnifies and holds harmless Altra Running, its parent company, affiliates, subsidiaries, divisions, and advertising and promotion agencies as well as the officers, directors, employees, representatives and agents of each of the foregoing, from and against any claims, damages or liability due to any injuries, damages or losses to any person or property of any kind resulting in whole or in part, directly or indirectly, from the Offer.</span></u></b></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-family: Arial , sans-serif;\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-family: Arial , sans-serif;\">Sponsor: Altra Running, a division of VF Outdoor, LLC, Denver, CO 80202 </span></p>\r\n",
+                  "_textIsRich": "true"
+                },
+                "_cq:lastRolledout": "{Date}2023-03-22T16:23:02.790Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2023-03-22T16:23:02.786Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:created": "{Date}2020-09-18T20:27:24.616Z",
+              "_jcr:createdBy": "abbey_charles@vfc.com",
+              "_jcr:lastModified": "{Date}2023-03-22T16:23:02.783Z",
+              "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensCenterColumn": "true",
+              "_largeScreensColumnCount": "9",
+              "_mediumScreensCenterColumn": "true",
+              "_smallScreensCenterColumn": "true",
+              "_smallScreensColumnCount": "11"
+            },
+            "_cq:lastRolledout": "{Date}2023-03-22T16:23:02.779Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2023-03-22T16:23:02.775Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2022-08-31T20:15:56.823Z",
+          "_jcr:createdBy": "dylan_gibson@vfc.com",
+          "_jcr:lastModified": "{Date}2023-03-22T16:23:02.772Z",
+          "_jcr:lastModifiedBy": "dylan_gibson@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row",
+          "_collapseGutters": "true",
+          "_rowFullBleed": "true"
+        },
+        "_cq:lastRolledout": "{Date}2023-03-22T16:23:02.769Z",
+        "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2023-03-22T16:23:02.796Z",
+      "_cq:lastModifiedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicated": "{Date}2023-03-23T06:58:00.486Z",
+      "_cq:lastReplicatedBy": "workflow-process-service",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2023-03-22T16:23:02.799Z",
+      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "Spring 2023 Gift terms",
+      "_jcr:uuid": "9a10b7fe-836d-4b3f-b26a-a7ab650f56c1",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

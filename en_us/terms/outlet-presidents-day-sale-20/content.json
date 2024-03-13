@@ -1,0 +1,98 @@
+{
+  "root": {
+    "content": {
+      "content": {
+        "grid_row": {
+          "row-content": {
+            "grid_column_copy_cop": {
+              "column-content": {
+                "text": {
+                  "_cq:lastRolledout": "{Date}2022-09-15T15:30:44.384Z",
+                  "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                  "_jcr:created": "{Date}2020-09-18T20:28:22.736Z",
+                  "_jcr:createdBy": "abbey_charles@vfc.com",
+                  "_jcr:lastModified": "{Date}2022-09-15T15:30:44.376Z",
+                  "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/text",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default",
+                  "_text": "<h1 style=\"text-align: center;\"><b>ALTRA RUNNING OUTLET STORE PRESIDENTS’ DAY SALES</b></h1>\r\n<p>Available only at Altra Outlet Store at The Outlets at Traverse Mountain (3700 North Cabelas Blvd., #420, Lehi, UT; accessible via Exit #284 on Interstate #15). Sale begins Friday, 2/12 and ends Monday, 2/15, provided supplies last. Store not liable once supplies are exhausted. <u>$69.99 sale price good only for new Men’s and Women’s LONE PEAK 4.5 Trail Shoes (excludes Youth LONE PEAK). $25.00 sale price good for new and used VALI and DYANI Lifestyle Shoes and DUO Road Running Shoes</u>. Sale limited to indicated Shoe Brands in sizes and colors currently in stock in-store. No rain checks or substitutions available. No promo code required; sale price will be reflected automatically at time of purchase. Taxes excluded. ALL SALES FINAL; NO REFUNDS OR RETURNS ACCEPTED. ALTRA RUNNING PRODUCT WARRANTY NOT APPLICABLE TO SHOES AT SALES PRICE. Not to be combined with coupons, offers or discounts. No price adjustment allowed on previous purchases; sale price not available for product returns/exchanges. Shoe purchases are intended for personal use only and not for re-sale. Store not responsible for technological failure/error/malfunction which interferes with conducting sale as intended. Failure to follow instructions of Store personnel and/or to comply with health guidelines voids sale (in addition to other legal sanctions). Store may cancel, suspend or modify sale due to current health conditions or any other situation beyond its control without liability of any kind.</p>\r\n",
+                  "_textIsRich": "true"
+                },
+                "_cq:lastRolledout": "{Date}2022-09-15T15:30:44.367Z",
+                "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2022-09-15T15:30:44.358Z",
+              "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+              "_jcr:created": "{Date}2020-09-18T20:27:24.616Z",
+              "_jcr:createdBy": "abbey_charles@vfc.com",
+              "_jcr:lastModified": "{Date}2022-09-15T15:30:44.350Z",
+              "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensCenterColumn": "true",
+              "_largeScreensColumnCount": "9",
+              "_mediumScreensCenterColumn": "true",
+              "_smallScreensCenterColumn": "true",
+              "_smallScreensColumnCount": "11"
+            },
+            "_cq:lastRolledout": "{Date}2022-09-15T15:30:44.343Z",
+            "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2022-09-15T15:30:44.335Z",
+          "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+          "_jcr:created": "{Date}2021-02-11T03:56:53.565Z",
+          "_jcr:createdBy": "abbey_charles@vfc.com",
+          "_jcr:lastModified": "{Date}2022-09-15T15:30:44.330Z",
+          "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row"
+        },
+        "_cq:lastRolledout": "{Date}2022-09-15T15:30:44.325Z",
+        "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2022-09-15T15:30:44.378Z",
+      "_cq:lastModifiedBy": "dylan_gibson@vfc.com",
+      "_cq:lastReplicated": "{Date}2022-09-15T15:31:09.651Z",
+      "_cq:lastReplicatedBy": "dylan_gibson@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2022-09-15T15:30:44.384Z",
+      "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:description": "Don’t miss our President’s Day Sale at the Altra Running Outlet in Utah. Review these terms and conditions to score running shoe discounts for a limited time. ",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "Altra Outlet Presidents' Day Sale",
+      "_jcr:uuid": "76beb715-a0ee-47b5-9f2c-8b84b4ed70ee",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "_sling:vanityPath": "[/content/vfcorp/altra/north-america/en_us/terms/outlet-presidents-day-sale-20]",
+      "_dataLayerErrorCode": "400",
+      "_frequency": "always",
+      "_priority": "0.5",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2020-11-06T17:16:58.120Z"
+        cq:lastModifiedBy="abbey_charles@vfc.com"
+        cq:lastReplicated="{Date}2020-11-06T17:17:16.995Z"
+        cq:lastReplicatedBy="abbey_charles@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2020-11-06T17:16:58.122Z"
+        cq:lastRolledoutBy="abbey_charles@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/espot-integration"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="shop_women_shoes_lifestyle-bottom"
+        jcr:uuid="0a13d7bb-d3fd-4dd2-8f78-24d55a38bc5e"
+        sling:resourceType="vfcorp/components/global/page/espot-integration"
+        pageTitle="shop_women_shoes_lifestyle-bottom"
+        rowFullBleed="true"
+        smallScreenSize="1">
+        <espotcontent
+            cq:lastRolledout="{Date}2020-11-06T17:16:58.112Z"
+            cq:lastRolledoutBy="abbey_charles@vfc.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <text
+                cq:lastRolledout="{Date}2020-11-06T17:16:58.122Z"
+                cq:lastRolledoutBy="abbey_charles@vfc.com"
+                jcr:created="{Date}2020-11-06T17:10:32.574Z"
+                jcr:createdBy="abbey_charles@vfc.com"
+                jcr:lastModified="{Date}2020-11-06T17:16:51.552Z"
+                jcr:lastModifiedBy="abbey_charles@vfc.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/text"
+                text="&lt;h1>Women's Comfortable Lifestyle Shoes&lt;/h1>&#xd;&#xa;&lt;h2>Women's Lifestyle and Slip-On Shoes&lt;/h2>&#xd;&#xa;&lt;div>&amp;nbsp;&lt;/div>&#xd;&#xa;&lt;p>You can enjoy the comfort and performance of Altra shoes all day long with our casual athletic shoes for women. Our comfortable slip on shoes are easy to get into and hard to take off whether you're looking for a post-workout shoe or an all-day option when you're up on your feet. With our Fit4Her construction, our women's shoes are designed specifically for the female foot with a higher instep, and narrower heel for improved fit, comfort, and experience. You'll also find the same options you'd expect on Altra's running shoes with our Footshape toebox and Balanced Cushioning, which help provide a healthy stride all day long.&lt;/p>&#xd;&#xa;&lt;p>Not finding what you're looking for? Be sure to try our &lt;a href=&quot;https://www.altrarunning.com/best-shoes-finder.html&quot;>product finder&lt;/a>&amp;nbsp;or shop our full selection of &lt;a href=&quot;https://www.altrarunning.com/shop/womens-shoes&quot;>women's running&amp;nbsp; shoes&lt;/a>.&lt;/p>&#xd;&#xa;"
+                textIsRich="true"/>
+        </espotcontent>
+    </jcr:content>
+</jcr:root>

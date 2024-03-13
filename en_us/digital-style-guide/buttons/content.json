@@ -1,0 +1,76 @@
+{
+  "root": {
+    "content": {
+      "image": {
+        "_cq:lastRolledout": "{Date}2020-11-30T16:09:07.801Z",
+        "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+        "_jcr:lastModified": "{Date}2020-11-30T16:09:07.799Z",
+        "_jcr:lastModifiedBy": "ankur_patel",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_imageRotate": "0"
+      },
+      "content": {
+        "secondarynav_4781": {
+          "_cq:lastRolledout": "{Date}2020-11-30T16:09:07.932Z",
+          "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+          "_jcr:created": "{Date}2017-07-11T13:54:58.487-04:00",
+          "_jcr:createdBy": "becky.horvath@rosetta.com",
+          "_jcr:lastModified": "{Date}2020-11-30T16:09:07.930Z",
+          "_jcr:lastModifiedBy": "becky.horvath@rosetta.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/secondarynav",
+          "_layout": "horizontal",
+          "_rootPath": "/content/vfcorp/altra/north-america/en_us/digital-style-guide"
+        },
+        "customhtml": {
+          "_cq:lastRolledout": "{Date}2020-11-30T16:09:07.938Z",
+          "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+          "_jcr:created": "{Date}2015-01-29T13:55:37.826-05:00",
+          "_jcr:createdBy": "anthony.mclin",
+          "_jcr:lastModified": "{Date}2020-11-30T16:09:07.934Z",
+          "_jcr:lastModifiedBy": "becky.horvath@rosetta.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+          "_backgroundcolor": "#FFFFFF",
+          "_bottomgarnishclass": "feature-footing",
+          "_customHTML": "\t\t<div class=\"row\">\n\t\t\t<div class=\"large-12 columns centered\">\n\t\t\t\t<h2>Buttons</h2>\n\t\t\t\t<p>Buttons are build using Foundation. Basic styles are available when developing custom HTML to handle variations with brand consistency. See <a href=\"http://foundation.zurb.com/docs/v/4.3.2/components/buttons.html\">http://foundation.zurb.com/docs/v/4.3.2/components/buttons.html</a> for more details.\n\t\t\t\t</p>\n\t\t\t</div>\n\t\t</div>\n\t\t<div class=\"row\"> \n\t\t\t<div class=\"large-4 columns\">\n\t\t\t\t<h4>Default Buttons</h4>\n\t\t\t\t<p>Default button styling provided by Foundation configuration.</p>\n\t\t\t\t<strong>&lt;a class=\"button\" href=\"#\"&gt;</strong><br>\n\t\t\t\t<a class=\"button\" role=\"button\" href=\"#\">Default Button</a><br>\n\t\t\t\t<strong>&lt;a class=\"button primary\" href=\"#\"&gt;</strong><br>\n\t\t\t\t<a class=\"button primary\" role=\"button\" href=\"#\">Primary Button</a><br>\n\t\t\t\t<strong>&lt;a class=\"button secondary\" href=\"#\"&gt;</strong><br>\n\t\t\t\t<a class=\"button secondary\" role=\"button\" href=\"#\">Secondary Button</a>\n<br>\n<strong>&lt;a class=\"button disabled\" href=\"#\"&gt;</strong>\n<br>\n<a class=\"button disabled\" role=\"button\" href=\"#\">Disabled Button</a>\n<br>\n<strong>&lt;button disabled&gt;</strong>\n<br>\n<button disabled=\"\">Disabled Button</button>\n\t\t\t</div>\n\t\t\t<div class=\"large-4 columns end\">\n\t\t\t\t<h4>Expanded buttons</h4>\n\t\t\t\t<p>Default button styling with the .expand class applied to make the button fill its grid column. Primarily used for creating mobile-friendly full-width buttons.</p>\n\t\t\t\t<strong>&lt;a class=\"button expand\" href=\"#\"&gt;</strong><br>\n\t\t\t\t<a class=\"button expand\" role=\"button\" href=\"#\">Primary Button Expand</a><br>\n\t\t\t\t<strong>&lt;a class=\"button expand secondary\" href=\"#\"&gt;</strong><br>\n\t\t\t\t<a class=\"button expand secondary\" role=\"button\" href=\"#\">Secondary Button Expand</a><br>\n\t\t\t</div>\n\t\t</div>\n\t\t<div class=\"row\">\n\t\t\t<div class=\"large-4 columns\">\n\t\t\t\t<h4>Extended buttons</h4>\n\t\t\t\t<p>(Additional button styles not provided by Foundation)</p>\n\t\t\t\t<strong>&lt;a class=\"button tertiary\" href=\"#\"&gt;</strong><br>\n\t\t\t\t<a class=\"button tertiary\" role=\"button\" href=\"#\">Tertiary Button</a>\n\t\t\t</div>\n\t\t\t<div class=\"large-4 columns\">\n\t\t\t\t<h4>Special-Case Alternates</h4>\n\t\t\t\t<p>(not provided by Foundation)</p>\n\t\t\t\t<strong>&lt;a class=\"button primary alt-1\" href=\"#\"&gt;</strong><br>\n\t\t\t\t<a class=\"button primary alt-1\" role=\"button\" href=\"#\">Primary Button Alt 1</a><br>\n\t\t\t\t<strong>&lt;a class=\"button secondary alt-1\" href=\"#\"&gt;</strong><br>\n\t\t\t\t<a class=\"button secondary alt-1\" role=\"button\" href=\"#\">Secondary Button Alt 1</a><br>\n\t\t\t\t<strong>&lt;a class=\"button tertiary alt-1\" href=\"#\"&gt;</strong><br>\n\t\t\t\t<a class=\"button tertiary alt-1\" role=\"button\" href=\"#\">Tertiary Button Alt 1</a><br>\n\t\t\t\t<strong>&lt;a class=\"button tertiary alt-2\" href=\"#\"&gt;</strong><br>\n\t\t\t\t<a class=\"button tertiary alt-2\" role=\"button\" href=\"#\">Tertiary Button Alt 2</a><br>\n\t\t\t</div>\n\t\t\t<div class=\"large-4 columns\">\n\t\t\t\t<h4>Read More/Less buttons</h4>\n\t\t\t\t<p>Exetended from base Foundation expanded buttons to include indicator icons.</p>\n\t\t\t\t<strong>&lt;a class=\"button more\" href=\"#\"&gt;</strong><br>\n\t\t\t\t<a class=\"button more\" role=\"button\" href=\"#\">Button More</a><br>\n\t\t\t\t<strong>&lt;a class=\"button expand more\" href=\"#\"&gt;</strong><br>\n\t\t\t\t<a class=\"button expand more\" role=\"button\" href=\"#\">Button More Expand</a><br>\n\t\t\t\t<strong>&lt;a class=\"button less\" href=\"#\"&gt;</strong><br>\n\t\t\t\t<a class=\"button less\" role=\"button\" href=\"#\">Button Less</a><br>\n\t\t\t\t<strong>&lt;a class=\"button expand less\" href=\"#\"&gt;</strong><br>\n\t\t\t\t<a class=\"button expand less\" role=\"button\" href=\"#\">Button Less Expand</a><br>\n\t\t\t</div>\n\t\t</div>\n\t\t<div class=\"row\">\n\t\t\t<div class=\"large-12 columns\">\n\t\t\t\t<h3>Accessibility</h3>\n\t\t\t\t<p>To ensure that disabled visitors have an optimal experience in navigating the site, buttons should have the following attributes:</p>\n\t\t\t\t<p><strong>title</strong> - Populate this with meaningful text so that screen readers for visually impared users give good direction. </p>\n\t\t\t\t<strong>&lt;a class=\"button\" title=\"Signup for our newsletter\" href=\"#\"&gt;Default Button&lt;/a&gt;</strong>\n\t\t\t\t<br>\n\t\t\t\t<a class=\"button\" title=\"Signup for our newsletter\" href=\"#\" role=\"button\">Default Button</a>\n\t\t\t\t<br>\n\t\t\t\t<p><strong>role=\"button\"</strong> - This should be set so that users can interact with the button by keyboard</p>\n\t\t\t\t<strong>&lt;a class=\"button\" role=\"button\" href=\"#\"&gt;Default Button&lt;/a&gt;</strong><br>\n\t\t\t\t<a class=\"button\" role=\"button\" href=\"#\">Default Button</a>\n\n\t\t</div>\n</div>",
+          "_topgarnishclass": "feature-heading"
+        },
+        "_cq:lastRolledout": "{Date}2020-11-30T16:09:07.804Z",
+        "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2020-11-30T16:09:07.936Z",
+      "_cq:lastModifiedBy": "john.m.williams@rosetta.com",
+      "_cq:lastReplicated": "{Date}2018-10-23T15:42:44.428-04:00",
+      "_cq:lastReplicatedBy": "john.m.williams@rosetta.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2020-11-30T16:09:07.938Z",
+      "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "Buttons",
+      "_jcr:uuid": "e37b29ee-9a5c-4941-94af-8fac74f23a34",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "_excludeFromSitemap": "true",
+      "_frequency": "monthly",
+      "_internalNavigation": "none",
+      "_priority": "0.5",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2020-11-30T16:09:08.016Z"
+        cq:lastModifiedBy="john.m.williams@rosetta.com"
+        cq:lastReplicated="{Date}2018-10-23T15:42:44.984-04:00"
+        cq:lastReplicatedBy="john.m.williams@rosetta.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2020-11-30T16:09:08.018Z"
+        cq:lastRolledoutBy="john.m.williams@rosetta.com"
+        cq:template="/apps/vfcorp/templates/global/page-col-1"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Social Media Icons"
+        jcr:uuid="e5b30da8-28bb-4bec-af19-ada8dba2ed5f"
+        sling:resourceType="vfcorp/components/global/page/page-col-1"
+        excludeFromSitemap="true"
+        frequency="monthly"
+        internalNavigation="none"
+        priority="0.5">
+        <image
+            cq:lastRolledout="{Date}2020-11-30T16:09:08.005Z"
+            cq:lastRolledoutBy="john.m.williams@rosetta.com"
+            jcr:lastModified="{Date}2020-11-30T16:09:08.003Z"
+            jcr:lastModifiedBy="ankur_patel"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+        <content
+            cq:lastRolledout="{Date}2020-11-30T16:09:08.008Z"
+            cq:lastRolledoutBy="john.m.williams@rosetta.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <secondarynav_198e
+                cq:lastRolledout="{Date}2020-11-30T16:09:08.014Z"
+                cq:lastRolledoutBy="john.m.williams@rosetta.com"
+                jcr:created="{Date}2017-07-11T13:55:51.026-04:00"
+                jcr:createdBy="becky.horvath@rosetta.com"
+                jcr:lastModified="{Date}2020-11-30T16:09:08.012Z"
+                jcr:lastModifiedBy="becky.horvath@rosetta.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/secondarynav"
+                layout="horizontal"
+                rootPath="/content/vfcorp/altra/north-america/en_us/digital-style-guide"/>
+            <customhtml
+                cq:lastRolledout="{Date}2020-11-30T16:09:08.018Z"
+                cq:lastRolledoutBy="john.m.williams@rosetta.com"
+                jcr:created="{Date}2015-01-29T14:03:23.165-05:00"
+                jcr:createdBy="anthony.mclin"
+                jcr:lastModified="{Date}2020-11-30T16:09:08.015Z"
+                jcr:lastModifiedBy="anthony.mclin"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/customhtml2"
+                bottomgarnishclass="feature-footing"
+                customHTML="&lt;div class=&quot;row&quot;>&#xa;&#x9;&lt;div class=&quot;large-12 columns&quot;>&#xa;&#x9;&#x9;&lt;h1>Social Media Icons&lt;/h1>&#xa;&#x9;&lt;/div>&#xa;&lt;/div>&#xa;&lt;div class=&quot;row&quot;>&#xa;&#x9;&lt;div class=&quot;large-12 columns&quot;>&#xa;&#x9;&#x9;&lt;p>Social Media Icons are provided as vector assets using an icon font. They are used consistently throughout the site for both sharing, and social media profile links. The list of icons available for use in the Social Sharing component is different than the list available in the footer, and the sizes may differ based on brand-specific styling requirements. They can be implmented in custom content as follows:&#xa;&#x9;&#x9;&lt;/p>&lt;ul class=&quot;no-bullet&quot;>&#xa;&#x9;&#x9;&#x9;&lt;li>&#xa;&#x9;&#x9;&#x9;&#x9;&lt;span class=&quot;icon-facebook&quot;>&lt;/span>&#xa;&#x9;&#x9;&#x9;&#x9;&lt;strong>Standalone Icon:&lt;/strong>&#xa;&#x9;&#x9;&#x9;&#x9; &amp;lt;span class=&quot;icon-{network name}&quot;&amp;gt;&#xa;&#x9;&#x9;&#x9;&lt;/li>&#xa;&#x9;&#x9;&#x9;&lt;li>&#xa;&#x9;&#x9;&#x9;&#x9;&lt;span class=&quot;social-icon icon-facebook&quot;>&lt;/span> &#xa;&#x9;&#x9;&#x9;&#x9;&lt;strong>Styled Button with Hover:&lt;/strong>&#xa;&#x9;&#x9;&#x9;&#x9;&amp;lt;span class=&quot;social-icon icon-{network name}&quot;&amp;gt;&#xa;&#x9;&#x9;&#x9;&lt;/li>&#xa;&#x9;&#x9;&lt;/ul>&#xa;&#x9;&#x9;&lt;p>&lt;/p>&#xa;&#x9;&lt;/div>&#xa;&lt;/div>&#xa;&lt;hr>&#xa;&lt;div class=&quot;row&quot;>&#xa;&#x9;&lt;div class=&quot;large-4 medium-6 small-12 columns&quot;>&#xa;&#x9;&#x9;&lt;h3>In-Page Sharing Icons&lt;/h3>&#xa;&#x9;&#x9;&lt;p>Icons displayed as part of the Social Share component. The last one, &quot;share&quot; &lt;span class=&quot;icon-share&quot;>&lt;/span> is reserved for ShareThis popup interactivity to expose other social media platforms. &lt;/p>&#xa;&#x9;&#x9;&lt;br>&#xa;&#x9;&#x9;&lt;span class=&quot;social-icon icon-twitter&quot;>&lt;/span>&#xa;&#x9;&#x9;&lt;span class=&quot;social-icon icon-facebook&quot;>&lt;/span>&#xa;&#x9;&#x9;&lt;span class=&quot;social-icon icon-instagram&quot;>&lt;/span>&#xa;&#x9;&#x9;&lt;span class=&quot;social-icon icon-tumblr&quot;>&lt;/span>&#xa;&#x9;&#x9;&lt;span class=&quot;social-icon icon-youtube&quot;>&lt;/span>&#xa;&#x9;&#x9;&lt;span class=&quot;social-icon icon-pinterest&quot;>&lt;/span>&#xa;&#x9;&#x9;&lt;span class=&quot;social-icon icon-vimeo&quot;>&lt;/span>&#xa;&#x9;&#x9;&lt;span class=&quot;social-icon icon-vine&quot;>&lt;/span>&#xa;&#x9;&#x9;&lt;span class=&quot;social-icon icon-flickr&quot;>&lt;/span>&#xa;&#x9;&#x9;&lt;span class=&quot;social-icon icon-picasa&quot;>&lt;/span>&#xa;&#x9;&#x9;&lt;!-- &lt;span class=&quot;social-icon icon-wanelo&quot;>&lt;/span> -->&#xa;&#x9;&#x9;&lt;span class=&quot;social-icon icon-wordpress&quot;>&lt;/span>&#xa;&#x9;&#x9;&lt;span class=&quot;social-icon icon-blogger&quot;>&lt;/span>&#xa;&#x9;&#x9;&lt;span class=&quot;social-icon icon-print&quot;>&lt;/span>&#xa;&#x9;&#x9;&lt;span class=&quot;social-icon icon-mail&quot;>&lt;/span>&#xa;&#x9;&#x9;&lt;span class=&quot;social-icon icon-share&quot;>&lt;/span>&#xa;&#x9;&#x9;&lt;p>&lt;/p>&#xa;&#x9;&lt;/div>&#xa;&#x9;&lt;div class=&quot;large-4 medium-6 small-12 columns end&quot;>&#xa;&#x9;&#x9;&lt;h3>Footer Social Profile Links&lt;/h3>&#xa;&#x9;&#x9;&lt;p>Icons displayed as part of the footer Social Profile links&lt;/p>&#xa;&#x9;&#x9;&lt;footer style=&quot;margin: 0; padding: 10px;&quot;>&#xa;&#x9;&#x9;&#x9;&lt;span class=&quot;social-icon icon-twitter&quot;>&lt;/span>&#xa;&#x9;&#x9;&#x9;&lt;span class=&quot;social-icon icon-facebook&quot;>&lt;/span>&#xa;&#x9;&#x9;&#x9;&lt;span class=&quot;social-icon icon-instagram&quot;>&lt;/span>&#xa;&#x9;&#x9;&#x9;&lt;span class=&quot;social-icon icon-tumblr&quot;>&lt;/span>&#xa;&#x9;&#x9;&#x9;&lt;span class=&quot;social-icon icon-youtube&quot;>&lt;/span>&#xa;&#x9;&#x9;&#x9;&lt;span class=&quot;social-icon icon-pinterest&quot;>&lt;/span>&#xa;&#x9;&#x9;&#x9;&lt;span class=&quot;social-icon icon-vimeo&quot;>&lt;/span>&#xa;&#x9;&#x9;&#x9;&lt;span class=&quot;social-icon icon-vine&quot;>&lt;/span>&#xa;&#x9;&#x9;&#x9;&lt;span class=&quot;social-icon icon-flickr&quot;>&lt;/span>&#xa;&#x9;&#x9;&#x9;&lt;span class=&quot;social-icon icon-picasa&quot;>&lt;/span>&#xa;&#x9;&#x9;&#x9;&lt;span class=&quot;social-icon icon-wanelo&quot;>&lt;/span>&#xa;&#x9;&#x9;&#x9;&lt;span class=&quot;social-icon icon-wordpress&quot;>&lt;/span>&#xa;&#x9;&#x9;&#x9;&lt;span class=&quot;social-icon icon-blogger&quot;>&lt;/span>&#xa;&#x9;&#x9;&#x9;&lt;!-- &lt;span class=&quot;social-icon icon-print&quot;>&lt;/span> -->&#xa;&#x9;&#x9;&#x9;&lt;span class=&quot;social-icon icon-mail&quot;>&lt;/span>&#xa;&#x9;&#x9;&#x9;&lt;!-- &lt;span class=&quot;social-icon icon-share&quot;>&lt;/span> -->&#xa;&#x9;&#x9;&lt;/footer>&#xa;&#x9;&lt;/div>&#xa;&lt;/div>"
+                topgarnishclass="feature-heading"/>
+        </content>
+    </jcr:content>
+</jcr:root>

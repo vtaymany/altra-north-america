@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2022-10-12T21:51:56.197Z"
+        cq:lastModifiedBy="evan_lynch@vfc.com"
+        cq:lastReplicated="{Date}2022-10-12T21:53:35.543Z"
+        cq:lastReplicatedBy="evan_lynch@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2022-10-12T21:51:56.202Z"
+        cq:lastRolledoutBy="evan_lynch@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/espot-integration"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="shop_men_gear_accessories_hats-bottom"
+        jcr:uuid="d5c78ef5-a75c-4285-adf1-82f5cb66f75b"
+        sling:resourceType="vfcorp/components/global/page/espot-integration"
+        pageTitle="shop_men_gear_accessories_hats-bottom"
+        rowFullBleed="true"
+        smallScreenSize="1">
+        <espotcontent
+            cq:lastRolledout="{Date}2022-10-12T21:51:56.187Z"
+            cq:lastRolledoutBy="evan_lynch@vfc.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <customhtml2
+                cq:lastRolledout="{Date}2022-10-12T21:51:56.202Z"
+                cq:lastRolledoutBy="evan_lynch@vfc.com"
+                jcr:created="{Date}2019-12-04T21:10:54.893Z"
+                jcr:createdBy="wade_litsey@vfc.com"
+                jcr:lastModified="{Date}2022-10-12T21:51:56.195Z"
+                jcr:lastModifiedBy="evan_lynch@vfc.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/customhtml2"
+                customHTML="&lt;h3>Men's Hats for Running&lt;/h3>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;p>Find your perfect trail running hat at Altra. Our Lone Peak hat features the iconic Lone Peak and is perfect for a rugged run in the mountains or for wearing out after your run.  Be sure to also check out our &lt;a href=&quot;/shop/mens-shoes-road&quot; target=&quot;_blank&quot;>road shoes&lt;/a> and &lt;a href=&quot;/shop/mens-shoes-trail&quot; target=&quot;_blank&quot;>trail shoes&lt;/a>.&lt;/p>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;br>"
+                marginBottom="bottom-margin-default"
+                marginTop="top-margin-default"
+                paddingBottom="bottom-pad-default"
+                paddingTop="top-pad-default"/>
+        </espotcontent>
+    </jcr:content>
+</jcr:root>

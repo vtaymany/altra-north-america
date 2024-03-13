@@ -1,0 +1,150 @@
+{
+  "root": {
+    "content": {
+      "image": {
+        "_cq:lastRolledout": "{Date}2020-11-30T16:09:08.035Z",
+        "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+        "_jcr:lastModified": "{Date}2020-11-30T16:09:08.033Z",
+        "_jcr:lastModifiedBy": "ankur_patel",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_imageRotate": "0"
+      },
+      "content": {
+        "grid_row_dcda": {
+          "row-content": {
+            "grid_column_6ac4": {
+              "column-content": {
+                "secondarynav_6d0a": {
+                  "_cq:lastRolledout": "{Date}2020-11-30T16:09:08.065Z",
+                  "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+                  "_jcr:created": "{Date}2017-07-11T13:56:42.738-04:00",
+                  "_jcr:createdBy": "becky.horvath@rosetta.com",
+                  "_jcr:lastModified": "{Date}2020-11-30T16:09:08.063Z",
+                  "_jcr:lastModifiedBy": "becky.horvath@rosetta.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/secondarynav",
+                  "_layout": "horizontal",
+                  "_rootPath": "/content/vfcorp/altra/north-america/en_us/digital-style-guide"
+                },
+                "text_c583": {
+                  "_cq:lastRolledout": "{Date}2020-11-30T16:09:08.068Z",
+                  "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+                  "_jcr:created": "{Date}2015-04-07T13:41:02.893-04:00",
+                  "_jcr:createdBy": "ryan.pastor",
+                  "_jcr:lastModified": "{Date}2020-11-30T16:09:08.066Z",
+                  "_jcr:lastModifiedBy": "anthony.mclin",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/text",
+                  "_text": "<h1>Tables</h1>\n<p style=\"font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;\">Tables should only be used for tabular data, as their responsive behavior is limited to simple scaling. Placing tables within Grid Row/Column components will allow for a more consistent layout structure between mobile and desktop screen sizes. Table styling is provided via Foundation:&nbsp;<a adhocenable=\"false\" href=\"http://foundation.zurb.com/docs/v/4.3.2/components/tables.html\" target=\"_blank\">http://foundation.zurb.com/docs/v/4.3.2/components/tables.html</a></p>\n<p style=\"font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;\">Tables will partially scale to fit their container, <b>but they are not responsive, and so should not be used for layout</b>. To achieve diffeerent responsive table layouts across breakpoints, multiple tables should created and then displayed using <a adhocenable=\"false\" href=\"http://foundation.zurb.com/docs/v/4.3.2/components/visibility.html\" target=\"_blank\">Foundation's visibility classes</a>. Tables will be styled the same regardless of whether they are created using Custom HTML or the Table component. Make sure to set the cell type to &lt;th&gt; instead of &lt;td&gt; to achieve the heading style. Heading tags like &lt;h5&gt; can be used within cells for further styling refinement.</p>\n<h3>AEM Table Component:</h3>\n",
+                  "_textIsRich": "true"
+                },
+                "table_b305": {
+                  "_cq:lastRolledout": "{Date}2020-11-30T16:09:08.071Z",
+                  "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+                  "_jcr:created": "{Date}2015-04-07T13:36:43.659-04:00",
+                  "_jcr:createdBy": "ryan.pastor",
+                  "_jcr:lastModified": "{Date}2020-11-30T16:09:08.070Z",
+                  "_jcr:lastModifiedBy": "anthony.mclin",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "foundation/components/table",
+                  "_tableData": "<table width=\"100%\" cellspacing=\"0\" cellpadding=\"1\" border=\"1\">\n<tbody><tr><th width=\"70\"><b>Fees &amp; Capacity</b></th>\n<th width=\"100\">MAY 3-MAY 30</th>\n<th width=\"100\">MAY 31-FEB 8</th>\n<th width=\"100\">FEB 9-APR 30</th>\n<th width=\"100\">RACE WEEK&nbsp;(IF AVAILABLE)</th>\n<th width=\"70\">CAPACITY</th>\n<th width=\"100\">STATUS</th>\n</tr><tr><th width=\"70\"><b>5K</b></th>\n<td width=\"100\">$30</td>\n<td width=\"100\">$35</td>\n<td>$40</td>\n<td>$50</td>\n<td>400</td>\n<td>OPEN</td>\n</tr><tr><th width=\"70\"><b>10K</b></th>\n<td width=\"100\">$40</td>\n<td width=\"100\">$45</td>\n<td>$55</td>\n<td>$65</td>\n<td>700</td>\n<td>OPEN</td>\n</tr><tr><th width=\"70\"><b>HALF MARATHON</b></th>\n<td width=\"100\">$65</td>\n<td width=\"100\">$75</td>\n<td>$85</td>\n<td>$100</td>\n<td>900</td>\n<td>OPEN</td>\n</tr><tr><th width=\"70\"><b>MARATHON RELAY</b></th>\n<td>$150</td>\n<td>$170</td>\n<td>$190</td>\n<td>$210</td>\n<td>150</td>\n<td>OPEN</td>\n</tr><tr><th width=\"70\"><b>MARATHON</b></th>\n<td>$75</td>\n<td>$80</td>\n<td>$95</td>\n<td>$110</td>\n<td>500</td>\n<td>OPEN</td>\n</tr><tr><th width=\"70\"><b>50K</b></th>\n<td>$80</td>\n<td>$85</td>\n<td>$100</td>\n<td>$115</td>\n<td>700</td>\n<td>OPEN</td>\n</tr><tr><th width=\"70\"><b>GORE-TEX® 50 MILE</b></th>\n<td>$90</td>\n<td>$95</td>\n<td>$110</td>\n<td>$125</td>\n<td>650</td>\n<td>OPEN</td>\n</tr></tbody></table>\n"
+                },
+                "text_3229": {
+                  "_cq:lastRolledout": "{Date}2020-11-30T16:09:08.075Z",
+                  "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+                  "_jcr:created": "{Date}2015-04-07T13:40:48.855-04:00",
+                  "_jcr:createdBy": "ryan.pastor",
+                  "_jcr:lastModified": "{Date}2020-11-30T16:09:08.073Z",
+                  "_jcr:lastModifiedBy": "anthony.mclin",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/text",
+                  "_text": "<p>&nbsp;</p>\n<h3>Custom HTML Table:</h3>\n",
+                  "_textIsRich": "true"
+                },
+                "customhtml_de97": {
+                  "_cq:lastRolledout": "{Date}2020-11-30T16:09:08.079Z",
+                  "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+                  "_jcr:created": "{Date}2015-04-07T14:00:02.009-04:00",
+                  "_jcr:createdBy": "anthony.mclin",
+                  "_jcr:lastModified": "{Date}2020-11-30T16:09:08.076Z",
+                  "_jcr:lastModifiedBy": "anthony.mclin",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_bottomgarnishclass": "feature-footing",
+                  "_customHTML": "<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>\n\t\t\t\t<h5>Fees &amp; Capacity</h5>\n\t\t\t</th>\n\t\t\t<th>\n\t\t\t\tMay 3 - May 30\n\t\t\t</th>\n\t\t\t<th>\n\t\t\t\tMay 31 - Feb 8\n\t\t\t</th>\n\t\t\t<th>\n\t\t\t\tFeb 9 - Apri 30\n\t\t\t</th>\n\t\t\t<th>\n\t\t\t\tRace Week (if available)\n\t\t\t</th>\n\t\t\t<th>\n\t\t\t\tCapacity\n\t\t\t</th>\n\t\t\t<th>\n\t\t\t\tStatus\n\t\t\t</th>\n\t\t</tr>\n\t</thead>\n\t<tbody><tr>\n\t\t<th>\n\t\t\t5K\n\t\t</th>\n\t\t<td>\n\t\t\t$30\n\t\t</td>\n\t\t<td>\n\t\t\t$35\n\t\t</td>\n\t\t<td>\n\t\t\t$40\n\t\t</td>\n\t\t<td>\n\t\t\t$50\n\t\t</td>\n\t\t<td>\n\t\t\t400\n\t\t</td>\n\t\t<td>\n\t\t\tOpen\n\t\t</td>\n\t</tr>\n\t<tr>\n\t\t<th>\n\t\t\t10K\n\t\t</th>\n\t\t<td>\n\t\t\t$30\n\t\t</td>\n\t\t<td>\n\t\t\t$35\n\t\t</td>\n\t\t<td>\n\t\t\t$40\n\t\t</td>\n\t\t<td>\n\t\t\t$50\n\t\t</td>\n\t\t<td>\n\t\t\t400\n\t\t</td>\n\t\t<td>\n\t\t\tOpen\n\t\t</td>\n\t</tr>\n</tbody></table>",
+                  "_topgarnishclass": "feature-heading"
+                },
+                "_cq:lastRolledout": "{Date}2020-11-30T16:09:08.054Z",
+                "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2020-11-30T16:09:08.051Z",
+              "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+              "_jcr:created": "{Date}2015-04-07T13:43:22.877-04:00",
+              "_jcr:createdBy": "anthony.mclin",
+              "_jcr:lastModified": "{Date}2020-11-30T16:09:08.049Z",
+              "_jcr:lastModifiedBy": "anthony.mclin",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_smallScreensColumnCount": "12"
+            },
+            "_cq:lastRolledout": "{Date}2020-11-30T16:09:08.046Z",
+            "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2020-11-30T16:09:08.043Z",
+          "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+          "_jcr:created": "{Date}2015-04-07T13:43:07.753-04:00",
+          "_jcr:createdBy": "anthony.mclin",
+          "_jcr:lastModified": "{Date}2020-11-30T16:09:08.041Z",
+          "_jcr:lastModifiedBy": "anthony.mclin",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row"
+        },
+        "_cq:lastRolledout": "{Date}2020-11-30T16:09:08.039Z",
+        "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2020-11-30T16:09:08.077Z",
+      "_cq:lastModifiedBy": "john.m.williams@rosetta.com",
+      "_cq:lastReplicated": "{Date}2018-10-23T15:42:44.984-04:00",
+      "_cq:lastReplicatedBy": "john.m.williams@rosetta.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2020-11-30T16:09:08.079Z",
+      "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "Tables",
+      "_jcr:uuid": "0d83bbfa-1dcd-4627-97ef-1af05b68877c",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "_excludeFromSitemap": "true",
+      "_frequency": "monthly",
+      "_internalNavigation": "none",
+      "_priority": "0.5",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

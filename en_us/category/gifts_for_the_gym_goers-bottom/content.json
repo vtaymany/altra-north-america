@@ -1,0 +1,54 @@
+{
+  "root": {
+    "content": {
+      "espotcontent": {
+        "text_copy_copy_copy_": {
+          "_cq:lastRolledout": "{Date}2024-02-05T22:30:05.231Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2023-11-20T22:41:57.125Z",
+          "_jcr:createdBy": "evan_lynch@vfc.com",
+          "_jcr:lastModified": "{Date}2024-02-05T22:30:05.227Z",
+          "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/text",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default",
+          "_text": "<h2>Gifts for Gym Lovers</h2>\r\n<p>At Altra, performance meets style time and time again with our specially curated collection of gifts for the gym lovers in your life. Whether you're shopping for a fitness enthusiast or treating yourself to the ultimate workout experience, we have the ideal blend of cutting-edge footwear and stylish apparel to power every stride at the gym. There’s a fitness gift for everyone on our website.&nbsp;</p>\r\n<h2>Gifts for Workout Lovers</h2>\r\n<p>Step into the world of unrivaled comfort and support with Altra's cutting-edge shoes designed to enhance your gym sessions. Our gym-ready footwear collection for both men and women ensures a snug fit, maximum stability, and an edge over fitness targets.</p>\r\n<p>&nbsp;</p>\r\n<p>Explore great workout gifts like the Solstice XT 2 for <a href=\"https://www.altrarunning.com/shop/men/mens-solstice-xt-2-al0a546v\">men</a> and <a href=\"https://www.altrarunning.com/shop/gifts-for-the-gym-goers/womens-solstice-xt-2-al0a547y\">women</a>. A lightweight design for intense workouts, this shoe is an essential addition for anyone. The sturdier caged upper provides additional support for lateral movements, the reinforced toe adds protection, and the athletic runner outsole ensures durability both indoors and outdoors.</p>\r\n<p>&nbsp;</p>\r\n<p>For the runners in your life, The Escalante Racer is a race-ready road shoe built for both speed and performance with the powerfully plush Altra EGO™ midsole that's a touch firmer for more return and more response. Lightweight and breathable, this is the ideal shoe for all the <a href=\"https://www.altrarunning.com/shop/men/mens-escalante-racer-alm193b3\">men</a> and <a href=\"https://www.altrarunning.com/shop/gifts-for-the-gym-goers/womens-escalante-racer-alw193b3\">women</a> who are prepared to set new personal bests in the gym.&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>Find the ideal gift for gym rats or aspiring athletes now.&nbsp;</p>\r\n<h2>Workout Gifts for Maximum Comfort</h2>\r\n<p>Unleash the power of performance with Altra's gym-ready apparel that is meticulously crafted for gym goers who demand both functionality and style.</p>\r\n<p>&nbsp;</p>\r\n<p>Women's Core Crop Tight</p>\r\n<p>The Altra Core collection is the perfect gift created for warmups at the gym or a quick stretch on a yoga mat. Help the gym-goers on your list achieve their fitness goals in style with our <a href=\"https://www.altrarunning.com/shop/gifts-for-the-gym-goers/womens-core-crop-tight-al0a816h\">Women's Core Crop Tight</a>. This is the ultimate comfy gift for workout lovers that is engineered for optimal flexibility and support. These leggings are a must-have for any gym wardrobe.</p>\r\n<p>&nbsp;</p>\r\n<p>Lightweight Performance Tees&nbsp;</p>\r\n<p>Stay cool and focused during intense workouts with our Core Short Sleeve Tee for <a href=\"https://www.altrarunning.com/shop/gifts-for-the-gym-goers/mens-core-short-sleeve-tee-al0a816t\">men</a> and <a href=\"https://www.altrarunning.com/shop/gifts-for-the-gym-goers/womens-core-short-sleeve-tee-al0a816u\">women</a>. These lightweight performance tees that are the perfect gifts for fitness lovers. Made from breathable and moisture-wicking materials, these tees are designed to keep you comfortable and stylish during each rep. Gym goers will have no trouble keeping up with strength training and weightlifting.&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>Gym-Ready Shorts for Unrestricted Movement</p>\r\n<p>Enhance your agility and performance with our gym-ready shorts. These make great gifts for exercising that deliver on style and functionality. Designed for comfort and durability, these shorts are the perfect companion for <a href=\"https://www.altrarunning.com/shop/gifts-for-the-gym-goers/mens-core-5in-2-1-short-al0a816w\">men</a> and <a href=\"https://www.altrarunning.com/shop/gifts-for-the-gym-goers/womens-core-4in-short-al0a816x\">women</a>. Whether someone is lifting dumbbells or performing a hard-core cardio session, they’ll have full control over every movement.&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>There’s no shortage of gift ideas at Altra. Explore our wide range of performance apparel to find the ideal gifts for workout lovers.</p>\r\n<h2>The Perfect Gift for Every Gym Enthusiast</h2>\r\n<p>Altra's gym-ready collection makes for the best fitness gifts for gym lovers and workout enthusiasts. The average workout session needs more than a water bottle and gym bag. Elevate a gym goer’s workout experience with high-performance gear that keeps them stylish and focused. With Altra, every step, lift, and sprint will be powered by unmatched comfort and style. This season, shop our gift guides and give the gift of physical wellness.&nbsp;</p>\r\n<p>&nbsp;</p>\r\n",
+          "_textIsRich": "true"
+        },
+        "_cq:lastRolledout": "{Date}2024-02-05T22:30:05.223Z",
+        "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2024-02-05T22:30:05.228Z",
+      "_cq:lastModifiedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicated": "{Date}2024-02-05T22:30:39.245Z",
+      "_cq:lastReplicatedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2024-02-05T22:30:05.231Z",
+      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/espot-integration",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "gifts_for_the_gym_goers-bottom",
+      "_jcr:uuid": "c8ce35ac-7281-471b-bdbf-fb6b65c066fe",
+      "_sling:resourceType": "vfcorp/components/global/page/espot-integration",
+      "_rowFullBleed": "true",
+      "_smallScreenSize": "1",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "root": {
+    "content": {
+      "content": {
+        "grid_row_469485992": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "customhtml2": {
+                  "_cq:lastRolledout": "{Date}2023-12-29T17:53:58.801Z",
+                  "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                  "_jcr:created": "{Date}2023-01-24T17:36:54.732Z",
+                  "_jcr:createdBy": "evan_lynch@vfc.com",
+                  "_jcr:lastModified": "{Date}2023-12-29T17:53:58.796Z",
+                  "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<br><br>\r\n<br><br>\r\n<a href=\"/\">Home</a> // Return Policy\r\n<br><br>\r\n<br><br>\r\n<h1>Return Policy</h1><br><br>\r\n\t\t\t<p><strong>If the product was purchased at a retailer:</strong> Return or exchange the item(s) to its place of purchase.</p>\r\n\t\t\t\t<p><strong>If the product was purchased on AltraRunning.com:</strong></p>\r\n\t\t\t<div class=\"return-policy-content\">\r\n\t\t\t\t<p>If for any reason, you are not satisfied with your altrarunning.com purchase within the first 30 days, please return your items for a full refund. We include a free shipping return label with your purchase. Please note and keep your tracking number on the return label for your records until your credit card has been processed.</p>\r\n\t\t\t\t<p><strong>Steps to return an Altrarunning.com purchase:</strong></p>\r\n\t\t\t\t<ol>\r\n\t\t\t\t\t<li>Pack and seal the product securely in the original outer shipping container, or any cardboard shipping box.</li>\r\n\t\t\t\t\t<li>Write your name, return address, and order number on the prepaid return shipping label</li>\r\n\t\t\t\t\t<li>Attach the return label to the outside of the outer shipping container.</li>\r\n\t\t\t\t\t<li>Take a picture of the return label for your records, or write down the return tracking number</li>\r\n\t\t\t\t\t<li>Take package to any US Postal Service or FedEx office or drop box (for the fastest return time, we recommend using FedEx)</li>\r\n\t\t\t\t\t<li>Refunds may take 3-5 weeks to be processed to the original form of payment</li>\r\n\t\t\t\t</ol>\r\n\t\t\t\t<p>Please include the original packing slip or email confirmation of your order so we can quickly process your refund and credit the card used for the purchase. Refunds can only be posted to the original form of payment.  Refunds may take up to three weeks to process due to the time often required for shipping and bank processing. Original shipping charges are not refunded. Exchanges are not available.</p>\r\n\t\t\t</div>\r\n\t\t\t<div>\r\n\t\t\t\t<p><strong>Need a replacement free shipping return label for your altrarunning.com order or further assistance?</strong></p>\r\n\t\t\t\t<p>For fastest response <span class=\"livechat\"><a href=\"https://staging.altrarunning.com/return-policy.html#\">click here</a></span> to start a live chat with us.</p>\r\n\t\t\t\t<p>Customer Service hours: Monday - Friday, 8 a.m. - 6 p.m. central standard time </p>\r\n\t\t\t\t</p>\r\n<br><br>\r\n<p><strong>Prefer to just ship it yourself instead of using the prepaid label?</strong></p>\r\n<p><strong>Ship altrarunning.com returns to:</strong></p>\r\n\t\t\t\t<p>Altra Running<br>\r\n\t\t\t\t50 N Service Rd.<br>\r\n\t\t\t\tDanville, KY 40422<br>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p>Be sure you include your original packing slip or a printout of your email order confirmation with your original order number on it in the package with your returned product.</p>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2023-12-29T17:53:58.792Z",
+                "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2023-12-29T17:53:58.787Z",
+              "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensCenterColumn": "true",
+              "_largeScreensColumnCount": "{Long}10",
+              "_largeScreensOffset": "{Long}2",
+              "_mediumScreensCenterColumn": "true",
+              "_mediumScreensColumnCount": "{Long}10",
+              "_mediumScreensOffset": "{Long}2",
+              "_smallScreensCenterColumn": "true",
+              "_smallScreensColumnCount": "{Long}10",
+              "_smallScreensOffset": "{Long}2"
+            },
+            "_cq:lastRolledout": "{Date}2023-12-29T17:53:58.780Z",
+            "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2023-12-29T17:53:58.775Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2023-01-24T17:15:37.500Z",
+          "_jcr:createdBy": "evan_lynch@vfc.com",
+          "_jcr:lastModified": "{Date}2023-12-29T17:53:58.773Z",
+          "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row"
+        },
+        "_cq:lastRolledout": "{Date}2023-12-29T17:53:58.770Z",
+        "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2023-12-29T17:53:58.798Z",
+      "_cq:lastModifiedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicated": "{Date}2023-12-29T17:57:57.851Z",
+      "_cq:lastReplicatedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2023-12-29T17:53:58.801Z",
+      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:description": "Need to return an Altra Running product? Learn about our return policy and how to return your running shoes, whether you purchased online or at a retailer. ",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "return-policy",
+      "_jcr:uuid": "def08faa-da9e-4a0d-909d-f55a169c0ec6",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "_dataLayerErrorCode": "400",
+      "_frequency": "always",
+      "_pageTitle": "Return Policy | Altra Running Footwear",
+      "_priority": "0.5",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

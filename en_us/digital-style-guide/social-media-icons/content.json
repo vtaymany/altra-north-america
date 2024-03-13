@@ -1,0 +1,75 @@
+{
+  "root": {
+    "content": {
+      "image": {
+        "_cq:lastRolledout": "{Date}2020-11-30T16:09:08.005Z",
+        "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+        "_jcr:lastModified": "{Date}2020-11-30T16:09:08.003Z",
+        "_jcr:lastModifiedBy": "ankur_patel",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_imageRotate": "0"
+      },
+      "content": {
+        "secondarynav_198e": {
+          "_cq:lastRolledout": "{Date}2020-11-30T16:09:08.014Z",
+          "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+          "_jcr:created": "{Date}2017-07-11T13:55:51.026-04:00",
+          "_jcr:createdBy": "becky.horvath@rosetta.com",
+          "_jcr:lastModified": "{Date}2020-11-30T16:09:08.012Z",
+          "_jcr:lastModifiedBy": "becky.horvath@rosetta.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/secondarynav",
+          "_layout": "horizontal",
+          "_rootPath": "/content/vfcorp/altra/north-america/en_us/digital-style-guide"
+        },
+        "customhtml": {
+          "_cq:lastRolledout": "{Date}2020-11-30T16:09:08.018Z",
+          "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+          "_jcr:created": "{Date}2015-01-29T14:03:23.165-05:00",
+          "_jcr:createdBy": "anthony.mclin",
+          "_jcr:lastModified": "{Date}2020-11-30T16:09:08.015Z",
+          "_jcr:lastModifiedBy": "anthony.mclin",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+          "_bottomgarnishclass": "feature-footing",
+          "_customHTML": "<div class=\"row\">\n\t<div class=\"large-12 columns\">\n\t\t<h1>Social Media Icons</h1>\n\t</div>\n</div>\n<div class=\"row\">\n\t<div class=\"large-12 columns\">\n\t\t<p>Social Media Icons are provided as vector assets using an icon font. They are used consistently throughout the site for both sharing, and social media profile links. The list of icons available for use in the Social Sharing component is different than the list available in the footer, and the sizes may differ based on brand-specific styling requirements. They can be implmented in custom content as follows:\n\t\t</p><ul class=\"no-bullet\">\n\t\t\t<li>\n\t\t\t\t<span class=\"icon-facebook\"></span>\n\t\t\t\t<strong>Standalone Icon:</strong>\n\t\t\t\t &lt;span class=\"icon-{network name}\"&gt;\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\t<span class=\"social-icon icon-facebook\"></span> \n\t\t\t\t<strong>Styled Button with Hover:</strong>\n\t\t\t\t&lt;span class=\"social-icon icon-{network name}\"&gt;\n\t\t\t</li>\n\t\t</ul>\n\t\t<p></p>\n\t</div>\n</div>\n<hr>\n<div class=\"row\">\n\t<div class=\"large-4 medium-6 small-12 columns\">\n\t\t<h3>In-Page Sharing Icons</h3>\n\t\t<p>Icons displayed as part of the Social Share component. The last one, \"share\" <span class=\"icon-share\"></span> is reserved for ShareThis popup interactivity to expose other social media platforms. </p>\n\t\t<br>\n\t\t<span class=\"social-icon icon-twitter\"></span>\n\t\t<span class=\"social-icon icon-facebook\"></span>\n\t\t<span class=\"social-icon icon-instagram\"></span>\n\t\t<span class=\"social-icon icon-tumblr\"></span>\n\t\t<span class=\"social-icon icon-youtube\"></span>\n\t\t<span class=\"social-icon icon-pinterest\"></span>\n\t\t<span class=\"social-icon icon-vimeo\"></span>\n\t\t<span class=\"social-icon icon-vine\"></span>\n\t\t<span class=\"social-icon icon-flickr\"></span>\n\t\t<span class=\"social-icon icon-picasa\"></span>\n\t\t<!-- <span class=\"social-icon icon-wanelo\"></span> -->\n\t\t<span class=\"social-icon icon-wordpress\"></span>\n\t\t<span class=\"social-icon icon-blogger\"></span>\n\t\t<span class=\"social-icon icon-print\"></span>\n\t\t<span class=\"social-icon icon-mail\"></span>\n\t\t<span class=\"social-icon icon-share\"></span>\n\t\t<p></p>\n\t</div>\n\t<div class=\"large-4 medium-6 small-12 columns end\">\n\t\t<h3>Footer Social Profile Links</h3>\n\t\t<p>Icons displayed as part of the footer Social Profile links</p>\n\t\t<footer style=\"margin: 0; padding: 10px;\">\n\t\t\t<span class=\"social-icon icon-twitter\"></span>\n\t\t\t<span class=\"social-icon icon-facebook\"></span>\n\t\t\t<span class=\"social-icon icon-instagram\"></span>\n\t\t\t<span class=\"social-icon icon-tumblr\"></span>\n\t\t\t<span class=\"social-icon icon-youtube\"></span>\n\t\t\t<span class=\"social-icon icon-pinterest\"></span>\n\t\t\t<span class=\"social-icon icon-vimeo\"></span>\n\t\t\t<span class=\"social-icon icon-vine\"></span>\n\t\t\t<span class=\"social-icon icon-flickr\"></span>\n\t\t\t<span class=\"social-icon icon-picasa\"></span>\n\t\t\t<span class=\"social-icon icon-wanelo\"></span>\n\t\t\t<span class=\"social-icon icon-wordpress\"></span>\n\t\t\t<span class=\"social-icon icon-blogger\"></span>\n\t\t\t<!-- <span class=\"social-icon icon-print\"></span> -->\n\t\t\t<span class=\"social-icon icon-mail\"></span>\n\t\t\t<!-- <span class=\"social-icon icon-share\"></span> -->\n\t\t</footer>\n\t</div>\n</div>",
+          "_topgarnishclass": "feature-heading"
+        },
+        "_cq:lastRolledout": "{Date}2020-11-30T16:09:08.008Z",
+        "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2020-11-30T16:09:08.016Z",
+      "_cq:lastModifiedBy": "john.m.williams@rosetta.com",
+      "_cq:lastReplicated": "{Date}2018-10-23T15:42:44.984-04:00",
+      "_cq:lastReplicatedBy": "john.m.williams@rosetta.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2020-11-30T16:09:08.018Z",
+      "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "Social Media Icons",
+      "_jcr:uuid": "e5b30da8-28bb-4bec-af19-ada8dba2ed5f",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "_excludeFromSitemap": "true",
+      "_frequency": "monthly",
+      "_internalNavigation": "none",
+      "_priority": "0.5",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

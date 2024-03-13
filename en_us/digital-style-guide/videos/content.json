@@ -1,0 +1,112 @@
+{
+  "root": {
+    "content": {
+      "sidebar": {
+        "secondarynav": {
+          "_cq:lastRolledout": "{Date}2020-11-30T16:09:08.098Z",
+          "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+          "_jcr:created": "{Date}2018-04-10T14:28:01.828-04:00",
+          "_jcr:createdBy": "amy.ziemak@sapientrazorfish.com",
+          "_jcr:lastModified": "{Date}2020-11-30T16:09:08.096Z",
+          "_jcr:lastModifiedBy": "amy.ziemak@sapientrazorfish.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/secondarynav",
+          "_layout": "vertical",
+          "_rootPath": "/content/vfcorp/altra/north-america/en_us/digital-style-guide"
+        },
+        "_cq:lastRolledout": "{Date}2020-11-30T16:09:08.093Z",
+        "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "content": {
+        "title": {
+          "_cq:lastRolledout": "{Date}2020-11-30T16:09:08.107Z",
+          "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+          "_jcr:created": "{Date}2018-04-10T14:28:45.391-04:00",
+          "_jcr:createdBy": "amy.ziemak@sapientrazorfish.com",
+          "_jcr:lastModified": "{Date}2020-11-30T16:09:08.105Z",
+          "_jcr:lastModifiedBy": "amy.ziemak@sapientrazorfish.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/title"
+        },
+        "text": {
+          "_cq:lastRolledout": "{Date}2020-11-30T16:09:08.110Z",
+          "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+          "_jcr:created": "{Date}2018-04-10T14:28:50.357-04:00",
+          "_jcr:createdBy": "amy.ziemak@sapientrazorfish.com",
+          "_jcr:lastModified": "{Date}2020-11-30T16:09:08.108Z",
+          "_jcr:lastModifiedBy": "amy.ziemak@sapientrazorfish.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/text",
+          "_text": "<p>Use the video component to place a video on the page within the grid system. The correct branded play icon will automatically be used from the icon font and styled according to brand guidelines.</p>\r\n<p>Video playback is handled through the common&nbsp;<a href=\"http://videojs.com/\">video.js</a>&nbsp;library which is available as a platform AMD module.</p>\r\n",
+          "_textIsRich": "true"
+        },
+        "video": {
+          "video": {
+            "_cq:lastRolledout": "{Date}2020-11-30T16:09:08.117Z",
+            "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_description": "Generic YouTube Video",
+            "_name": "Generic YouTube Video",
+            "_uploadDate": "2018-04-10",
+            "_videoSource": "ScMzIvxBSi4",
+            "_videoType": "youtube"
+          },
+          "_cq:lastRolledout": "{Date}2020-11-30T16:09:08.113Z",
+          "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+          "_jcr:created": "{Date}2018-04-10T14:29:39.062-04:00",
+          "_jcr:createdBy": "amy.ziemak@sapientrazorfish.com",
+          "_jcr:lastModified": "{Date}2020-11-30T16:09:08.111Z",
+          "_jcr:lastModifiedBy": "amy.ziemak@sapientrazorfish.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/video",
+          "_float": "none"
+        },
+        "_cq:lastRolledout": "{Date}2020-11-30T16:09:08.100Z",
+        "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "image": {
+        "_cq:lastRolledout": "{Date}2020-11-30T16:09:08.120Z",
+        "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+        "_jcr:lastModified": "{Date}2019-03-14T13:00:16.732-04:00",
+        "_jcr:lastModifiedBy": "ankur_patel",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_imageRotate": "0"
+      },
+      "_cq:lastModified": "{Date}2020-11-30T16:09:08.118Z",
+      "_cq:lastModifiedBy": "john.m.williams@rosetta.com",
+      "_cq:lastReplicated": "{Date}2018-10-23T15:42:44.984-04:00",
+      "_cq:lastReplicatedBy": "john.m.williams@rosetta.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2020-11-30T16:09:08.120Z",
+      "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-2-left",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "Videos",
+      "_jcr:uuid": "0589e540-a512-43ae-96aa-cba41e7acaa8",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-2-left",
+      "_excludeFromSitemap": "true",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

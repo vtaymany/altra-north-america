@@ -1,0 +1,526 @@
+{
+  "root": {
+    "content": {
+      "content": {
+        "customhtml2": {
+          "_cq:lastRolledout": "{Date}2023-08-16T20:31:30.740Z",
+          "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+          "_jcr:created": "{Date}2023-08-01T17:51:11.271Z",
+          "_jcr:createdBy": "vtaymany@zobristinc.com",
+          "_jcr:lastModified": "{Date}2023-08-16T20:31:30.736Z",
+          "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+          "_customCSS": "h1.hero {\r\n  color: #fff;\r\n  font-size: 1em;\r\n  margin: 2em 0em 1em 0em;\r\n  letter-spacing: 0px;\r\n}\r\np.hero {\r\n  color: #fff;\r\n  margin: 0em 13vw 0em 13vw;\r\n  line-height: 1em;\r\n  font-weight: 900;\r\n}\r\nimg.hero {\r\n  width: 5%;\r\n  height: auto;\r\n}\r\nh2.true-fit-steps {\r\n  text-align: center;\r\n  border-bottom: 2px solid #000;\r\n  margin: 0em 47.5% 0em 47.5%;\r\n  margin-top: 3em;\r\n}\r\np.true-fit-steps {\r\n  text-align: center;\r\n  margin-top: 1em;\r\n}\r\na.button.true-fit-steps {\r\n  padding: 1em 3em 1em 3em;\r\n  margin-top: 5em;\r\n  margin-bottom: 5em;\r\n}\r\n@media only screen and (max-width: 639px) {\r\n  img.hero {\r\n    width: 7.5%;\r\n  }\r\n  p.hero {\r\n    margin: 0em 10vw -5vw 10vw;\r\n    line-height: 1.5em;\r\n    font-weight: 100;\r\n    font-size: 1em;\r\n  }\r\n  h1.hero {\r\n    font-size: 1.75em;\r\n    margin: 1em 0em 1em 0em;\r\n    letter-spacing: 0px;\r\n  }\r\n  h2.true-fit-steps {\r\n    font-size: 5em;\r\n    margin: 1em 45% 0em 45%;\r\n    border-bottom: 3px solid #000;\r\n  }\r\n  p.true-fit-steps {\r\n    font-size: 1.5em;\r\n  }\r\n  a.button.true-fit-steps {\r\n    padding: 1em 3em 1em 3em;\r\n    margin-top: 3em;\r\n    margin-bottom: 3em;\r\n    font-size: 1.25em;\r\n  }\r\n}\r\n@media only screen and (max-width: 380px) {\r\n  p.hero {\r\n    margin: 0em 10vw -6vw 10vw;\r\n  }\r\n}\r\n@media screen and (min-width: 640px) and (max-width: 1023px) {\r\n  p.hero {\r\n    margin: 0em 10vw 0em 10vw;\r\n  }\r\n}\r\n@media screen and (min-width: 1024px) and (max-width: 1439px) {\r\n  p.hero {\r\n    margin: 0em 11vw 0em 11vw;\r\n  }\r\n}\r\n@media screen and (min-width: 1440px) and (max-width: 1919px) {\r\n  p.hero {\r\n    margin: 0em 12vw 0em 12vw;\r\n  }\r\n}\r\n",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default"
+        },
+        "grid_row": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "image_with_overlay_w": {
+                  "overlayImage": {
+                    "_cq:lastRolledout": "{Date}2023-08-16T20:31:30.827Z",
+                    "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/altra%2Dtruefit%2Dhero%2D08012023%2Dv1?$hero%2Dfullbleed%2Ddesktop$",
+                    "_mobileImageUrl": "https://images.altrarunning.com/is/image/altra/altra%2Dtruefit%2Dhero%2Dmobile%2D08012023%2Dv1?$hero%2Dfullbleed%2Dmobile$",
+                    "_tabletImageUrl": "https://images.altrarunning.com/is/image/altra/altra%2Dtruefit%2Dhero%2D08012023%2Dv1?$hero%2Dfullbleed%2Dtablet$"
+                  },
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2023-08-16T20:31:30.831Z",
+                    "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "autosize"
+                  },
+                  "link": {
+                    "_cq:lastRolledout": "{Date}2023-08-16T20:31:30.832Z",
+                    "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlay": {
+                    "content": {
+                      "alignment": {
+                        "_cq:lastRolledout": "{Date}2023-08-16T20:31:30.883Z",
+                        "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                        "_jcr:primaryType": "nt:unstructured",
+                        "_medium": "medium-text-center",
+                        "_small": "small-text-center"
+                      },
+                      "_cq:lastRolledout": "{Date}2023-08-16T20:31:30.877Z",
+                      "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2023-08-16T20:31:30.888Z",
+                      "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_large": "inherit",
+                      "_largeVerticalOffset": "0",
+                      "_medium": "middle-right",
+                      "_mediumVerticalOffset": "0",
+                      "_small": "bottom-center",
+                      "_smallVerticalOffset": "-10"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2023-08-16T20:31:30.892Z",
+                      "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_medium": "medium-6",
+                      "_small": "small-12"
+                    },
+                    "gradient": {
+                      "_cq:lastRolledout": "{Date}2023-08-16T20:31:30.893Z",
+                      "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "_cq:lastRolledout": "{Date}2023-08-16T20:31:30.864Z",
+                    "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlaidimage": {
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2023-08-16T20:31:30.916Z",
+                      "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2023-08-16T20:31:30.918Z",
+                      "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2023-08-16T20:31:30.908Z",
+                    "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2023-08-16T20:31:30.810Z",
+                  "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                  "_jcr:created": "{Date}2023-08-01T18:00:10.870Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2023-08-16T20:31:30.771Z",
+                  "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay_with_rte",
+                  "_customHTML": "<img\r\n  src=\"https://images.altrarunning.com/is/image/altra/true%2Dfit%2Dlogo%2Dweb%2D80x80?$alpha%2Dpng$\"\r\n  alt=\"Altra True Fit Logo\"\r\n  class=\"hero\"\r\n/>\r\n<h1 class=\"hero\">How do you size up?</h1>\r\n<p class=\"hero\">\r\n  Use our easy TRUE FIT tool and find your perfect fit before you *add to cart*.\r\n</p>\r\n",
+                  "_float": "none",
+                  "_textIsRich": "[true,true,true]",
+                  "_toggleSwitchForEditor": "true",
+                  "_toggleSwitchForEditorLarge": "false",
+                  "_toggleSwitchForEditorMedium": "false"
+                },
+                "_cq:lastRolledout": "{Date}2023-08-16T20:31:30.765Z",
+                "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2023-08-16T20:31:30.759Z",
+              "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+              "_jcr:created": "{Date}2023-08-01T17:58:04.626Z",
+              "_jcr:createdBy": "vtaymany@zobristinc.com",
+              "_jcr:lastModified": "{Date}2023-08-16T20:31:30.755Z",
+              "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_smallScreensColumnCount": "12"
+            },
+            "_cq:lastRolledout": "{Date}2023-08-16T20:31:30.751Z",
+            "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2023-08-16T20:31:30.745Z",
+          "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+          "_jcr:created": "{Date}2023-08-01T17:58:02.325Z",
+          "_jcr:createdBy": "vtaymany@zobristinc.com",
+          "_jcr:lastModified": "{Date}2023-08-16T20:31:30.741Z",
+          "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row",
+          "_collapseGutters": "true",
+          "_rowFullBleed": "true"
+        },
+        "grid_row_737912130": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "customhtml2": {
+                  "_cq:lastRolledout": "{Date}2023-08-16T20:31:30.980Z",
+                  "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                  "_jcr:created": "{Date}2023-08-01T22:52:15.441Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2023-08-16T20:31:30.976Z",
+                  "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<h2 class=\"true-fit-steps\">1</h2>\r\n<p class=\"true-fit-steps\">Click the TRUE FIT icon<br />(What's my size?)</p>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2023-08-16T20:31:30.971Z",
+                "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2023-08-16T20:31:30.965Z",
+              "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+              "_jcr:created": "{Date}2023-08-01T19:48:03.836Z",
+              "_jcr:createdBy": "vtaymany@zobristinc.com",
+              "_jcr:lastModified": "{Date}2023-08-16T20:31:30.961Z",
+              "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "4",
+              "_mediumScreensColumnCount": "4",
+              "_smallScreensColumnCount": "12"
+            },
+            "grid_column_copy": {
+              "column-content": {
+                "customhtml2": {
+                  "_cq:lastRolledout": "{Date}2023-08-16T20:31:31.000Z",
+                  "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                  "_jcr:created": "{Date}2023-08-01T22:52:15.441Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2023-08-16T20:31:30.996Z",
+                  "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<h2 class=\"true-fit-steps\">2</h2>\r\n<p class=\"true-fit-steps\">\r\n  Tell TRUE FIT about your current<br />brands and sizes.\r\n</p>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2023-08-16T20:31:30.991Z",
+                "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2023-08-16T20:31:30.985Z",
+              "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+              "_jcr:created": "{Date}2023-08-01T19:48:03.836Z",
+              "_jcr:createdBy": "vtaymany@zobristinc.com",
+              "_jcr:lastModified": "{Date}2023-08-16T20:31:30.982Z",
+              "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "4",
+              "_mediumScreensColumnCount": "4",
+              "_smallScreensColumnCount": "12"
+            },
+            "grid_column_copy_898427596": {
+              "column-content": {
+                "customhtml2": {
+                  "_cq:lastRolledout": "{Date}2023-08-16T20:31:31.020Z",
+                  "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                  "_jcr:created": "{Date}2023-08-01T22:52:15.441Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2023-08-16T20:31:31.016Z",
+                  "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<h2 class=\"true-fit-steps\">3</h2>\r\n<p class=\"true-fit-steps\">\r\n  Check out your Altra sizing info<br />and order your perfect fit.\r\n</p>",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2023-08-16T20:31:31.010Z",
+                "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2023-08-16T20:31:31.005Z",
+              "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+              "_jcr:created": "{Date}2023-08-01T19:48:03.836Z",
+              "_jcr:createdBy": "vtaymany@zobristinc.com",
+              "_jcr:lastModified": "{Date}2023-08-16T20:31:31.001Z",
+              "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensColumnCount": "4",
+              "_mediumScreensColumnCount": "4",
+              "_smallScreensColumnCount": "12"
+            },
+            "_cq:lastRolledout": "{Date}2023-08-16T20:31:30.951Z",
+            "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2023-08-16T20:31:30.922Z",
+          "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+          "_jcr:created": "{Date}2023-08-01T19:48:01.186Z",
+          "_jcr:createdBy": "vtaymany@zobristinc.com",
+          "_jcr:lastModified": "{Date}2023-08-16T20:31:30.920Z",
+          "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row"
+        },
+        "grid_row_737912130_c": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "customhtml2": {
+                  "_cq:lastRolledout": "{Date}2023-08-16T20:31:31.051Z",
+                  "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                  "_jcr:created": "{Date}2023-08-01T22:52:15.441Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2023-08-16T20:31:31.047Z",
+                  "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customHTML": "<div class=\"ctabutton parbase section\">\r\n  <a class=\"button true-fit-steps\" href=\"#\" target=\"\">Get Started</a>\r\n</div>\r\n",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "_cq:lastRolledout": "{Date}2023-08-16T20:31:31.042Z",
+                "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2023-08-16T20:31:31.037Z",
+              "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+              "_jcr:created": "{Date}2023-08-01T19:48:03.836Z",
+              "_jcr:createdBy": "vtaymany@zobristinc.com",
+              "_jcr:lastModified": "{Date}2023-08-16T20:31:31.033Z",
+              "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_cssClass": "text-center",
+              "_largeScreensCenterColumn": "true",
+              "_largeScreensColumnCount": "4",
+              "_mediumScreensCenterColumn": "true",
+              "_mediumScreensColumnCount": "4",
+              "_smallScreensCenterColumn": "true",
+              "_smallScreensColumnCount": "12"
+            },
+            "_cq:lastRolledout": "{Date}2023-08-16T20:31:31.028Z",
+            "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2023-08-16T20:31:31.024Z",
+          "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+          "_jcr:created": "{Date}2023-08-01T19:48:01.186Z",
+          "_jcr:createdBy": "vtaymany@zobristinc.com",
+          "_jcr:lastModified": "{Date}2023-08-16T20:31:31.021Z",
+          "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row"
+        },
+        "grid_row_1183065466": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "image_with_overlay_w": {
+                  "overlayImage": {
+                    "_cq:lastRolledout": "{Date}2023-08-16T20:31:31.140Z",
+                    "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/altra%2Dtruefit%2Dbanner%2D08012023%2Dv1?$hero%2Dfullbleed%2Ddesktop$",
+                    "_mobileImageUrl": "https://images.altrarunning.com/is/image/altra/altra%2Dtruefit%2Dbanner%2Dmobile%2D08012023%2Dv1?$hero%2Dfullbleed%2Dmobile$",
+                    "_tabletImageUrl": "https://images.altrarunning.com/is/image/altra/altra%2Dtruefit%2Dbanner%2D08012023%2Dv1?$hero%2Dfullbleed%2Dtablet$"
+                  },
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2023-08-16T20:31:31.144Z",
+                    "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "autosize"
+                  },
+                  "link": {
+                    "_cq:lastRolledout": "{Date}2023-08-16T20:31:31.145Z",
+                    "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlay": {
+                    "content": {
+                      "alignment": {
+                        "_cq:lastRolledout": "{Date}2023-08-16T20:31:31.198Z",
+                        "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                        "_jcr:primaryType": "nt:unstructured",
+                        "_small": "small-text-left"
+                      },
+                      "_cq:lastRolledout": "{Date}2023-08-16T20:31:31.192Z",
+                      "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2023-08-16T20:31:31.199Z",
+                      "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2023-08-16T20:31:31.202Z",
+                      "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "gradient": {
+                      "_cq:lastRolledout": "{Date}2023-08-16T20:31:31.204Z",
+                      "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "_cq:lastRolledout": "{Date}2023-08-16T20:31:31.179Z",
+                    "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlaidimage": {
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2023-08-16T20:31:31.226Z",
+                      "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2023-08-16T20:31:31.229Z",
+                      "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2023-08-16T20:31:31.219Z",
+                    "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2023-08-16T20:31:31.121Z",
+                  "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                  "_jcr:created": "{Date}2023-08-01T23:26:16.411Z",
+                  "_jcr:createdBy": "vtaymany@zobristinc.com",
+                  "_jcr:lastModified": "{Date}2023-08-16T20:31:31.079Z",
+                  "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay_with_rte",
+                  "_float": "none",
+                  "_textIsRich": "[true,true,true]",
+                  "_toggleSwitchForEditor": "false",
+                  "_toggleSwitchForEditorLarge": "false",
+                  "_toggleSwitchForEditorMedium": "false"
+                },
+                "_cq:lastRolledout": "{Date}2023-08-16T20:31:31.074Z",
+                "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2023-08-16T20:31:31.069Z",
+              "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+              "_jcr:created": "{Date}2023-08-01T23:26:06.555Z",
+              "_jcr:createdBy": "vtaymany@zobristinc.com",
+              "_jcr:lastModified": "{Date}2023-08-16T20:31:31.065Z",
+              "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_smallScreensColumnCount": "12"
+            },
+            "_cq:lastRolledout": "{Date}2023-08-16T20:31:31.061Z",
+            "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2023-08-16T20:31:31.056Z",
+          "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+          "_jcr:created": "{Date}2023-08-01T23:26:04.118Z",
+          "_jcr:createdBy": "vtaymany@zobristinc.com",
+          "_jcr:lastModified": "{Date}2023-08-16T20:31:31.052Z",
+          "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row",
+          "_collapseGutters": "true",
+          "_rowFullBleed": "true"
+        },
+        "customhtml2_838891709": {
+          "_cq:lastRolledout": "{Date}2023-08-16T20:31:31.234Z",
+          "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+          "_jcr:created": "{Date}2023-08-16T20:18:08.728Z",
+          "_jcr:createdBy": "vtaymany@zobristinc.com",
+          "_jcr:lastModified": "{Date}2023-08-16T20:31:15.866Z",
+          "_jcr:lastModifiedBy": "vtaymany@zobristinc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+          "_customHTML": "<script type=\"text/JavaScript\">\r\n  (function(){\r\n    var a={};\r\n    function g(l){\r\n    a[l]=function(r,e,o){\r\n    var w=window,d=document,p=[],t,s,x;\r\n    w.tfcapi=t=w.tfcapi||function(){\r\n    t.q=t.q||[];\r\n    t.q.push(arguments);};\r\n    o && !!o.deviceType && p.push('deviceType=' + o.deviceType);\r\n    o&&o.autoCalculate===false&&p.push('autoCalculate=false');\r\n    x=d.getElementsByTagName('script')[0];\r\n    s=d.createElement('script');\r\n    s.type='text/javascript';s.async=true;\r\n    s.src='https://'+r+'-cdn'+(e==='dev'||e==='staging'?'.'+e:'')+ '.truefitcorp.com/fitrec/'+r+'/js/'+l+'.js?'+p.join('&');\r\n    x.parentNode.insertBefore(s,x);}}\r\n    g('fitrec');\r\n    g('tracker');\r\n    return a;\r\n    // Don't change anything above this line\r\n    })().TF_LIBRARY('alr','prod');\r\n</script>\r\n\r\n<div\r\n  class=\"tfc-fitrec-product\"\r\n  data-styleid=\"AL0A547K\"\r\n  data-colorid=\"Blue\"\r\n  data-locale=\"en_US\"\r\n  data-iframeid=\"k5zpmk2hbf\"\r\n>\r\n  <iframe\r\n    src=\"https://cdn.truefitcorp.com/tfp-widgets/alr/index.html#iframeId=k5zpmk2hbf&amp;tfIntegrationVersion=7.0-latest-202308071639.115&amp;type=tfc-fitrec-product&amp;retailerHref=https%3A%2F%2Fwww.altrarunning.com%2Fshop%2Fmen%2Fmens-mont-blanc-al0a547k%3FvariationId%3D315&amp;retailerOrigin=https%3A%2F%2Fwww.altrarunning.com&amp;deviceType=responsive&amp;screenSize=large&amp;integrationPlatform=web&amp;cookiesEnabled=true&amp;token=kndd7it5m8c0n1jv1k2hbb5g83&amp;storeKey=alr&amp;locale=en_US&amp;styleId=AL0A547K&amp;colorId=Blue&amp;otherWidgets=%5B%5D\"\r\n    title=\"True Fit Widget\"\r\n    data-element-id=\"widget-iframe-AL0A547K\"\r\n    style=\"display: block; height: 79.3828px; width: 100%; border: 0px\"\r\n    data-widget-rendered=\"true\"\r\n  ></iframe>\r\n</div>\r\n",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default"
+        },
+        "_cq:lastRolledout": "{Date}2023-08-16T20:31:30.720Z",
+        "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2023-08-16T20:31:31.232Z",
+      "_cq:lastModifiedBy": "vtaymany@zobristinc.com",
+      "_cq:lastRolledout": "{Date}2023-08-16T20:31:31.235Z",
+      "_cq:lastRolledoutBy": "vtaymany@zobristinc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "true-fit-page-test-08012023",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

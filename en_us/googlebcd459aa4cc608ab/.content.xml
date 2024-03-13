@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2018-11-08T14:30:13.741-05:00"
+        cq:lastModifiedBy="alex_koffler@vfc.com"
+        cq:lastReplicated="{Date}2018-11-08T14:30:26.053-05:00"
+        cq:lastReplicatedBy="alex_koffler@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2018-11-08T14:30:13.746-05:00"
+        cq:lastRolledoutBy="alex_koffler@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/customFile"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="googlebcd459aa4cc608ab"
+        jcr:uuid="f1acea26-16b4-40e0-99f7-77cead18463f"
+        sling:resourceType="vfcorp/components/global/page/customFile"
+        fileContents="google-site-verification: googlebcd459aa4cc608ab.html"
+        hideInNav="true"/>
+</jcr:root>

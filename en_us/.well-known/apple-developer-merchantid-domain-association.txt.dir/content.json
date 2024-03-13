@@ -1,0 +1,18 @@
+{
+  "root": {
+    "content": {
+      "_cq:lastReplicated": "{Date}2021-07-08T20:47:53.585Z",
+      "_cq:lastReplicatedBy": "john.m.williams@rosetta.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_jcr:lastModifiedBy": "john williams",
+      "_jcr:mixinTypes": "[cq:ReplicationStatus]",
+      "_jcr:primaryType": "nt:resource",
+      "__prefix": "jcr"
+    },
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "nt:file",
+    "__prefix": "jcr"
+  }
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2023-02-17T19:59:57.828Z"
+        cq:lastModifiedBy="evan_lynch@vfc.com"
+        cq:lastReplicated="{Date}2023-07-27T15:29:21.886Z"
+        cq:lastReplicatedBy="evan_lynch@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2023-02-17T19:59:57.832Z"
+        cq:lastRolledoutBy="evan_lynch@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/basepage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:lockable,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Utility"
+        jcr:uuid="a1975e5d-93fe-48eb-8c44-0c3dd84f8563"
+        sling:resourceType="vfcorp/components/global/page/contentpage"
+        frequency="monthly"
+        hideInNav="true"
+        internalNavigation="none"
+        priority="0.5">
+        <image
+            cq:lastRolledout="{Date}2023-02-17T19:59:57.831Z"
+            cq:lastRolledoutBy="evan_lynch@vfc.com"
+            jcr:lastModified="{Date}2023-02-17T19:59:57.827Z"
+            jcr:lastModifiedBy="ankur.patel"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+    <article-search-results/>
+    <footer/>
+    <top-nav/>
+    <store-locator/>
+    <contact-us/>
+    <international-distributors/>
+    <altra-running-accessibility-statement/>
+    <shop-altra-store/>
+</jcr:root>

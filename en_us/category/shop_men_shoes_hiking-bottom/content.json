@@ -1,0 +1,54 @@
+{
+  "root": {
+    "content": {
+      "espotcontent": {
+        "text_copy_copy": {
+          "_cq:lastRolledout": "{Date}2023-04-06T21:55:41.268Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2020-11-04T20:36:53.494Z",
+          "_jcr:createdBy": "abbey_charles@vfc.com",
+          "_jcr:lastModified": "{Date}2023-04-06T21:55:41.264Z",
+          "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/text",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default",
+          "_text": "<h1>Men’s Hiking Shoes</h1>\r\n<div>&nbsp;</div>\r\n<div>Hiking Shoes for Trails, Hikes and Adventure.</div>\r\n<div>&nbsp;</div>\r\n<p>Your next hiking adventure starts with your footwear.</p>\r\n<p>The best shoes for hiking start with Altra. Whether you’re taking a leisurely walk on a dirt path or gearing up for a technical day hike on your favorite trail, hiking shoes are going to be your best footwear for you. Altra combines our signature comfort along with a hiking boot and shoe construction to create the best hiking footwear for you.&nbsp;</p>\r\n<p>Unlike trail running shoes, our hiking footwear is available in a mid or boot construction for added ankle support and foot protection on any terrain. Hiking boots are typically the best hiking footwear for longer hiking trails or more technical terrain whereas hiking shoes are best for lighter terrain found on shorter day hikes.</p>\r\n<p>Altra offers hiking footwear ranging from hiking shoes to hiking boots, all with a lightweight and durable design created with comfort as the priority. Explore our range of waterproof options for all-day excursions or your next day-hike.&nbsp;</p>\r\n<p>Check out our lineup of hiking shoes and boots that are ready to take on any terrain in a variety of colorways and styles.&nbsp;&nbsp;</p>\r\n",
+          "_textIsRich": "true"
+        },
+        "_cq:lastRolledout": "{Date}2023-04-06T21:55:41.260Z",
+        "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2023-04-06T21:55:41.265Z",
+      "_cq:lastModifiedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicated": "{Date}2023-04-06T21:56:15.990Z",
+      "_cq:lastReplicatedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2023-04-06T21:55:41.268Z",
+      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/espot-integration",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "shop_men_shoes_hiking-bottom",
+      "_jcr:uuid": "decab548-8101-4d1e-9a31-3d8909ad3718",
+      "_sling:resourceType": "vfcorp/components/global/page/espot-integration",
+      "_rowFullBleed": "true",
+      "_smallScreenSize": "1",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

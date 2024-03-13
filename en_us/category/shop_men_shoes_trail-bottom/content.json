@@ -1,0 +1,55 @@
+{
+  "root": {
+    "content": {
+      "espotcontent": {
+        "text": {
+          "_cq:lastRolledout": "{Date}2023-04-06T19:13:50.183Z",
+          "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+          "_jcr:created": "{Date}2020-11-04T20:44:52.250Z",
+          "_jcr:createdBy": "abbey_charles@vfc.com",
+          "_jcr:lastModified": "{Date}2023-04-06T19:13:50.179Z",
+          "_jcr:lastModifiedBy": "evan_lynch@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/text",
+          "_marginBottom": "bottom-margin-default",
+          "_marginTop": "top-margin-default",
+          "_paddingBottom": "bottom-pad-default",
+          "_paddingTop": "top-pad-default",
+          "_text": "<h1>Men's Trail Running Shoes</h1>\r\n<h2>Men's Off-Road Trail Shoes &amp; Trail Runners</h2>\r\n<p>Go off-road with Altra's performance trail running shoes for men.&nbsp;</p>\r\n<p>Trail running shoes are the perfect addition to your next outdoor adventure whether you’re gearing up for your next trail running excursion or using your trail runners for your next day hike. Our trail runners’ outsoles are lugged in strategic positions to provide traction on toe-off and have been specially designed to feel resilient underfoot in uneven terrain.&nbsp;</p>\r\n<p>In addition, our trail running shoes feature a hook and loop tab so you can attach your <a href=\"https://www.altrarunning.com/shop/mens-gear-accessories-trail-gaiters\">trail gaiter</a> and keep mud, dirt, and rocks out of your shoes for a comfortable run.&nbsp;</p>\r\n<p>Explore our signature trail running shoes for men including the classic Lone Peak, which has been improved for added flexibility and comfort. The Men's Timp 2 is the always-ready trail running shoe, featuring a trimmed down design while maintaining everything that made it a fan favorite.&nbsp;</p>\r\n<p>Altra's men's trail running shoes are available in stylish colors including vibrant red, cool blue, and classic all-black. &nbsp;</p>\r\n",
+          "_textIsRich": "true"
+        },
+        "_cq:lastRolledout": "{Date}2023-04-06T19:13:50.175Z",
+        "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2023-04-06T19:13:50.181Z",
+      "_cq:lastModifiedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicated": "{Date}2023-04-06T19:15:07.796Z",
+      "_cq:lastReplicatedBy": "evan_lynch@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2023-04-06T19:13:50.183Z",
+      "_cq:lastRolledoutBy": "evan_lynch@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/espot-integration",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "shop_men_shoes_trail-bottom",
+      "_jcr:uuid": "ed4053b7-b944-4214-917e-7c7ba031af72",
+      "_sling:resourceType": "vfcorp/components/global/page/espot-integration",
+      "_pageTitle": "shop_men_shoes_trail-bottom",
+      "_rowFullBleed": "true",
+      "_smallScreenSize": "1",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "root": {
+    "content": {
+      "content": {
+        "grid_row": {
+          "row-content": {
+            "customhtml2_d6ff_cop": {
+              "_cq:lastRolledout": "{Date}2023-01-10T17:48:03.236Z",
+              "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+              "_jcr:created": "{Date}2016-11-14T18:50:50.346-05:00",
+              "_jcr:createdBy": "alicia_hinz@vfc.com",
+              "_jcr:lastModified": "{Date}2023-01-10T17:48:03.228Z",
+              "_jcr:lastModifiedBy": "dylan_gibson@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+              "_bottomgarnishclass": "feature-footing",
+              "_customHTML": "<h1>Altra Size Charts</h1>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n\r\n<center>\r\n\r\n<a name=\"socks\"></a>\r\n\r\n<h2>Men's Shoes Size Chart</h2>\r\n<br>\r\n<table class=\"adult_sock_sizes\">\r\n<tbody><tr>\r\n<th>U.S. Men's Shoe Size</th>\r\n<th>U.K. Men's Shoe Size</th>\r\n<th>E.U. Men's Shoe Size</th>\r\n<th>CM</th>\r\n</tr>\r\n<tr>\r\n<td>8</td>\r\n<td>7</td>\r\n<td>41</td>\r\n<td>26 cm.</td>\r\n</tr>\r\n<tr>\r\n<td>8.5</td>\r\n<td>7.5</td>\r\n<td>42</td>\r\n<td>26.5 cm.</td>\r\n</tr>\r\n<tr>\r\n<td>9</td>\r\n<td>8</td>\r\n<td>42.5</td>\r\n<td>27 cm.</td>\r\n</tr>\r\n<tr>\r\n<td>9.5</td>\r\n<td>8.5</td>\r\n<td>43</td>\r\n<td>27.5 cm.</td>\r\n</tr>\r\n<tr>\r\n<td>10</td>\r\n<td>9</td>\r\n<td>44</td>\r\n<td>28 cm.</td>\r\n</tr>\r\n<tr>\r\n<td>10.5</td>\r\n<td>9.5</td>\r\n<td>44.5</td>\r\n<td>28.5 cm.</td>\r\n</tr>\r\n<tr>\r\n<td>11</td>\r\n<td>10</td>\r\n<td>45</td>\r\n<td>29 cm.</td>\r\n</tr>\r\n<tr>\r\n<td>11.5</td>\r\n<td>10.5</td>\r\n<td>46</td>\r\n<td>29.5 cm.</td>\r\n</tr>\r\n<tr>\r\n<td>12</td>\r\n<td>11</td>\r\n<td>46.5</td>\r\n<td>30 cm.</td>\r\n</tr>\r\n<tr>\r\n<td>12.5</td>\r\n<td>11.5</td>\r\n<td>47</td>\r\n<td>30.5 cm.</td>\r\n</tr>\r\n<tr>\r\n<td>13</td>\r\n<td>12</td>\r\n<td>48</td>\r\n<td>31 cm.</td>\r\n</tr>\r\n<tr>\r\n<td>14</td>\r\n<td>13</td>\r\n<td>49</td>\r\n<td>32 cm.</td>\r\n</tr>\r\n<tr>\r\n<td>15</td>\r\n<td>14</td>\r\n<td>50</td>\r\n<td>33 cm.</td>\r\n</tr>\r\n<tr>\r\n<td>16</td>\r\n<td>15</td>\r\n<td>51.5</td>\r\n<td>34 cm.</td>\r\n</tr>\r\n</tbody></table>\r\n\r\n<br>\r\n<br><br><br>\r\n\r\n\r\n\r\n<h2>Women's Shoe Size Chart</h2>\r\n<br>\r\n<table class=\"adult_calf_sleeve_sizes\">\r\n<tbody><tr>\r\n<th>U.S. Women's Shoe Size</th>\r\n<th>U.K. Women's Shoe Size</th>\r\n<th>E.U. Women's Shoe Size</th>\r\n<th>CM</th>\r\n</tr>\r\n<tr>\r\n<td>5.5</td>\r\n<td>3.5</td>\r\n<td>36</td>\r\n<td>22 cm.</td>\r\n</tr>\r\n<tr>\r\n<td>6</td>\r\n<td>4</td>\r\n<td>37</td>\r\n<td>22.5 cm.</td>\r\n</tr>\r\n<tr>\r\n<td>6.5</td>\r\n<td>4.5</td>\r\n<td>37.5</td>\r\n<td>23 cm.</td>\r\n</tr>\r\n<tr>\r\n<td>7</td>\r\n<td>5</td>\r\n<td>38</td>\r\n<td>23.5 cm.</td>\r\n</tr>\r\n<tr>\r\n<td>7.5</td>\r\n<td>5.5</td>\r\n<td>38.5</td>\r\n<td>24 cm.</td>\r\n</tr>\r\n<tr>\r\n<td>8</td>\r\n<td>6</td>\r\n<td>39</td>\r\n<td>24.5 cm.</td>\r\n</tr>\r\n<tr>\r\n<td>8.5</td>\r\n<td>6.5</td>\r\n<td>40</td>\r\n<td>25 cm.</td>\r\n</tr>\r\n<tr>\r\n<td>9</td>\r\n<td>7</td>\r\n<td>40.5</td>\r\n<td>25.5 cm.</td>\r\n</tr>\r\n<tr>\r\n<td>9.5</td>\r\n<td>7.5</td>\r\n<td>41</td>\r\n<td>26 cm.</td>\r\n</tr>\r\n<tr>\r\n<td>10</td>\r\n<td>8</td>\r\n<td>42</td>\r\n<td>26.5 cm.</td>\r\n</tr>\r\n<tr>\r\n<td>10.5</td>\r\n<td>8.5</td>\r\n<td>42.5</td>\r\n<td>27 cm.</td>\r\n</tr>\r\n<tr>\r\n<td>11</td>\r\n<td>9</td>\r\n<td>43</td>\r\n<td>27.5 cm.</td>\r\n</tr>\r\n<tr>\r\n<td>11.5</td>\r\n<td>9.5</td>\r\n<td>44</td>\r\n<td>28 cm.</td>\r\n</tr>\r\n<tr>\r\n<td>12</td>\r\n<td>10</td>\r\n<td>44.5</td>\r\n<td>28.5 cm.</td>\r\n</tr>\r\n<tr>\r\n<td>13</td>\r\n<td>11</td>\r\n<td>46</td>\r\n<td>29.5 cm.</td>\r\n</tr>\r\n</tbody></table>\r\n\r\n<br>\r\n<br><br><br>\r\n\r\n</center>",
+              "_marginBottom": "bottom-margin-default",
+              "_marginTop": "top-margin-default",
+              "_paddingBottom": "bottom-pad-default",
+              "_paddingTop": "top-pad-0x0",
+              "_topgarnishclass": "feature-heading"
+            },
+            "customhtml2_d6ff_cop_74588321": {
+              "_cq:lastRolledout": "{Date}2023-01-10T17:48:03.248Z",
+              "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+              "_jcr:created": "{Date}2016-11-14T18:50:50.346-05:00",
+              "_jcr:createdBy": "alicia_hinz@vfc.com",
+              "_jcr:lastModified": "{Date}2023-01-10T17:48:03.241Z",
+              "_jcr:lastModifiedBy": "dylan_gibson@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+              "_bottomgarnishclass": "feature-footing",
+              "_customHTML": "<center>\r\n\r\n<a name=\"socks\"></a>\r\n\r\n<h2>Men's Tops & Outerwear</h2>\r\n<br>\r\n<table class=\"adult_sock_sizes\">\r\n<tbody><tr>\r\n<th>Size</th>\r\n<th>Chest</th>\r\n<th>Hips</th>\r\n<th>Long Sleeve Length</th>\r\n</tr>\r\n<tr>\r\n<td>Small</td>\r\n<td>36 - 38 in.</td>\r\n<td>35 - 37 in.</td>\r\n<td>33.5 in.</td>\r\n</tr>\r\n<tr>\r\n<td>Medium</td>\r\n<td>39 - 41 in.</td>\r\n<td>38 - 40 in.</td>\r\n<td>34.0 in.</td>\r\n</tr>\r\n<tr>\r\n<td>Large</td>\r\n<td>42 - 44 in.</td>\r\n<td>41 - 43 in.</td>\r\n<td>34.8 in.</td>\r\n</tr>\r\n<tr>\r\n<td>X-Large</td>\r\n<td>45 - 48 in.</td>\r\n<td>44 - 46 in.</td>\r\n<td>35.5 in.</td>\r\n</tr>\r\n<tr>\r\n<td>2X-Large</td>\r\n<td>49 - 52 in.</td>\r\n<td>47 - 49 in.</td>\r\n<td>36.3 in.</td>\r\n</tr>\r\n</tbody></table>\r\n\r\n<br>\r\n<br><br><br>\r\n\r\n<h2>Men's Bottoms</h2>\r\n<br>\r\n<table class=\"adult_sock_sizes\">\r\n<tbody><tr>\r\n<th>Size</th>\r\n<th>Waist</th>\r\n<th>Hip</th>\r\n<th>Inseam (Pants)</th>\r\n</tr>\r\n<tr>\r\n<td>Small</td>\r\n<td>29 - 30 in.</td>\r\n<td>35 - 36 in.</td>\r\n<td>31.5 in.</td>\r\n</tr>\r\n<tr>\r\n<td>Medium</td>\r\n<td>31 - 34 in.</td>\r\n<td>37 - 40 in.</td>\r\n<td>32.0 in.</td>\r\n</tr>\r\n<tr>\r\n<td>Large</td>\r\n<td>35 - 38 in.</td>\r\n<td>41 - 44 in.</td>\r\n<td>32.5 in.</td>\r\n</tr>\r\n<tr>\r\n<td>X-Large</td>\r\n<td>39 - 42 in.</td>\r\n<td>44 - 47 in.</td>\r\n<td>32.5 in.</td>\r\n</tr>\r\n<tr>\r\n<td>2X-Large</td>\r\n<td>43 - 44 in.</td>\r\n<td>47 - 48 in.</td>\r\n<td>32.5 in.</td>\r\n</tr>\r\n</tbody></table>\r\n\r\n<br>\r\n<br><br><br>\r\n\r\n\r\n<h2>Women's Tops & Outwear</h2>\r\n<br>\r\n<table class=\"adult_sock_sizes\">\r\n<tbody><tr>\r\n<th>Size</th>\r\n<th>Chest</th>\r\n<th>Waist</th>\r\n<th>Hip</th>\r\n<th>Sleeve Length</th>\r\n</tr>\r\n<tr>\r\n<td>X-Small</td>\r\n<td>31 - 32 in.</td>\r\n<td>24 - 25 in.</td>\r\n<td>33 - 35 in.</td>\r\n<td>31.5 in.</td>\r\n</tr>\r\n<tr>\r\n<td>Small</td>\r\n<td>33 - 35 in.</td>\r\n<td>26 - 28 in.</td>\r\n<td>36 - 37 in.</td>\r\n<td>32.0 in.</td>\r\n</tr>\r\n<tr>\r\n<td>Medium</td>\r\n<td>36 - 38 in.</td>\r\n<td>29 - 31 in.</td>\r\n<td>38 - 40 in.</td>\r\n<td>32.5 in.</td>\r\n</tr>\r\n<tr>\r\n<td>Large</td>\r\n<td>39 - 41 in.</td>\r\n<td>32 - 34 in.</td>\r\n<td>41 - 43 in.</td>\r\n<td>33.3 in.</td>\r\n</tr>\r\n<td>X-Large</td>\r\n<td>42 - 44 in.</td>\r\n<td>35 - 38 in.</td>\r\n<td>44 - 47 in.</td>\r\n<td>34.0 in.</td>\r\n</tr>\r\n<td>2X-Large</td>\r\n<td>45 - 48 in.</td>\r\n<td>39 - 42 in.</td>\r\n<td>48 - 51 in.</td>\r\n<td>34.8 in.</td>\r\n</tr>\r\n</tbody></table>\r\n\r\n<br>\r\n<br><br><br>\r\n\r\n<h2>Women's Bottoms</h2>\r\n<br>\r\n<table class=\"adult_sock_sizes\">\r\n<tbody><tr>\r\n<th>Size</th>\r\n<th>Waist</th>\r\n<th>Hips</th>\r\n<th>Inseam (Pants)</th>\r\n</tr>\r\n<tr>\r\n<td>X-Small (0)</td>\r\n<td>25 - 26 in.</td>\r\n<td>34 - 35 in.</td>\r\n<td>30.5 in.</td>\r\n</tr>\r\n<tr>\r\n<td>X-Small (2)</td>\r\n<td>26 - 27 in.</td>\r\n<td>35 - 36 in.</td>\r\n<td>30.5 in.</td>\r\n</tr>\r\n<tr>\r\n<td>Small (4)</td>\r\n<td>27 - 28 in.</td>\r\n<td>36 - 37 in.</td>\r\n<td>31.0 in.</td>\r\n</tr>\r\n<tr>\r\n<td>Small (6)</td>\r\n<td>28 - 29 in.</td>\r\n<td>37 - 38 in.</td>\r\n<td>31.0 in.</td>\r\n</tr>\r\n<tr>\r\n<td>Medium (8)</td>\r\n<td>29 - 30 in.</td>\r\n<td>38 - 39 in.</td>\r\n<td>31.0 in.</td>\r\n</tr>\r\n<tr>\r\n<td>Medium (10)</td>\r\n<td>30 - 31 in.</td>\r\n<td>39 - 40 in.</td>\r\n<td>31.0 in.</td>\r\n</tr>\r\n<tr>\r\n<td>Large (12)</td>\r\n<td>31 - 33 in.</td>\r\n<td>40 - 42 in.</td>\r\n<td>31.0 in.</td>\r\n</tr>\r\n<tr>\r\n<td>Large (14)</td>\r\n<td>33 - 35 in.</td>\r\n<td>42 - 44 in.</td>\r\n<td>31.5 in.</td>\r\n</tr>\r\n<tr>\r\n<td>X-Large (16)</td>\r\n<td>35 - 37 in.</td>\r\n<td>44 - 46 in.</td>\r\n<td>31.5 in.</td>\r\n</tr>\r\n<tr>\r\n<td>X-Large (18)</td>\r\n<td>37 - 39 in.</td>\r\n<td>46 - 48 in.</td>\r\n<td>31.5 in.</td>\r\n</tr>\r\n</tbody></table>\r\n\r\n<br>\r\n<br><br><br>\r\n\r\n</center>",
+              "_marginBottom": "bottom-margin-default",
+              "_marginTop": "top-margin-default",
+              "_paddingBottom": "bottom-pad-default",
+              "_paddingTop": "top-pad-0x0",
+              "_topgarnishclass": "feature-heading"
+            },
+            "_cq:lastRolledout": "{Date}2023-01-10T17:48:03.217Z",
+            "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2023-01-10T17:48:03.209Z",
+          "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+          "_jcr:created": "{Date}2019-11-20T17:27:54.921Z",
+          "_jcr:createdBy": "wade_litsey@vfc.com",
+          "_jcr:lastModified": "{Date}2023-01-10T17:48:03.205Z",
+          "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row"
+        },
+        "_cq:lastRolledout": "{Date}2023-01-10T17:48:03.200Z",
+        "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2023-01-10T17:48:03.243Z",
+      "_cq:lastModifiedBy": "dylan_gibson@vfc.com",
+      "_cq:lastReplicated": "{Date}2023-01-10T17:48:41.531Z",
+      "_cq:lastReplicatedBy": "dylan_gibson@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2023-01-10T17:48:03.249Z",
+      "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:description": "Check out the Altra Running shoes size chart for men, kids, and women’s running shoes. Find the best running shoe size for your feet in U.S., E.U., U.K or CM. ",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "Altra® | Size Chart",
+      "_jcr:uuid": "26c91012-b853-45f7-9503-2226d314d800",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "_dataLayerErrorCode": "400",
+      "_frequency": "always",
+      "_priority": "0.5",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

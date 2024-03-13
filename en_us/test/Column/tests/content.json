@@ -1,0 +1,90 @@
+{
+  "root": {
+    "content": {
+      "content": {
+        "grid_row": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "emailsignup": {
+                  "_cq:lastRolledout": "{Date}2019-10-02T17:37:39.163Z",
+                  "_cq:lastRolledoutBy": "wade_litsey@vfc.com",
+                  "_jcr:created": "{Date}2019-09-26T20:31:54.784Z",
+                  "_jcr:createdBy": "wade_litsey@vfc.com",
+                  "_jcr:lastModified": "{Date}2019-10-02T17:37:39.126Z",
+                  "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/emailsignup",
+                  "_alreadySubscribedMessage": "Already did it",
+                  "_backgroundcolor": "#ffffff",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-1x0",
+                  "_paddingTop": "top-pad-1x0",
+                  "_subscribeHeadline": "Subscribe",
+                  "_subscribeSuccessMessage": "Success"
+                },
+                "_cq:lastRolledout": "{Date}2019-10-02T17:37:39.118Z",
+                "_cq:lastRolledoutBy": "wade_litsey@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2019-10-02T17:37:39.081Z",
+              "_cq:lastRolledoutBy": "wade_litsey@vfc.com",
+              "_jcr:created": "{Date}2019-09-26T20:31:36.081Z",
+              "_jcr:createdBy": "wade_litsey@vfc.com",
+              "_jcr:lastModified": "{Date}2019-10-02T17:37:39.045Z",
+              "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensCenterColumn": "true",
+              "_largeScreensColumnCount": "12",
+              "_mediumScreensCenterColumn": "true",
+              "_smallScreensCenterColumn": "true",
+              "_smallScreensColumnCount": "12"
+            },
+            "_cq:lastRolledout": "{Date}2019-10-02T17:37:39.039Z",
+            "_cq:lastRolledoutBy": "wade_litsey@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2019-10-02T17:37:39.002Z",
+          "_cq:lastRolledoutBy": "wade_litsey@vfc.com",
+          "_jcr:created": "{Date}2019-09-26T20:31:29.747Z",
+          "_jcr:createdBy": "wade_litsey@vfc.com",
+          "_jcr:lastModified": "{Date}2019-10-02T17:37:38.967Z",
+          "_jcr:lastModifiedBy": "wade_litsey@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row"
+        },
+        "_cq:lastRolledout": "{Date}2019-10-02T17:37:38.963Z",
+        "_cq:lastRolledoutBy": "wade_litsey@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2019-10-02T17:37:39.128Z",
+      "_cq:lastModifiedBy": "wade_litsey@vfc.com",
+      "_cq:lastRolledout": "{Date}2019-10-02T17:37:39.163Z",
+      "_cq:lastRolledoutBy": "wade_litsey@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "tests",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "_pageTitle": "tests",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

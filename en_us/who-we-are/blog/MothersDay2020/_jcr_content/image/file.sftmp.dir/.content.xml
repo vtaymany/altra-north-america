@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    cq:lastRolledout="{Date}2023-01-25T22:10:36.346Z"
+    cq:lastRolledoutBy="evan_lynch@vfc.com"
+    jcr:mixinTypes="[cq:LiveRelationship]"
+    jcr:primaryType="nt:file">
+    <jcr:content
+        cq:lastRolledout="{Date}2023-01-25T22:10:36.361Z"
+        cq:lastRolledoutBy="evan_lynch@vfc.com"
+        jcr:lastModifiedBy="abbey_charles@vfc.com"
+        jcr:mimeType="image/jpeg"
+        jcr:mixinTypes="[cq:LiveRelationship]"
+        jcr:primaryType="nt:resource"/>
+</jcr:root>

@@ -1,0 +1,317 @@
+{
+  "root": {
+    "content": {
+      "content": {
+        "grid_row": {
+          "row-content": {
+            "grid_column_copy_cop": {
+              "column-content": {
+                "image_with_overlay2": {
+                  "overlayImage": {
+                    "_cq:lastRolledout": "{Date}2022-06-15T21:50:39.059Z",
+                    "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_altText": "Woman stretching on a grass field",
+                    "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/Blog%5FLanding%5FPage%5FBanner%5FTraining%5FBackground%5F2880x1080?",
+                    "_mobileImageUrl": "https://images.altrarunning.com/is/image/altra/Blog%5FLanding%5FPage%5FBanner%5FTraining%5FBackground%5F600x960?",
+                    "_tabletImageUrl": "https://images.altrarunning.com/is/image/altra/Blog%5FLanding%5FPage%5FBanner%5FTraining%5FBackground%5F1540x1080?"
+                  },
+                  "image": {
+                    "_cq:lastRolledout": "{Date}2022-06-15T21:50:39.064Z",
+                    "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoCalcSize": "autosize"
+                  },
+                  "link": {
+                    "_cq:lastRolledout": "{Date}2022-06-15T21:50:39.066Z",
+                    "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlay": {
+                    "content": {
+                      "alignment": {
+                        "_cq:lastRolledout": "{Date}2022-06-15T21:50:39.490Z",
+                        "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                        "_jcr:primaryType": "nt:unstructured",
+                        "_small": "small-text-left"
+                      },
+                      "_cq:lastRolledout": "{Date}2022-06-15T21:50:39.396Z",
+                      "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_color": "#FFFFFF",
+                      "_headingContent": "Training",
+                      "_headingLevel": "h1",
+                      "_subheadingContent": "     ",
+                      "_subheadingLevel": "h2",
+                      "_text": "     "
+                    },
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2022-06-15T21:50:39.502Z",
+                      "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_large": "middle-left",
+                      "_largeHorizontalOffset": "5",
+                      "_largeVerticalOffset": "0",
+                      "_medium": "bottom-left",
+                      "_mediumHorizontalOffset": "5",
+                      "_mediumVerticalOffset": "0",
+                      "_small": "top-left",
+                      "_smallHorizontalOffset": "5",
+                      "_smallVerticalOffset": "5"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2022-06-15T21:50:39.508Z",
+                      "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-12"
+                    },
+                    "gradient": {
+                      "_cq:lastRolledout": "{Date}2022-06-15T21:50:39.510Z",
+                      "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "_cq:lastRolledout": "{Date}2022-06-15T21:50:39.069Z",
+                    "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "cta1": {
+                    "_cq:lastRolledout": "{Date}2022-06-15T21:50:39.517Z",
+                    "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_customclass": "white-btn",
+                    "_navigateUrl": "/content/vfcorp/altra/north-america/en_us/blog",
+                    "_navigateUrlText": "Back to Stories"
+                  },
+                  "cta2": {
+                    "_cq:lastRolledout": "{Date}2022-06-15T21:50:39.519Z",
+                    "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "overlaidimage": {
+                    "position": {
+                      "_cq:lastRolledout": "{Date}2022-06-15T21:50:39.683Z",
+                      "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured"
+                    },
+                    "width": {
+                      "_cq:lastRolledout": "{Date}2022-06-15T21:50:39.689Z",
+                      "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                      "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                      "_jcr:primaryType": "nt:unstructured",
+                      "_small": "small-4"
+                    },
+                    "_cq:lastRolledout": "{Date}2022-06-15T21:50:39.522Z",
+                    "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2022-06-15T21:50:38.548Z",
+                  "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                  "_jcr:created": "{Date}2021-03-22T21:36:16.572Z",
+                  "_jcr:createdBy": "abbey_charles@vfc.com",
+                  "_jcr:lastModified": "{Date}2022-06-15T21:50:38.541Z",
+                  "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/image_with_overlay2",
+                  "_float": "none"
+                },
+                "customhtml2": {
+                  "_cq:lastRolledout": "{Date}2022-06-15T21:50:39.701Z",
+                  "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                  "_jcr:created": "{Date}2021-03-22T21:46:57.792Z",
+                  "_jcr:createdBy": "abbey_charles@vfc.com",
+                  "_jcr:lastModified": "{Date}2022-06-15T21:50:39.693Z",
+                  "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/customhtml2",
+                  "_customCSS": ".white-btn {\r\n    background-color: white;\r\n    color: black;\r\n}",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default"
+                },
+                "text": {
+                  "_cq:lastRolledout": "{Date}2022-06-15T21:50:39.714Z",
+                  "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                  "_jcr:created": "{Date}2021-03-22T21:54:27.131Z",
+                  "_jcr:createdBy": "abbey_charles@vfc.com",
+                  "_jcr:lastModified": "{Date}2022-06-15T21:50:39.706Z",
+                  "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/text",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default",
+                  "_text": "<h2 style=\"text-align: center;\">&nbsp;</h2>\r\n<h2 style=\"text-align: center;\">Get the tools and inspiration you need to reach your goals, no matter what they are.</h2>\r\n<div>&nbsp;</div>\r\n<div>&nbsp;</div>\r\n",
+                  "_textIsRich": "true"
+                },
+                "_cq:lastRolledout": "{Date}2022-06-15T21:50:38.279Z",
+                "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2022-06-15T21:50:38.209Z",
+              "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+              "_jcr:created": "{Date}2021-03-19T16:56:41.513Z",
+              "_jcr:createdBy": "abbey_charles@vfc.com",
+              "_jcr:lastModified": "{Date}2022-06-15T21:50:38.203Z",
+              "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_smallScreensColumnCount": "12"
+            },
+            "_cq:lastRolledout": "{Date}2022-06-15T21:50:38.147Z",
+            "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2022-06-15T21:50:38.102Z",
+          "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+          "_jcr:created": "{Date}2021-03-19T17:14:40.492Z",
+          "_jcr:createdBy": "abbey_charles@vfc.com",
+          "_jcr:lastModified": "{Date}2022-06-15T21:50:38.097Z",
+          "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row",
+          "_collapseGutters": "true",
+          "_rowFullBleed": "true"
+        },
+        "grid_row_1353793682": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "articleteasergrid_co": {
+                  "interactiveFilter": {
+                    "_cq:lastRolledout": "{Date}2022-06-15T21:50:40.052Z",
+                    "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured"
+                  },
+                  "_cq:lastRolledout": "{Date}2022-06-15T21:50:39.977Z",
+                  "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                  "_jcr:created": "{Date}2021-03-19T16:57:25.469Z",
+                  "_jcr:createdBy": "abbey_charles@vfc.com",
+                  "_jcr:lastModified": "{Date}2022-06-15T21:50:39.961Z",
+                  "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/articleteasergrid",
+                  "_additionalPrerenderedItems": "0",
+                  "_enableTagAware": "false",
+                  "_hideReadMore": "true",
+                  "_hideTags": "true",
+                  "_initSize": "12",
+                  "_marginBottom": "bottom-margin-default",
+                  "_marginTop": "top-margin-default",
+                  "_maxSize": "-1",
+                  "_paddingBottom": "bottom-pad-default",
+                  "_paddingTop": "top-pad-default",
+                  "_pageSize": "4",
+                  "_preFilter": "altra:training",
+                  "_searchContentPaths": "/content/vfcorp/altra/north-america/en_us/blog",
+                  "_showSearchBar": "false",
+                  "_showSortBy": "false"
+                },
+                "_cq:lastRolledout": "{Date}2022-06-15T21:50:39.889Z",
+                "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured",
+                "_sling:resourceType": "vfcorp/components/global/content/grid_column/parsys"
+              },
+              "_cq:lastRolledout": "{Date}2022-06-15T21:50:39.826Z",
+              "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+              "_jcr:created": "{Date}2021-03-19T17:15:18.723Z",
+              "_jcr:createdBy": "abbey_charles@vfc.com",
+              "_jcr:lastModified": "{Date}2022-06-15T21:50:39.818Z",
+              "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensCenterColumn": "true",
+              "_mediumScreensCenterColumn": "true",
+              "_smallScreensCenterColumn": "true",
+              "_smallScreensColumnCount": "11"
+            },
+            "_cq:lastRolledout": "{Date}2022-06-15T21:50:39.767Z",
+            "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2022-06-15T21:50:39.722Z",
+          "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+          "_jcr:created": "{Date}2021-03-19T17:15:08.198Z",
+          "_jcr:createdBy": "abbey_charles@vfc.com",
+          "_jcr:lastModified": "{Date}2022-06-15T21:50:39.717Z",
+          "_jcr:lastModifiedBy": "abbey_charles@vfc.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row",
+          "_collapseGutters": "true",
+          "_rowFullBleed": "true"
+        },
+        "_cq:lastRolledout": "{Date}2022-06-15T21:50:38.028Z",
+        "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "LiveSyncConfig": {
+        "_cq:isDeep": "{Boolean}true",
+        "_cq:master": "/content/altra-us-blueprint/en_us/blog-subjects/training",
+        "_cq:moveTarget": "/content/vfcorp/altra/north-america/en_us/blog-subjects/training",
+        "_cq:rolloutConfigs": "[]",
+        "_jcr:primaryType": "cq:LiveCopy",
+        "__prefix": "cq"
+      },
+      "_cq:lastModified": "{Date}2022-06-15T21:50:39.966Z",
+      "_cq:lastModifiedBy": "dylan_gibson@vfc.com",
+      "_cq:lastReplicated": "{Date}2022-06-15T21:51:06.851Z",
+      "_cq:lastReplicatedBy": "dylan_gibson@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2022-06-15T21:50:40.052Z",
+      "_cq:lastRolledoutBy": "dylan_gibson@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:description": "Altra Running training blog posts use experts and athletes to help you get the tools and inspiration you need to reach your goals, no matter what they are. ",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,cq:LiveSync,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "Training",
+      "_jcr:uuid": "b03a4220-5be9-43d0-a2f7-ca3b434f8d6e",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "_sling:vanityPath": "[/content/vfcorp/altra/north-america/en_us/blog-subjects/training]",
+      "_dataLayerErrorCode": "400",
+      "_frequency": "always",
+      "_pageTitle": "Training Blog Articles to Improve Your Running | Altra Running",
+      "_priority": "0.5",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

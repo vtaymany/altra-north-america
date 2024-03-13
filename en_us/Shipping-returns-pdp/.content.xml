@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2022-04-05T17:45:03.663Z"
+        cq:lastModifiedBy="dylan_gibson@vfc.com"
+        cq:lastReplicated="{Date}2022-04-05T17:46:15.627Z"
+        cq:lastReplicatedBy="dylan_gibson@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2022-04-05T17:45:03.667Z"
+        cq:lastRolledoutBy="dylan_gibson@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/espot-integration"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Shipping and Returns"
+        jcr:uuid="d136c85f-b362-4d96-b1d5-45ef15047f27"
+        sling:resourceType="vfcorp/components/global/page/espot-integration"
+        rowFullBleed="true"
+        smallScreenSize="1">
+        <espotcontent
+            cq:lastRolledout="{Date}2022-04-05T17:45:03.653Z"
+            cq:lastRolledoutBy="dylan_gibson@vfc.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <customhtml2
+                cq:lastRolledout="{Date}2022-04-05T17:45:03.667Z"
+                cq:lastRolledoutBy="dylan_gibson@vfc.com"
+                jcr:created="{Date}2022-04-05T17:39:54.617Z"
+                jcr:createdBy="dylan_gibson@vfc.com"
+                jcr:lastModified="{Date}2022-04-05T17:45:03.661Z"
+                jcr:lastModifiedBy="dylan_gibson@vfc.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/customhtml2"
+                customHTML="&lt;p style=&quot;font-weight: bold;&quot; class=&quot;pdp-popup-title&quot;> Free 3 Day Shipping &amp;amp; Free Returns&lt;/p>&#xd;&#xa;&lt;p class=&quot;pdp-popup-text&quot;>&#xd;&#xa;&#x9;Offer valid online at altrarunning.com with selection of the &quot;3 Day&quot; shipping option. Actual delivery times may vary. Not valid ar any retail store.&#xd;&#xa;&#x9;&lt;a style=&quot;text-decoration: underline;&quot; class=&quot;shipping-link&quot; data-open=&quot;modal-shipping-link&quot; data-open-ajax=&quot;/shipping.content.html&quot; href=&quot;/shipping.content.html&quot; aria-controls=&quot;modal-shipping-link&quot; aria-haspopup=&quot;true&quot; tabindex=&quot;0&quot;>&#xd;&#xa;&#x9;&#x9;See Details&#xd;&#xa;&#x9;&lt;/a>&#xd;&#xa;&lt;/p>&#xd;&#xa;&lt;p class=&quot;pdp-popup-text&quot;>&#xd;&#xa;&#x9;If for any reason, you are not satisfied with your altrarunning.com purchase within the first 30 days. please return your items for a full refund. &#xd;&#xa;&#x9;&lt;a style=&quot;text-decoration: underline;&quot; class=&quot;return-link&quot; data-open=&quot;modal-return-link&quot; data-open-ajax=&quot;/return-policy.content.html&quot; href=&quot;/return-policy.content.html&quot; aria-controls=&quot;modal-return-link&quot; aria-haspopup=&quot;true&quot; tabindex=&quot;0&quot;>&#xd;&#xa;&#x9;&#x9;See Details&#xd;&#xa;&#x9;&lt;/a>&#xd;&#xa;&lt;/p>"
+                marginBottom="bottom-margin-default"
+                marginTop="top-margin-default"
+                paddingBottom="bottom-pad-default"
+                paddingTop="top-pad-default"/>
+        </espotcontent>
+    </jcr:content>
+</jcr:root>

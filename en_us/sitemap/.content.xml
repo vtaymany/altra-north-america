@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-07-09T12:02:21.700-04:00"
+        cq:lastModifiedBy="wade_litsey@vfc.com"
+        cq:lastReplicated="{Date}2019-07-09T12:02:44.638-04:00"
+        cq:lastReplicatedBy="wade_litsey@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2019-07-09T12:02:21.706-04:00"
+        cq:lastRolledoutBy="wade_litsey@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/customFile"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="sitemap index file"
+        jcr:uuid="56fae543-49dd-446a-b1bd-a4c7b9140319"
+        sling:resourceType="vfcorp/components/global/page/customFile"
+        fileContents="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xd;&#xa;&lt;sitemapindex xmlns=&quot;http://www.sitemaps.org/schemas/sitemap/0.9&quot;>                   &#xd;&#xa;   &lt;sitemap>&#xd;&#xa;      &lt;loc>https://www.altrarunning.com/.sitemap.xml&lt;/loc>&#xd;&#xa;         &lt;lastmod>2019-07-01&lt;/lastmod>&#xd;&#xa;   &lt;/sitemap>&#xd;&#xa;      &lt;sitemap>&#xd;&#xa;         &lt;loc>https://www.altrarunning.com/sitemap_8001.xml.gz&lt;/loc>&#xd;&#xa;         &lt;lastmod>2019-07-05&lt;/lastmod>&#xd;&#xa;      &lt;/sitemap>&#xd;&#xa;   &lt;/sitemapindex>"/>
+</jcr:root>

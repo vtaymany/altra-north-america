@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2020-10-13T19:42:39.018Z"
+        cq:lastModifiedBy="john.m.williams@rosetta.com"
+        cq:lastRolledout="{Date}2020-10-13T19:42:39.020Z"
+        cq:lastRolledoutBy="john.m.williams@rosetta.com"
+        cq:template="/apps/vfcorp/templates/global/page-col-1"
+        jcr:mixinTypes="[cq:LiveRelationship]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="rollout-test"
+        sling:resourceType="vfcorp/components/global/page/page-col-1">
+        <content
+            cq:lastRolledout="{Date}2020-10-13T19:42:38.661Z"
+            cq:lastRolledoutBy="john.m.williams@rosetta.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <customhtml2
+                cq:lastRolledout="{Date}2020-10-13T19:42:39.016Z"
+                cq:lastRolledoutBy="john.m.williams@rosetta.com"
+                jcr:created="{Date}2020-10-13T19:33:06.878Z"
+                jcr:createdBy="john.m.williams@rosetta.com"
+                jcr:lastModified="{Date}2020-10-13T19:42:38.979Z"
+                jcr:lastModifiedBy="john.m.williams@rosetta.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/customhtml2"
+                customHTML="&lt;p>this is content, baby&lt;/p>"
+                marginBottom="bottom-margin-default"
+                marginTop="top-margin-default"
+                paddingBottom="bottom-pad-default"
+                paddingTop="top-pad-default"/>
+            <ctabutton
+                cq:lastRolledout="{Date}2020-10-13T19:42:39.019Z"
+                cq:lastRolledoutBy="john.m.williams@rosetta.com"
+                jcr:created="{Date}2020-10-13T19:37:59.197Z"
+                jcr:createdBy="john.m.williams@rosetta.com"
+                jcr:lastModified="{Date}2020-10-13T19:42:39.017Z"
+                jcr:lastModifiedBy="john.m.williams@rosetta.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/ctabutton"
+                buttontext="Homepage"
+                url="https://www.google.com"/>
+        </content>
+    </jcr:content>
+</jcr:root>

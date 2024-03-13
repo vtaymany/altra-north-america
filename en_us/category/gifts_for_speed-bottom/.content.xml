@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2024-02-05T22:29:01.839Z"
+        cq:lastModifiedBy="evan_lynch@vfc.com"
+        cq:lastReplicated="{Date}2024-02-05T22:30:39.245Z"
+        cq:lastReplicatedBy="evan_lynch@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2024-02-05T22:29:01.843Z"
+        cq:lastRolledoutBy="evan_lynch@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/espot-integration"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="gifts_for_speed-bottom"
+        jcr:uuid="0d3ab534-5788-4797-9503-77477cdfadb0"
+        sling:resourceType="vfcorp/components/global/page/espot-integration"
+        rowFullBleed="true"
+        smallScreenSize="1">
+        <espotcontent
+            cq:lastRolledout="{Date}2024-02-05T22:29:01.832Z"
+            cq:lastRolledoutBy="evan_lynch@vfc.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <text_copy_copy_copy_
+                cq:lastRolledout="{Date}2024-02-05T22:29:01.842Z"
+                cq:lastRolledoutBy="evan_lynch@vfc.com"
+                jcr:created="{Date}2023-11-20T22:41:57.125Z"
+                jcr:createdBy="evan_lynch@vfc.com"
+                jcr:lastModified="{Date}2024-02-05T22:29:01.837Z"
+                jcr:lastModifiedBy="evan_lynch@vfc.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/text"
+                marginBottom="bottom-margin-default"
+                marginTop="top-margin-default"
+                paddingBottom="bottom-pad-default"
+                paddingTop="top-pad-default"
+                text="&lt;h2>Gifts for Athletes&lt;/h2>&#xd;&#xa;&lt;p>Welcome to the realm of speed, where every stride propels the athletes in your life toward their personal best. Altra is proud to present a selection of curated gift guides designed to ignite anyone's need for speed. Whether the people on your gift list are training for a race or chasing new horizons, our running gear is engineered to make every run faster and more exhilarating.&lt;/p>&#xd;&#xa;&lt;h2>Gifts for Athletes That Prefer Speed&lt;/h2>&#xd;&#xa;&lt;p>Step into the fast lane with Altra's speed shoes that are meticulously crafted to make any run faster and more enjoyable. Our innovative designs, including FootShape™ toe boxes and Carbon Half-Plate, provide an added boost, propulsion, and the perfect combination of comfort and performance. Altra makes the best gifts for athletes that are bound to help someone experience the thrill of speed with every step.&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>The Vanish Carbon is a carbon half-plated shoe equipped with our Active Stance Rocker to provide a more efficient toe-off. Available in &lt;a href=&quot;https://www.altrarunning.com/shop/mens-vanish-carbon-al0a547m&quot;>men’s&lt;/a> and &lt;a href=&quot;https://www.altrarunning.com/shop/womens-vanish-carbon-al0a548f&quot;>women’s&lt;/a> sizes, Altra EGO™ Pro midsole is designed so you can reach your full speed on any run. The Slim FootShape fit offers a secure and stable fit while the Altra EGO™ Pro midsole foam ensures proper support with each step. This is the ideal shoe for sprinting and is available in &lt;a href=&quot;https://www.altrarunning.com/shop/men/mens-vanish-carbon-al0a547m&quot;>men's&lt;/a> and &lt;a href=&quot;https://www.altrarunning.com/shop/gifts-for-speed/womens-vanish-carbon-al0a548f&quot;>women's&lt;/a> sizes.&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>The Vanish Tempo shoe is another option for fast training and racing. This speed shoe has our rocker shape geometry to propel each step forward and our Altra EGO™ PRO midsole foam to cushion each stride. These running shoes offer a more snug, comfortable fit with our Slim FootShape™ Fit, made for performance and available in sizes for &lt;a href=&quot;https://www.altrarunning.com/shop/men/mens-vanish-tempo-al0a7r6g&quot;>men&lt;/a> and &lt;a href=&quot;https://www.altrarunning.com/shop/gifts-for-speed/womens-vanish-tempo-al0a7r7f&quot;>women&lt;/a>.&lt;/p>&#xd;&#xa;&lt;h2>Performance Gifts for Athletes&lt;/h2>&#xd;&#xa;&lt;p>Altra’s wide range of workout apparel make the best gifts for the speed racer in your life. Choose from items like &lt;a href=&quot;https://www.altrarunning.com/shop/gifts-for-speed/mens-core-training-tight-al0a816g&quot;>men's&lt;/a> and &lt;a href=&quot;https://www.altrarunning.com/shop/gifts-for-speed/womens-core-crop-tight-al0a816h&quot;>women's&lt;/a> training tights to help them achieve maximum efficiency. This is the ideal gear for dynamic and fast-paced workouts that are designed to provide unparalleled support and flexibility.&lt;/p>&#xd;&#xa;&lt;h2>Lightweight Gifts for Athletes&lt;/h2>&#xd;&#xa;&lt;p>Help them stay cool and agile with our tank tops for both &lt;a href=&quot;https://www.altrarunning.com/shop/gifts-for-speed/mens-vanish-tank-top-al0a816p&quot;>men&lt;/a> and &lt;a href=&quot;https://www.altrarunning.com/shop/gifts-for-speed/womens-vanish-tank-top-al0a816q&quot;>women&lt;/a>. Lightweight and breathable, these tank tops are designed to enhance speed workouts, ensuring they can push their limits without compromise.&lt;/p>&#xd;&#xa;&lt;h2>Gift Ideas for Athletes&lt;/h2>&#xd;&#xa;&lt;p>Experience the freedom of movement with our range of shorts designed for speed enthusiasts. Our high-quality options include:&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>2&amp;quot; Shorts: The perfect length for swift strides, these shorts provide the freedom and flexibility you need to maximize your speed. The Vanish 2” Shorts are available for &lt;a href=&quot;https://www.altrarunning.com/shop/gifts-for-speed/mens-vanish-2in-short-al0a816r&quot;>men&lt;/a> and &lt;a href=&quot;https://www.altrarunning.com/shop/gifts-for-speed/womens-vanish-2in-short-al0a816s&quot;>women&lt;/a>.&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Longer Workout Shorts: Do you feel more comfortable with extra coverage? Strike the perfect balance between coverage and agility with these versatile shorts designed for speed and comfort. These are available in &lt;a href=&quot;https://www.altrarunning.com/shop/gifts-for-speed/womens-core-4in-short-al0a816x&quot;>4&amp;quot; Shorts&lt;/a> for women and &lt;a href=&quot;https://www.altrarunning.com/shop/gifts-for-speed/mens-core-5in-2-1-short-al0a816w&quot;>5&amp;quot; 2-1 Shorts&lt;/a> for men.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;h2>Altra’s Gifts for Athletes&lt;/h2>&#xd;&#xa;&lt;p>Our gear is crafted with precision and passion to help every runner travel at an exhilarating pace. Give the gift of speed with Altra – where each product is a stride towards attaining personal bests and conquering exhilarating speed goals. Ignite the runner in your life with a need for speed and help make every run a thrilling journey.&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;"
+                textIsRich="true"/>
+        </espotcontent>
+    </jcr:content>
+</jcr:root>

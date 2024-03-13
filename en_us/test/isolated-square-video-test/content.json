@@ -1,0 +1,99 @@
+{
+  "root": {
+    "content": {
+      "content": {
+        "grid_row": {
+          "row-content": {
+            "grid_column": {
+              "column-content": {
+                "video_copy": {
+                  "video": {
+                    "_cq:lastRolledout": "{Date}2021-08-16T19:32:14.636Z",
+                    "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+                    "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                    "_jcr:primaryType": "nt:unstructured",
+                    "_autoplay": "true",
+                    "_description": "360 View of the Altra Paradigm 6",
+                    "_loop": "true",
+                    "_muted": "true",
+                    "_name": "360 View of the Altra Paradigm 6",
+                    "_thumbDesktopImageUrl": "https://images.altrarunning.com/is/image/altra/03%5FF21%5FParadigm6%5FLaunch%5FProduct%5FLoop%5F1x1%5FCover%5FPhoto?",
+                    "_uploadDate": "2021-08-16",
+                    "_videoFormat": "video/mp4",
+                    "_videoSource": "/altra/03%5FF21%5FParadigm6%5FLaunch%5FProduct%5FLoop%5F1x1%2DAVS",
+                    "_videoType": "scene7"
+                  },
+                  "_cq:lastRolledout": "{Date}2021-08-16T19:32:14.631Z",
+                  "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+                  "_jcr:created": "{Date}2021-08-16T19:10:35.171Z",
+                  "_jcr:createdBy": "abbey_charles@vfc.com",
+                  "_jcr:lastModified": "{Date}2021-08-16T19:32:14.629Z",
+                  "_jcr:lastModifiedBy": "john.m.williams@rosetta.com",
+                  "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                  "_jcr:primaryType": "nt:unstructured",
+                  "_sling:resourceType": "vfcorp/components/global/content/video",
+                  "_float": "none"
+                },
+                "_cq:lastRolledout": "{Date}2021-08-16T19:32:14.627Z",
+                "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+                "_jcr:mixinTypes": "[cq:LiveRelationship]",
+                "_jcr:primaryType": "nt:unstructured"
+              },
+              "_cq:lastRolledout": "{Date}2021-08-16T19:32:14.626Z",
+              "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+              "_jcr:created": "{Date}2021-08-16T19:31:32.010Z",
+              "_jcr:createdBy": "john.m.williams@rosetta.com",
+              "_jcr:lastModified": "{Date}2021-08-16T19:32:14.624Z",
+              "_jcr:lastModifiedBy": "john.m.williams@rosetta.com",
+              "_jcr:mixinTypes": "[cq:LiveRelationship]",
+              "_jcr:primaryType": "nt:unstructured",
+              "_sling:resourceType": "vfcorp/components/global/content/grid_column",
+              "_largeScreensCenterColumn": "true",
+              "_mediumScreensCenterColumn": "true",
+              "_smallScreensCenterColumn": "true",
+              "_smallScreensColumnCount": "9"
+            },
+            "_cq:lastRolledout": "{Date}2021-08-16T19:32:14.621Z",
+            "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_sling:resourceType": "vfcorp/components/global/content/grid_row/parsys"
+          },
+          "_cq:lastRolledout": "{Date}2021-08-16T19:32:14.619Z",
+          "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+          "_jcr:created": "{Date}2021-08-16T19:31:27.851Z",
+          "_jcr:createdBy": "john.m.williams@rosetta.com",
+          "_jcr:lastModified": "{Date}2021-08-16T19:31:27.851Z",
+          "_jcr:lastModifiedBy": "john.m.williams@rosetta.com",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/grid_row"
+        },
+        "_cq:lastRolledout": "{Date}2021-08-16T19:32:14.610Z",
+        "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "_cq:lastModified": "{Date}2021-08-16T19:32:14.635Z",
+      "_cq:lastModifiedBy": "john.m.williams@rosetta.com",
+      "_cq:lastRolledout": "{Date}2021-08-16T19:32:14.636Z",
+      "_cq:lastRolledoutBy": "john.m.williams@rosetta.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "isolated-square-video-test",
+      "_jcr:uuid": "5d9f36b8-1a43-48b8-8dca-7a3467a16b72",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

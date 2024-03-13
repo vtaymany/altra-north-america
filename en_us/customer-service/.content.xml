@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2022-09-15T15:50:56.319Z"
+        cq:lastModifiedBy="dylan_gibson@vfc.com"
+        cq:lastReplicated="{Date}2022-09-15T15:51:17.531Z"
+        cq:lastReplicatedBy="dylan_gibson@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2022-09-15T15:50:56.697Z"
+        cq:lastRolledoutBy="dylan_gibson@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/page-col-1"
+        jcr:description="Altra Running Customer Service is always here for you. Check your order status, learn more about shipping and returns, or review the Altra product warranty. "
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Customer Service"
+        jcr:uuid="c3ff6a1f-e8d9-4faf-a1e7-570a0e847cb7"
+        sling:resourceType="vfcorp/components/global/page/page-col-1"
+        dataLayerErrorCode="400"
+        frequency="always"
+        noFollow="true"
+        noIndex="true"
+        priority="0.5"/>
+    <mens-size-chart/>
+    <womens-size-chart/>
+    <youth-size-chart/>
+    <apparel-size-chart/>
+    <mens-tops-outerwear/>
+    <mens-bottoms/>
+    <mens-accessories/>
+    <womens-tops-outerwear/>
+    <womens-bottoms/>
+    <womens-accessories/>
+</jcr:root>

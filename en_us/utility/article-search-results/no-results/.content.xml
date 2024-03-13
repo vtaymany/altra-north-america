@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2018-09-19T20:37:55.464Z"
+        cq:lastModifiedBy="jessica.sarkis"
+        cq:lastReplicated="{Date}2018-10-23T15:42:44.984-04:00"
+        cq:lastReplicatedBy="john.m.williams@rosetta.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2018-09-19T20:37:55.469Z"
+        cq:lastRolledoutBy="jessica.sarkis"
+        cq:template="/apps/vfcorp/templates/global/page-col-1"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="No Results"
+        jcr:uuid="f3c42264-5973-4471-9b7c-398f3c763cfb"
+        sling:resourceType="vfcorp/components/global/page/page-col-1">
+        <content
+            cq:lastRolledout="{Date}2018-09-19T20:37:55.456Z"
+            cq:lastRolledoutBy="jessica.sarkis"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <searchresults
+                cq:lastRolledout="{Date}2018-09-19T20:37:55.469Z"
+                cq:lastRolledoutBy="jessica.sarkis"
+                jcr:created="{Date}2014-06-03T16:00:00.506-04:00"
+                jcr:createdBy="casandra.stetz"
+                jcr:lastModified="{Date}2018-09-19T20:37:55.462Z"
+                jcr:lastModifiedBy="jessica.sarkis"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/searchresults"
+                marginBottom="bottom-margin-default"
+                marginTop="top-margin-default"
+                max="8"
+                paddingBottom="bottom-pad-default"
+                paddingTop="top-pad-default"
+                searchDisplay="tabs"/>
+        </content>
+    </jcr:content>
+</jcr:root>

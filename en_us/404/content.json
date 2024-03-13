@@ -1,0 +1,75 @@
+{
+  "root": {
+    "content": {
+      "content": {
+        "image": {
+          "image": {
+            "_cq:lastRolledout": "{Date}2018-11-13T02:09:47.201-05:00",
+            "_cq:lastRolledoutBy": "alex_koffler@vfc.com",
+            "_jcr:mixinTypes": "[cq:LiveRelationship]",
+            "_jcr:primaryType": "nt:unstructured",
+            "_alt": "404",
+            "_autoCalcSize": "autosize",
+            "_desktopImageUrl": "https://images.altrarunning.com/is/image/altra/altra-404?$ERROR-DESKTOP$",
+            "_mobileImageUrl": "https://images.altrarunning.com/is/image/altra/altra-404?$ERROR-MOBILE$",
+            "_tabletImageUrl": "https://images.altrarunning.com/is/image/altra/altra-404?$ERROR-TABLET$"
+          },
+          "_cq:lastRolledout": "{Date}2018-11-13T02:09:47.192-05:00",
+          "_cq:lastRolledoutBy": "alex_koffler@vfc.com",
+          "_jcr:created": "{Date}2018-09-24T13:55:43.869Z",
+          "_jcr:createdBy": "jay.voskuhl",
+          "_jcr:lastModified": "{Date}2018-11-13T02:09:47.186-05:00",
+          "_jcr:lastModifiedBy": "jay.voskuhl",
+          "_jcr:mixinTypes": "[cq:LiveRelationship]",
+          "_jcr:primaryType": "nt:unstructured",
+          "_sling:resourceType": "vfcorp/components/global/content/image",
+          "_float": "none",
+          "_link": "/content/vfcorp/altra/north-america/en_us/homepage"
+        },
+        "_cq:lastRolledout": "{Date}2018-11-13T02:09:47.182-05:00",
+        "_cq:lastRolledoutBy": "alex_koffler@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_sling:resourceType": "foundation/components/parsys"
+      },
+      "image": {
+        "_cq:lastRolledout": "{Date}2018-11-13T02:09:47.205-05:00",
+        "_cq:lastRolledoutBy": "alex_koffler@vfc.com",
+        "_jcr:lastModified": "{Date}2018-11-13T02:09:47.202-05:00",
+        "_jcr:lastModifiedBy": "mattia_possenti@vfc.com",
+        "_jcr:mixinTypes": "[cq:LiveRelationship]",
+        "_jcr:primaryType": "nt:unstructured",
+        "_imageRotate": "0"
+      },
+      "_cq:lastModified": "{Date}2018-11-13T02:09:47.203-05:00",
+      "_cq:lastModifiedBy": "alex_koffler@vfc.com",
+      "_cq:lastReplicated": "{Date}2018-11-13T02:10:08.345-05:00",
+      "_cq:lastReplicatedBy": "alex_koffler@vfc.com",
+      "_cq:lastReplicationAction": "Activate",
+      "_cq:lastRolledout": "{Date}2018-11-13T02:09:47.205-05:00",
+      "_cq:lastRolledoutBy": "alex_koffler@vfc.com",
+      "_cq:template": "/apps/vfcorp/templates/global/page-col-1",
+      "_jcr:isCheckedOut": "{Boolean}true",
+      "_jcr:mixinTypes": "[cq:LiveRelationship,mix:versionable]",
+      "_jcr:primaryType": "cq:PageContent",
+      "_jcr:title": "404",
+      "_jcr:uuid": "f09d9c9d-c46d-40e3-9f14-be185895f8a3",
+      "_sling:resourceType": "vfcorp/components/global/page/page-col-1",
+      "_dataLayerErrorCode": "404",
+      "_dataLayerPageCategory": "404",
+      "_enableDataLayerErrorCode": "true",
+      "_excludeFromSitemap": "true",
+      "_frequency": "always",
+      "_hideInNav": "true",
+      "_priority": "0.5",
+      "__prefix": "jcr"
+    },
+    "_xmlns:sling": "http://sling.apache.org/jcr/sling/1.0",
+    "_xmlns:cq": "http://www.day.com/jcr/cq/1.0",
+    "_xmlns:jcr": "http://www.jcp.org/jcr/1.0",
+    "_xmlns:mix": "http://www.jcp.org/jcr/mix/1.0",
+    "_xmlns:nt": "http://www.jcp.org/jcr/nt/1.0",
+    "_jcr:primaryType": "cq:Page",
+    "__prefix": "jcr"
+  }
+}

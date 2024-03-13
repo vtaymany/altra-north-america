@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2024-02-05T22:29:39.299Z"
+        cq:lastModifiedBy="evan_lynch@vfc.com"
+        cq:lastReplicated="{Date}2024-02-05T22:30:39.245Z"
+        cq:lastReplicatedBy="evan_lynch@vfc.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastRolledout="{Date}2024-02-05T22:29:39.301Z"
+        cq:lastRolledoutBy="evan_lynch@vfc.com"
+        cq:template="/apps/vfcorp/templates/global/espot-integration"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="gifts_for_the_hikers-bottom"
+        jcr:uuid="ae9e5062-2ce1-43d5-be32-f3168da458b0"
+        sling:resourceType="vfcorp/components/global/page/espot-integration"
+        rowFullBleed="true"
+        smallScreenSize="1">
+        <espotcontent
+            cq:lastRolledout="{Date}2024-02-05T22:29:39.294Z"
+            cq:lastRolledoutBy="evan_lynch@vfc.com"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <text_copy_copy_copy
+                cq:lastRolledout="{Date}2024-02-05T22:29:39.301Z"
+                cq:lastRolledoutBy="evan_lynch@vfc.com"
+                jcr:created="{Date}2023-11-20T22:41:57.125Z"
+                jcr:createdBy="evan_lynch@vfc.com"
+                jcr:lastModified="{Date}2024-02-05T22:29:39.298Z"
+                jcr:lastModifiedBy="evan_lynch@vfc.com"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="vfcorp/components/global/content/text"
+                marginBottom="bottom-margin-default"
+                marginTop="top-margin-default"
+                paddingBottom="bottom-pad-default"
+                paddingTop="top-pad-default"
+                text="&lt;h2>Gifts for Hikers&lt;/h2>&#xd;&#xa;&lt;p>Welcome to the ultimate destination for hiking gifts. Explore Altra's curated collection of top-notch footwear and apparel, perfect for the hiker in your life. Whether they're backpacking through rugged peaks or navigating serene forest trails, our gear is designed to keep them moving forward in comfort and style. We’re here to offer the best gifts for hikers.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;h2>The Ultimate Hiking Gifts&lt;/h2>&#xd;&#xa;&lt;p>Unleash the power of nature trekking with our cutting-edge hiking shoes. Our iconic FootShape™ toe box and Zero Drop™ platform provide natural stability and encourage proper form, ensuring every step is taken with confidence. The cushioning in Altra shoes is crafted to handle everything from challenging ascents to unsteady descents.&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Looking for shoes for the hiker in your life who enjoys hiking in rugged terrain along with a casual night out? They can enjoy the best of both worlds with the Lone Peak Hiker 2 for &lt;a href=&quot;https://www.altrarunning.com/shop/men/mens-lone-peak-hiker-2-al0a7r6i&quot;>men&lt;/a> and &lt;a href=&quot;https://www.altrarunning.com/shop/gifts-for-the-hikers/womens-lone-peak-hiker-2-al0a7r7h&quot;>women&lt;/a>. Fit with an Altra EGO™ midsole and MaxTrac™ outsole for the ultimate performance on rough terrain, these shoes merge comfort and style for legendary adventure on the trail or on the town for everyday walks.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Do you have a hiker on your list preparing for a big hike? Sturdy hiking boots shouldn't weigh them down, and with the Lone Peak All-Wthr Mid 2 for &lt;a href=&quot;https://www.altrarunning.com/shop/men/mens-lone-peak-all-wthr-mid-2-al0a7r6u&quot;>men&lt;/a> and &lt;a href=&quot;https://www.altrarunning.com/shop/gifts-for-the-hikers/womens-lone-peak-all-wthr-mid-2-al0a7r7j&quot;>women&lt;/a>, their epic hike will be the only thing leaving them tired. We combined the comfort of a trail running shoe with the support of a hiking boot, minus the bulk.&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;h2>Ideal Gifts for Hiking Enthusiasts&lt;/h2>&#xd;&#xa;&lt;p>Grant the adventurer in your life some hiking gear that’s just as tough as they are. Our running jackets, vests, and pants are crafted with weather-resistant materials to shield against wind, rain, and anything else nature throws their way. These are the ultimate gifts for hiking lovers, allowing them to brave the elements without sacrificing performance or style. Explore styles for everyone that will keep them looking and feeling their best no matter where their adventures take them.&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Complete the look with our stylish yet functional &lt;a href=&quot;https://www.altrarunning.com/shop/gifts-for-the-hikers/endurance-trail-hat-al0a548q&quot;>Endurance Trail Hat&lt;/a>. It provides shade on sunny days and protection when the weather takes a turn. It is the ideal accessory for any hiker aiming for peak style and performance.&lt;/p>&#xd;&#xa;&lt;h2>Why Altra?&amp;nbsp;&lt;/h2>&#xd;&#xa;&lt;p>At Altra Running, we understand the unique needs of hiking enthusiasts. Our products are designed by hikers, for hikers, ensuring that every step is a step in the right direction. When you choose Altra, you're not just giving a gift; you're providing the best gifts for a hiker and offering an unforgettable trail experience. Shop our curated gift guide for hikers now and make this season one they'll remember.&amp;nbsp;&lt;/p>&#xd;&#xa;"
+                textIsRich="true"/>
+        </espotcontent>
+    </jcr:content>
+</jcr:root>
